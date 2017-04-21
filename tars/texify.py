@@ -1,3 +1,6 @@
+#! /usr/bin/python
+# -*- coding = uft-8 -*-
+
 from urllib import urlopen
 from bs4 import BeautifulSoup as bs
 import os
@@ -44,7 +47,7 @@ def wikiPageParser(url):
 def job(urlList,urlGraph):
     for url in urlList:
         idx = int(url.strip('.html'))
-        links, intro, cnt = wikiPageParser(pagepath + '/' + url)
+        links, intro, cnt = wikiPageParser(pagePath + '/' + url)
         fp = open("content/%d.txt" % idx, "w")
         fp.write((intro + '\n' + cnt).encode('utf-8'))
         fp.close()
@@ -54,17 +57,17 @@ def job(urlList,urlGraph):
 
 
 if __name__ == '__main__':
-    newpath = 'apple_inc'
-    pagepath = 'Apple_Inc'
-    #newpath = sys.argv[1]
-    #pagepath = sys.argv[2]
-    os.chdir(newpath)
+    #contentPath = 'apple_inc'
+    #pagePath = 'Apple_Inc'
+    contentPath = sys.argv[1]
+    pagePath = sys.argv[2]
+    os.chdir(contentPath)
     if os.path.isdir("content"):
         shutil.rmtree("content")
     os.mkdir("content")
-    url2idx = readNode(pagepath + '.stats')
+    url2idx = readNode(pagePath + '.stats')
     urlGraph = {}
-    urlList = os.listdir(pagepath)
+    urlList = os.listdir(pagePath)
     # print urlList
     urlLen = len(urlList)/4
     urlLists = []
@@ -78,7 +81,7 @@ if __name__ == '__main__':
         t.start()
     '''for url in urlList:
         idx = int(url.strip('.html'))
-        links, intro, cnt = wikiPageParser(pagepath + '/' + url)
+        links, intro, cnt = wikiPageParser(pagePath + '/' + url)
         fp = open("content/%d.txt" % idx, "w")
         fp.write((intro + '\n' + cnt).encode('utf-8'))
         fp.close()
@@ -86,5 +89,4 @@ if __name__ == '__main__':
                              for x in filter(lambda x: x.get('href') in url2idx, links)])'''
     for t in th:
         t.join()
-    idx2url = { url2idx[url]: url for url in url2idx }
-    pkl.dump((urlGraph, url2idx, idx2url), file('urlgi.pkl', 'w'))
+    pkl.dump((urlGraph, url2idx), file('urlgi.pkl', 'w'))

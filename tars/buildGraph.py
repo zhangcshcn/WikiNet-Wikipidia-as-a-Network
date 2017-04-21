@@ -1,4 +1,4 @@
-# /usr/bin/python2
+#! /usr/bin/python2
 # -*- coding = utf-8 -*-
 import numpy as np
 import sys, os
