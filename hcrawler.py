@@ -35,6 +35,7 @@ def heuristicLinkParser(reladdr, parent):
     if parent != "":
         cot = body.get_text().lower()
         score = cot.count(parent.lower()) * 3 + cot.count(extractToken(parent)) 
+        print reladdr, score
         if score < 3:
             return 0, [], ""
     links = []
@@ -121,7 +122,7 @@ if __name__ == '__main__':
             s, child, html_text = heuristicLinkParser(url, urlHash[url][1])
             # print s, child
             if s == 0 and child == []:
-                # print url, urlLen
+                #print url, urlLen
                 urlHash.pop(url)
                 urlNum -= 1
             else:

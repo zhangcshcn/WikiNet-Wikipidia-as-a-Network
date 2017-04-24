@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Route from for {{srcTitle.1}} to {{dstTitle.1}} - WikiNet</title>
+    <link href="http://cs.nyu.edu/~cz1389/next_files/xz.css" rel="stylesheet" type="text/css">
+    {% load static %}<link href=" {% static 'custom.css' %}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div class="container700 vcard">
+
+    <div class="titletext fn" style="text-align: center">
+            WikiNet: <span style="font-size: 0.75em">Wikipedia as a Network</span>
+    </div>
+
+    <div id="section-links">
+        <div class="sectionContainer">
+            <div class="section">
+                <a href="{% url 'wikiNet:index' %}">Portal</a>
+            </div>
+            <div class="section selected">
+                Results » 
+            </div>
+            <br>
+            <div class="section">
+                {% load static %}<a href=" {% static 'about.html' %}">About it</a>
+            </div>
+            <div class="section">
+                {% load static %}<a href="{% static 'WikiNet.pdf' %}">More About it</a>
+            </div>
+            <br>
+            <div class="section">Authors:<br>
+                <ul style="list-style: none;">
+                    <li><a href="mailto:chen.zhang@nyu.edu">Chen ZHANG</a></li>
+                    <li><a href="mailto:gy552@nyu.edu">Guang YANG</a></li>
+                </ul>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <div class='content'>
+        <div>
+            <p>Your source page is matched with <a href="https://en.wikipedia.org{{srcTitle.0}}">{{srcTitle.1}}</a>. 
+            <br>
+            And your destination page is matched with <a href="https://en.wikipedia.org{{dstTitle.0}}">{{dstTitle.1}}</a>. </p>
+        </div>
+
+        <div class="Box">
+            <div class="searchBox" style="align-self: center">
+                {% if isRoute != 0 %}
+                The most related route bewteen the source and destination is
+                <br>
+                <table>
+                    {% for d in routeList %}
+                        <tr><td>
+                                <a href="https://en.wikipedia.org{{d.0}}">{{d.1}}</a>
+                        </td></tr>
+                    {% endfor %}
+                    <tr>
+                </table>
+                {% else %}
+                    <p>No route is found in the dataset...</p>
+                {% endif %}
+                </ol>
+            </div>
+            <div style="clear:both;"> </div>
+        </div>
+        <br>
+        <br>
+        <h3>Continue exploring WikiNet: </h3>
+            
+        <div class="Box">
+            <div class="searchBox">
+                Search here for most related pages. 
+                <br>
+                <form action=" {% url 'wikiNet:search' %} " method="get">
+                <table>
+                    <tr>
+                        <td><input id="query" type="text" name="query" placeholder="Keywords"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Search for related Pages! "></td>
+                    </tr>
+                </table>
+                </form>
+            </div>
+            
+            <div class="searchBox">
+                Search here for the most related path. 
+                <br>
+                <form action=" {% url 'wikiNet:route' %} " method="get">
+                <table>
+                    <tr>
+                        <td><input id="src" type="text" name="src" placeholder="Source"></td>
+                    </tr>
+                    <tr>
+                        <td><input id="dst" type="text" name="dst" placeholder="Destination"></td> 
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Search for most related Path! "></td>
+                    </tr>
+                </table>
+                </form>
+            </div>
+            <div style="clear:both;"> </div>
+        </div>
+    </div>
+
+    <br>
+    <div style="clear:both;"> </div>
+</div>
+    <div class="webfooter">
+        C. Zhang and G. Yang 
+        <br>
+        Powered by Django
+    </div>
+</body>
+</html>
+
+
+
+<!--<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wikiNet</title>
+    
+</head>
+
+<body>
+
+<h3><a href="{% url 'wikiNet:index' %}">Portal</a></h3>
+
+<div class="results">
+    <a href="https://en.wikipedia.org{{srcTitle.0}}">{{srcTitle.1}}</a>
+    <a href="https://en.wikipedia.org{{dstTitle.0}}">{{dstTitle.1}}</a>
+    <br>
+    {% if isRoute != 0 %}
+    <table>
+        {% for d in routeList %}
+            <tr><td>
+                    <a href="https://en.wikipedia.org{{d.0}}">{{d.1}}</a>
+            </td></tr>
+        {% endfor %}
+        <tr>
+    </table>
+    {% else %}
+        <p>No route is found in the dataset...</p>
+    {% endif %}
+</div>
+
+<br>
+</body>
+
+
+</html>
+
+
+-->

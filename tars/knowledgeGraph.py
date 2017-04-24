@@ -14,11 +14,12 @@ class knowledgeGraph():
         ### a folder of the original html pages, the .stats file, 
         self.pagePath = pagePath
         self.contentPath = 'content'
-        
         self.sim()
         self.buildGraph()
+        self.tfidfTitle = TfidfVectorizer(input=u'content', strip_accents='ascii', stop_words='english')
+        text_dict = {x:self.idx2url[x][6:].replace('_',' ') for x in self.idx2url}
+        self.tfsTitle = self.tfidfTitle.fit_transform(text_dict.values())
         self.mostRelatedPath()
-        pkl.dump(self, file('%s/class.pkl'%self.pagePath,'w'))
 
     def sim(self):
         # doing the tfidf and cosine similarity
@@ -30,6 +31,7 @@ class knowledgeGraph():
         self.idx2row = {fname[i]: i for i in range(len(fname))}
         self.tfs = self.tfidf.fit_transform(text_dict.values())
         self.cosCoef = (self.tfs * self.tfs.T).toarray()
+
 
     def buildGraph(self):
         # building the weighted graph
@@ -46,7 +48,7 @@ class knowledgeGraph():
         for page in self.graph:
             map(fp.write, ['%s %s %f\n' % (self.idx2url[page], self.idx2url[sub], self.graph[page][sub]) for sub in self.graph[page]])
         fp.close()
-        np.save(file('%s/graph.npy' % (self.pagePath), 'w'), self.cosCoef)
+        # np.save(file('%s/graph.npy' % (self.pagePath), 'w'), self.cosCoef)
 
     def mostRelatedPath(self):
         self.distance = np.copy(self.cosCoef)
@@ -63,14 +65,20 @@ class knowledgeGraph():
             if k % 10 == 0:
                 print('%6d / %6d \r' % (k, N), end="")
         self.distance[self.distance == 1] = -1
-        np.save(file('%s/dist.npy' % self.pagePath, 'w'), self.distance)
-        np.save(file('%s/path.npy' % self.pagePath, 'w'), self.route)
+        # np.save(file('%s/dist.npy' % self.pagePath, 'w'), self.distance)
+        # np.save(file('%s/path.npy' % self.pagePath, 'w'), self.route)
         return self.distance, self.route
 
     def matchQuery(self, query):
-        wordVector = self.tfidf.transform([query])
-        docID = np.argmax((self.tfs * wordVector.T).toarray())
-        return docID
+        titleVec = self.tfidfTitle.transform([query])
+        tmp = (self.tfsTitle * titleVec.T).toarray()
+        titleID = np.argmax(tmp)
+        if tmp[titleID] == 0:
+            wordVector = self.tfidf.transform([query])
+            docID = np.argmax((self.tfs * wordVector.T).toarray())
+            return docID
+        else:
+            return titleID
 
     def searchRelated(self, docID):
         descendantID = np.argsort(self.distance[docID, :])[::-1][:20]
@@ -92,3 +100,5 @@ class knowledgeGraph():
     
 if __name__ == '__main__':
     G = knowledgeGraph(sys.argv[1])
+    with open('%s/class.pkl'%sys.argv[1],'w') as f:
+        pkl.dump(G, f)
