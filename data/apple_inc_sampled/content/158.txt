@@ -1,0 +1,163 @@
+
+
+
+   Final Cut Express
+  
+  was a
+  
+   video editing software
+  
+  suite, now discontinued, created by
+  
+   Apple Inc.
+  
+  It was the consumer version of
+  
+   Final Cut Pro
+  
+  and was designed for advanced editing of
+  
+   digital video
+  
+  as well as
+  
+   high-definition video
+  
+  , which was used by many amateur and professional
+  
+   videographers
+  
+  . Final Cut Express was considered a step above
+  
+   iMovie
+  
+  in terms of capabilities, but a step underneath Final Cut Pro and its suite of applications. As of June 21, 2011, Final Cut Express was discontinued, in favor of
+  
+   Final Cut Pro X
+  
+  .
+  
+
+    [1]
+   
+
+
+
+
+  Final Cut Express 1.0, based on
+  
+   Final Cut Pro
+  
+  3, was released at
+  
+   Macworld Conference and Expo
+  
+  in
+  
+   San Francisco
+  
+  in 2003. The second version, based on Final Cut Pro 4, was released at Macworld San Francisco in 2004. The third version, capable of editing
+  
+   high definition video
+  
+  , was also announced at Macworld San Francisco a year later, and was released as Final Cut Express HD in February 2005. It was based on Final Cut Pro HD (version 4.5) and included LiveType 1.2 and Soundtrack 1.2.
+ 
+  Final Cut Express version 3.5 was released with little fanfare in May 2006 as a
+  
+   Universal Binary
+  
+  . In addition to improving
+  
+   real-time rendering
+  
+  with Dynamic RT, version 3.5 upgraded LiveType to version 2.0 and Soundtrack to version 1.5.
+ 
+  In November 2007, Apple released Final Cut Express 4, which although it did not support real-time editing in the
+  
+   AVCHD
+  
+  format (it only allowed for transcoding AVCHD to Apple Intermediate Codec (AIC) provided that the camera was actually attached to the computer - it did not convert AVCHD files stored elsewhere and is currently for Intel processors only), imported iMovie '08 projects and included 50 new filters. It did not include Soundtrack 1.5, but it still included
+  
+   LiveType
+  
+  which enables users to create advanced text for the movies they created in Final Cut. The price was dropped from $299 for version 3.5 to $199 for version 4.0.
+ 
+  In June 2011, Final Cut Express was officially discontinued, in favor of Final Cut Pro X.
+ 
+  Final Cut Express' interface was identical to that of
+  
+   Final Cut Pro
+  
+  , but lacks some film-specific features, including
+  
+   Cinema Tools
+  
+  , multi-cam editing, batch capture, and a
+  
+   time code
+  
+  view. The program performed 32 undo operations, while Final Cut Pro did 99
+  
+   [2]
+  
+  .
+ 
+  Features
+  
+
+    [2]
+   
+
+  the program did include were:
+ 
+  One feature of Final Cut Express that was not available in Final Cut Pro is the ability to import
+  
+   iMovie '08
+  
+  projects (though transitions are not preserved).
+  
+
+    [3]
+   
+
+
+  Inherited from Final Cut Pro, Final Cut Express features RT Extreme, which allows previews of some
+  
+   video filters
+  
+  and transitions without rendering. Audio that is not in the native
+  
+   AIFF
+  
+  file format needs rendering before it can be played back. RT Extreme has three modes: 'Safe', for seeing multiple video layers at a quality that more or less guarantees a smooth playback; 'Unlimited', which allows the maximum number of composited video layers to be viewed at the same time; and 'Dynamic', which alternates between these settings depending on how many simultaneous video tracks are present.
+  
+   Frame dropping
+  
+  may result from using 'Unlimited' on low-resource machines.
+ 
+  Like Final Cut Pro, Express also comes with
+  
+   Boris
+  
+  Calligraphy, a plugin for advanced titling and scrolling/crawling titles more sophisticated than the ones that can be created with the built-in title overlays. Calligraphy has a
+  
+   WYSIWYG
+  
+  interface and features wrapping, alignment, leading, kerning and tracking features, as well as allowing up to five custom outlines and five custom
+  
+   drop shadows
+  
+  to be defined for a selected portion of the title.
+ 
+  Prior to version 4, Final Cut Express included Soundtrack 1.5, a music program similar to the consumer-level
+  
+   GarageBand
+  
+  , but designed for videographers who wish to add music to their films. Soundtrack comes with around 4,000 professionally recorded instrument loops and sound effects that can be arranged in multiple tracks beneath the video track.
+ 
+  To use Soundtrack, users export their Final Cut Express sequence, or a marked portion thereof, as a reference file, which can include scoring markers defined in the timeline. This reference file can be imported as the video track in Soundtrack.
+ 
+  Soundtrack is functionally and visually identical to Soundtrack Pro's multitrack editing mode, but includes fewer Logic plugins and lacks the highly regarded noise removal tool.
+ 
+  Soundtrack was removed from Final Cut Express 4, which lowered its price and may have encouraged people to buy Logic Express.
+ 

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction - WikiNet</title>
+    <link href="http://cs.nyu.edu/~cz1389/next_files/xz.css" rel="stylesheet" type="text/css">
+    <link href=" custom.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div class="container700 vcard">
+
+    <div class="titletext fn" style="text-align: center">
+            A brief introduction to WikiNet
+    </div>
+
+    <div id="section-links">
+        <div class="sectionContainer">
+            <div class="section">
+                <a href="/wikiNet/">Portal</a>
+            </div>
+            <div class="section">
+                <br>
+            </div>
+            <br>
+            <div class="section selected">
+                About it »
+            </div>
+            <div class="section">
+                <a href="WikiNet.pdf">More About it</a>
+            </div>
+            <br>
+            <div class="section">Authors:<br>
+                <ul style="list-style: none;">
+                    <li><a href="mailto:chen.zhang@nyu.edu">Chen ZHANG</a></li>
+                    <li><a href="mailto:gy552@nyu.edu">Guang YANG</a></li>
+                </ul>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <div class='content'>
+        <div>
+            <p><a href="https://en.wikipedia.org">Wikipedia</a> is so far the largest public database of knowledge. 
+            Usually when searching over wikipedia, the returned page is the very article that exactly matches the query. 
+            However, when reading wikipedia articles, people often loss their mind after following a few links 
+            (usually in a depth-first pattern). In order to use the powerful online database more efficiently , 
+            a technique that provide the most related articles along with the exact page is need. 
+            That is what WikiNet is for. </p>
+            
+            <h3> The Wiki part: Heuristic crawler </h3>
+
+            <p>Because of our limited storage and computation resource, it is not feasible for us to traversd and 
+                index the whole wikipedia. As a result, heuristic methods are heavily used. </p>
+            
+            <p> Wikipedia pages have in- and out-links to other pages. Some links are pointing at a highly related page, 
+                while others are not. (i.e. The page of <a href="https://en.wikipedia.org/wiki/Apple">apple</a> the fruit, 
+                has a hyper link to <a href="https://en.wikipedia.org/wiki/Adam_and_Eve">Adam and Eve</a>. 
+                However, the word of "apple" doesn't even appear on the latter. 
+                In fact, it is <a href="https://en.wikipedia.org/wiki/Apple_(symbolism)">apple</a> the symbol 
+                that is closely related to Adams and Eves. ) So when crawling wikipedia pages, 
+                we conduct for- and backwards evaluation and only index the highly related pages. 
+                We also limit the depth of the BFS crawling to 4. </p>
+            
+            <p> We crawled pages from 4 different seeds. </p>
+            <table>
+                <tr>
+                    <td>seed</td> <td># visted pages</td> <td># of indexed pages</td> <td> LOG file </td>
+                </tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/Apple"> Apple </a></td>
+                    <td> 13956 </td> <td> 6619 </td>
+                    <td><a href="/static/Apple.stats"> here </a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/Apple_Inc"> Apple Inc. </a></td>
+                    <td> 14929 </td> <td> 6050 </td>
+                    <td><a href="/static/Apple_Inc.stats"> here </a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/Artificial_intelligence"> Artificial intelligence </a></td>
+                    <td> 27123 </td> <td> 12682 </td>
+                    <td><a href="/static/Aritificial_intelligence.stats"> here </a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/New_York_University"> New York University </a></td>
+                    <td> 17688 </td> <td> 6769 </td>
+                    <td><a href="/static/New_York_University.stats"> here </a></td>
+                </tr>
+            </table>
+            <p> We only conduct experiment on the two apples. 
+                You may search using the keyword "apple" to find out which one is currently running. </p>
+            
+            <h3> The Net part: Directed weighted graph </h3>
+
+            <p> Now that Wikipedia is an online database, the system is by nature a complex network, 
+                where artibles are the nodes, and hyperlinks the edges. 
+                We build a graph from the dataset. 
+                We used TF-IDF to index the main content of the pages 
+                and marked the weight of the edges using the cosine coefficent between the two pages. 
+                We end up with a directed weighted graph. </p> 
+                <div style="display: flex; width: 90%; max-width: 500px; 
+                margin:5px auto; padding:5px 5px 5px 5px; 
+                flex-wrap: wrap; align-items: center; justify-content: center;" >
+                    <img style="padding: 5px 5px 5px 5px; width: 90%; max-width: 500px" src="apple.jpg"><br>
+                    <p>This is an illustration of the graph corresponding to the dataset starting from 
+                    <a href="https://en.wikipedia.org/wiki/Apple"> Apple </a>. Nodes of the same color 
+                    fall into the same cluster based on a modularity-based community detection algorithm 
+                    (<a href="https://sites.google.com/site/findcommunities/">the Louvain method</a>). </p>
+                </div>
+            
+            <p> Finding the most related page or path is similar to the 
+                <a href ="https://en.wikipedia.org/wiki/Longest_path_problem">Longest Simple Path problem</a>, 
+                which is NP-hard. Luckily, in our case, the weight of the edges are between 0 and 1. 
+                If we compute the weight of a path by multipling the cosine coefficent 
+                of consecutive pair of pages on the path, which is a reasonable way, 
+                a simple modification to the widely-used all pair shortest path algorithm is sufficient to solve our problem. 
+                We therefore define the closeness between a pair of pages with the largest weight of all paths between them. </p>
+            
+            <h3> A few more words </h3>
+            <p>WikiNet is a project, in responce to the Graduate Course of 
+                <a href="http://cs.nyu.edu/courses/spring17/CSCI-GA.2580-001/">Web Search Engine</a> 
+                at New York University Courant Institute of Mathematical Science, 
+                seeking to explore wikipedia as a graph of knowledge.
+                We implement a search engine for the relations in the graph. 
+                So far, we provide two search functions:
+            <ol>
+                <li> Match your keywords with the most related wikipedia page in our dataset, 
+                    then list the top 20 most related pages it derives into 
+                    and the top 20 most related pages that can derive into the exact match. </li>
+                <li> Take a pair of keywords. Match them with the most related wikipedia page in our dataset respectively. 
+                    Then return the most related path bewteen the two pages. </li>
+            </ol></p>
+
+            <h3> Even more about it </h3>
+            <p> <a href="WikiNet.pdf">Here</a> is a report that discuss the implementation of WikiNet in detail. </p>
+        </div>
+
+        <br>
+        <h3>Continue exploring WikiNet: </h3>
+        <div class="Box">
+            <div class="searchBox">
+                Search here for most related pages. 
+                <br>
+                <form action="/wikiNet/search" method="get">
+                <table>
+                    <tr>
+                        <td><input id="query" type="text" name="query" placeholder="Keywords"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Search for related Pages! "></td>
+                    </tr>
+                </table>
+                </form>
+            </div>
+            
+            <div class="searchBox">
+                Search here for the most related path. 
+                <br>
+                <form action="/wikiNet/route" method="get">
+                <table>
+                    <tr>
+                        <td><input id="src" type="text" name="src" placeholder="Source"></td>
+                    </tr>
+                    <tr>
+                        <td><input id="dst" type="text" name="dst" placeholder="Destination"></td> 
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Search for most related Path! "></td>
+                    </tr>
+                </table>
+                </form>
+            </div>
+            <div style="clear:both;"> </div>
+        </div>
+    </div>
+
+    <br>
+    <div style="clear:both;"> </div>
+</div>
+
+</body>
+
+
+</html>
+
+

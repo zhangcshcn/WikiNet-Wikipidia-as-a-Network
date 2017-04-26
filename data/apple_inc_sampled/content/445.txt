@@ -1,0 +1,415 @@
+
+
+  In
+  
+   software engineering
+  
+  ,
+  
+   porting
+  
+  is the process of adapting software so that an executable
+  
+   program
+  
+  can be created for a computing environment that is different from the one for which it was originally designed (e.g. different
+  
+   CPU
+  
+  ,
+  
+   operating system
+  
+  , or third party
+  
+   library
+  
+  ). The term is also used when software/hardware is changed to make them usable in different environments.
+ 
+  Software is
+  
+   portable
+  
+  when the cost of porting it to a new platform is significantly less than the cost of writing it from scratch. The lower the cost of porting software, relative to its implementation cost, the more portable it is said to be.
+ 
+
+
+  The term "port" is derived from the Latin
+  
+
+    portare
+   
+
+  , meaning "to carry".
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  When code is not compatible with a particular
+  
+   operating system
+  
+  or
+  
+   architecture
+  
+  , the code must be "carried" to the new system.
+ 
+  The term is not generally applied to the process of adapting software to run with less memory on the same CPU and operating system, nor is it applied to the rewriting of source code in a different
+  
+   language
+  
+  (i.e. language conversion or translation).
+ 
+  Software developers often claim that the software they write is
+  
+
+    portable
+   
+
+  , meaning that little effort is needed to adapt it to a new environment. The amount of effort actually needed depends on several factors, including the extent to which the original environment (the
+  
+   source platform
+  
+  ) differs from the new environment (the
+  
+   target platform
+  
+  ), the experience of the original authors in knowing which
+  
+   programming language
+  
+  constructs and third party library calls are unlikely to be portable, and the amount of effort invested by the original authors in only using portable constructs (platform specific constructs often provide a cheaper solution).
+ 
+  The number of significantly different CPUs and operating systems used on the desktop today is much smaller than in the past. The dominance of the
+  
+   x86
+  
+
+   architecture
+  
+  means that most desktop software is never ported to a different CPU. In that same market, the choice of operating systems has effectively been reduced to three:
+  
+   Microsoft Windows
+  
+  ,
+  
+   OS X
+  
+  , and
+  
+   Linux
+  
+  . However, in the
+  
+   embedded systems
+  
+  and
+  
+   mobile
+  
+  markets,
+  
+   portability
+  
+  remains a significant issue, with the
+  
+   ARM
+  
+  being a widely used alternative.
+ 
+  International standards, such as those promulgated by the
+  
+   ISO
+  
+  , greatly facilitate porting by specifying details of the computing environment in a way that helps reduce differences between different standards-conforming
+  
+   platforms
+  
+  . Writing software that stays within the bounds specified by these standards represents a practical although nontrivial effort. Porting such a program between two standards-compliant platforms (such as
+  
+   POSIX.1
+  
+  ) can be just a matter of loading the source code and
+  
+   recompiling
+  
+  it on the new platform. However, practitioners often find that various minor corrections are required, due to subtle platform differences. Most standards suffer from "gray areas" where differences in interpretation of standards lead to small variations from platform to platform.
+ 
+  There also exists an ever-increasing number of tools to facilitate porting, such as the
+  
+   GNU Compiler Collection
+  
+  , which provides consistent programming languages on different platforms, and
+  
+   Autotools
+  
+  , which automates the detection of minor variations in the environment and adapts the software accordingly before compilation.
+ 
+  The compilers for some
+  
+   high-level programming languages
+  
+  (e.g.
+  
+   Eiffel
+  
+  ,
+  
+   Esterel
+  
+  ) gain portability by outputting source code in another high level
+  
+   intermediate language
+  
+  (such as
+  
+   C
+  
+  ) for which compilers for many platforms are generally available.
+ 
+  Two activities related to (but distinct from) porting are
+  
+   emulating
+  
+  and
+  
+   cross-compiling
+  
+
+  Instead of translating directly into
+  
+   machine code
+  
+  , modern
+  
+   compilers
+  
+  translate to a machine independent
+  
+   intermediate code
+  
+  in order to enhance portability of the compiler and minimize design efforts. The intermediate language defines a
+  
+
+    virtual machine
+   
+
+  that can execute all programs written in the
+  
+   intermediate language
+  
+  (a machine is defined by its language and vice versa).
+  
+
+    [1]
+   
+
+  The intermediate code instructions are translated into equivalent machine code sequences by a
+  
+   code generator
+  
+  to create
+  
+   executable code
+  
+  . It is also possible to skip the generation of machine code by actually implementing an
+  
+   interpreter
+  
+  or
+  
+   JIT
+  
+  for the virtual machine.
+  
+
+    [2]
+   
+
+
+  The use of intermediate code enhances portability of the compiler, because only the machine dependent code (the interpreter or the code generator) of the compiler itself needs to be ported to the target machine. The remainder of the compiler can be imported as intermediate code and then further processed by the ported code generator or interpreter, thus producing the compiler software or directly executing the intermediate code on the interpreter. The machine independent part can be developed and tested on another machine (the
+  
+   host machine
+  
+  ). This greatly reduces design efforts, because the machine independent part needs to be developed only once to create portable intermediate code.
+  
+
+    [3]
+   
+
+
+  An interpreter is less complex and therefore easier to port than a code generator, because it is not able to do code optimizations due to its limited view of the program code (it only sees one instruction at a time and you need a sequence to do optimization). Some interpreters are extremely easy to port, because they only make minimal assumptions about the instruction set of the underlying hardware. As a result, the virtual machine is even simpler than the target CPU.
+  
+
+    [4]
+   
+
+
+  Writing the compiler sources entirely in the programming language the compiler is supposed to translate, makes the following approach, better known as
+  
+
+    compiler bootstrapping
+   
+
+  , feasible on the target machine:
+ 
+  The difficult part of coding the optimization routines is done using the high-level language instead of the assembly language of the target.
+ 
+  According to the designers of the
+  
+   BCPL
+  
+  language, interpreted code (in the BCPL case) is more compact than machine code; typically by a factor of two to one. Interpreted code however runs about ten times slower than compiled code on the same machine.
+  
+
+    [5]
+   
+
+
+  The designers of the
+  
+   Java programming language
+  
+  try to take advantage of the compactness of interpreted code, because a Java program may need to be transmitted over the Internet before execution can start on the target's
+  
+   Java Virtual Machine
+  
+  .
+ 
+  Porting is also the term used when a
+  
+   video game
+  
+  designed to run on one platform, be it an
+  
+   arcade
+  
+  ,
+  
+   video game console
+  
+  , or
+  
+   personal computer
+  
+  , is converted to run on a different platform. Earlier video game "ports" were often not true ports, but rather reworked versions of the games. However, many 21st century video games are developed using software (often in
+  
+   C++
+  
+  ) that can output code for one or more consoles as well as for a PC without the need for actual porting (instead relying on the common porting of individual component
+  
+   libraries
+  
+  ).
+ 
+  Many early ports suffered significant gameplay quality issues because computers greatly differed.
+  
+
+    [6]
+   
+
+
+   Richard Garriott
+  
+  stated in 1984 that
+  
+   Origin Systems
+  
+  developed computer games for the
+  
+   Apple II series
+  
+  first then ported them to
+  
+   Commodore 64
+  
+  and
+  
+   Atari
+  
+  , because the latter machines'
+  
+   sprites
+  
+  and other sophisticated features made porting from them to Apple "far more difficult, perhaps even impossible ... the Apple version will never get done".
+  
+
+    [7]
+   
+
+  Reviews complained of Atari ports of games like
+  
+
+    Crush, Crumble and Chomp
+   
+
+  and
+  
+
+    Castle Wolfenstein
+   
+
+  that retained the Apple's "lousy sound and black-white-green-purple graphics".
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  Others worked differently.
+  
+   Ozark Softscape
+  
+  , for example, wrote
+  
+
+    M.U.L.E.
+   
+
+  for the Atari first because it preferred to develop for the most advanced computers, removing or altering features as necessary during porting. Such a policy was not always feasible;
+  
+   Dani Bunten
+  
+  stated that "M.U.L.E. can't be done for an Apple".
+  
+
+    [6]
+   
+
+
+  When a game is referred to as being "arcade perfect", this means that the game has been ported from an
+  
+   arcade
+  
+  version to another platform, such as a console or computer, without any alterations to the game's workings. This means that graphics, sound and
+  
+   gameplay
+  
+  , along with the game's other characteristics (including bugs), are identical to the arcade version.
+ 
+  "(Console) port" is a game that was originally made for a console (such as Wii or
+  
+   Xbox 360
+  
+  ) before an identical version is created which can be played on a
+  
+   personal computer
+  
+  or any other console. This term has been widely used by the gaming community. The process of porting a game from a console to a PC is often regarded negatively due to the higher levels of performance that computers generally have been underutilized, partially due to console hardware being fixed throughout their run (with games being developed for console specs), while PCs become more powerful as hardware evolves, but also due to ported games sometimes being poorly optimized for PCs, or lazily ported. Whilst broadly similar, architectural differences may exist such as the use of
+  
+   unified memory
+  
+  on a console.
+ 

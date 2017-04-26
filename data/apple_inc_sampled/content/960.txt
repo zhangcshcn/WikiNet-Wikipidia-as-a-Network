@@ -1,0 +1,274 @@
+
+
+
+   Mission Control
+  
+  , formerly
+  
+
+    Dashboard
+   
+
+  ,
+  
+   Exposé
+  
+  , and
+  
+
+    Spaces
+   
+
+  is a feature of the
+  
+   macOS
+  
+
+   operating system
+  
+  . First previewed on June 23, 2003 at the
+  
+   Apple Worldwide Developers Conference
+  
+  as a feature of the then forthcoming
+  
+   Mac OS X 10.3 Panther
+  
+  ,
+  
+
+    [2]
+   
+
+  Mission Control allows a user to quickly locate an open window, quickly hide all windows and show the desktop, and to manage windows across multiple monitors or
+  
+   virtual desktops
+  
+  .
+  
+   Dashboard
+  
+  , Exposé, and
+  
+   Spaces
+  
+  were combined together and renamed Mission Control in 2011 with the release of
+  
+   Mac OS X 10.7 Lion
+  
+  .
+ 
+
+
+  Mission Control includes three separate features for organizing windows and open applications:
+ 
+  In the first two cases, after Mission Control is activated, the user can select any window by
+  
+   clicking
+  
+  on it or selecting it with arrow keys and pressing
+  
+   Enter
+  
+  . Exposé then deactivates, leaving the selected window in the foreground. Using
+  
+   Apple Mighty Mouse
+  
+  , it is possible to select a window using the Scroll Ball, by scrolling in the direction of that window.
+ 
+  The key used for activating Exposé can be customized to be any of the function keys, the shift, control, option or command key, the
+  
+   fn key
+  
+  on Mac laptops, or even a mouse button on multiple-button
+  
+   mice
+  
+  (including Apple Mighty Mouse).
+ 
+  Different features of Mission Control can also be activated by moving the mouse to a
+  
+   'hot corner'
+  
+  of the desktop. This system is off by default; it can be enabled from System Preferences.
+ 
+  When Exposé first premiered in 2003, it could be controlled using the F9, F10 and F11 keys.
+ 
+  The Exposé shortcut keys were moved to the F3 key to make room for the "rewind", "play/pause" and "fast forward" keys. On Mac keyboards made after 2004, Exposé can be activated by using the F3 key or in combination with the command key, or on the trackpad of Macbooks supporting multi-touch interface. (However, F9, F10 and F11 can still be used for controlling Exposé with the
+  
+   function modifier key
+  
+  , or by enabling the "Use all F1, F2, etc. keys as standard function keys" setting.)
+ 
+  On
+  
+   OS X 10.6 Snow Leopard
+  
+  , Exposé featured a new organized grid view and allowed users to activate Exposé from the Dock.
+ 
+  In
+  
+   Mac OS X 10.7 Lion
+  
+  , some features of
+  
+   Dashboard
+  
+  , Exposé, and
+  
+   Spaces
+  
+  were incorporated into Mission Control. This gave an overview of all running applications just like "All windows" but grouped windows from the same application, and added a display of Spaces. Desktop view and application window view were retained, the latter under the name of App Exposé, and could be accessed through gestures on multi-touch trackpads.
+ 
+  Some users criticised Mission Control in
+  
+   Mac OS X 10.7 Lion
+  
+  for not offering an unobscured "Exposé" view of all the windows in single workspace: windows of the same application are always hidden in bundles. This issue was fixed in
+  
+   Mac OS X 10.8 Mountain Lion
+  
+  , however, with a checkbox in the System Preference pane allowing a user to choose whether to group windows of the same application. Some features of Expose and Spaces from
+  
+   OS X 10.6 Snow Leopard
+  
+  did not return, however: it does not show the names of the windows displayed, nor does it return the added functionality provided by
+  
+   Mac OS X 10.5 Lepoard
+  
+  multiple desktops feature, known as "Spaces," which allowed users to drag and drop windows between desktops with a single click, and also allowed for larger thumbnail previews of each desktop in a 2D grid when in use.
+  
+
+    [3]
+   
+
+
+  The "blob" is a hidden and undocumented interface to Exposé that was discovered by a member of the MacNN forums.
+  
+
+    [4]
+   
+
+  When clicked, it enables the "Application Windows" mode. When Option+clicked, it enables the "All Windows" mode.
+ 
+  Another undocumented feature of Exposé is for the show desktop function. It places all the open windows in a small box on the screen that can be moved to anywhere on the screen.
+  
+
+    [5]
+   
+
+  This function has some bugs, after exiting the show desktop mode, the foremost window will not have a shadow and the user will not be able to move the window. However, this is easily fixed by using the show all function. It also had another bug that causes an area of screen the width of the minimised preview to become unresponsive to mouse clicks requiring the windowserver to be restarted.
+ 
+  Using the
+  
+   Shift key
+  
+  , Mission Control can be activated in
+  
+   slow motion
+  
+  , as can
+  
+   Dashboard
+  
+  and the
+  
+   minimise
+  
+  effect and several other animations. This is the same effect that was demonstrated by
+  
+   Steve Jobs
+  
+  during the unveiling of Exposé during the 2003 Worldwide Developers Conference.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+  Similar effects are used on other operating systems.
+ 
+
+   Microsoft Windows
+  
+  3.0 first introduced a window switcher in 1990. Using
+  
+   Alt
+  
+  +
+  
+   Tab ↹
+  
+  , users could see a flattened view of all open windows. Every version of Windows since then has also provided this window switching functionality. Vista and Windows 7 provide an additional feature called
+  
+   Windows Flip 3D
+  
+  , which has a broadly similar purpose. Flip 3D allows a user to flip through all open windows with a three-dimensional perspective. A downside to this method is that the front-most window covers a significant portion of the other windows, unlike Exposé. On the other hand, this allows the user to see the contents of the front-most window, while this can be difficult in Exposé, especially if the user has a large number of windows open. Vista's
+  
+   Desktop Window Manager
+  
+  exposes a public
+  
+   API
+  
+  that allows any application to access the same thumbnail representations that Flip3D uses, and so there are a number of third party add-ons that are able to provide Exposé-like functionality in Vista. A very few third party applications, such as the Emcee Desktop Organizer, provide Mission Control-like organization of similar windows into visual "stacks," or support Windows 8's "Immersive" Apps.
+  
+   Windows 10
+  
+  adds a very similar feature called Task View which also includes multiple-desktop support.
+ 
+  Microsoft's Intellipoint Software for Microsoft Mice has a feature similar to Exposé
+  
+
+    [8]
+   
+
+  as it also works with live images of windows, rather than static representations. Additionally, several freeware Windows applications exist to emulate the functionality of Exposé.
+ 
+
+   Compiz
+  
+  and
+  
+   KWin
+  
+  are compositing window managers for systems using the
+  
+   X Window System
+  
+  . Both include plugins similar to Exposé - the scale plugin in Compiz and the present windows effect in KWin.
+  
+   Skippy
+  
+  also performs similar functions to Exposé.
+ 
+  Starting with version 3.0, the
+  
+   GNOME
+  
+  desktop environment has gained a new mode called "Overview", which is used to launch applications and manage workspaces. In this mode, windows are scaled and arranged in an Exposé-like fashion for quick switching.
+ 
+  For Classic or Legacy Macintosh systems, the free Finder Workspaces
+  
+
+    [9]
+   
+
+  offers functionality similar to Spaces.
+ 
+
+   Chrome OS
+  
+  has a window overview mode
+  
+
+    [10]
+   
+
+  that shows a thumbnail of all open windows, available by pressing the 'window switcher' key or swiping up with 3 fingers on the trackpad. Windows in overview mode can be closed by clicking an associated close button, or selected by clicking on the window thumbnail, which also closes overview mode and brings the selected window to the foreground.
+ 

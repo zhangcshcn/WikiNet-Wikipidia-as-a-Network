@@ -1,0 +1,663 @@
+
+
+  The
+  
+   Dell Inspiron
+  
+  (
+  
+
+
+
+
+
+        DELL
+       
+
+
+     -in-
+     
+
+
+        SPER
+       
+
+
+     -on
+    
+
+
+  ) is a computer product line produced by
+  
+   Dell
+  
+  as a range of
+  
+   laptop computers
+  
+  targeted at entry-level consumers. Early models were equipped with Mobile
+  
+   Celeron
+  
+  or Mobile
+  
+   Pentium II
+  
+  processors and SDRAM. The Inspiron mainly competes against computers such as
+  
+   Acer
+  
+  's
+  
+   Aspire
+  
+  ,
+  
+   Asus
+  
+  ' Transformer Book Flip, VivoBook and
+  
+   Zenbook
+  
+  ,
+  
+   HP
+  
+  's
+  
+   Pavilion
+  
+  and
+  
+   Envy
+  
+  ,
+  
+   Lenovo
+  
+  's
+  
+   IdeaPad
+  
+  and
+  
+   Toshiba
+  
+  's
+  
+   Satellite
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+
+
+  Released on
+  
+   Dell
+  
+  's website on February 26, 2009, the Inspiron Mini 10 is a 10.1 in (26 cm) netbook whose Mini 10v model weighs 1.13 kg (2.5 lb), and whose Mini 10 model weighs 1.18 kg (2.6 lb). The Mini 10 has an option for an external TV tuner and mobile broadband from
+  
+   AT&T
+  
+  . There is a 2
+  
+   GB
+  
+  option available with
+  
+   Windows Vista
+  
+  Home Basic 32-bit.
+ 
+  Released online on September 4, 2008, the Dell Inspiron 910 (more commonly referred to as the Inspiron Mini 9) is an 8.9" netbook that weighs 2.28 lbs. It is Dell's first netbook. It was retired on May 29, 2009.
+  
+
+    [1]
+   
+
+
+  Released online on October 16, 2008, the Dell Inspiron 1210 (more commonly referred to as the Inspiron Mini 12) is a 12.1" netbook that weighs 2.72 lbs. The netbook originally shipped with Windows Vista Home Basic SP1 32-bit, but an option for XP Home SP3 32-bit was added a month later. It was criticized for being slow with Vista. It was retired on August 7, 2009.
+ 
+  Released in 2014, The
+  
+   Inspiron 11 3000 Series 2-in-1
+  
+  is a 2-in-1 notebook with an 11-inch touchscreen and Intel processors. It competes with
+  
+   Acer Aspire R 11
+  
+  ,
+  
+   Asus Transformer Book Flip TP200
+  
+  ,
+  
+   HP Pavilion x360
+  
+  ,
+  
+   HP Stream x360
+  
+  ,
+  
+   Lenovo Yoga 2 11
+  
+  and
+  
+   Toshiba Satellite Radius 11
+  
+  .
+ 
+  The Dell Inspiron 11 3000 Series 2-in1 (3148) features a standard HDMI port, 1x
+  
+   USB 3.0
+  
+  Type-A port, 2x
+  
+   USB 2.0
+  
+  Type-A ports, a headphone and microphone combo (headset) port, a media-card reader and a security-cable slot. It's processor are from the 4th generation of Intel Core i3 processors with one
+  
+   SO-DIMM
+  
+  slot supporting DDR3L memory. Its uses Intel HD graphics and the
+  
+   Realtek
+  
+  ALC3234 audio controller and a 2.5-inch HDD with
+  
+   SATA
+  
+  3 Gbit/s capabilities. The laptop has a 11.6-inch HD WLED touchscreen display with a maximum resolution of 1366 by 768 and a refresh rate of 60 Hz. The integrated webcam above the display has a camera resolution is 0.92 megapixel and its maximum video recording resolution is 1280x720 (HD) at 30 FPS. The battery of the laptop is a 3 cell battery with a voltage of 11.4 VDC. The power adapter bundled with the laptop is capable of 65w and outputs a 3.34 A.
+ 
+  The Dell Inspiron 11 ( 3162) features a standard HDMI port, 1x
+  
+   USB 3.0
+  
+  Type-A port, 1x
+  
+   USB 2.0
+  
+  Type-A ports, a headphone and microphone combo (headset) port and a media-card reader. The laptop uses either dual core Intel
+  
+   Celeron
+  
+  or quad core Intel
+  
+   Pentium
+  
+  processors. The audio controller inside the laptop is a Realtek ALC3234 and the multi-car reader supports one SD card in the form factor of
+  
+   micro SD
+  
+  card of the type being SD, SDHC or SDXC. The laptop has a 11.6-inch HD WLED display with a maximum resolution of 1366 by 768 and a refresh rate of 60 Hz. The integrated webcam above the display has a camera resolution is 0.92 megapixel and its maximum video recording resolution is 1280x720 (HD) at 30 FPS. The battery of the laptop is a 2-cell prismatic battery with a voltage of 7.6 VDC. The power adapter bundled with the laptop is capable of 45w and outputs a 2.31 A.
+ 
+  Laptop available in i5 Non-Touch Screen, i5 Touch Screen, i7 Non-Touch Screen, i7 Touch Screen, AMD 18 Non-Touch versions.
+ 
+  The Dell Inspiron 15 (5567) features
+  
+   Intel Kaby Lake Microprocessors
+  
+
+  Released in 2015, The
+  
+   Inspiron 13 7000 Series 2-in-1
+  
+  is a 2-in-1 notebook with an 13-inch touchscreen and Intel processors. It competes with
+  
+   Acer Aspire R 14
+  
+  ,
+  
+   Asus Transformer Book Flip TP300
+  
+  ,
+  
+   HP Pavilion 13 x360
+  
+  ,
+  
+   Lenovo Yoga 3 14
+  
+  ,
+  
+   Samsung Notebook 7 spin (13-inch)
+  
+  ,
+  
+   Toshiba Satellite Radius 12
+  
+  and
+  
+   14
+  
+  .
+ 
+  Released in 2015, The
+  
+   Inspiron 15 7000 Series 2-in-1
+  
+  is a 2-in-1 notebook with an 15-inch touchscreen and Intel processors. It competes with
+  
+   Acer Aspire R 15
+  
+  ,
+  
+   Asus Transformer Book Flip TP500
+  
+  ,
+  
+   TP550
+  
+  ,
+  
+   HP Envy x360
+  
+  ,
+  
+   Lenovo Flex 2 15
+  
+  ,
+  
+   3 15
+  
+  ,
+  
+   Samsung Notebook 7 spin (15-inch)
+  
+  and
+  
+   Toshiba Satellite Fusion
+  
+  .
+ 
+  The 2015 Dell Inspiron 7447 (Inspiron 14) is a gaming oriented laptop with a discrete 4 GB
+  
+   Nvidia
+  
+
+   GeForce GTX 850M
+  
+  . It has either an
+  
+   Intel
+  
+  i5-4210H or the Intel i7-4710HQ. And up to 8 GB of
+  
+   DDR3L
+  
+
+   RAM
+  
+  and expandable up to 16 GB.
+ 
+  The Dell Inspiron 7559 (Inspiron 15) is a gaming oriented laptop with discrete Nvidia
+  
+   GeForce GTX 960M
+  
+  , comes in black with red trim. The RAM is standard at 8 GB of
+  
+   DDR3L
+  
+
+   RAM
+  
+  and expandable up to 16 GB. It competes with
+  
+   HP Pavilion Gaming Series
+  
+  ,
+  
+   HP Omen
+  
+  and
+  
+   17
+  
+  .
+ 
+  The 'Inspiron 15 Gaming (7566) changes the styling from the 'Inspiron 15 Gaming/Inspiron 15 7000 (7559)' while retaining the Nvidia GeForce GTX 960M dedicated graphics card.
+ 
+  The 'New Inspiron 15 7000 Gaming (7567) has the same design as the 'Inspiron 15 Gaming (7566)' with the main difference being the replacement of the Nvidia GeForce GTX 960M with either a Nvidia
+  
+   GeForce GTX 1050
+  
+  or Nvidia GeForce GTX 1050Ti.
+ 
+  On June 26, 2007, Dell released the new Inspiron desktop series as a replacement to the
+  
+   Dell Dimension
+  
+  chain. The Inspiron marks Dell's return to a
+  
+   MicroATX
+  
+  case and motherboard with one exception: the
+  
+   I/O
+  
+  panel is not removable. As a result, motherboard upgrades are nearly impossible without modifying the case.
+ 
+  Launched online on November 12, 2009, the Inspiron 400, more commonly known as the Inspiron Zino HD is an Ultra Small Form Factor desktop like the Studio Hybrid. It is in an 8" by 8" form factor and has a similar form factor to the
+  
+   Mac Mini
+  
+  and computers made by Shuttle. There are several customer reports about devices tending to overheat and shutting down randomly.
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+  The Inspiron 537s is simply the slim version of the Inspiron 537 with similar features. It replaces the Inspiron 530s. The Inspiron 537s is limited to an Intel Core 2 Quad Q8200, whereas, the Inspiron 537 can be customized with up to a Core 2 Quad Q9400. Because of its slim form factor, it only has one optical drive. The other hardware configuration options are identical to those of the Inspiron 537. The memory is only upgradeble to 4 GB.
+ 
+  The Inspiron 545 is a non-configurable mini-tower desktop that only retails at Best Buy and the Dell Outlet.
+ 
+  The Inspiron 545s is the slimmer version of the Inspiron 545. Like its mini-tower cousin, the Inspiron 545s is non-configurable and only retails at Best Buy and the Dell Outlet.
+ 
+  This model quietly went on sale
+  
+   [
+   
+
+
+      when?
+     
+
+
+   ]
+  
+  on Dell's website and replaced the Inspiron 537. It features AMD processors.
+ 
+  Released on June 26, 2006, the Dell Inspiron 530 is Dell's first desktop to use the Inspiron name. The Inspiron 530 has an Intel Celeron 450, and can be customized up to an Intel Core 2 Quad Q9550. It has 2 GB of DDR2 SDRAM at 800 MHz, which can be upgraded up to 4 GB (standard bios) or 8GB (BIOS upgrade 1.0.18 needed). The desktop has a 320 GB 7200 RPM Serial ATA hard drive w/DataBurst Cache, which can be upgraded to 1 TB. There are also data recovery versions of the 320 and 500 GB hard drive sizes. The Inspiron 530 is customizable with a variety of DVD+/-RW and Blu-ray Disc drives. The Inspiron 530 has integrated Intel
+  
+   GMA 3100
+  
+  , and can be customized up to an ATI Radeon HD 4670 discrete graphics card. It has integrated 7.1 channel audio and can be customized up to a Sound Blaster X-Fi XtremeGamer sound card. The Inspiron 530 has no initial Wi-Fi card, but can be customized up to a Dell 1505 Wireless-N PCI-e card. The Inspiron 530 has two variants of motherboards, both made by Foxconn and based on the G33M series. The G33M02 which supports up to Core 2 Duo processors (the e8600 is the fastest compatible cpu)and the DG33M03, which supports up to Core 2 Quad processors. Inspiron 530 systems sold with Pentium Dual-Core or Core 2 Duo processors can not be upgraded to Core 2 Quad processors without adding at least a 350W power supply and swapping motherboards to the DG33M03 motherboard. The reason the G33M02 doesn't support Core 2 Quad processors is because it only has 6 voltage regulator ICs, the DG33M03 has 11.
+ 
+  The Inspiron 530s has the same design as the 530, but it is 41% slimmer. However, because of its design, it is not physically compatible with all desktop hardware, especially graphics cards (Dell only gives you the option of the ATI 2400 XT, which is not a high performance card). The case used in the 530s can accommodate one 5.25" optical drive, one external 3.5" drive (either a 1.44 MB floppy or 19-in-1 card reader), and up to two standard 3.5" hard drives. The motherboard used in the 530s is almost identical to the motherboard used in the 530 edition, except for the fact that this motherboard only supports Dual Core processors, and not any members of the Quad Core series like its twin. While almost any
+  
+   low profile
+  
+  PCI-E x16 video card will physically fit in the 530s, the custom sized Delta 250W power supply that the 530s is equipped with may seriously limit the potential for using higher end cards.
+ 
+  The Dell Inspiron 531 is Dell's AMD desktop counterpart to the Inspiron 530, and with exception of the CPU and motherboard, is virtually identical. Starting with the Athlon 64 X2 3800+ it can be customized up to an AMD Athlon 64 X2 6000+. The Athlon X2 7000, Phenom, Phenom II and Athlon II series are not supported. It uses 1 GB of DDR2 SDRAM at 667 MHz, which can be upgraded up to 8 GB 800 MHz under
+  
+   JEDEC DDR2 voltage specification
+  
+  . The model features the M2N61-AX OEM motherboard made by ASUS
+  
+
+    [37]
+   
+
+  and uses nVidia GeForce 6150 integrated graphics with the nForce 430i chipset, and has two PCI slots, one PCI-e X1 and one
+  
+   PCI-e X16 1.0a
+  
+  slot. Due to the arrangement of the expansion slots, however, use of a double height video card renders the PCI-e X1 slot useless. The motherboard also features four SATA 1.0 Ports, one EIDE (floppy) plug, three USB plugs for front USB, a Firewire plug, and a front audio plug. Cooling is somewhat limited, as the motherboard only provides one 4-pin PWM CPU fan plug, and one 3-pin rear fan plug. Installation of a fan controller will be required to use additional fans. Recently, the 6.05 version of nVidia's System Performance Tools allows minor FSB overclocking, but does not allow voltage or multiplier adjustments, limiting overclocking potential. The case is Micro-ATX sized, lightweight aluminum and features one 92 mm Rear fan, one external 3
+  
+
+
+
+    1
+   
+   ⁄
+   
+    2
+   
+
+  " drive bay, two 5
+  
+
+
+
+    1
+   
+   ⁄
+   
+    4
+   
+
+  " bays and two vertical 3
+  
+
+
+
+    1
+   
+   ⁄
+   
+    2
+   
+
+  " internal drive bays. It also features a standard ATX sized 300 watt power supply with four SATA plugs, one 24-pin ATX12V 2.0 plug and one 4-pin P4 plug, oddly excluding any standard 4-pin Molex connectors. The I/O Shield is also part of the case, preventing the installation of third-party motherboards without modifications to the case.
+ 
+  Released on Dell's website on May 12, 2009 the Inspiron 537 is a mini-tower desktop that replaces the Inspiron 530. The desktop has a black chassis, but the front shell can be customized with one of eight colors. Oddly, this model was replaced by the Inspiron 546, which uses AMD processors, after being available online for less than one month.
+  
+
+    [38]
+   
+
+
+  A higher end version of the Inspiron 530/531. Memory was upgradeable to 8 GB.
+ 
+  The Inspiron 560, 570 and 620 models were Dell's other Inspiron PC desktop models as of 2011.
+  
+
+    [39]
+   
+
+
+  Features
+  
+   7th Generation Intel Core
+  
+  i3-7100U processor, 4GB of memory, a 1TB 5400rpm
+  
+   hard drive
+  
+  and
+  
+   Intel HD Graphics
+  
+  620 with shared graphics memory
+ 
+  In the past, Dell has modified some existing Inspiron machines to produce computers of higher or lower quality, for example, the first-generation Inspiron XPS and Inspiron 9100 (2004–2006). Both machines (non-base) shared the same options in processors (Intel Pentium 4 HT "Prescott"), RAM (DDR 400 MHz), hard-drives (Ultra-ATA 5400/7200 RPM), wireless cards, LCD screens (at 15.4-inches; WXGA, WSXGA+, WUXGA) and graphics cards (ATI Mobility Radeon 9700 64 MB/128 MB), as well as the same chassis. Dell marketed the XPS as an "ultimate gaming machine", while marketing the 9100 as a "desktop replacement". The Inspiron 9100 is a rebadged XPS; the only difference between the two is the LCD Panel. Although both support a 15.4 Samsung LCD, only later models of the 9100 (3.2 GHz) use the identical LCD screen (Dell Part #s 7T774/W3866). The Samsung LCD Panel supports 1920×1200. Previous 2.8-3.0 GHz Inspiron 9100 use a lesser panel with resolutions of 1280×800 (Dell Part # Y0316).
+ 
+  In 2003, Dell released several lines of Inspiron notebooks that had overheating issues.
+  
+
+    [48]
+   
+
+  The systems would overheat and could cause damage to the microprocessor, video card, and motherboard. These systems would also randomly shut down due to high internal temperatures. Overheating in these Inspiron systems is mainly caused by performance-consuming tasks and software. This problem was determined to be due to the design of the air-flow from the bottom of the system. It would draw in dirt/dust and clog the heat sink, making air unable to pass through in order to cool the system. Affected models include the Dell Inspiron 1100, 1150, 5100, 5150, and 5160. Also affected is the Latitude 100L, a near-clone of these models.
+ 
+  Dell acknowledged this problem and designed a new fan with a better heatsink and heatpipes to provide better cooling with less noise. Any repairs made at this point will include the redesigned parts.
+ 
+  On September 20, Inspiron 5150 owners in the US brought a
+  
+   class action against Dell
+  
+  . The settlement included 100% cash reimbursement for certain repairs, and an extended limited warranty to cover those types of repairs that become necessary for one year.
+ 
+  Following the lawsuit detailed above, in October 2006 customers who had purchased Dell Inspiron 1100, 1150, 5100, 5150, and 5160 notebooks filed a class action lawsuit against Dell, alleging misconduct in connection with the design, manufacture, warranting, advertising and selling of these computers. A similar action started in Canada.
+  
+
+    [49]
+   
+
+
+
+    [50]
+   
+
+
+  Overheating has been reduced by using compressed air duster spray. Spraying the keyboard, the Microprocessor Thermal-Cooling Assembly located under the "I" - "backspace" keys, rear air vent/exhaust, bottom air intake, and side air vent (all located on the right side of affected systems)have been effective in reducing the running temperature from a normal
+  
+   operating temperature
+  
+  of 77-87 °C to 45-55 °C under average load.
+ 
+  Alternately, some users of these affected models found relief by underclocking their processors.
+ 
+  On a number of Inspiron 5150 and Latitude 100L systems, a design flaw in the positioning of a tab on the C panel on the underside of the laptop has led to problems.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Any pressure applied to the top left hand corner of the laptop causes this tab to press against the motherboard and in particular against the "LVC14A" chip. This causes the
+  
+   solder
+  
+  between this chip and the motherboard to break. This causes sudden shut-downs of the system as a result of any movement of the laptop; in certain cases the laptop will not re-boot at all. Dell has redesigned later models of the 5150 to avoid this problem. Some models reveal cases where someone has manually snapped off the tab from the C panel by hand during the manufacturing process. Dell currently
+  
+
+    [update]
+   
+
+  covers this fault in the United States under the
+  
+   Lundell Settlement
+  
+  , although it is not known whether
+  
+   Dell
+  
+  will fix this fault free of charge outside the USA. In January 2007 a similar lawsuit started in Canada
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  , and Dell in the Netherlands has agreed to repair Dutch computers following criticism in the consumer programme Kassa.
+  
+
+    [51]
+   
+
+
+  This has also been a problem with the Inspiron 1150, with the same chip giving problems with broken solder. Re-soldering is not recommended. Re-heating the pins can re-establish the connection and solve the power-off problem at the expense of possibly losing the use of the touch-pad mouse.
+ 
+  Dell posted notices to many of their laptop customers on August 14, 2006, saying that the Sony batteries on the following models could combust, or even explode:
+  
+
+    [52]
+   
+
+
+
+    [53]
+   
+
+
+
+   Latitude
+  
+  : D410, D500, D505, D510, D520, D600, D610, D620, D630, D800, D810
+ 
+
+   Inspiron
+  
+  : 6000, 6400, 8500, 8600, 9100, 9200, 9300, 500m, 510m, 600m, 6400, E1505, 700m, 710m, 9400, E1705
+ 
+
+   XPS
+  
+  : XPS, XPS Gen2, XPS M170, XPS M1710
+ 
+
+   Precision
+  
+  : M20, M60, M70, M90
+ 
+  Users of many of these computers purchased between April 2004 and July 18, 2006 received the recommendation that they should remove the batteries and run their computers on AC power until replacements arrived.
+  
+
+    [54]
+   
+
+  Problematic batteries made by Sony led to recall programs at other laptop computer companies as well, including Hitachi, Toshiba, Lenovo (IBM) and Apple.
+  
+
+    [55]
+   
+
+
+  Most Dell laptop computers have a special
+  
+   external power supply
+  
+  (PSU) which cannot be replaced by a third-party universal supply. The PSU has what's called
+  
+   UniqueWare™
+  
+  Add-Only Memory, known under type DS2501. It is a parasitic power circuit memory chip connected to the center identification pin in the plug, via a 2m long unshielded wire alongside the PSU cable. This chip produces a special signal using a 1 wire communication protocol known as "1-wire" in identifying the PSU as an original Dell PSU. This chip handles all the data needed to authenticate a charge. If a power supply not made by Dell is used, or the cable near the connector becomes damaged as is not infrequent after some use, the PSU stops charging the battery and the CPU runs slower, although the computer can be used indefinitely so long as it remains plugged in. If this problem is present at startup, the message "The AC power adapter type cannot be determined. Your system will operate slower and the battery will not charge" is displayed. This will continue until the external PSU is replaced. A few third-party suppliers make power supplies with specific provision for Dell computers at lower prices than Dell's. It is possible to work round the slowdown, but not the battery charging, by installing a CPU clock utility.
+  
+
+    [56]
+   
+
+  On some models (the 9100 for instance), the problem can be worked around by starting the computer without a battery installed and fitting the battery after the computer has booted.
+ 
+  Another problem arises after much use with the motherboard power connector; flap-like metal parts which contact the outside of the plug lose their tension and fail to make contact so that power does not reach the computer. The "official" solution is to replace the connector on the motherboard, which requires partial dis-assembly of the computer and desoldering a part with several pins; many companies charge a considerable sum for the work involved. Various simple alternatives have been suggested; for example a thin "skin" of solder on the outside of the barrel of the connector on the PSU (with care not to overheat the connector's plastic parts; and this thickened connector should not be used with other, not faulty Dell laptops, as it will stretch the springs and damage or even overheat the plug and socket assembly, causing them to melt or bond permanently).
+ 
+  One other problem can happen with the wattage rating of the power supply. There are 2 Dell power supplies that were used for different Inspiron models which have the same plug assembly and voltage, a 65 watt supply model PA-6 and a 90 watt supply model PA-9. Some models (for example the Inspiron 1100) shipped with a PA-9. If a PA-6 (or equivalent aftermarket supply) is used in these models then the system might not boot at times. In such cases, it will light the battery light for a few seconds when the supply is plugged in. This can also happen if the power supply becomes marginal. Marginal supplies can show as supplying full voltage even if tested with a volt meter while the supply is plugged into the computer and an attempt is made to turn on the computer.
+ 
+  These problems are discussed in detail, and solutions and workarounds suggested, in a discussion on Tom's hardware site,
+  
+
+    [57]
+   
+
+  and on The Laptop Junction site.
+  
+
+    [58]
+   
+
+
+  A problem exists with the hibernation sensor located in some older laptops. Unlike many laptops that use a mechanical switch to detect when the lid is closed, in these systems the sensor is a magnetic reed switch that is located between the touchpad and the front edge of the laptop. There is a magnet that is located in the top lid above this switch, and when the lid is closed the magnet triggers the reed switch. If the magnet loses strength then the system will not go into suspend or hibernation if the lid is closed. The magnet strength can be checked by running a paper clip along the top edge of the screen. A worse problem happens if the reed switch fails. Sometimes the switches will fail in a closed position with the contacts sticking together. In that case the system will not switch on. There are several ways to check for this. First the laptop can be partially disassembled and the mouse assembly can be unplugged from the system board and the system switched on. If the system boots with the mouse unplugged then it is the switch. Another way to check for the problem is by running a magnet over the reed switch, there should be a faint click when the magnet triggers the switch. This does not require disassembly but the magnet must be in the correct position and be strong enough. Some people have modified the circuitry of the laptop by cutting the switch off of the assembly, with the downside being the system will no longer suspend if the lid is closed.
+ 
+  Some 17" Inspiron 8600, 9200, 9300, 6000, 1750, and XPS Gen 2 notebook LCDs have a vertical line manufacturing defect. Symptoms range from individual lines to entire bars of the screen with inverted colors. Most problems showed after 2–4 years of usage.
+ 
+  Dell has been very reluctant to replace these panels after guarantee, although there was a direct link to the defective parts from their suppliers. Even warranty customers have had difficulty getting replacements, and replaced screens often develop the defect after a short time.
+  
+
+    [59]
+   
+
+
+  Dell's Home Office/Consumer class product lines:
+ 
+  Dell Business/Corporate class product lines:
+ 

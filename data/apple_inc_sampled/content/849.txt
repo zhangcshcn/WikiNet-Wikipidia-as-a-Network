@@ -1,0 +1,616 @@
+
+
+
+   Google data centers
+  
+  are the
+  
+   computer software
+  
+  and large hardware resources
+  
+   Google
+  
+  uses to provide their services. This article describes the technological
+  
+   infrastructure
+  
+  behind Google's websites as presented in the company's public announcements.
+ 
+
+
+  The locations of Google's various data centers are as follows:
+  
+
+    [1]
+   
+
+
+
+
+    United States
+   
+   :
+  
+
+
+
+    South America
+   
+   :
+  
+
+
+   Europe:
+  
+
+
+   Asia:
+  
+
+  The original hardware (circa 1998) that was used by Google when it was located at
+  
+   Stanford University
+  
+  included:
+  
+
+    [3]
+   
+
+
+  Google uses
+  
+   commodity-class
+  
+
+   x86
+  
+
+   server computers
+  
+  running customized versions of
+  
+   Linux
+  
+  . The goal is to purchase CPU generations that offer the best performance per dollar, not absolute performance. How this is measured is unclear, but it is likely to incorporate running costs of the entire server, and CPU power consumption could be a significant factor.
+  
+
+    [4]
+   
+
+  Servers as of 2009–2010 consisted of custom-made open-top systems containing two processors (each with several cores
+  
+
+    [5]
+   
+
+  ), a considerable amount of RAM spread over 8 DIMM slots housing double-height DIMMs, and at least two SATA hard disk drives connected through a non-standard ATX-sized power supply unit.
+  
+
+    [6]
+   
+
+  The servers were open top so more servers could be fit into a rack. According to CNET and to a book by
+  
+   John Hennessy
+  
+  , each server had a novel 12-volt battery to reduce costs and improve power efficiency.
+  
+
+    [5]
+   
+
+
+
+    [7]
+   
+
+
+  According to Google their global data center operation electrical power ranges between 500 and 681
+  
+   megawatts
+  
+  .
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  The combined processing power of these servers might have reached from 20 to 100
+  
+   petaflops
+  
+  in 2008.
+  
+
+    [10]
+   
+
+
+  Details of the Google worldwide private networks are not publicly available but Google publications
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+  make references to the "Atlas Top 10" report that ranks Google as the third largest ISP behind
+  
+   Level 3
+  
+  .
+  
+
+    [13]
+   
+
+
+  In order to run such a large network with direct connections to as many ISP as possible at the lowest possible cost Google has a very open
+  
+   peering
+  
+  policy.
+  
+
+    [14]
+   
+
+
+  From this site we can see that the Google network can be accessed from 67 public exchange points and 69 different locations across the world. As of May 2012 Google had 882 Gbit/s of public connectivity (not counting private peering agreements that Google has with the largest ISPs). This public network is used to distribute content to Google users as well as to crawl the Internet to build its search indexes.
+ 
+  The private side of the network is a secret but recent disclosure from Google
+  
+
+    [15]
+   
+
+  indicate that they use custom built high-radix switch-routers (with a capacity of 128 × 10
+  
+   Gigabit Ethernet
+  
+  port) for the
+  
+   wide area network
+  
+  . Running no less than two routers per datacenter (for redundancy) we can conclude that the Google network scales in the terabit per second range (with two fully loaded routers the bi-sectional bandwidth amount to 1,280 Gbit/s).
+ 
+  These custom switch-routers are connected to
+  
+   DWDM
+  
+  devices to interconnect data centers and
+  
+   point of presences
+  
+  (PoP) via
+  
+   dark fibre
+  
+  .
+ 
+  From a datacenter view, the network starts at the rack level, where
+  
+   19-inch racks
+  
+  are custom-made and contain 40 to 80 servers (20 to 40 1
+  
+   U
+  
+  servers on either side, while new servers are 2U rackmount systems.
+  
+
+    [16]
+   
+
+  Each rack has a
+  
+   switch
+  
+  ). Servers are connected via a 1 Gbit/s
+  
+   Ethernet
+  
+  link to the top of rack switch (TOR). TOR switches are then connected to a
+  
+   gigabit
+  
+  cluster switch using multiple gigabit or ten gigabit uplinks.
+  
+
+    [17]
+   
+
+  The cluster switches themselves are interconnected and form the datacenter interconnect fabric (most likely using a dragonfly design rather than a classic butterfly or flattened butterfly layout
+  
+
+    [18]
+   
+
+  ).
+ 
+  From an operation standpoint, when a client computer attempts to connect to Google, several
+  
+   DNS servers
+  
+  resolve
+  
+   www.google.com
+  
+  into multiple IP addresses via
+  
+   Round Robin
+  
+  policy. Furthermore, this acts as the first level of
+  
+   load balancing
+  
+  and directs the client to different Google clusters. A Google cluster has thousands of
+  
+   servers
+  
+  and once the client has connected to the server additional load balancing is done to send the queries to the least loaded web server. This makes Google one of the largest and most complex
+  
+   content delivery networks
+  
+  .
+  
+
+    [19]
+   
+
+
+  Google has numerous data centers scattered around the world. At least 12 significant Google data center installations are located in the United States. The largest known centers are located in
+  
+   The Dalles, Oregon
+  
+  ;
+  
+   Atlanta, Georgia
+  
+  ;
+  
+   Reston, Virginia
+  
+  ;
+  
+   Lenoir, North Carolina
+  
+  ; and
+  
+   Moncks Corner, South Carolina
+  
+  .
+  
+
+    [20]
+   
+
+  In Europe, the largest known centers are in
+  
+   Eemshaven
+  
+  and
+  
+   Groningen
+  
+  in the
+  
+   Netherlands
+  
+  and
+  
+   Mons
+  
+  ,
+  
+   Belgium
+  
+  .
+  
+
+    [20]
+   
+
+  Google's
+  
+   Oceania
+  
+  Data Center is claimed to be located in
+  
+   Sydney
+  
+  ,
+  
+   Australia
+  
+  .
+  
+
+    [21]
+   
+
+
+  One of the largest Google data centers is located in the town of
+  
+   The Dalles, Oregon
+  
+  , on the
+  
+   Columbia River
+  
+  , approximately 80 miles (129 km) from
+  
+   Portland
+  
+  . Codenamed "Project 02", the $600 million
+  
+
+    [22]
+   
+
+  complex was built in 2006 and is approximately the size of two
+  
+   American football fields
+  
+  , with
+  
+   cooling towers
+  
+  four stories high.
+  
+
+    [23]
+   
+
+  The site was chosen to take advantage of inexpensive
+  
+   hydroelectric power
+  
+  , and to tap into the region's large
+  
+   surplus
+  
+  of
+  
+   fiber optic
+  
+  cable, a remnant of the
+  
+   dot-com boom
+  
+  . A blueprint of the site appeared in 2008.
+  
+
+    [24]
+   
+
+
+  In February 2009,
+  
+   Stora Enso
+  
+  announced that they had sold the Summa paper mill in
+  
+   Hamina
+  
+  ,
+  
+   Finland
+  
+  to Google for 40 million Euros.
+  
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+  Google plans to invest 200 million euros on the site to build a data center.
+  
+
+    [27]
+   
+
+  Google chose this location due to the availability and proximity of renewable energy sources.
+  
+
+    [28]
+   
+
+
+  In 2005,
+  
+
+    [29]
+   
+
+  Google was researching a containerized
+  
+   modular data center
+  
+  . Google filed a patent application for this technology in 2003.
+  
+
+    [30]
+   
+
+
+  Most of the
+  
+   software stack
+  
+  that Google uses on their servers was developed in-house.
+  
+
+    [31]
+   
+
+  According to a well-known Google employee,
+  
+   C++
+  
+  ,
+  
+   Java
+  
+  ,
+  
+   Python
+  
+  and (more recently)
+  
+   Go
+  
+  are favored over other programming languages.
+  
+
+    [32]
+   
+
+  For example, the back end of Gmail is written in Java and the back end of Google Search is written in C++.
+  
+
+    [33]
+   
+
+  Google has acknowledged that Python has played an important role from the beginning, and that it continues to do so as the system grows and evolves.
+  
+
+    [34]
+   
+
+
+  The software that runs the Google infrastructure includes:
+  
+
+    [35]
+   
+
+
+  Google has developed several abstractions which it uses for storing most of its data:
+  
+
+    [43]
+   
+
+
+  Most operations are read-only. When an update is required, queries are redirected to other servers, so as to simplify consistency issues. Queries are divided into sub-queries, where those sub-queries may be sent to different ducts in
+  
+   parallel
+  
+  , thus reducing the latency time.
+  
+
+    [16]
+   
+
+
+  To lessen the effects of unavoidable
+  
+   hardware
+  
+  failure, software is designed to be
+  
+   fault tolerant
+  
+  . Thus, when a system goes down, data is still available on other servers, which increases reliability.
+ 
+  Like most search engines, Google indexes documents by building a data structure known as
+  
+   inverted index
+  
+  . Such an index obtains a list of documents by a query word. The index is very large due to the number of documents stored in the servers.
+  
+
+    [19]
+   
+
+
+  The index is partitioned by document IDs into many pieces called
+  
+   shards
+  
+  . Each shard is
+  
+   replicated
+  
+  onto multiple servers. Initially, the index was being served from
+  
+   hard disk drives
+  
+  , as is done in traditional
+  
+   information retrieval
+  
+  (IR) systems. Google dealt with the increasing query volume by increasing number of replicas of each shard and thus increasing number of servers. Soon they found that they had enough servers to keep a copy of the whole index in main memory (although with low replication or no replication at all), and in early 2001 Google switched to an
+  
+   in-memory index
+  
+  system. This switch "radically changed many design parameters" of their search system, and allowed for a significant increase in throughput and a large decrease in latency of queries.
+  
+
+    [48]
+   
+
+
+  In June 2010, Google rolled out a next-generation indexing and serving system called "Caffeine" which can continuously crawl and update the search index. Previously, Google updated its search index in batches using a series of
+  
+   MapReduce
+  
+  jobs. The index was separated into several layers, some of which were updated faster than the others, and the main layer wouldn't be updated for as long as two weeks. With Caffeine the entire index is updated incrementally on a continuous basis. Later Google revealed a distributed data processing system called "Percolator"
+  
+
+    [49]
+   
+
+  which is said to be the basis of Caffeine indexing system.
+  
+
+    [41]
+   
+
+
+
+    [50]
+   
+
+
+  Google's server infrastructure is divided into several types, each assigned to a different purpose:
+  
+
+    [16]
+   
+
+
+
+    [19]
+   
+
+
+
+    [51]
+   
+
+
+
+    [52]
+   
+
+
+
+    [53]
+   
+

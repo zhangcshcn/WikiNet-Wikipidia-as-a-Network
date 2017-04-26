@@ -1,0 +1,335 @@
+
+
+
+   iLife
+  
+  is a
+  
+   software suite
+  
+  for
+  
+   macOS
+  
+  and
+  
+   iOS
+  
+  developed by
+  
+   Apple Inc.
+  
+  It consists of various programs for media creation, organization, editing and publishing. It was composed of:
+  
+   iTunes
+  
+  ,
+  
+   iMovie
+  
+  ,
+  
+   iPhoto
+  
+  ,
+  
+   iDVD
+  
+  ,
+  
+   iWeb
+  
+  and
+  
+   GarageBand
+  
+  . With the exception of iTunes (which was separated from iLife at an earlier point) only iMovie and GarageBand remain and are sold separately on Apple's
+  
+   Mac App Store
+  
+  .
+  
+
+    [2]
+   
+
+  iDVD and iWeb have been discontinued and iPhoto has been succeeded by
+  
+   Photos
+  
+  .
+ 
+  iLife is preinstalled on new
+  
+   Mac
+  
+  computers and was sold as a bundle on DVD. With the introduction of the Mac App Store, Apple sold the programs separately and eventually discontinued the DVD altogether. iMovie and GarageBand remain free with the purchase of any new Mac computer or iOS device. Upgrades to the new versions from past App Store versions are currently a free upgrade for any user in comparison to past versions pre-App Store where the entire suite has to be purchased.
+ 
+
+
+
+   iMovie
+  
+  is the oldest of the application included with iLife. It was marketed by Apple as an easy-to-use video editing application that allowed novice users to quickly create professional-quality movies. The first version of the software was released in October 1999 and bundled with the
+  
+   iMac DV
+  
+  . On April 28, 2000, Apple began allowing users to download iMovie free of charge from its website.
+  
+
+    [3]
+   
+
+  iMovie remained free until 2003, when it became part of the first iLife release, which was sold for $49. Apple continued to update and develop the existing iMovie software until the release of iLife '08 in 2007, when a new version, iMovie '08, was released. iMovie '08 was completely rewritten as a new application and introduced significant changes to the
+  
+   user interface
+  
+  .
+  
+
+    [4]
+   
+
+
+
+   iPhoto
+  
+  was the second application in iLife that began as a free application available for download from Apple's website. The first version was announced at the
+  
+   Macworld Conference & Expo
+  
+  in 2002. It was billed as being the "missing link" in photography. In addition to allowing users to import, organize, and perform basic edits on their photos, iPhoto also let users print photos in a variety of ways, including as a bound book.
+  
+
+    [5]
+   
+
+  Subsequent versions of iPhoto have added a number of features, including automatic organization by events,
+  
+
+    [4]
+   
+
+  faces (using
+  
+   facial recognition
+  
+  technology), and places.
+  
+
+    [6]
+   
+
+  iPhoto also includes a full-screen editing mode and a feature called "Photocasting" (a way to share photos with others directly from within iPhoto).
+  
+
+    [7]
+   
+
+
+
+   iDVD
+  
+  was first announced on January 9, 2001. It was bundled with the
+  
+   Power Mac G4
+  
+  , the first Mac model with a
+  
+   SuperDrive
+  
+  that could read and write both
+  
+   CDs
+  
+  and
+  
+   DVDs
+  
+  . The first version of iDVD introduced a simple way to design customized DVDs with menus, backdrops, slideshows and home movies that could be played back on most
+  
+   DVD players
+  
+  .
+  
+
+    [8]
+   
+
+  iDVD was never released as a download. Instead, it was bundled with the first version of iLife, released in 2003.
+ 
+  The remaining two applications in the iLife suite were first introduced as part of iLife '04 and iLife '06, respectively. Released in 2004, the first version of
+  
+   GarageBand
+  
+  was designed as an easy way for both beginner and advanced musicians to create and edit music on their computers.
+  
+   iWeb
+  
+  was introduced at the Macworld Conference & Expo on January 10, 2006 and was promoted as a way for Mac users to create their own professionally designed websites without having to know or write
+  
+   HTML
+  
+  or any other code. The last version of iWeb was released with iLife '11
+  
+
+    [7]
+   
+
+
+     $15 per iLife app, $20 per iWork app
+     
+
+       [11]
+      
+
+
+
+   Notes about specific releases:
+  
+
+  iMovie is a
+  
+   digital video
+  
+  editor. The process of film capture by a
+  
+   digital camera
+  
+  via
+  
+   FireWire
+  
+  is automated, with iMovie allowing users to split up their videos, add titles and
+  
+   special effects
+  
+  , and reorganize them into movies. It is also compatible with
+  
+   MPEG 4
+  
+  cameras,
+  
+   AVCHD
+  
+  camcorders,
+  
+   HDV
+  
+  cameras, and Apple's
+  
+   iSight
+  
+  webcams. Photographs may also be used, and a soundtrack may be added using tracks from the user's
+  
+   iTunes
+  
+  music library. These can then be exported into a variety of viewable formats, including the
+  
+   .mov
+  
+  format used by Apple's
+  
+   QuickTime Player
+  
+  .
+  
+
+    [12]
+   
+
+
+  GarageBand is a music and podcast creation application that includes over 1,000 pre-recorded audio loops for use in projects. The program also supports
+  
+   software instruments
+  
+  and importation from real instruments, such as guitars and keyboards.
+ 
+  iPhoto was an application that allowed users to store, view, edit, and share their digital photos. Users could organize their photos in a number of ways. Events automatically grouped photos taken around the same time. Faces uses
+  
+   facial recognition
+  
+  to identify photos containing faces, which can then be tagged by users and sorted according to who is in the photo. Places takes advantage of
+  
+   geotagging
+  
+  technology. Many cameras today embed
+  
+   metadata
+  
+  into their digital photos containing information about the location where the photo was taken. Places allowed users to browse and see their photos on a map. iPhoto included tools to crop photos, reduce
+  
+   red-eye
+  
+  , add effects such as
+  
+   sepia
+  
+  and
+  
+   black and white
+  
+  , and to adjust the
+  
+   exposure
+  
+  ,
+  
+   saturation
+  
+  ,
+  
+   contrast
+  
+  and black and white balance of photos. In addition, users could have their photos printed, create books (hard bound copies of which can be ordered), calendars and greetings cards. As of April 8, 2015, Apple discontinued and removed iPhoto from the Mac App Store with the release of the new
+  
+   Photos
+  
+  app bundled with OS X Yosemite 10.10.3. As of today, iPhoto was NOT able to sync with iCloud and Photos can.
+ 
+  iDVD integrated with
+  
+   iMovie
+  
+  to allow the burning of movies onto a
+  
+   DVD
+  
+  . iDVD allows the user to customize their DVD with custom menus based on themes (many of which make use of the content of the movies) and custom chapter points. It contains the
+  
+   MPEG-2
+  
+  encoder functionality needed to produce DVD-compatible content. Each new version added more menu themes. In iLife '09 and iLife '11, iDVD was not updated (with the exception of a few bug fixes). There is no support for
+  
+   Blu-ray
+  
+  disc burning in the current version of iDVD.
+  
+
+    [13]
+   
+
+  As of July 20, 2011, Apple discontinued iDVD and it is no longer included with new Apple computers nor for sale.
+ 
+  iWeb, released at the
+  
+   Macworld Conference & Expo
+  
+  on January 10, 2006, provided the ability to easily turn content from the other iLife applications into
+  
+   websites
+  
+  using Apple-designed templates with one-click uploading to Apple's
+  
+   MobileMe
+  
+  sharing service. iWeb also allowed users to create links to their own podcasts and photocasts from the webpage. iWeb was the latest addition to the iLife suite when it was discontinued in June 2011.
+  
+
+    [14]
+   
+
+  As of July 20, 2011, Apple discontinued iWeb and it is no longer included with new Apple computers nor for sale.
+ 
+  MobileMe Web Gallery was a feature designed for easy photo sharing from directly within the iLife suite. It allowed users to create events or photo albums using the Web Gallery feature of their MobileMe account, and permitted visitors to a user's Gallery to view the photos. As of July 1, 2012 MobileMe and its Gallery was discontinued.
+ 

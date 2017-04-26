@@ -1,0 +1,2020 @@
+
+
+  A
+  
+   hard disk drive
+  
+  (
+  
+   HDD
+  
+  ),
+  
+   hard disk
+  
+  ,
+  
+   hard drive
+  
+  or
+  
+   fixed disk
+  
+
+
+    [b]
+   
+
+  is a
+  
+   data storage device
+  
+  that uses
+  
+   magnetic storage
+  
+  to store and retrieve
+  
+   digital
+  
+  information using one or more rigid rapidly rotating disks (
+  
+   platters
+  
+  ) coated with magnetic material. The platters are paired with
+  
+   magnetic heads
+  
+  , usually arranged on a moving
+  
+   actuator
+  
+  arm, which read and write data to the platter surfaces.
+  
+
+    [2]
+   
+
+  Data is accessed in a
+  
+   random-access
+  
+  manner, meaning that individual
+  
+   blocks
+  
+  of data can be stored or retrieved in any order and not only
+  
+   sequentially
+  
+  . HDDs are a type of
+  
+   non-volatile storage
+  
+  , retaining stored data even when powered off.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+  Introduced by
+  
+   IBM
+  
+  in 1956,
+  
+
+    [6]
+   
+
+  HDDs became the dominant
+  
+   secondary storage
+  
+  device for
+  
+   general-purpose computers
+  
+  by the early 1960s. Continuously improved, HDDs have maintained this position into the modern era of
+  
+   servers
+  
+  and
+  
+   personal computers
+  
+  . More than 200 companies have produced HDDs historically, though after extensive industry consolidation most current units are manufactured by
+  
+   Seagate
+  
+  ,
+  
+   Toshiba
+  
+  , and
+  
+   Western Digital
+  
+  . As of 2016
+  
+
+    [update]
+   
+
+  , HDD production (in bytes per year) is growing, although unit shipments and sales revenues are declining. The primary competing technology for secondary storage is
+  
+   flash memory
+  
+  in the form of
+  
+   solid-state drives
+  
+  (SSDs), which have higher data-transfer rates, higher
+  
+   areal storage density
+  
+  , better reliability,
+  
+
+    [7]
+   
+
+  and much lower latency and access times.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+  While SSDs have higher cost per
+  
+   bit
+  
+  , SSDs are replacing HDDs where speed,
+  
+   power consumption
+  
+  , small size, and durability are important.
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+
+  The primary characteristics of an HDD are its capacity and
+  
+   performance
+  
+  . Capacity is specified in
+  
+   unit prefixes
+  
+  corresponding to powers of 1000: a 1-
+  
+   terabyte
+  
+  (TB) drive has a capacity of 1,000
+  
+   gigabytes
+  
+  (GB; where 1 gigabyte = 1 billion
+  
+   bytes
+  
+  ). Typically, some of an HDD's capacity is unavailable to the user because it is used by the
+  
+   file system
+  
+  and the computer
+  
+   operating system
+  
+  , and possibly inbuilt redundancy for
+  
+   error correction
+  
+  and recovery. Performance is specified by the time required to move the heads to a track or cylinder (average access time) plus the time it takes for the desired sector to move under the head (average
+  
+   latency
+  
+  , which is a function of the physical
+  
+   rotational speed
+  
+  in
+  
+   revolutions per minute
+  
+  ), and finally the speed at which the data is transmitted (data rate).
+ 
+  The two most common
+  
+   form factors
+  
+  for modern HDDs are 3.5-
+  
+   inch
+  
+  , for desktop computers, and 2.5-inch, primarily for laptops. HDDs are connected to systems by standard
+  
+   interface
+  
+  cables such as
+  
+   PATA
+  
+  (Parallel ATA),
+  
+   SATA
+  
+  (Serial ATA),
+  
+   USB
+  
+  or SAS (
+  
+   Serial attached SCSI
+  
+  ) cables.
+ 
+
+
+  Hard disk drives were introduced in 1956, as data storage for an IBM real-time
+  
+   transaction processing computer
+  
+  and were developed for use with general-purpose
+  
+   mainframe
+  
+  and
+  
+   minicomputers
+  
+  . The first IBM drive, the
+  
+   350 RAMAC
+  
+  in 1956, was approximately the size of two medium-sized refrigerators and stored five million six-bit characters (3.75
+  
+   megabytes
+  
+  )
+  
+
+    [12]
+   
+
+  on a stack of 50 disks.
+  
+
+    [26]
+   
+
+
+  In 1962 the IBM 350 RAMAC disk storage unit was superseded by the IBM 1301 disk storage unit,
+  
+
+    [27]
+   
+
+  which consisted of 50 platters, each about 1/8-inch thick and 24 inches in diameter.
+  
+
+    [28]
+   
+
+  Whereas the IBM 350 used only two read/write heads which were pneumatically actuated
+  
+
+    [26]
+   
+
+  and moved in two dimensions, the 1301 was one of the first disk storage units to use an array of heads, one per platter, moving as a single unit.
+  
+   Cylinder-mode
+  
+  read/write operations were supported, and the heads flew about 250 micro-inches (about 6 µm) above the platter surface. Motion of the head array depended upon a binary adder system of hydraulic actuators which assured repeatable positioning. The 1301 cabinet was about the size of three home refrigerators placed side by side, storing the equivalent of about 21 million eight-bit bytes. Access time was about a quarter of a second.
+ 
+  Also in 1962, IBM introduced the
+  
+   model 1311
+  
+  disk drive, which was about the size of a washing machine and stored two million characters on a removable
+  
+   disk pack
+  
+  . Users could buy additional packs and interchange them as needed, much like reels of
+  
+   magnetic tape
+  
+  . Later models of removable pack drives, from IBM and others, became the norm in most computer installations and reached capacities of 300 megabytes by the early 1980s. Non-removable HDDs were called "fixed disk" drives.
+ 
+  Some high-performance HDDs were manufactured with one head per track (e.g.
+  
+   IBM 2305
+  
+  in 1970) so that no time was lost physically moving the heads to a track.
+  
+
+    [29]
+   
+
+  Known as fixed-head or head-per-track disk drives they were very expensive and are no longer in production.
+  
+
+    [30]
+   
+
+
+  In 1973, IBM introduced a new type of HDD code-named
+  
+   "Winchester"
+  
+  . Its primary distinguishing feature was that the disk heads were not withdrawn completely from the stack of disk platters when the drive was powered down. Instead, the heads were allowed to "land" on a special area of the disk surface upon spin-down, "taking off" again when the disk was later powered on. This greatly reduced the cost of the head actuator mechanism, but precluded removing just the disks from the drive as was done with the disk packs of the day. Instead, the first models of "Winchester technology" drives featured a removable disk module, which included both the disk pack and the head assembly, leaving the actuator motor in the drive upon removal. Later "Winchester" drives abandoned the removable media concept and returned to non-removable platters.
+ 
+  Like the first removable pack drive, the first "Winchester" drives used platters 14 inches (360 mm) in diameter. A few years later, designers were exploring the possibility that physically smaller platters might offer advantages. Drives with non-removable eight-inch platters appeared, and then drives that used a
+  
+   5
+   
+
+
+    1
+   
+   ⁄
+   
+    4
+   
+
+  in (130 mm)
+  
+   form factor
+  
+  (a mounting width equivalent to that used by contemporary
+  
+   optical disk drives
+  
+  ). The latter were primarily intended for the then-fledgling personal computer (PC) market.
+ 
+  As the 1980s began, HDDs were a rare and very expensive additional feature in PCs, but by the late 1980s their cost had been reduced to the point where they were standard on all but the cheapest computers.
+ 
+  Most HDDs in the early 1980s were sold to PC end users as an external, add-on subsystem. The subsystem was not sold under the drive manufacturer's name but under the subsystem manufacturer's name such as
+  
+   Corvus Systems
+  
+  and
+  
+   Tallgrass Technologies
+  
+  , or under the PC system manufacturer's name such as the
+  
+   Apple ProFile
+  
+  . The
+  
+   IBM PC/XT
+  
+  in 1983 included an internal 10 MB HDD, and soon thereafter internal HDDs proliferated on personal computers.
+ 
+  External HDDs remained popular for much longer on the
+  
+   Apple Macintosh
+  
+  . Many Macintosh computers made between 1986 and 1998 featured a
+  
+   SCSI
+  
+  port on the back, making external expansion simple. Older compact Macintosh computers did not have user-accessible hard drive bays (indeed, the
+  
+   Macintosh 128K
+  
+  ,
+  
+   Macintosh 512K
+  
+  , and
+  
+   Macintosh Plus
+  
+  did not feature a hard drive bay at all), so on those models external SCSI disks were the only reasonable option for expanding upon any internal storage.
+ 
+  The
+  
+   2011 Thailand floods
+  
+  damaged the manufacturing plants and impacted hard disk drive cost adversely between 2011 and 2013.
+  
+
+    [31]
+   
+
+
+  Driven by ever increasing
+  
+   areal density
+  
+  since their invention, HDDs have continuously improved their characteristics; a few highlights are listed in the table above. At the same time, market application expanded from
+  
+   mainframe computers
+  
+  of the late 1950s to most
+  
+   mass storage
+  
+  applications including computers and consumer applications such as storage of entertainment content.
+ 
+  A modern HDD records data by magnetizing a thin film of
+  
+   ferromagnetic material
+  
+
+
+    [f]
+   
+
+  on a disk. Sequential changes in the direction of magnetization represent binary data
+  
+   bits
+  
+  . The data is read from the disk by detecting the transitions in magnetization. User data is encoded using an encoding scheme, such as
+  
+   run-length limited
+  
+  encoding,
+  
+
+    [g]
+   
+
+  which determines how the data is represented by the magnetic transitions.
+ 
+  A typical HDD design consists of a
+  
+
+
+
+    spindle
+   
+
+  that holds flat circular disks, also called
+  
+   platters
+  
+  , which hold the recorded data. The platters are made from a non-magnetic material, usually aluminum alloy, glass, or ceramic, and are coated with a shallow layer of magnetic material typically 10–20
+  
+   nm
+  
+  in depth, with an outer layer of carbon for protection.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+  For reference, a standard piece of copy paper is 0.07–0.18 millimeters (70,000–180,000 nm).
+  
+
+    [36]
+   
+
+
+  The platters in contemporary HDDs are spun at speeds varying from 4,200
+  
+   rpm
+  
+  in energy-efficient portable devices, to 15,000 rpm for high-performance servers.
+  
+
+    [38]
+   
+
+  The first HDDs spun at 1,200 rpm
+  
+
+    [6]
+   
+
+  and, for many years, 3,600 rpm was the norm.
+  
+
+    [39]
+   
+
+  As of December 2013, the platters in most consumer-grade HDDs spin at either 5,400 rpm or 7,200 rpm.
+  
+
+    [40]
+   
+
+
+  Information is written to and read from a platter as it rotates past devices called
+  
+   read-and-write heads
+  
+  that are positioned to operate very close to the magnetic surface, with their
+  
+   flying height
+  
+  often in the range of tens of nanometers. The read-and-write head is used to detect and modify the magnetization of the material passing immediately under it.
+ 
+  In modern drives, there is one head for each magnetic platter surface on the spindle, mounted on a common arm. An actuator arm (or access arm) moves the heads on an arc (roughly radially) across the platters as they spin, allowing each head to access almost the entire surface of the platter as it spins. The arm is moved using a
+  
+   voice coil
+  
+  actuator or in some older designs a
+  
+   stepper motor
+  
+  . Early hard disk drives wrote data at some constant bits per second, resulting in all tracks having the same amount of data per track but modern drives (since the 1990s) use
+  
+   zone bit recording
+  
+  – increasing the write speed from inner to outer zone and thereby storing more data per track in the outer zones.
+ 
+  In modern drives, the small size of the magnetic regions creates the danger that their magnetic state might be lost because of
+  
+   thermal effects
+  
+  , thermally induced magnetic instability which is commonly known as the "
+  
+   superparamagnetic limit
+  
+  ". To counter this, the platters are coated with two parallel magnetic layers, separated by a 3-atom layer of the non-magnetic element
+  
+   ruthenium
+  
+  , and the two layers are magnetized in opposite orientation, thus reinforcing each other.
+  
+
+    [41]
+   
+
+  Another technology used to overcome thermal effects to allow greater recording densities is
+  
+   perpendicular recording
+  
+  , first shipped in 2005,
+  
+
+    [42]
+   
+
+  and as of 2007 the technology was used in many HDDs.
+  
+
+    [43]
+   
+
+
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+
+  In 2004, a new concept was introduced to allow further increase of the data density in magnetic recording, using recording media consisting of coupled soft and hard magnetic layers. That so-called
+  
+
+    exchange spring media
+   
+
+  , also known as
+  
+   exchange coupled composite media
+  
+  , allows good writability due to the write-assist nature of the soft layer. However, the thermal stability is determined only by the hardest layer and not influenced by the soft layer.
+  
+
+    [46]
+   
+
+
+
+    [47]
+   
+
+
+  A typical HDD has two electric motors; a spindle motor that spins the disks and an actuator (motor) that positions the read/write head assembly across the spinning disks. The disk motor has an external rotor attached to the disks; the stator windings are fixed in place. Opposite the actuator at the end of the head support arm is the read-write head; thin printed-circuit cables connect the read-write heads to amplifier electronics mounted at the pivot of the actuator. The head support arm is very light, but also stiff; in modern drives, acceleration at the head reaches 550
+  
+
+    g
+   
+
+  .
+ 
+  The
+  
+
+
+
+    actuator
+   
+
+  is a
+  
+   permanent magnet
+  
+  and
+  
+   moving coil
+  
+  motor that swings the heads to the desired position. A metal plate supports a squat
+  
+   neodymium-iron-boron
+  
+  (NIB) high-flux
+  
+   magnet
+  
+  . Beneath this plate is the moving coil, often referred to as the
+  
+
+    voice coil
+   
+
+  by analogy to the coil in
+  
+   loudspeakers
+  
+  , which is attached to the actuator hub, and beneath that is a second NIB magnet, mounted on the bottom plate of the motor (some drives have only one magnet).
+ 
+  The voice coil itself is shaped rather like an arrowhead, and made of doubly coated copper
+  
+   magnet wire
+  
+  . The inner layer is insulation, and the outer is thermoplastic, which bonds the coil together after it is wound on a form, making it self-supporting. The portions of the coil along the two sides of the arrowhead (which point to the actuator bearing center) then interact with the
+  
+   magnetic field
+  
+  of the fixed magnet. Current flowing radially outward along one side of the arrowhead and radially inward on the other produces the
+  
+   tangential force
+  
+  . If the magnetic field were uniform, each side would generate opposing forces that would cancel each other out. Therefore, the surface of the magnet is half north pole and half south pole, with the radial dividing line in the middle, causing the two sides of the coil to see opposite magnetic fields and produce forces that add instead of canceling. Currents along the top and bottom of the coil produce radial forces that do not rotate the head.
+ 
+  The HDD's electronics control the movement of the actuator and the rotation of the disk, and perform reads and writes on demand from the
+  
+   disk controller
+  
+  . Feedback of the drive electronics is accomplished by means of special segments of the disk dedicated to
+  
+   servo
+  
+  feedback. These are either complete concentric circles (in the case of dedicated servo technology), or segments interspersed with real data (in the case of embedded servo technology). The servo feedback optimizes the signal to noise ratio of the GMR sensors by adjusting the voice-coil of the actuated arm. The spinning of the disk also uses a servo motor. Modern disk firmware is capable of scheduling reads and writes efficiently on the platter surfaces and remapping sectors of the media which have failed.
+ 
+  Modern drives make extensive use of
+  
+   error correction codes
+  
+  (ECCs), particularly
+  
+   Reed–Solomon error correction
+  
+  . These techniques store extra bits, determined by mathematical formulas, for each block of data; the extra bits allow many errors to be corrected invisibly. The extra bits themselves take up space on the HDD, but allow higher recording densities to be employed without causing uncorrectable errors, resulting in much larger storage capacity.
+  
+
+    [48]
+   
+
+  For example, a typical 1
+  
+   TB
+  
+  hard disk with 512-byte sectors provides additional capacity of about 93
+  
+   GB
+  
+  for the
+  
+   ECC
+  
+  data.
+  
+
+    [49]
+   
+
+
+  In the newest drives, as of 2009,
+  
+   [
+   
+
+
+      needs update?
+     
+
+
+   ]
+  
+
+   low-density parity-check codes
+  
+  (LDPC) were supplanting Reed-Solomon; LDPC codes enable performance close to the
+  
+   Shannon Limit
+  
+  and thus provide the highest storage density available.
+  
+
+    [50]
+   
+
+
+  Typical hard disk drives attempt to "remap" the data in a physical sector that is failing to a spare physical sector provided by the drive's "spare sector pool" (also called "reserve pool"),
+  
+
+    [51]
+   
+
+  while relying on the ECC to recover stored data while the amount of errors in a bad sector is still low enough. The
+  
+   S.M.A.R.T
+  
+  (Self-Monitoring, Analysis and Reporting Technology) feature counts the total number of errors in the entire HDD fixed by ECC (although not on all hard drives as the related S.M.A.R.T attributes "Hardware ECC Recovered" and "Soft ECC Correction" are not consistently supported), and the total number of performed sector remappings, as the occurrence of many such errors may predict an
+  
+   HDD failure
+  
+  .
+ 
+  The "No-ID Format", developed by IBM in the mid-1990s, contains information about which sectors are bad and where remapped sectors have been located.
+  
+
+    [52]
+   
+
+
+  Only a tiny fraction of the detected errors ends up as not correctable. For example, specification for an enterprise SAS disk (a model from 2013) estimates this fraction to be one uncorrected error in every 10
+  
+   16
+  
+  bits,
+  
+
+    [53]
+   
+
+  and another SAS enterprise disk from 2013 specifies similar error rates.
+  
+
+    [54]
+   
+
+  Another modern (as of 2013) enterprise SATA disk specifies an error rate of less than 10 non-recoverable read errors in every 10
+  
+   16
+  
+  bits.
+  
+
+    [55]
+   
+
+
+   [
+   
+
+
+      needs update?
+     
+
+
+   ]
+  
+  An enterprise disk with a
+  
+   Fibre Channel
+  
+  interface, which uses 520 byte sectors to support the
+  
+   Data Integrity Field
+  
+  standard to combat data corruption, specifies similar error rates in 2005.
+  
+
+    [56]
+   
+
+
+  The worst type of errors are those that go unnoticed, and are not even detected by the disk firmware or the host operating system. These errors are known as
+  
+   silent data corruption
+  
+  , some of which may be caused by hard disk drive malfunctions.
+  
+
+    [57]
+   
+
+
+  The rate of areal density advancement was similar to Moore's law (doubling every two years) through 2010: 60% per year during 1988–1996, 100% during 1996–2003 and 30% during 2003–2010.
+  
+
+    [58]
+   
+
+  Gordon Moore (1997) called the increase "flabbergasting,"
+  
+
+    [59]
+   
+
+  while observing later that growth cannot continue forever.
+  
+
+    [60]
+   
+
+  Areal density advancement slowed to 10% per year during 2011–2014,
+  
+
+    [58]
+   
+
+  due to difficulty in migrating from perpendicular recording to newer technologies.
+  
+
+    [61]
+   
+
+
+  Areal density is the inverse of bit cell size, so an increase in areal density corresponds to a decrease in bit cell size. In 2013, a production desktop 3 TB HDD (with four platters) would have had an areal density of about 500 Gbit/in
+  
+   2
+  
+  which would have amounted to a bit cell comprising about 18 magnetic grains (11 by 1.6 grains).
+  
+
+    [62]
+   
+
+  Since the mid-2000s areal density progress has increasingly been challenged by a
+  
+   superparamagnetic
+  
+  trilemma involving grain size, grain magnetic strength and ability of the head to write.
+  
+
+    [63]
+   
+
+  In order to maintain acceptable signal to noise smaller grains are required; smaller grains may self-reverse (
+  
+   electrothermal instability
+  
+  ) unless their magnetic strength is increased, but known write head materials are unable to generate a magnetic field sufficient to write the medium. Several new magnetic storage technologies are being developed to overcome or at least abate this trilemma and thereby maintain the competitiveness of HDDs with respect to products such as
+  
+   flash memory
+  
+  -based
+  
+   solid-state drives
+  
+  (SSDs).
+ 
+  In 2013,
+  
+   Seagate
+  
+  introduced one such technology,
+  
+   shingled magnetic recording
+  
+  (SMR).
+  
+
+    [64]
+   
+
+  Additionally, SMR comes with design complexities that may cause reduced write performance.
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+  Other new recording technologies that, as of 2016
+  
+
+    [update]
+   
+
+  , still remain under development include
+  
+   heat-assisted magnetic recording
+  
+  (HAMR),
+  
+
+    [67]
+   
+
+
+
+    [68]
+   
+
+  microwave-assisted magnetic recording (MAMR),
+  
+
+    [69]
+   
+
+
+
+    [70]
+   
+
+  two-dimensional magnetic recording (TDMR),
+  
+
+    [62]
+   
+
+
+
+    [71]
+   
+
+
+   bit-patterned recording
+  
+  (BPR),
+  
+
+    [72]
+   
+
+  and "current perpendicular to plane"
+  
+   giant magnetoresistance
+  
+  (CPP/GMR) heads.
+  
+
+    [73]
+   
+
+
+
+    [74]
+   
+
+
+
+    [75]
+   
+
+
+  The rate of areal density growth has dropped below the historical Moore's law rate of 40% per year, and the deceleration is expected to persist through at least 2020. Depending upon assumptions on feasibility and timing of these technologies, the median forecast by industry observers and analysts for 2020 and beyond for areal density growth is 20% per year with a range of 10–30%.
+  
+
+    [76]
+   
+
+
+
+    [77]
+   
+
+
+
+    [78]
+   
+
+
+
+    [79]
+   
+
+  The achievable limit for the HAMR technology in combination with BPR and SMR may be 10 Tbit/in
+  
+   2
+  
+  ,
+  
+
+    [80]
+   
+
+  which would be 20 times higher than the 500 Gbit/in
+  
+   2
+  
+  represented by 2013 production desktop HDDs. As of 2015, HAMR HDDs have been delayed several years, and are expected in 2018. They require a different architecture, with redesigned media and read/write heads, new lasers, and new near-field optical transducers.
+  
+
+    [81]
+   
+
+
+  The capacity of a hard disk drive, as reported by an operating system to the end user, is smaller than the amount stated by the manufacturer, which has several reasons: the operating system using some space, use of some space for data redundancy, and space use for file system structures. The difference in capacity reported in true SI-based units vs.
+  
+   binary prefixes
+  
+  can lead to a false impression of missing capacity.
+ 
+  Modern hard disk drives appear to their host controller as a contiguous set of logical blocks, and the gross drive capacity is calculated by multiplying the number of blocks by the block size. This information is available from the manufacturer's product specification, and from the drive itself through use of operating system functions that invoke low-level drive commands.
+  
+
+    [82]
+   
+
+
+
+    [83]
+   
+
+
+  The gross capacity of older HDDs is calculated as the product of the number of
+  
+   cylinders
+  
+  per recording zone, the number of bytes per sector (most commonly 512), and the count of
+  
+   zones
+  
+  of the drive.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Some modern SATA drives also report
+  
+   cylinder-head-sector
+  
+  (CHS) capacities, but these are not physical parameters because the reported values are constrained by historic operating system interfaces. The C/H/S scheme has been replaced by
+  
+   logical block addressing
+  
+  (LBA), a simple linear addressing scheme that locates blocks by an integer index, which starts at LBA 0 for the first block and increments thereafter.
+  
+
+    [84]
+   
+
+  When using the C/H/S method to describe modern large drives, the number of heads is often set to 64, although a typical hard disk drive, as of 2013
+  
+
+    [update]
+   
+
+  , has between one and four platters.
+ 
+  In modern HDDs, spare capacity for defect management is not included in the published capacity; however, in many early HDDs a certain number of sectors were reserved as spares, thereby reducing the capacity available to the operating system.
+ 
+  For
+  
+   RAID
+  
+  subsystems, data integrity and fault-tolerance requirements also reduce the realized capacity. For example, a RAID 1 array has about half the total capacity as a result of data mirroring, while a RAID 5 array with
+  
+   x
+  
+  drives loses
+  
+   1/x
+  
+  of capacity (which equals to the capacity of a single drive) due to storing parity information. RAID subsystems are multiple drives that appear to be one drive or more drives to the user, but provide fault tolerance. Most RAID vendors use
+  
+   checksums
+  
+  to improve data integrity at the block level. Some vendors design systems using HDDs with sectors of 520 bytes to contain 512 bytes of user data and eight checksum bytes, or by using separate 512-byte sectors for the checksum data.
+  
+
+    [85]
+   
+
+
+  Some systems may use hidden
+  
+   partitions
+  
+  for system recovery, reducing the capacity available to the end user.
+ 
+  The presentation of a hard disk drive to its host is determined by the
+  
+   disk controller
+  
+  . The actual presentation may differ substantially from the drive's native
+  
+   interface
+  
+  , particularly in
+  
+   mainframes
+  
+  or
+  
+   servers
+  
+  . Modern HDDs, such as SAS
+  
+
+    [82]
+   
+
+  and SATA
+  
+
+    [83]
+   
+
+  drives, appear at their interfaces as a contiguous set of logical blocks that are typically 512 bytes long, though the industry is in the process of changing to the 4,096-byte logical blocks layout, known as the
+  
+   Advanced Format
+  
+  (AF).
+  
+
+    [86]
+   
+
+
+  The process of initializing these logical blocks on the physical disk platters is called
+  
+   low-level formatting
+  
+  , which is usually performed at the factory and is not normally changed in the field.
+  
+
+    [87]
+   
+
+
+
+    [h]
+   
+
+  As a next step in preparing an HDD for use,
+  
+   high-level formatting
+  
+  writes
+  
+   partition
+  
+  and
+  
+   file system
+  
+  structures into selected logical blocks to make the remaining logical blocks available to the host's
+  
+   operating system
+  
+  and its applications.
+  
+
+    [88]
+   
+
+  The file system uses some of the disk space to structure the HDD and organize files, recording their file names and the sequence of disk areas that represent the file. Examples of data structures stored on disk to retrieve files include the
+  
+   File Allocation Table
+  
+  (FAT) in the
+  
+   DOS
+  
+  file system and
+  
+   inodes
+  
+  in many
+  
+   UNIX
+  
+  file systems, as well as other operating system data structures (also known as
+  
+   metadata
+  
+  ). As a consequence, not all the space on an HDD is available for user files, but this system overhead is usually negligible.
+ 
+  The total capacity of HDDs is given by manufacturers in SI-based units
+  
+
+    [k]
+   
+
+  such as
+  
+   gigabytes
+  
+  (1 GB = 1,000,000,000 bytes) and
+  
+   terabytes
+  
+  (1 TB = 1,000,000,000,000 bytes).
+  
+
+    [89]
+   
+
+
+
+    [91]
+   
+
+
+
+    [92]
+   
+
+
+
+    [93]
+   
+
+
+
+    [94]
+   
+
+
+
+    [95]
+   
+
+  The practice of using SI-based prefixes (denoting powers of 1,000) in the hard disk drive and computer industries dates back to the early days of computing;
+  
+
+    [96]
+   
+
+  by the 1970s, "million", "mega" and "M" were consistently used in the decimal sense for drive capacity.
+  
+
+    [97]
+   
+
+
+
+    [98]
+   
+
+
+
+    [99]
+   
+
+  However, capacities of
+  
+   memory
+  
+  (
+  
+   RAM
+  
+  ,
+  
+   ROM
+  
+  ) and CDs are traditionally quoted using a
+  
+   binary interpretation
+  
+  of the prefixes, i.e. using powers of 1024 instead of 1000.
+ 
+  Internally, computers do not represent either hard disk drive or memory capacity in powers of 1,024, but reporting it in this manner is a convention.
+  
+
+    [100]
+   
+
+  The
+  
+   Microsoft Windows
+  
+  family of operating systems uses the binary convention when reporting storage capacity, so an HDD offered by its manufacturer as a 1 TB drive is reported by these operating systems as a 931 GB HDD.
+  
+   Mac OS X
+  
+  10.6 ("
+  
+   Snow Leopard
+  
+  ") uses decimal convention when reporting HDD capacity.
+  
+
+    [100]
+   
+
+  The default behavior of the
+  
+   df
+  
+
+   command-line utility
+  
+  on Linux is to report the HDD capacity as a number of 1024-byte units.
+  
+
+    [101]
+   
+
+
+  The difference between the decimal and binary prefix interpretation caused some consumer confusion and led to class action suits
+  
+   against HDD manufacturers
+  
+  . The plaintiffs argued that the use of decimal prefixes effectively misled consumers while the defendants denied any wrongdoing or liability, asserting that their marketing and advertising complied in all respects with the law and that no class member sustained any damages or injuries.
+  
+
+    [102]
+   
+
+
+
+    [103]
+   
+
+
+
+    [104]
+   
+
+
+  HDD price per byte improved at the rate of −40% per year during 1988–1996, −51% per year during 1996–2003, and −34% per year during 2003–2010.
+  
+
+    [20]
+   
+
+
+
+    [58]
+   
+
+  The price improvement decelerated to −13% per year during 2011–2014, as areal density increase slowed and the
+  
+   2011 Thailand floods
+  
+  damaged manufacturing facilities.
+  
+
+    [61]
+   
+
+
+  IBM's first hard drive, the
+  
+   IBM 350
+  
+  , used a stack of fifty 24-inch platters and was of a size comparable to two large refrigerators. In 1962,
+  
+   IBM
+  
+  introduced its
+  
+   model 1311
+  
+  disk, which used six 14-inch (nominal size) platters in a removable pack and was roughly the size of a washing machine. This became a standard platter size and drive form-factor for many years, used also by other manufacturers.
+  
+
+    [119]
+   
+
+  The
+  
+   IBM 2314
+  
+  used platters of the same size in an eleven-high pack and introduced the "drive in a drawer" layout, although the "drawer" was not the complete drive.
+ 
+  Later drives were designed to fit entirely into a chassis that would mount in a
+  
+   19-inch rack
+  
+  . Digital's
+  
+   RK05
+  
+  and RL01 were early examples using single 14-inch platters in removable packs, the entire drive fitting in a 10.5-inch-high rack space (six rack units). In the mid-to-late 1980s the similarly sized
+  
+   Fujitsu Eagle
+  
+  , which used (coincidentally) 10.5-inch platters, was a popular product.
+ 
+  Such large platters were never used with microprocessor-based systems. With increasing sales of microcomputers having built in
+  
+   floppy-disk drives (FDDs)
+  
+  , HDDs that would fit to the FDD mountings became desirable. Thus HDD
+  
+   Form factors
+  
+  , initially followed those of 8-inch, 5.25-inch, and 3.5-inch floppy disk drives. Because there were no smaller floppy disk drives, smaller HDD form factors developed from product offerings or industry standards.
+ 
+  As of 2012
+  
+
+    [update]
+   
+
+  , 2.5-inch and 3.5-inch hard disks were the most popular sizes.
+ 
+  By 2009, all manufacturers had discontinued the development of new products for the 1.3-inch, 1-inch and 0.85-inch form factors due to falling prices of
+  
+   flash memory
+  
+  ,
+  
+
+    [138]
+   
+
+
+
+    [139]
+   
+
+  which has no moving parts.
+ 
+  While these sizes are customarily described by an approximately correct figure in inches, actual sizes have long been specified in millimeters.
+ 
+  The factors that limit the
+  
+   time to access the data
+  
+  on an HDD are mostly related to the mechanical nature of the rotating disks and moving heads.
+  
+   Seek time
+  
+  is a measure of how long it takes the head assembly to travel to the track of the disk that contains data.
+  
+   Rotational latency
+  
+  is incurred because the desired disk sector may not be directly under the head when data transfer is requested. These two delays are on the order of milliseconds each. The
+  
+   bit rate
+  
+  or data transfer rate (once the head is in the right position) creates delay which is a function of the number of blocks transferred; typically relatively small, but can be quite long with the transfer of large contiguous files. Delay may also occur if the drive disks are stopped to save energy.
+ 
+  An HDD's
+  
+   Average Access Time
+  
+  is its average
+  
+   seek time
+  
+  which technically is the time to do all possible seeks divided by the number of all possible seeks, but in practice is determined by statistical methods or simply approximated as the time of a seek over one-third of the number of tracks.
+  
+
+    [140]
+   
+
+
+
+   Defragmentation
+  
+  is a procedure used to minimize delay in retrieving data by moving related items to physically proximate areas on the disk.
+  
+
+    [141]
+   
+
+  Some computer operating systems perform defragmentation automatically. Although automatic defragmentation is intended to reduce access delays, performance will be temporarily reduced while the procedure is in progress.
+  
+
+    [142]
+   
+
+
+
+   Time to access data
+  
+  can be improved by increasing rotational speed (thus reducing latency) or by reducing the time spent seeking. Increasing areal density increases
+  
+   throughput
+  
+  by increasing data rate and by increasing the amount of data under a set of heads, thereby potentially reducing seek activity for a given amount of data. The time to access data has not kept up with throughput increases, which themselves have not kept up with growth in bit density and storage capacity.
+ 
+  Average
+  
+   seek time
+  
+  ranges from under 4
+  
+   ms
+  
+  for high-end server drives
+  
+
+    [143]
+   
+
+  to 15 ms for mobile drives, with the most common mobile drives at about 12 ms
+  
+
+    [144]
+   
+
+  and the most common desktop type typically being around 9 ms. The first HDD had an average seek time of about 600 ms;
+  
+
+    [6]
+   
+
+  by the middle of 1970s, HDDs were available with seek times of about 25 ms.
+  
+
+    [145]
+   
+
+  Some early PC drives used a
+  
+   stepper motor
+  
+  to move the heads, and as a result had seek times as slow as 80–120 ms, but this was quickly improved by
+  
+   voice coil
+  
+  type actuation in the 1980s, reducing seek times to around 20 ms. Seek time has continued to improve slowly over time.
+ 
+  Some desktop and laptop computer systems allow the user to make a tradeoff between seek performance and drive noise. Faster seek rates typically require more energy usage to quickly move the heads across the platter, causing louder noises from the pivot bearing and greater device vibrations as the heads are rapidly accelerated during the start of the seek motion and decelerated at the end of the seek motion. Quiet operation reduces movement speed and acceleration rates, but at a cost of reduced seek performance.
+ 
+  Latency is the delay for the rotation of the disk to bring the required
+  
+   disk sector
+  
+  under the read-write mechanism. It depends on rotational speed of a disk, measured in
+  
+   revolutions per minute
+  
+  (rpm). Average rotational latency is shown in the table on the right, based on the statistical relation that the average latency in milliseconds for such a drive is one-half the rotational period. Average latency (in milliseconds) is computed as 30,000 divided by rotational speed (in rpm).
+  
+
+    [p]
+   
+
+
+  As of 2010
+  
+
+    [update]
+   
+
+  , a typical 7,200-rpm desktop HDD has a sustained "disk-to-
+  
+   buffer
+  
+  " data transfer rate up to 1,030
+  
+   Mbit/s
+  
+  .
+  
+
+    [146]
+   
+
+  This rate depends on the track location; the rate is higher for data on the outer tracks (where there are more data sectors per rotation) and lower toward the inner tracks (where there are fewer data sectors per rotation); and is generally somewhat higher for 10,000-rpm drives. A current widely used standard for the "buffer-to-computer" interface is 3.0
+  
+   Gbit/s
+  
+  SATA, which can send about 300 megabyte/s (10-bit encoding) from the buffer to the computer, and thus is still comfortably ahead of today's disk-to-buffer transfer rates. Data transfer rate (read/write) can be measured by writing a large file to disk using special file generator tools, then reading back the file. Transfer rate can be influenced by
+  
+   file system fragmentation
+  
+  and the layout of the files.
+  
+
+    [141]
+   
+
+
+  HDD data transfer rate depends upon the rotational speed of the platters and the data recording density. Because heat and vibration limit rotational speed, advancing density becomes the main method to improve sequential transfer rates. Higher speeds require a more powerful spindle motor, which creates more heat. While areal density advances by increasing both the number of tracks across the disk and the number of sectors per track, only the latter increases the data transfer rate for a given rpm. Since data transfer rate performance tracks only one of the two components of areal density, its performance improves at a lower rate.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Other performance considerations include quality-adjusted
+  
+   price
+  
+  , power consumption, audible noise, and both operating and non-operating shock resistance.
+ 
+  The
+  
+   Federal Reserve Board
+  
+  has a quality-adjusted
+  
+   price index
+  
+  for large-scale enterprise storage systems including three or more enterprise HDDs and associated controllers, racks and cables. Prices for these large-scale storage systems improved at the rate of ‒30% per year during 2004–2009 and ‒22% per year during 2009–2014.
+  
+
+    [58]
+   
+
+
+  HDDs are accessed over one of a number of
+  
+   bus
+  
+  types, including as of 2011
+  
+
+    [update]
+   
+
+  parallel
+  
+   ATA
+  
+  (PATA, also called IDE or
+  
+   EIDE
+  
+  ; described before the introduction of SATA as ATA),
+  
+   Serial ATA
+  
+  (SATA),
+  
+   SCSI
+  
+  ,
+  
+   Serial Attached SCSI
+  
+  (SAS), and
+  
+   Fibre Channel
+  
+  . Bridge circuitry is sometimes used to connect HDDs to buses with which they cannot communicate natively, such as
+  
+   IEEE 1394
+  
+  ,
+  
+   USB
+  
+  and
+  
+   SCSI
+  
+  .
+ 
+  Modern HDDs present a consistent interface to the rest of the computer, no matter what data encoding scheme is used internally. Typically a
+  
+   DSP
+  
+  in the electronics inside the HDD takes the raw analog voltages from the read head and uses
+  
+   PRML
+  
+  and
+  
+   Reed–Solomon error correction
+  
+
+
+    [147]
+   
+
+  to decode the sector boundaries and sector data, then sends that data out the standard interface. That DSP also watches the error rate detected by
+  
+   error detection and correction
+  
+  , and performs
+  
+   bad sector
+  
+  remapping, data collection for
+  
+   Self-Monitoring, Analysis, and Reporting Technology
+  
+  , and other internal tasks.
+ 
+  Modern interfaces connect an HDD to a host bus interface adapter (today typically integrated into the "
+  
+   south bridge
+  
+  ") with one data/control cable. Each drive also has an additional power cable, usually direct to the power supply unit.
+ 
+  Due to the extremely close spacing between the heads and the disk surface, HDDs are vulnerable to being damaged by a
+  
+   head crash
+  
+  – a
+  
+   failure of the disk
+  
+  in which the head scrapes across the platter surface, often grinding away the thin magnetic film and causing data loss. Head crashes can be caused by electronic failure, a sudden power failure, physical shock, contamination of the drive's internal enclosure, wear and tear,
+  
+   corrosion
+  
+  , or poorly manufactured platters and heads.
+ 
+  The HDD's spindle system relies on
+  
+   air density
+  
+  inside the
+  
+   disk enclosure
+  
+  to support the heads at their proper
+  
+   flying height
+  
+  while the disk rotates. HDDs require a certain range of air densities in order to operate properly. The connection to the external environment and density occurs through a small hole in the enclosure (about 0.5 mm in breadth), usually with a filter on the inside (the
+  
+   breather filter
+  
+  ).
+  
+
+    [148]
+   
+
+  If the air density is too low, then there is not enough lift for the flying head, so the head gets too close to the disk, and there is a risk of head crashes and data loss. Specially manufactured sealed and pressurized disks are needed for reliable high-altitude operation, above about 3,000 m (9,800 ft).
+  
+
+    [149]
+   
+
+  Modern disks include temperature sensors and adjust their operation to the operating environment. Breather holes can be seen on all disk drives – they usually have a sticker next to them, warning the user not to cover the holes. The air inside the operating drive is constantly moving too, being swept in motion by friction with the spinning platters. This air passes through an internal recirculation (or "recirc") filter to remove any leftover contaminants from manufacture, any particles or chemicals that may have somehow entered the enclosure, and any particles or outgassing generated internally in normal operation. Very high humidity present for extended periods of time can corrode the heads and platters.
+ 
+  For
+  
+   giant magnetoresistive
+  
+  (GMR) heads in particular, a minor head crash from contamination (that does not remove the magnetic surface of the disk) still results in the head temporarily overheating, due to friction with the disk surface, and can render the data unreadable for a short period until the head temperature stabilizes (so called "thermal asperity", a problem which can partially be dealt with by proper electronic filtering of the read signal).
+ 
+  When the logic board of a hard disk fails, the drive can often be restored to functioning order and the data recovered by replacing the circuit board with one of an identical hard disk. In the case of read-write head faults, they can be replaced using specialized tools in a dust-free environment. If the disk platters are undamaged, they can be transferred into an identical enclosure and the data can be copied or cloned onto a new drive. In the event of disk-platter failures, disassembly and imaging of the disk platters may be required.
+  
+
+    [150]
+   
+
+  For logical damage to file systems, a variety of tools, including
+  
+   fsck
+  
+  on
+  
+   UNIX-like
+  
+  systems and
+  
+   CHKDSK
+  
+  on
+  
+   Windows
+  
+  , can be used for
+  
+   data recovery
+  
+  . Recovery from logical damage can require
+  
+   file carving
+  
+  .
+ 
+  A common expectation is that hard disk drives designed and marketed for server use will fail less frequently than consumer-grade drives usually used in desktop computers. However, two independent studies by
+  
+   Carnegie Mellon University
+  
+
+
+    [151]
+   
+
+  and
+  
+   Google
+  
+
+
+    [152]
+   
+
+  found that the "grade" of a drive does not relate to the drive's failure rate.
+ 
+  A 2011 summary of research, into SSD and magnetic disk failure patterns by
+  
+   Tom's Hardware
+  
+  summarized research findings as follows:
+  
+
+    [153]
+   
+
+
+  More than 200 companies have manufactured HDDs over time. But consolidations have concentrated production into just three manufacturers today: Western Digital, Seagate, and Toshiba.
+ 
+  Worldwide revenues for disk storage were $28 billion in 2015, down from $32 billion in 2013.
+  
+
+    [161]
+   
+
+
+
+    [162]
+   
+
+  Worldwide shipments were 469 million units in 2015, down 17% from 564 million in 2014 and 551 million in 2013.
+  
+
+    [161]
+   
+
+  Market shares are 40–45% each for Seagate and Western Digital and 13–17% for Toshiba. The two largest manufacturers had an average sales price of USD $60 per HDD unit in 2015.
+ 
+  The maximum
+  
+   areal storage density
+  
+  for flash memory used in SSDs is 2.8 Tbit/in
+  
+   2
+  
+  in laboratory demonstrations as of 2016, and the maximum for HDDs is 1.5 Tbit/in
+  
+   2
+  
+  . The areal density of flash memory is doubling every two years, similar to
+  
+   Moore's law
+  
+  (40% per year) and faster than the 10–20% per year for HDDs. As of 2016, maximum capacity was 10 terabytes for an HDD,
+  
+
+    [163]
+   
+
+  and 15 terabytes for an SSD.
+  
+
+    [23]
+   
+
+  HDDs were used in 70% of the desktop and notebook computers produced in 2016, and SSDs were used in 30%. The usage share of HDDs is declining and could drop below 50% in 2018–2019 according to one forecast, because SSDs are replacing smaller-capacity (less than one-terabyte) HDDs in desktop and notebook computers and MP3 players.
+  
+
+    [164]
+   
+
+
+  External hard disk drives
+  
+
+    [q]
+   
+
+  typically connect via
+  
+   USB
+  
+  ; variants using USB 2.0 interface generally have slower data transfer rates when compared to internally mounted hard drives connected through SATA.
+  
+   Plug and play
+  
+  drive functionality offers system compatibility and features large storage options and portable design. As of March 2015
+  
+
+    [update]
+   
+
+  , available capacities for external hard disk drives ranged from 500 GB to 10 TB.
+  
+
+    [165]
+   
+
+
+  External hard disk drives are usually available as pre-assembled integrated products, but may be also assembled by combining an external
+  
+   enclosure
+  
+  (with USB or other interface) with a separately purchased drive. They are available in 2.5-inch and 3.5-inch sizes; 2.5-inch variants are typically called
+  
+   portable external drives
+  
+  , while 3.5-inch variants are referred to as
+  
+   desktop external drives
+  
+  . "Portable" drives are packaged in smaller and lighter enclosures than the "desktop" drives; additionally, "portable" drives use power provided by the USB connection, while "desktop" drives require external
+  
+   power bricks
+  
+  .
+ 
+  Features such as biometric security or multiple interfaces (for example,
+  
+   Firewire
+  
+  ) are available at a higher cost.
+  
+
+    [166]
+   
+
+  There are pre-assembled external hard disk drives that, when taken out from their enclosures, cannot be used internally in a laptop or desktop computer due to embedded USB interface on their
+  
+   printed circuit boards
+  
+  , and lack of SATA (or
+  
+   Parallel ATA
+  
+  ) interfaces.
+  
+
+    [167]
+   
+
+
+
+    [168]
+   
+
+
+  Hard disk drives are traditionally symbolized as a stylized stack of platters or as a cylinder, and are as such found in various diagrams; sometimes, they are depicted with small lights to indicate data access. In most modern
+  
+   graphical user environments
+  
+  (GUIs), hard disk drives are represented by an illustration or photograph of the drive enclosure.
+ 
+      In GUIs, hard disk drives are commonly symbolized with a drive icon
+     
+      Two cylinders in a
+      
+       RAID
+      
+      diagram, symbolizing an
+      
+       array
+      
+      of disks
+     

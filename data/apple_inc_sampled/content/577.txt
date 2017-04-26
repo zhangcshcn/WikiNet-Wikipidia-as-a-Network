@@ -1,0 +1,250 @@
+
+
+  This is a list and comparison of devices designed and marketed by
+  
+   Apple Inc.
+  
+  that run a
+  
+   Unix-like
+  
+
+   operating system
+  
+  named
+  
+   iOS
+  
+  , often colloquially referred to simply as iDevices.
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  The devices include the
+  
+   iPhone
+  
+  multimedia
+  
+   smartphone
+  
+  , the
+  
+   iPod Touch
+  
+
+   handheld PC
+  
+  which, in design, is similar to the iPhone, but has no cellular radio and other
+  
+   cell phone
+  
+  hardware, and the
+  
+   iPad
+  
+
+   tablet computer
+  
+  . All three devices function as
+  
+   digital audio
+  
+  and
+  
+   portable media
+  
+  players and
+  
+   Internet
+  
+  clients. The
+  
+   Apple TV
+  
+  , which ran
+  
+   iOS
+  
+  from the second generation of hardware onward, is a
+  
+   set-top box
+  
+  for streaming media from local sources and from certain internet services to a connected television set, and has no screen of its own. About 1.35 billion iOS devices have been sold worldwide as of March 2015.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+  The operating system on iOS devices can be updated through
+  
+   iTunes
+  
+  , or, on
+  
+   iOS 5
+  
+  or later, using
+  
+   over-the-air
+  
+  (
+  
+   OTA
+  
+  ) updates. A major version of iOS tends to be released every time a new type of iPhone is launched, (usually once a year) with minor changes throughout the year as needed. All updates are free to iOS devices (although iPod Touch users were formerly required to pay for the update). Apple upgrades its products' hardware periodically (approximately yearly).
+ 
+
+
+
+
+    [5]
+   
+
+
+     Analog Devices
+     
+      AD7149
+     
+     Capacitance Sensor Controller
+     
+
+       [10]
+      
+
+
+  The second generation of
+  
+   Apple TV
+  
+  onwards runs
+  
+   iOS
+  
+  . (The first generation ran a modified version of
+  
+   Mac OS X Tiger
+  
+  instead of
+  
+   iOS
+  
+  .)
+ 
+  Apple runs tests on pre-production units to determine battery life. However, these are purported maximums ("up to"), and actual user experiences vary.
+  
+
+    [86]
+   
+
+
+
+    [305]
+   
+
+
+
+    [306]
+   
+
+
+
+    [307]
+   
+
+
+
+    [308]
+   
+
+  All numbers are in
+  
+   hours
+  
+  unless specified.
+ 
+  Apple has increased the storage capacity of its devices over time. Units were or are available with a given storage capacity as indicated.
+ 
+  This table indicates the supported versions of
+  
+   iOS
+  
+  available for each generation of iOS devices. Beta versions may be listed only if support is discontinued for some older devices.
+ 
+  The 3½-inch display introduced with the original iPhone was almost unchanged in all models before 2010. The iPad has a larger display and also uses a different aspect ratio and resolution. The
+  
+   iPhone 4
+  
+  ,
+  
+   iPhone 4S
+  
+  , and fourth generation iPod Touch keep the physical dimensions of prior models, but double the resolution in both dimensions, thereby quadrupling the number of pixels in the same amount of space. The
+  
+   iPhone 5
+  
+  was the first departure from the traditional
+  
+   iPhone
+  
+  and
+  
+   iPod Touch
+  
+  screen size, increasing it from 3.5" to 4", and the resolution was increased to include the extra screen space. The
+  
+   iPhone 6
+  
+  and
+  
+   iPhone 6 Plus
+  
+  were the second departure from the traditional iPhone and iPod Touch screen size, increasing the screen sizes from 4" to 4.7" and 5.5" with increased resolution to include the extra screen space.
+ 
+     Photo Aligned LCD
+     
+
+       [319]
+      
+
+
+     Photo Aligned LCD
+    
+
+      Metal Oxide TFT
+     
+
+
+       [319]
+      
+
+
+
+       [324]
+      
+
+
+
+      Laminated Display
+     
+
+
+      Anti-Reflection Coating
+     
+
+
+       [319]
+      
+

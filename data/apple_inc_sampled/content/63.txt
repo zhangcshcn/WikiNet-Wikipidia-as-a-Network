@@ -1,0 +1,1730 @@
+
+
+
+   iOS
+  
+  (formerly
+  
+   iPhone OS
+  
+  ) is a
+  
+   mobile operating system
+  
+  created and developed by
+  
+   Apple Inc.
+  
+  exclusively for
+  
+   its hardware
+  
+  . It is the operating system that presently powers many of the company's mobile devices, including the
+  
+   iPhone
+  
+  ,
+  
+   iPad
+  
+  , and
+  
+   iPod Touch
+  
+  . It is the second most popular mobile operating system globally after
+  
+   Android
+  
+  . iPad tablets are also the second most popular, by sales, against Android since 2013.
+  
+
+    [9]
+   
+
+
+  Originally unveiled in 2007 for the
+  
+   iPhone
+  
+  , iOS has been extended to support other Apple devices such as the
+  
+   iPod Touch
+  
+  (September 2007) and the
+  
+   iPad
+  
+  (January 2010). As of January 2017
+  
+
+    [update]
+   
+
+  , Apple's
+  
+   App Store
+  
+  contains more than 2.2 million iOS applications, 1 million of which are native for iPads. These
+  
+   mobile apps
+  
+  have collectively been downloaded more than 130 billion times.
+ 
+  The iOS
+  
+   user interface
+  
+  is based upon
+  
+   direct manipulation
+  
+  , using
+  
+   multi-touch
+  
+  gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as
+  
+   swipe
+  
+  ,
+  
+   tap
+  
+  ,
+  
+   pinch
+  
+  , and
+  
+   reverse pinch
+  
+  , all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal
+  
+   accelerometers
+  
+  are used by some applications to respond to shaking the device (one common result is the
+  
+   undo
+  
+  command) or rotating it in
+  
+   three dimensions
+  
+  (one common result is switching between portrait and landscape mode). Apple has been significantly praised for incorporating thorough
+  
+   accessibility
+  
+  functions into iOS, enabling users with vision and hearing disabilities to properly use its products.
+ 
+  Major versions of iOS are released annually. The current version,
+  
+   iOS 10
+  
+  , was released on September 13, 2016. It is available for the
+  
+   iPhone 5
+  
+  and later iPhone models, the
+  
+   fourth-generation iPad
+  
+  , the
+  
+   iPad Air
+  
+  and
+  
+   iPad Air 2
+  
+  , the
+  
+   iPad Pro
+  
+  , the
+  
+   iPad Mini 2
+  
+  and later iPad Mini models, and the
+  
+   sixth-generation iPod Touch
+  
+  . In iOS, there are four
+  
+   abstraction layers
+  
+  : the Core OS,
+  
+   Core Services
+  
+  , Media, and Cocoa Touch layers.
+ 
+
+
+  In 2005, when
+  
+   Steve Jobs
+  
+  began planning the
+  
+   iPhone
+  
+  , he had a choice to either "shrink the Mac, which would be an epic feat of engineering, or enlarge the iPod". Jobs favored the former approach but pitted the
+  
+   Macintosh
+  
+  and
+  
+   iPod
+  
+  teams, led by
+  
+   Scott Forstall
+  
+  and
+  
+   Tony Fadell
+  
+  , respectively, against each other in an internal competition, with Forstall winning by creating the iPhone OS. The decision enabled the success of the iPhone as a platform for third-party developers: using a well-known desktop operating system as its basis allowed the many third-party Mac developers to write software for the iPhone with minimal retraining. Forstall was also responsible for creating a
+  
+   software development kit
+  
+  for programmers to build iPhone apps, as well as an
+  
+   App Store
+  
+  within
+  
+   iTunes
+  
+  .
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+
+  The operating system was unveiled with the iPhone at the
+  
+   Macworld Conference & Expo
+  
+  on January 9, 2007, and released in June of that year.
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+  At the time of its unveiling in January,
+  
+   Steve Jobs
+  
+  claimed: "iPhone runs OS X" and runs "desktop applications",
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+  but at the time of the iPhone's release, the operating system was renamed "iPhone OS".
+  
+
+    [17]
+   
+
+  Initially, third-party native applications were not supported. Steve Jobs' reasoning was that developers could build
+  
+   web applications
+  
+  through
+  
+   the Safari web browser
+  
+  that "would behave like native apps on the iPhone".
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  In October 2007, Apple announced that a native
+  
+   Software Development Kit (SDK)
+  
+  was under development and that they planned to put it "in developers' hands in February".
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+  On March 6, 2008, Apple held a press event, announcing the iPhone SDK.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+
+  The
+  
+   iOS App Store
+  
+  was opened on July 10, 2008 with an initial 500 applications available.
+  
+
+    [25]
+   
+
+  This quickly grew to 3,000 in September 2008,
+  
+
+    [26]
+   
+
+  15,000 in January 2009,
+  
+
+    [27]
+   
+
+  50,000 in June 2009,
+  
+
+    [28]
+   
+
+  100,000 in November 2009,
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+  250,000 in August 2010,
+  
+
+    [31]
+   
+
+
+
+    [32]
+   
+
+  650,000 in July 2012,
+  
+
+    [33]
+   
+
+  1 million in October 2013,
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+  2 million in June 2016,
+  
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+  and 2.2 million in January 2017.
+  
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+  As of March 2016
+  
+
+    [update]
+   
+
+  , 1 million apps are natively compatible with the
+  
+   iPad
+  
+  tablet computer.
+  
+
+    [41]
+   
+
+  These apps have collectively been downloaded more than 130 billion times.
+  
+
+    [36]
+   
+
+  App intelligence firm Sensor Tower has estimated that the App Store will reach 5 million apps by the year 2020.
+  
+
+    [42]
+   
+
+
+  On September 5, 2007, Apple released the iPod Touch, which had most of the non-phone capabilities of the iPhone. Apple also sold more than one million iPhones during the 2007 holiday season.
+  
+
+    [43]
+   
+
+  On January 27, 2010, Apple announced the
+  
+   iPad
+  
+  , featuring a larger screen than the iPhone and iPod Touch, and designed for web browsing, media consumption, and reading.
+  
+
+    [44]
+   
+
+
+  In June 2010, Apple rebranded iPhone OS as "iOS". The trademark "IOS" had been used by
+  
+   Cisco
+  
+  for over a decade for its operating system,
+  
+   IOS
+  
+  , used on its routers. To avoid any potential lawsuit, Apple licensed the "IOS" trademark from Cisco.
+  
+
+    [45]
+   
+
+
+  In October 2016, Apple opened its first iOS Developer Academy in
+  
+   Naples
+  
+  inside
+  
+   University of Naples Federico II
+  
+  's new campus.
+  
+
+    [46]
+   
+
+
+
+    [47]
+   
+
+
+     Platform usage as measured by the
+     
+      App Store
+     
+     on February 23, 2017.
+    
+  Apple provides major updates to the iOS operating system annually via
+  
+   iTunes
+  
+  and also, for iOS 5 and later,
+  
+   over the air
+  
+  . The latest version is
+  
+   iOS 10
+  
+  , released on September 13, 2016.
+  
+
+    [48]
+   
+
+  It is available for
+  
+   iPhone 5
+  
+  and later,
+  
+   fourth-generation iPad
+  
+  , first- and second-generation
+  
+   iPad Air
+  
+  ,
+  
+   iPad Pro
+  
+  ,
+  
+   iPad Mini 2
+  
+  and later, and sixth-generation
+  
+   iPod Touch
+  
+  .
+  
+
+    [49]
+   
+
+
+  Before the iOS 4 release in 2010, iPod Touch users had to pay for system software updates. Apple claimed that this was the case because the iPod Touch was not a 'subscription device' like the iPhone (i.e., it was a one-off purchase).
+  
+
+    [50]
+   
+
+  Apple said it had 'found a way' to deliver software updates for free to iPod Touch users at WWDC 2010 when iOS 4 was unveiled.
+  
+
+    [51]
+   
+
+
+  Charts in this section provide breakdowns of iOS versions, based on devices accessing the
+  
+   App Store
+  
+  as of February 23, 2017
+  
+
+    [update]
+   
+
+  .
+  
+
+    [52]
+   
+
+
+  The home screen, rendered by
+  
+   SpringBoard
+  
+  , displays
+  
+   application
+  
+  icons and a dock at the bottom where users can pin their most frequently used apps. The home screen appears whenever the user unlocks the device or presses the physical "Home" button whilst in another app.
+  
+
+    [53]
+   
+
+  Before iOS 4 on the iPhone 3GS (or later), the screen's background could be customized only through
+  
+   jailbreaking
+  
+  , but can now be changed out-of-the-box. The screen has a status bar across the top to display data, such as time, battery level, and signal strength. The rest of the screen is devoted to the current application. When a passcode is set and a user switches on the device, the passcode must be entered at the Lock Screen before access to the Home screen is granted.
+  
+
+    [54]
+   
+
+
+  In iPhone OS 3,
+  
+   Spotlight
+  
+  was introduced, allowing users to search media, apps, emails, contacts, messages, reminders, calendar events, and similar content. In iOS 7 and later, Spotlight is accessed by pulling down anywhere on the home screen (except for the top and bottom edges that open Notification Center and Control Center).
+  
+
+    [55]
+   
+
+
+
+    [56]
+   
+
+  In iOS 9, there are two ways to access Spotlight. As with iOS 7 and 8, pulling down on any homescreen will show Spotlight. However, it can also be accessed as it was in iOS 3 – 6. This gives a Spotlight endowed with Siri suggestions, which include app suggestions, contact suggestions and news.
+  
+
+    [57]
+   
+
+  In iOS 10, Spotlight is at the top of the now-dedicated "Today" panel.
+  
+
+    [58]
+   
+
+
+  Since iOS 3.2, users are able to set a background image for the Home screen. This feature is only available on third-generation devices or newer –
+  
+   iPhone 3GS
+  
+  +,
+  
+   iPod Touch
+  
+  3rd generation+ (iOS 4.0+), and all iPad models (iOS 3.2+).
+ 
+  Researchers found that users organize icons on their homescreens based on usage-frequency and relatedness of the applications, as well as for reasons of usability and aesthetics.
+  
+
+    [59]
+   
+
+
+  iOS originally used
+  
+   Helvetica
+  
+  as the system font. With the release of the
+  
+   iPhone 4
+  
+  and
+  
+   iOS 4
+  
+  , iOS switched to
+  
+   Helvetica Neue
+  
+  with
+  
+   Retina Displays
+  
+  , but retained Helvetica as the system font for older devices.
+  
+
+    [60]
+   
+
+
+   iOS 7
+  
+  provided the ability to scale text or switch to Neue Bold as the default system font, as accessibility options.
+  
+   iOS 9
+  
+  changed the font to
+  
+   San Francisco
+  
+  , a Apple-designed font for maximum legibility on computer and mobile displays, originally introduced as the system font for the
+  
+   Apple Watch
+  
+  .
+  
+
+    [61]
+   
+
+
+  iOS 4 introduced folders, which were created when two applications are in "jiggle mode"(with the exception of
+  
+   Newsstand
+  
+  in
+  
+   iOS 5
+  
+  -
+  
+   6
+  
+
+
+    [62]
+   
+
+  ) are dragged together to create it, and from then on, more can be added using the same procedure. It can be up to 12 on iPhone 4S and earlier and iPod Touch, 16 on iPhone 5, and 20 on iPad. A title for the folder is automatically selected by the category of applications inside, but the name can also be edited by the user. When apps inside folders receive badges, the numbers shown by the badges is added up and shown on the folder. Folders cannot be put into other folders, though an unofficial workaround exists that enables folders to be nested within folders.
+  
+
+    [63]
+   
+
+  iOS 7 updated the folders with pages like on the SpringBoard. Each page can hold nine apps, and the Newsstand app is now able to be placed into a folder.
+ 
+  Before iOS 5, notifications were delivered in a
+  
+   modal window
+  
+  and couldn't be viewed after being dismissed. In iOS 5, Apple introduced
+  
+   Notification Center
+  
+  , which allows users to view a history of notifications. The user can tap a notification to open its corresponding app, or clear it.
+  
+
+    [64]
+   
+
+  Notifications are now delivered in banners that appear briefly at the top of the screen. If a user taps a received notification, the application that sent the notification will be opened. Users can also choose to view notifications in modal alert windows by adjusting the application's notification settings. Introduced with iOS 8, widgets are now accessible through the Notification Center, defined by 3rd parties.
+ 
+  When an app sends a notification while closed, a red badge appears on its icon. This badge tells the user, at a glance, how many notifications that app has sent. Opening the app clears the badge.
+ 
+  iOS offers various accessibility features to help users with vision and hearing disabilities. One major feature,
+  
+   VoiceOver
+  
+  , provides a voice reading information on the screen, including contextual buttons, icons, links and other
+  
+   user interface
+  
+  elements, and allows the user to navigate the operating system through gestures. Any apps with default controls and developed with a UIKit
+  
+   framework
+  
+  gets VoiceOver functionality built in.
+  
+
+    [65]
+   
+
+  One example includes holding up the iPhone to take a photo, with VoiceOver describing the photo scenery.
+  
+
+    [66]
+   
+
+  As part of a "Made for iPhone" program, introduced with the release of
+  
+   iOS 7
+  
+  in 2013, Apple has developed technology to use
+  
+   Bluetooth
+  
+  and a special technology protocol to let compatible third-party equipment connect with iPhones and iPads for streaming audio directly to a user's ears. Additional customization available for Made for iPhone products include battery tracking and adjustable sound settings for different environments.
+  
+
+    [67]
+   
+
+
+
+    [68]
+   
+
+  Apple made further efforts for accessibility for the release of
+  
+   iOS 10
+  
+  in 2016, adding a new pronunciation editor to VoiceOver, adding a Magnifier setting to enlarge objects through the device's camera, software
+  
+   TTY
+  
+  support for deaf people to make phone calls from the iPhone, and giving tutorials and guidelines for third-party developers to incorporate proper accessibility functions into their apps.
+  
+
+    [69]
+   
+
+
+  In 2012, Liat Kornowski from
+  
+
+    The Atlantic
+   
+
+  wrote that "the iPhone has turned out to be one of the most revolutionary developments since the invention of
+  
+   Braille
+  
+  ",
+  
+
+    [70]
+   
+
+  and in 2016, Steven Aquino of
+  
+
+    TechCrunch
+   
+
+  described Apple as "leading the way in assistive technology", with Sarah Herrlinger, Senior Manager for Global Accessibility Policy and Initiatives at Apple, stating that "We see accessibility as a basic human right. Building into the core of our products supports a vision of an inclusive world where opportunity and access to information are barrier-free, empowering individuals with disabilities to achieve their goals".
+  
+
+    [71]
+   
+
+
+
+   Multitasking
+  
+  for iOS was first released in June 2010 along with the release of
+  
+   iOS 4
+  
+  .
+  
+
+    [72]
+   
+
+
+
+    [73]
+   
+
+  Only certain devices—
+  
+   iPhone 4
+  
+  ,
+  
+   iPhone 3GS
+  
+  , and
+  
+   iPod Touch
+  
+  3rd generation—were able to multitask.
+  
+
+    [74]
+   
+
+  The
+  
+   iPad
+  
+  did not get multitasking until iOS 4.2.1 in November.
+  
+
+    [75]
+   
+
+  Currently, multitasking is supported on iPhone 3GS+, iPod Touch 3rd generation+, and all iPad models.
+  
+
+    [76]
+   
+
+
+  Implementation of multitasking in iOS has been criticized for its approach, which limits the work that applications in the background can perform to a limited function set and requires application developers to add explicit support for it.
+  
+
+    [74]
+   
+
+
+
+    [77]
+   
+
+
+  Before iOS 4, multitasking was limited to a selection of the applications Apple included on the device. Users could, however "jailbreak" their device in order to unofficially multitask.
+  
+
+    [78]
+   
+
+  Starting with iOS 4, on third-generation and newer iOS devices, multitasking is supported through seven background
+  
+   APIs
+  
+  :
+  
+
+    [79]
+   
+
+
+  In iOS 5, three new background APIs were introduced:
+ 
+  In iOS 7, Apple introduced a new multitasking feature, providing all apps with the ability to perform background updates. This feature prefers to update the user's most frequently used apps and prefers to use WiFi networks over a cellular network, without markedly reducing the device's battery life.
+ 
+  In iOS 4.0 to iOS 6.x, double-clicking the home button activates the application switcher. A scrollable dock-like interface appears from the bottom, moving the contents of the screen up. Choosing an icon switches to an application. To the far left are icons which function as music controls, a rotation lock, and on iOS 4.2 and above, a volume controller.
+ 
+  With the introduction of iOS 7, double clicking the home button also activates the application switcher. However, unlike previous versions it displays screenshots of open applications on top of the icon and horizontal scrolling allows for browsing through previous apps, and it is possible to close applications by dragging them up, similar to how
+  
+   WebOS
+  
+  handled multiple cards.
+  
+
+    [81]
+   
+
+
+  With the introduction of iOS 9, the application switcher received a significant visual change; whilst still retaining the card metaphor introduced in iOS 7, the application icon is smaller, and appears above the screenshot (which is now larger, due to the removal of "Recent and Favorite Contacts"), and each application "card" overlaps the other, forming a
+  
+   rolodex
+  
+  effect as the user scrolls. Now, instead of the home screen appearing at the leftmost of the application switcher, it appears rightmost.
+  
+
+    [82]
+   
+
+
+  In iOS 4.0 to iOS 6.x, briefly holding the icons in the application switcher makes them "jiggle" (similarly to the homescreen) and allows the user to
+  
+   force
+  
+  quit the applications by tapping the red minus circle that appears at the corner of the app's icon.
+  
+
+    [83]
+   
+
+  Clearing applications from multitasking stayed the same from iOS 4.0 through 6.1.6, the last version of iOS 6.
+ 
+  As of iOS 7, the process has become faster and easier. In iOS 7, instead of holding the icons to close them, they are closed by simply swiping them upwards off the screen. Up to three apps can be cleared at a time compared to one in versions up to iOS 6.1.6.
+  
+
+    [84]
+   
+
+
+  Task completion allows apps to continue a certain task after the app has been suspended.
+  
+
+    [85]
+   
+
+
+
+    [86]
+   
+
+  As of iOS 4.0, apps can request up to ten minutes to complete a task in the background.
+  
+
+    [87]
+   
+
+  This doesn't extend to background up- and downloads though (e.g. if you start a download in one application, it won't finish if you switch away from the application).
+ 
+  Siri is a personal assistant and knowledge navigator which works as an application on supported devices. The service, directed by the user's spoken commands, can do a variety of different tasks, such as call or text someone, open an app, search the web, lookup sports information, find directions or locations, and answer general knowledge questions (e.g. "How many cups are in a gallon?").
+  
+
+    [88]
+   
+
+  Siri was updated in iOS 7 with a new interface, faster answers, Wikipedia, Twitter, and Bing support and the voice was changed to sound more human. Siri is currently only available on the
+  
+   iPhone 4S
+  
+  and later iPhones, the
+  
+   fifth
+  
+  and
+  
+   sixth
+  
+  generation
+  
+   iPod Touch
+  
+  , all of the models of the
+  
+   iPad Mini
+  
+  , and the
+  
+   third-generation
+  
+  and later iPads.
+ 
+  Game Center is an
+  
+   online
+  
+
+   multiplayer
+  
+  "social gaming network"
+  
+
+    [89]
+   
+
+  released by Apple.
+  
+
+    [90]
+   
+
+  It allows users to "invite friends to play a game, start a multiplayer game through matchmaking, track their
+  
+   achievements
+  
+  , and compare their high scores on a
+  
+   leaderboard
+  
+  ." iOS 5 and above adds support for profile photos.
+  
+
+    [89]
+   
+
+
+  Game Center was announced during an iOS 4 preview event hosted by Apple on April 8, 2010. A preview was released to registered Apple developers in August.
+  
+
+    [89]
+   
+
+  It was released on September 8, 2010 with iOS 4.1 on
+  
+   iPhone 4
+  
+  , iPhone 3GS, and iPod Touch 2nd generation through 4th generation.
+  
+
+    [91]
+   
+
+  Game Center made its public debut on the iPad with iOS 4.2.1.
+  
+
+    [92]
+   
+
+  There is no support for the
+  
+   iPhone 3G
+  
+  ,
+  
+   original iPhone
+  
+  and the
+  
+   first-generation iPod Touch
+  
+  (the latter two devices did not have Game Center because they did not get iOS 4). However, Game Center is unofficially available on the iPhone 3G via a hack.
+  
+
+    [93]
+   
+
+
+  Authorized third-party
+  
+   native applications
+  
+  are available through Apple's
+  
+   App Store
+  
+  for devices running iPhone OS 2.0 and higher. Native apps must be written in
+  
+   Swift
+  
+  or
+  
+   Objective-C
+  
+  (with some elements optionally in
+  
+   C
+  
+  or
+  
+   C++
+  
+  ) and compiled specifically for iOS and the
+  
+   64-bit
+  
+  ARM architecture or previous
+  
+   32-bit
+  
+  one (typically using
+  
+   Xcode
+  
+  ).
+  
+   Third-party attempts
+  
+  have been made to allow apps written with
+  
+   Java
+  
+  ,
+  
+   .NET
+  
+  , and
+  
+   Adobe Flash
+  
+  to run on iOS devices, but due to Apple restrictions these are generally not available in the iOS App Store.
+ 
+  The
+  
+   Safari
+  
+
+   web browser
+  
+  supports
+  
+   web applications
+  
+  as with other web browsers.
+  
+   Hybrid apps
+  
+  embed a mobile web site inside a native app, possibly using a hybrid framework like
+  
+   Apache Cordova
+  
+  or
+  
+   React Native
+  
+  .
+ 
+  iOS shares some frameworks with Apple's desktop operating system
+  
+   macOS
+  
+  , such as
+  
+   Core Foundation
+  
+  and
+  
+   Foundation Kit
+  
+  ; however, its UI toolkit is
+  
+   Cocoa Touch
+  
+  rather than macOS'
+  
+   Cocoa
+  
+  , providing the UIKit rather than the
+  
+   AppKit
+  
+  framework, preventing
+  
+   source compatibility
+  
+  with desktop applications. Also,
+  
+   Unix-like
+  
+
+   shell access
+  
+  is strictly apps-only, preventing it from being fully Unix despite its
+  
+   Darwin
+  
+  foundation from macOS itself.
+ 
+  On October 17, 2007, in an open letter posted to Apple's "Hot News" weblog, Steve Jobs announced that a
+  
+   software development kit
+  
+  (SDK) would be made available to third-party developers in February 2008.
+  
+
+    [94]
+   
+
+  The SDK was released on March 6, 2008, and allows developers to make applications for the iPhone and iPod Touch, as well as test them in an "iPhone simulator". However, loading an application onto the devices is only possible after paying an iPhone Developer Program fee.
+ 
+  The fees to join the respective developer programs for iOS and macOS were each set at US$99.00 per year. As of July 20, 2011, Apple released
+  
+   Xcode
+  
+  on its Mac App Store free to download for all
+  
+   Mac OS X Lion
+  
+  users, instead of as a standalone download. Users can create and develop iOS and macOS applications using a free copy of Xcode; however, they cannot test their applications on a physical iOS device, or publish them to the App store, without first paying the yearly $99.00 iPhone Developer or Mac Developer Program fee.
+  
+
+    [95]
+   
+
+
+  Since the release of
+  
+   Xcode
+  
+  3.1, Xcode is the development environment for the iOS SDK.
+ 
+  Developers are able to set any price above a set minimum for their applications to be distributed through the
+  
+   App Store
+  
+  , keeping 70% for the developer, and leaving 30% for Apple. Alternatively, they may opt to release the application for free and need not pay any costs to release or distribute the application except for the membership fee.
+  
+
+    [96]
+   
+
+
+  iOS is the second most popular mobile operating system in the world, after
+  
+   Android
+  
+  . Sales of iPads in recent years are also behind Android, while, by web use (a proxy for all use), iPads (using iOS) are still most popular.
+  
+
+    [97]
+   
+
+
+  By the middle of 2012, there were 410 million devices activated.
+  
+
+    [98]
+   
+
+  At
+  
+   WWDC
+  
+  2014,
+  
+   Tim Cook
+  
+  said 800 million devices had been sold by June 2014.
+  
+
+    [99]
+   
+
+
+  During Apple's quarterly earnings call in January 27, 2015, Apple announced that they have now sold one billion iOS devices since 2007
+  
+
+    [100]
+   
+
+  (a little less than Android sold in 2014 only
+  
+
+    [101]
+   
+
+  ).
+ 
+  By late 2011, iOS accounted for 60% of the market share for smartphones and tablets.
+  
+
+    [102]
+   
+
+  By the end of 2014, iOS accounted for 14.8% of the smartphone market
+  
+
+    [103]
+   
+
+  and 27.6% of the tablet and two-in-one market.
+  
+
+    [104]
+   
+
+  In February 2015,
+  
+   StatCounter
+  
+  reported iOS was used on 23.18% of smartphones and 66.25% of tablets worldwide.
+  
+
+    [105]
+   
+
+
+  In the third quarter of 2015, research from Strategy Analytics showed that iOS adoption of the worldwide smartphone market was at a record-low 12.1%, attributed to lackluster performance in China and Africa. Android accounted for 87.5% of the market, with Windows Phone and BlackBerry accounting for the rest.
+  
+
+    [106]
+   
+
+
+
+    [107]
+   
+
+
+  Since its initial release, iOS has been subject to a variety of different hacks centered around adding functionality not allowed by Apple.
+  
+
+    [108]
+   
+
+  Prior to the 2008 debut of Apple's native
+  
+   iOS App Store
+  
+  , the primary motive for jailbreaking was to bypass Apple's purchase mechanism for installing the App Store's native applications.
+  
+
+    [109]
+   
+
+  Apple claimed that it will not release iOS software updates designed specifically to break these tools (other than applications that perform
+  
+   SIM unlocking
+  
+  ); however, with each subsequent iOS update, previously un-patched jailbreak exploits are usually patched.
+  
+
+    [110]
+   
+
+
+  Since the arrival of Apple's native iOS App Store, and—along with it—third-party applications, the general motives for jailbreaking have changed.
+  
+
+    [111]
+   
+
+  People jailbreak for many different reasons, including gaining filesystem access, installing custom device themes, and modifying SpringBoard. An additional motivation is that it may enable the installation of pirated apps. On some devices, jailbreaking also makes it possible to install alternative operating systems, such as Android and the Linux kernel. Primarily, users jailbreak their devices because of the limitations of iOS. Depending on the method used, the effects of jailbreaking may be permanent or temporary.
+  
+
+    [112]
+   
+
+
+  In 2010, the
+  
+   Electronic Frontier Foundation
+  
+  (EFF) successfully convinced the U.S. Copyright Office to allow an exemption to the general prohibition on circumvention of copyright protection systems under the
+  
+   Digital Millennium Copyright Act
+  
+  (DMCA). The exemption allows jailbreaking of iPhones for the sole purpose of allowing legally obtained applications to be added to the iPhone.
+  
+
+    [113]
+   
+
+  The exemption does not affect the contractual relations between Apple and an iPhone owner, for example, jailbreaking voiding the iPhone warranty; however, it is solely based on Apple's discretion on whether they will fix jailbroken devices in the event that they need to be repaired. At the same time, the Copyright Office exempted unlocking an iPhone from DMCA's anticircumvention prohibitions.
+  
+
+    [114]
+   
+
+  Unlocking an iPhone allows the iPhone to be used with any wireless carrier using the same GSM or CDMA technology for which the particular phone model was designed to operate.
+  
+
+    [115]
+   
+
+
+  Initially most wireless carriers in the US did not allow iPhone owners to unlock it for use with other carriers. However AT&T allowed iPhone owners who have satisfied contract requirements to unlock their iPhone.
+  
+
+    [116]
+   
+
+  Instructions to unlock the device are available from Apple,
+  
+
+    [117]
+   
+
+  but it is ultimately the sole discretion of the carrier to authorize the device to be unlocked.
+  
+
+    [118]
+   
+
+  This allows the use of a carrier-sourced iPhone on other networks. However, because T-Mobile primarily uses a different band than AT&T for its 3G, the iPhone will only work at 3G speeds on the T-Mobile 1900 MHz network.
+  
+
+    [119]
+   
+
+  There are programs to break these restrictions, but are not supported by Apple and most often not a permanent unlock - a soft-unlock.
+  
+
+    [120]
+   
+
+
+  The closed and proprietary nature of iOS has garnered criticism, particularly by
+  
+   digital rights
+  
+  advocates such as the
+  
+   Electronic Frontier Foundation
+  
+  , computer engineer and activist
+  
+   Brewster Kahle
+  
+  , Internet-law specialist
+  
+   Jonathan Zittrain
+  
+  , and the
+  
+   Free Software Foundation
+  
+  who protested the iPad's introductory event and have targeted the iPad with their "
+  
+   Defective by Design
+  
+  " campaign.
+  
+
+    [121]
+   
+
+
+
+    [122]
+   
+
+
+
+    [123]
+   
+
+
+
+    [124]
+   
+
+  Competitor
+  
+   Microsoft
+  
+  , via a PR spokesman, criticized Apple's control over its platform.
+  
+
+    [125]
+   
+
+
+  At issue are restrictions imposed by the design of iOS, namely
+  
+   digital rights management
+  
+  (DRM) intended to lock purchased media to Apple's platform, the development model (requiring a yearly subscription to distribute apps developed for the iOS), the centralized approval process for apps, as well as Apple's general control and lockdown of the platform itself. Particularly at issue is the ability for Apple to remotely disable or delete apps at will.
+ 
+  Some in the tech community have expressed concern that the locked-down iOS represents a growing trend in Apple's approach to computing, particularly Apple's shift away from machines that hobbyists can "tinker with" and note the potential for such restrictions to stifle software innovation.
+  
+
+    [126]
+   
+
+
+
+    [127]
+   
+
+  Former
+  
+   Facebook
+  
+  developer
+  
+   Joe Hewitt
+  
+  protested against Apple's control over its hardware as a "horrible precedent" but praised iOS's
+  
+   sandboxing
+  
+  of apps.
+  
+
+    [128]
+   
+
+
+  The iOS kernel is the
+  
+   XNU
+  
+  kernel of
+  
+   Darwin
+  
+  . The original iPhone OS (1.0) up to iPhone OS 3.1.3 used Darwin 9.0.0d1. iOS 4 was based on Darwin 10. iOS 5 was based on Darwin 11. iOS 6 was based on Darwin 13. iOS 7 and iOS 8 are based on Darwin 14. iOS 9 is based on Darwin 15. iOS 10 is based on Darwin 16.
+  
+
+    [129]
+   
+
+
+  iOS utilizes many security features in both hardware and software. Below are summaries of the most prominent features.
+ 
+  Before fully booting into iOS, there is low-level code that runs from the Boot
+  
+   ROM
+  
+  . Its task is to verify that the Low-Level
+  
+   Bootloader
+  
+  is signed by the Apple
+  
+   Root
+  
+
+   CA
+  
+  public
+  
+   key
+  
+  before running it. This process is to ensure that no malicious or otherwise unauthorized software can be run on an iOS device. After the Low-Level Bootloader finishes its tasks, it runs the higher level bootloader, known as
+  
+   iBoot
+  
+  . If all goes well, iBoot will then proceed to load the iOS kernel as well as the rest of the operating system.
+  
+
+    [130]
+   
+
+
+  The Secure Enclave is a
+  
+   coprocessor
+  
+  found in iOS devices that contain
+  
+   Touch ID
+  
+  . It has its own secure boot process to ensure that it is completely secure. A hardware
+  
+   random number generator
+  
+  is also included as a part of this coprocessor. Each device's Secure Enclave has a unique ID that is given to it when it is made and cannot be changed. This identifier is used to create a temporary key that
+  
+   encrypts
+  
+  the
+  
+   memory
+  
+  in this portion of the system. The Secure Enclave also contains an anti-replay counter to prevent
+  
+   brute force attacks
+  
+  .
+  
+
+    [130]
+   
+
+
+  iOS devices can have a passcode that is used to unlock the device, make changes to system settings, and encrypt the device's contents. Until recently, these were typically four numerical digits long. However, since unlocking the devices with a fingerprint by using Touch ID has become more widespread, six-digit passcodes are now the default on iOS with the option to switch back to four or use an alphanumeric passcode.
+  
+
+    [130]
+   
+
+
+  Touch ID is a fingerprint scanner that is embedded in the home button and can be used to unlock the device, make purchases, and log into applications among other functions. When used, Touch ID only temporarily stores the fingerprint data in encrypted memory in the Secure Enclave, as described above. There is no way for the device's
+  
+   main processor
+  
+  or any other part of the system to access the raw fingerprint data that is obtained from the Touch ID sensor.
+  
+
+    [130]
+   
+
+
+  Address Space Layout Randomization (ASLR) is a low-level technique of preventing
+  
+   memory corruption
+  
+  attacks such as
+  
+   buffer overflows
+  
+  . It involves placing data in randomly selected locations in memory in order to make it harder to predict ways to corrupt the system and create exploits. ASLR makes app bugs more likely to crash the app than to silently overwrite memory, regardless of whether the behavior is accidental or malicious.
+  
+
+    [131]
+   
+
+
+  iOS utilizes the
+  
+   ARM architecture's
+  
+  Execute Never (XN) feature. This allows some portions of the memory to be marked as non-executable, working alongside ASLR to prevent buffer overflow attacks including
+  
+   return-to-libc attacks
+  
+  .
+  
+
+    [130]
+   
+
+
+  As mentioned above, one use of encryption in iOS is in the memory of the Secure Enclave. When a passcode is utilized on an iOS device, the contents of the device are encrypted. This is done by using a hardware
+  
+   AES
+  
+  256 implementation that is very efficient because it is placed directly between the
+  
+   flash storage
+  
+  and RAM.
+  
+
+    [130]
+   
+
+
+  The iOS keychain is a
+  
+   database
+  
+  of login information that can be shared across apps written by the same person or organization.
+  
+
+    [130]
+   
+
+  This service is often used for storing passwords for web applications.
+  
+
+    [132]
+   
+
+
+  Third-party applications such as those distributed through the App Store must be code signed with an Apple-issued
+  
+   certificate
+  
+  . This continues the
+  
+   chain of trust
+  
+  all the way from the Secure Boot process as mentioned above to the actions of the applications installed on the device by users. Applications are also
+  
+   sandboxed
+  
+  , meaning that they can only modify the data within their individual
+  
+   home directory
+  
+  unless explicitly given permission to do otherwise. For example, they cannot access data that is owned by other user-installed applications on the device. There is a very extensive set of privacy controls contained within iOS with options to control apps' ability to access a wide variety of permissions such as the camera, contacts, background app refresh, cellular data, and access to other data and services. Most of the code in iOS, including third-party applications, run as the "mobile" user which does not have
+  
+   root privileges
+  
+  . This ensures that system files and other iOS system resources remain hidden and inaccessible to user-installed applications.
+  
+
+    [130]
+   
+
+
+  iOS supports
+  
+   TLS
+  
+  with both low- and high-level
+  
+   APIs
+  
+  for developers. By default, the App Transport Security framework requires that servers use at least TLS 1.2. However, developers are free to override this framework and utilize their own methods of communicating over networks. When Wi-Fi is enabled, iOS uses a randomized
+  
+   MAC address
+  
+  so that devices cannot be tracked by anyone
+  
+   sniffing
+  
+  wireless traffic.
+  
+
+    [130]
+   
+
+
+  Two-factor authentication is an option in iOS to ensure that even if an unauthorized person knows an
+  
+   Apple ID
+  
+  and password combination, they cannot gain access to the account. It works by requiring not only the Apple ID and password, but also a verification code that is sent to a device that is already known to be trusted.
+  
+
+    [130]
+   
+
+  If an unauthorized user attempts to sign in using another user's Apple ID, the owner of the Apple ID receives a notification that allows them to deny access to the unrecognized device.
+  
+
+    [133]
+   
+

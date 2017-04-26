@@ -1,0 +1,911 @@
+
+
+
+   Alcatel-Lucent S.A.
+  
+  (
+  
+   French pronunciation: ​
+  
+
+
+    [alkatɛl lysɛnt]
+   
+
+  ) was a
+  
+   French
+  
+  global
+  
+   telecommunications equipment
+  
+  company, headquartered in
+  
+   Boulogne-Billancourt
+  
+  , France. As of January 2016, the company is part of
+  
+   Nokia
+  
+  .
+  
+
+    [1]
+   
+
+
+  The company focused on
+  
+   fixed
+  
+  ,
+  
+   mobile
+  
+  and
+  
+   converged
+  
+
+   networking hardware
+  
+  ,
+  
+   IP
+  
+  technologies,
+  
+   software
+  
+  and services, with operations in more than 130 countries. It had been named Industry Group Leader for Technology Hardware & Equipment sector in the 2014 Dow Jones Sustainability Indices review
+  
+
+    [3]
+   
+
+  and listed in the 2014 Thomson Reuters Top 100 Global Innovators for the 4th consecutive year.
+  
+
+    [4]
+   
+
+  Alcatel-Lucent also owned
+  
+   Bell Laboratories
+  
+  , one of the largest research and development facilities in the communications industry, whose employees have been awarded eight Nobel Prizes and the company holds in excess of 29,000 patents.
+ 
+  Alcatel-Lucent's
+  
+   chief executive officer
+  
+  was
+  
+   Michel Combes
+  
+  and the non-executive
+  
+   chairman
+  
+  of the board was
+  
+   Philippe Camus
+  
+  . Camus joined the company in the third quarter of 2008, alongside
+  
+   Ben Verwaayen
+  
+  as CEO, after Alcatel-Lucent's first CEO
+  
+   Patricia Russo
+  
+  and first chairman
+  
+   Serge Tchuruk
+  
+  resigned.
+  
+
+    [5]
+   
+
+  For 2010, the company had revenues of €16 billion and a reported net loss of €334 million.
+  
+
+    [6]
+   
+
+  For 2011, revenues were €15 billion, net loss of €1.1 billion. For 2012, revenues were €14.4 billion and net loss of €1.4 billion.
+  
+
+    [7]
+   
+
+  After seven consecutive years of negative cash flows, in October 2013 the company announced plans to slash 10,000 employees, or 14% of the total current 72,000 workforce, as a part of a €1 billion cost reduction effort.
+  
+
+    [8]
+   
+
+
+  In June 2013,
+  
+   Michel Combes
+  
+  announced "The Shift Plan",
+  
+
+    [9]
+   
+
+  a three-year plan including portfolio refocusing on IP networking, ultra-broadband access and cloud; 1 billion Euro in cost savings; selective asset sales intended to generate at least 1 billion Euro over the period of the plan and the restructuring of the Group's debt. On October 1, 2014, it announced that it had closed the sale of its subsidiary
+  
+   Alcatel-Lucent Enterprise
+  
+  to China Huaxin Post & Telecommunication Economy Development Center.
+ 
+
+
+  Alcatel-Lucent was formed when Alcatel (originally short for the Société Alsacienne de Constructions Atomiques, de Télécommunications et d'Électronique, a small company in
+  
+   Mulhouse
+  
+  absorbed by CGE in 1966) merged with
+  
+   Lucent Technologies
+  
+  on December 1, 2006. However, the predecessors of the company have been a part of telecommunications industry since the late 19th century. The company has roots in two early telecommunications companies: La Compagnie Générale d'Electricité (CGE) and the
+  
+   Western Electric Manufacturing Company
+  
+  .
+  
+
+    [10]
+   
+
+
+  Western Electric began in 1869 when
+  
+   Elisha Gray
+  
+  and Enos N. Barton started a small manufacturing firm based in
+  
+   Cleveland, Ohio
+  
+  . By 1880, the company had relocated to Chicago, Illinois, and become the largest electrical manufacturing company in the United States. In 1881 the American Bell Telephone Company, founded by
+  
+   Alexander Graham Bell
+  
+  and forerunner of
+  
+   American Telephone & Telegraph
+  
+  (
+  
+   AT&T
+  
+  ), purchased a controlling interest in Western Electric and made it the exclusive developer and manufacturer of equipment for the
+  
+   Bell telephone companies
+  
+  .
+  
+
+    [10]
+   
+
+
+  CGE was formed in 1898 by French engineer Pierre Azaria in the
+  
+   Alsace
+  
+  region of what was then Germany and was a conglomerate involved in industries such as electricity, transportation, electronics and telecommunications. CGE would become a leader in digital communications and would also be known for producing the
+  
+   TGV
+  
+  (train à grande vitesse) high-speed trains in France.
+  
+
+    [10]
+   
+
+
+
+   Bell Telephone Laboratories
+  
+  was created in 1925 from the consolidation of the R&D organizations of Western Electric and AT&T. Bell Labs would make significant scientific advances including: the
+  
+   transistor
+  
+  , the
+  
+   laser
+  
+  , the
+  
+   solar cell battery
+  
+  , the digital signal processor chip, the
+  
+   Unix
+  
+
+   operating system
+  
+  and the
+  
+   cellular concept of mobile telephone service
+  
+  . Bell Labs researchers have won 7
+  
+   Nobel Prizes
+  
+  .
+  
+
+    [10]
+   
+
+
+  Also in 1925, Western Electric sold its International Western Electric Company subsidiary to
+  
+   ITT Corporation
+  
+  . CGE purchased the telecommunications part of ITT in the mid-1980s.
+  
+
+    [10]
+   
+
+
+  AT&T re-entered the European telecommunications market in 1984 following the
+  
+   Bell System divestiture
+  
+  . Philips promoted the venture in part because its
+  
+   PRX
+  
+  public switching technology was ageing and it sought a partner to help fund the development costs of digital switching. The joint company used the existing manufacturing and development facilities in
+  
+   The Hague
+  
+  ,
+  
+   Hilversum
+  
+  ,
+  
+   Brussels
+  
+  and
+  
+   Malmesbury
+  
+  as well as its U.S. resources to adapt the
+  
+   5ESS
+  
+  system to the European market. The joint venture company AT&T & Philips Telecommunications BV doubled annual turnover between 1984 and 1987, winning major switching and transmission contracts, mainly in the effectively captive Netherlands market. In 1987, AT&T increased its holding to 60% and in 1990 it purchased the remainder of the Philips' holding.
+ 
+  In 1998, Alcatel Alsthom shifted its focus to the telecommunications industry, spinning off its Alsthom activities and changing the company's name to Alcatel. AT&T spun off Lucent Technologies in April 1996 with an initial public offering.
+  
+
+    [10]
+   
+
+
+  In April 2004,
+  
+   TCL Corporation
+  
+  and Alcatel announced the creation of a mobile phone manufacturing joint venture:
+  
+   Alcatel Mobile Phones
+  
+  .
+ 
+  Facing intense competition in the telecommunications industry, Alcatel and Lucent Technologies merged on November 30, 2006.
+  
+
+    [11]
+   
+
+
+  On April 5, 2006, Alcatel announced that it would swap its shares of
+  
+   Alcatel Alenia Space
+  
+  and
+  
+   Telespazio
+  
+  for €673 million and a 12.1% stake in Thales, a key player in the French defense industry. This increased Alcatel's stake in
+  
+   Thales
+  
+  to 20.8%.
+  
+
+    [10]
+   
+
+
+  Alcatel-Lucent acquired
+  
+   Nortel
+  
+  's
+  
+   UMTS
+  
+  radio access business at the end of 2006. During 2007 the company acquired Canadian
+  
+   metro WDM networking
+  
+  supplier Tropic Networks, Inc.; enterprise services gateway products developer NetDevices;
+  
+   IPTV
+  
+  software company Tamblin; and the telecommunications consulting practice Thompson Advisory Group, Inc. Alcatel-Lucent acquired
+  
+   Motive, Inc.
+  
+  , a provider of service management software for broadband and mobile data services in 2008.
+  
+
+    [10]
+   
+
+  They formerly had a joint venture with Dutch company
+  
+   Draka Holding
+  
+  N.V. for manufacturing
+  
+   optical fibre
+  
+  , but Draka bought out Alcatel-Lucent's 49.9% stake for €209 million in December 2007.
+  
+
+    [12]
+   
+
+
+  In May 2009, Alcatel-Lucent's stake in Thales was acquired by
+  
+   Dassault Aviation
+  
+  .
+  
+
+    [13]
+   
+
+  Alcatel-Lucent announced the acquisition of
+  
+   OpenPlug
+  
+  on September 1, 2010.
+  
+
+    [14]
+   
+
+
+  In October 2011, Alcatel-Lucent sold its call-center services business
+  
+   Genesys
+  
+  unit to
+  
+   Permira
+  
+  , a private equity group, for $1.5 billion—the same amount the company bought the business for in 2000. Alcatel-Lucent needed funding for the Franco-American business, which made annual losses from 2007 to 2011.
+  
+
+    [15]
+   
+
+
+  In 2014 the Italian labs for the management system for terrestrial networks (1350 OMS) and two families of equipment for fiber optic telecommunications—OMSN (Optical Multi-Service Node) and TSS (Transport Service Switch)—were transferred to a new dedicated company, SM Optics, a subsidiary of the
+  
+   Siae Microelettronica
+  
+  group.
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+  On April 15, 2015, Finnish telecommunications firm
+  
+   Nokia
+  
+  announced its intent to purchase Alcatel-Lucent for €15.6 billion in an all-stock deal. The acquisition aimed to create a stronger competitor to the rival firms
+  
+   Ericsson
+  
+  and
+  
+   Huawei
+  
+  , whom Nokia and Alcatel-Lucent had surpassed in terms of total combined revenue in 2014. The acquisition was expected to be completed in early 2016, and was subject to regulatory and shareholder approval. Regulatory approval was obtained in October 2015 and shareholder approval was announced on January 4, 2016. The Bell Labs division will be maintained, but the Alcatel-Lucent brand will be replaced by Nokia.
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+
+  On January 14, 2016, Alcatel-Lucent started operating as part of the
+  
+   Nokia
+  
+  Group.
+  
+
+    [1]
+   
+
+
+  The company's global headquarters is in
+  
+   Boulogne-Billancourt
+  
+  ,
+  
+   France
+  
+  .
+  
+
+    [49]
+   
+
+  It has had previous head offices in the
+  
+   7th arrondissement
+  
+  of
+  
+   Paris
+  
+  ,
+  
+   France
+  
+  , and in the
+  
+   8th arrondissement
+  
+  of
+  
+   Paris
+  
+  ,
+  
+   France
+  
+  .
+  
+
+    [50]
+   
+
+  Its previous head office, in the
+  
+   8th arrondissement
+  
+  of Paris, was built between 1912 and 1929 and was renovated in 1998. During the renovation the building was decorated with a theme of the cosmos and time.
+  
+
+    [51]
+   
+
+
+  There are regional groups for the Americas, Asia Pacific & China, and Europe, Middle East & Africa.
+  
+
+    [52]
+   
+
+  Middle East and Africa Headquarters are at Smart Village, Giza,
+  
+   Egypt
+  
+  .
+  
+
+    [53]
+   
+
+  Alcatel was present in Italy with various research centers:
+  
+   Vimercate
+  
+  (in
+  
+   Lombardy
+  
+  ),
+  
+   Rieti
+  
+  ,
+  
+   Battipaglia
+  
+  ,
+  
+   Trieste
+  
+  ,
+  
+   Genova
+  
+  ,
+  
+   Bari
+  
+  ,
+  
+   Naples
+  
+  ,
+  
+   Rome
+  
+  and
+  
+   Sesto Fiorentino
+  
+  . As of 2014, their presence is only in
+  
+   Vimercate
+  
+  (in
+  
+   Lombardy
+  
+  ),
+  
+   Trieste
+  
+  ,
+  
+   Rome
+  
+  .
+ 
+
+
+    [54]
+   
+
+
+
+
+    [55]
+   
+
+
+  Core Networking segment includes three business divisions: IP Routing, IP Transport and IP Platforms. Access segment includes 4 business divisions: Wireless, Fixed Access, Licensing and Managed Services.
+ 
+
+   Bell Labs
+  
+  was Alcatel-Lucent's
+  
+   research & development
+  
+  organization.
+  
+
+    [56]
+   
+
+
+  In 1876,
+  
+   Alexander Graham Bell
+  
+  was awarded the first patent for the
+  
+   telephone
+  
+  , and subsequently started
+  
+   AT&T
+  
+  .
+  
+
+    [57]
+   
+
+
+   Bell Labs
+  
+  is named in his honor.
+ 
+  In 1937,
+  
+   Clinton Davisson
+  
+  shared the Nobel Prize in Physics for demonstrating the wave nature of matter. His fundamental work is part of the foundation for much of today's solid-state electronics.
+ 
+  In 1947, John Bardeen, Walter Brattain, William Shockley of Bell Labs invented the
+  
+   transistor
+  
+  . In 1956 they received a
+  
+   Nobel Prize
+  
+  for their invention. The transistor led to an electronics revolution during the post-war boom. The transition from
+  
+   vacuum tubes
+  
+  to transistors enabled all technologies to be built on a smaller scale and use less electricity. Items that before required large dedicated spaces, could now fit into a home or even on a kitchen counter.
+  
+
+    [58]
+   
+
+
+  In 1954,
+  
+   Gerald Pearson
+  
+  , Darryl Chapin and
+  
+   Calvin Fuller
+  
+  invented the
+  
+   solar cell
+  
+  .
+  
+   Telstar
+  
+  , the first active communications satellite also developed by Bell Labs and launched in 1962, used these solar cell batteries as an external renewable source of power once launched. It was the first to carry live television over water, between England and the US.
+ 
+  In the late 1950s,
+  
+   Charles Townes
+  
+  and Arthur Shawlow of Bell Labs invented the
+  
+   laser
+  
+  , which has numerous applications, including measuring/cutting in the manufacturing industry and research/surgery in the medical industry. Bell Labs was awarded the laser patent in 1960.
+ 
+  In 1964,
+  
+   Arno Allan Penzias
+  
+  and
+  
+   Robert Woodrow Wilson
+  
+  discovered the
+  
+   cosmic microwave background radiation
+  
+  . They were awarded the
+  
+   Nobel Prize
+  
+  in Physics in 1978.
+ 
+  In 1969,
+  
+   Dennis Ritchie
+  
+  and a team of Bell Labs employees invented the
+  
+   UNIX
+  
+  operating system and the
+  
+   C programming language
+  
+  .
+ 
+  In 2006,
+  
+   Willard S. Boyle
+  
+  and
+  
+   George E. Smith
+  
+  were awarded the
+  
+   National Academy of Engineering
+  
+  prize, for work on
+  
+   charge-coupled devices
+  
+  which transform patterns of light into useful digital information. In 2009 they received a Nobel Prize for their invention. The device is widely used in digital cameras, video cameras and modern astronomy.
+ 
+  In 2013, there was a Net R&D investment of €2.3 billion (approx. 16% of sales). There are more than 32,000 active patents, more than 3,000 obtained in 2013, and 14,900 pending applications.
+ 
+  The investigators were able to obtain greater capacity ever obtained in underwater data transmission with a single fiber. This experiment was based on the pioneering work of Bell Labs in data channels in a single carrier of 200 gigabits per second (Gbit/s). As speeds and distances to such noise and signal distortion make recovery of the data a real challenge, the researchers used innovative detection techniques and applied a new set of technologies modulation, transmission and processing together with an advanced error correction coding.
+  
+
+    [59]
+   
+
+
+  In December 2010, Alcatel-Lucent agreed to pay a total settlement of $137 million for bribing officials in
+  
+   Costa Rica
+  
+  ,
+  
+   Honduras
+  
+  ,
+  
+   Malaysia
+  
+  and
+  
+   Taiwan
+  
+  in violation of the U.S.
+  
+   Foreign Corrupt Practices Act
+  
+  (FCPA).
+  
+
+    [62]
+   
+
+  The
+  
+   U.S. Securities and Exchange Commission
+  
+  (SEC) alleged that Alcatel retained consultants to funnel bribes of over $8 million to government officials in order to obtain and retain lucrative telecommunications contracts.
+  
+
+    [63]
+   
+
+
+
+    [64]
+   
+
+  Alcatel admitted that it made profits of approximately $48 million as a result of the bribes and was ordered to pay $45 million to settle charges with the SEC and a further $92 million to settle the criminal charges brought by the
+  
+   U.S. Department of Justice
+  
+  (DOJ).
+  
+
+    [65]
+   
+
+
+  Lucent Technologies filed suit against
+  
+   Gateway
+  
+  and
+  
+   Dell
+  
+  , claiming they had violated patents on
+  
+   MP3
+  
+  ,
+  
+   MPEG
+  
+  and other technologies developed by
+  
+   Bell Labs
+  
+  , a division of predecessor company
+  
+   American Telephone & Telegraph
+  
+  . Microsoft voluntarily joined the lawsuit in April 2003, and Alcatel was added after it acquired Lucent. The case, involving a number of patents, is pending in U.S. District Court in San Diego, California.
+  
+   [
+   
+
+
+      when?
+     
+
+
+   ]
+  
+
+  The first part of the case involved two audio coding patents that Alcatel-Lucent claimed were infringed by Microsoft's Windows Media Player application. Alcatel-Lucent won the trial and $1.52 billion in damages, but the judge granted
+  
+
+    [66]
+   
+
+  Microsoft's motion for judgment and new trial.
+  
+
+    [67]
+   
+
+
+
+    [68]
+   
+
+  Alcatel-Lucent appealed.
+  
+
+    [69]
+   
+
+
+  In the second part of the case, the judge ruled that Microsoft had not violated Alcatel-Lucent's patents relating to speech recognition and the case was therefore dismissed before going to trial. Alcatel-Lucent intended to appeal.
+  
+
+    [70]
+   
+
+
+
+    [71]
+   
+
+
+  The third part of the case, involving several user interface-related patents, began on May 21, 2013.
+ 
+  Additional patent infringement cases, some filed by Microsoft and some filed by Alcatel-Lucent, are pending in the United States.
+ 
+  In May 2013,
+  
+   Newegg
+  
+  and
+  
+   Overstock
+  
+  won a victory in
+  
+   United States circuit court
+  
+  in which an Alcatel-Lucent
+  
+   shopping cart
+  
+  patent was invalidated.
+  
+
+    [72]
+   
+

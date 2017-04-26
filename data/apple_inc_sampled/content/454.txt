@@ -1,0 +1,420 @@
+
+
+  The
+  
+   MCP
+  
+  (Master Control Program) is the
+  
+   proprietary
+  
+
+   operating system
+  
+  of the
+  
+   Burroughs
+  
+  small, medium and large systems, including the
+  
+   Unisys
+  
+
+   Clearpath/MCP
+  
+  systems.
+ 
+  Originally written in 1961 in
+  
+   ESPOL
+  
+  (Executive Systems Programming Language), which itself was an extension of
+  
+   Burroughs
+  
+  Extended
+  
+   ALGOL
+  
+  , in the 1970s it was converted to
+  
+   NEWP
+  
+  , a better structured, more robust, and more secure form of ESPOL.
+ 
+  The MCP was a leader in many areas, including: the first operating system to manage multiple processors, the first commercial implementation of virtual memory, and the first OS written exclusively in a
+  
+   high-level language
+  
+  .
+ 
+
+
+  In 1961, the MCP was the first OS written exclusively in a
+  
+   high-level language
+  
+  (HLL). The
+  
+   Burroughs Large System
+  
+  (
+  
+   B5000
+  
+
+
+    [2]
+   
+
+  and successors) were unique in that they were designed with the expectation that all software, including system software, would be written in an HLL rather than in
+  
+   assembly language
+  
+  , which was a unique and innovative approach in 1961.
+ 
+  Unlike IBM, which faced hardware competition after the departure of
+  
+   Gene Amdahl
+  
+  , Burroughs software was designed to run only on proprietary hardware. For this reason, Burroughs was free to distribute the source code of all software it sold, including the MCP, which was designed with this openness in mind. For example, upgrading required the user to recompile the system software and apply any needed local patches. At the time, this was common practice, and was necessary as it was not unusual for customers (especially large ones, such as the
+  
+   Federal Reserve
+  
+  ) to modify the program to fit their specific needs.
+  
+
+    [3]
+   
+
+  As a result, a Burroughs Users Group was formed, which held annual meetings and allowed users to exchange their own extensions to the OS and other parts of the system software suite. Many such extensions have found their way into the base OS code over the years, and are now available to all customers. As such, the MCP could be considered one of the earliest
+  
+   open-source
+  
+  projects.
+ 
+  Burroughs was not the first manufacturer to distribute source code and indeed was a late entry to electronic computing (compared to its traditional rivals NCR, IBM, and Univac) but the situation outlined in the previous paragraph presages the current computing culture where
+  
+   OSS
+  
+  dominates. Ironically, now that MCP runs on commodity hardware some elements of the MCP based software suite are no longer made available in source form by Unisys.
+ 
+  The MCP was the first commercial OS to provide
+  
+   virtual memory
+  
+  , which has been supported by the
+  
+   Burroughs large systems
+  
+  architecture since its inception. This scheme is unique in the industry, as it stores and retrieves compiler-defined objects rather than fixed-size memory pages, as a consequence of its overall non-von Neumann and uniformly stack-based architecture.
+ 
+  The MCP provides a
+  
+   file system
+  
+  with hierarchical directory structures. In early MCP implementations,
+  
+   directory
+  
+  nodes were represented by separate files with directory entries, as other systems did. However, since about 1970, MCP internally uses a 'FLAT' directory listing all file paths on a volume. This is because opening files by visiting and opening each directory in a file path was inefficient and for a production environment it was found to be better to keep all files in a single directory, even though they retain the hierarchical naming scheme. Programmatically, this makes no difference. The only difference visible to users is that an entity file can have the same name as a directory. For example, "A/B" and "A/B/C" can both exist; "B" can be both a node in a file and a directory.
+ 
+  Files are stored on named volumes, for example 'this/is/a/filename on myvol', 'myvol' being the volume name. This is device independent, since the disk containing 'myvol' can be moved or copied to different physical disk drives. Disks can also be concatenated so that a single volume can be installed across several drives, as well as mirrored for recoverability of sensitive data. For added flexibility, each program can make volume substitutions, a volume name may be substituted with a primary and secondary alternate name. This is referred to as the process’ FAMILY. For instance, the assignment “FAMILY DISK = USERPACK OTHERWISE SYSPACK” stores files logically designated on volume DISK onto the volume USERPACK and will seek files first on volume USERPACK. If that search has no success, another search for the file is done on volume SYSPACK. DISK is the default volume name if none is specified.
+ 
+  Each file in the system has a set of file attributes. These record all sorts of
+  
+   meta data
+  
+  about a file, most importantly its name and its type (which tells the system how to handle a file, like the more limited four-character file type code on the
+  
+   Macintosh
+  
+  ). Other attributes have the file's record size (if fixed for commercial applications), the block size (in multiples of records that tells the MCP how many records to read and write in a single physical IO) and an area size in multiples of blocks, which gives the size of disk areas to be allocated as the file expands.
+ 
+  The file type indicates if the file is character data, or source code written in particular languages, binary data, or code files.
+ 
+  Files are protected by the usual security access mechanisms such as public or private, or a file may have a guard file where the owner can specify complex security rules.
+ 
+  Another security mechanism is that code files can only be created by trusted compilers. Malicious programmers cannot create a program and call it a compiler – a program could only be converted to be a compiler by an operator with sufficient privileges with the 'mc' make compiler operator command.
+ 
+  The MCP implements a
+  
+   Journaling file system
+  
+  , providing fault tolerance in case of disk failure, loss of power, etc. It is not possible to corrupt the file system (except by the operating system or other trusted system software with direct access to its lower layers).
+ 
+  The file system is
+  
+   case-insensitive
+  
+  and not
+  
+   case-preserving
+  
+  unless quotes are added around the name in which case it is case-sensitive and case-preserving.
+ 
+  MCP
+  
+   processes
+  
+  are called "
+  
+   Jobs
+  
+  " and "
+  
+   Tasks
+  
+  ." A Job contains one or more tasks. Tasks within a job can run sequentially or in parallel. Logic can be implemented at the Job level, typically in the MCP's Job Control Language WFL, to control the flow of a job. Once all tasks in a job are complete, the job itself is completed.
+ 
+  An MCP Process goes through a life cycle from the time it enters the system until it leaves. The initial state for a Job is "Queued." There is a period of time while the Job resides in one of several user defined Job Queues. The next state is "Scheduled" as the Job moves from a queue into memory. Tasks within a job do not wait in queue; instead going directly to the 'Scheduled' state when initiated. Once a Job or Task is started it can transition between "Active," "Waiting" and "Scheduled" as it progresses. Once a Job or Task completes it moves to the 'Completed' state.
+ 
+  Running processes are those that use a processor resource and are marked as 'running'. Processes that are ready to be assigned to a processor, when there is no free processor are placed in the ready queue. Processes may be assigned a “Declared” or “Visible” priority, generally 50 as the default, but can be from 0 to 99 for user processes. System processes may be assigned the higher values. Note that this numerical priority is secondary to an overall priority, which is based on the task type. Processes that are directly part of the operating system, called Independent Runners, have the highest priority regardless of numeric priority value. Next come processes using an MCP lock, then Message Control Systems such as
+  
+   CANDE
+  
+  . Then Discontinued processes. Then Work Flow Language jobs. Finally come user processes. At a lower level there is a Fine priority intended to elevate the priority of tasks that do not use their full processor slice. This allows an IO bound task to get processor time ahead of a processor bound task on the same declared priority.
+ 
+  Processes that are waiting on other resources, such as a file read, wait on the EVENT
+  
+   data structure
+  
+  . Thus all processes waiting on a single resource wait on a single event. When the resource becomes available, the event is caused, which wakes up all the processes waiting on it. Processes may wait on multiple events for any one of them to happen, including a time out. Events are fully user programmable – that is, users can write systems that use the generalized event system provided by the MCP.
+ 
+  Processes that have terminated are marked as completed.
+ 
+  Operationally, the status of all tasks in the system is displayed to the operator. All running and ready processes are displayed as 'Active' tasks (since the system implements
+  
+   preemptive multitasking
+  
+  , the change from ready to running and back is so quick that distinguishing ready and running tasks is pointless because they will all get a slice of the processor within a second). All active tasks can be displayed with the 'A' command.
+ 
+  Terminated tasks are displayed as completed tasks with the reason for termination, EOT for normal 'end of task', and DSed with a reason for a process failure. All processes are assigned a mix number, and operators can use this number to identify a process to control. One such command is the DS command (which stands for either Delete from Schedule, DiScontinue, or Deep Six, after the influence of Navy personnel on early computer projects, depending on who you talk to). Tasks terminated by the operator are listed in the complete entries as O-DS.
+ 
+  Tasks can also terminate due to program faults, marked as F-DS or P-DS, for faults such as
+  
+   invalid index
+  
+  ,
+  
+   numeric overflow
+  
+  , etc. Completed entries can be listed by the operator with the 'C' command.
+ 
+  Tasks waiting on a resource are listed under the waiting entries and the reason for waiting. All waiting tasks may be listed with the 'W' command. The reason for waiting is also listed and more information about a task may be seen with the 'Y' command. It may be that a task is waiting for operator input, which is sent to a task via the accept 'AX' command (note that operator input is very different from user input, which would be input from a network device with a GUI interface).
+ 
+  Tasks waiting on user input or file reads would not normally be listed as waiting entries for operator attention. Another reason for a task to be waiting is waiting on a file. When a process opens a file, and the file is not present, the task is placed in the waiting entries noting that it is waiting on a certain file. An operator (or the user that owns the process) has the opportunity either to copy the file to the expected place, or to redirect the task to read the file from another place, or the file might even be created by an independent process that hasn't yet completed.
+ 
+  If the resource cannot be provided by the operator, the operator can DS the task as a last resort. This is different from other systems, which automatically terminate a task when a resource such as a file is not available. The MCP provides this level of operator recoverability of tasks. Other systems force programmers to add code to check for the presence of files before accessing them, and thus extra code must be written in every case to provide recoverability, or process synchronization. Such code may be written in an MCP program when it is not desirable to have a task wait, but because of the operator-level recoverability, this is not forced and therefore makes programming much simpler.
+ 
+  In addition to the ability to dynamically remap file (or database) requests to other files (or databases), before or during program execution, several mechanisms are available to allow programmers to detect and recover from errors. One way, an 'ON' statement, has been around for many years. Specific faults (e.g., divide by zero) can be listed, or the catch-all 'anyfault' can be used. The statement or block following the 'ON' statement is recognized by the compiler as fault-handling code. During execution, if a recoverable fault occurs in scope of the 'on' statement, the stack is cut back and control transferred to the statement following it.
+ 
+  One problem with the handling logic behind the ON statement was that it would only be invoked for program faults, not for program terminations having other causes. Over time, the need for guaranteed handling of abnormal terminations grew. In particular, a mechanism was needed to allow programs to invoke plug-ins written by customers or third parties without any risk should the plug-in behave badly. In addition to general plug-in mechanisms, the new form of dynamic library linkage (
+  
+   Connection Libraries
+  
+  ) allows programs to import and export functions and data, and hence one program runs code supplied by another.
+ 
+  To accomplish such enhanced protection, a newer mechanism was introduced in the mid 1990s. In an unfortunate and misguided attempt at compatibility, it was named after the then-proposed C++ language construct of the same name. Because the syntax and behavior of the two differ to such a large extent, choosing the same name has only led to confusion and misunderstanding.
+ 
+  Syntactically, 'try' statements look like 'if' statements: 'try', followed by a statement or block, followed by 'else' and another statement or block. Additional 'else' clauses may follow the first. During execution, if any recoverable termination occurs in the code following the 'try' clause, the stack is cut back if required, and control branches to the code following the first 'else'. In addition, attributes are set to allow the program to determine what happened and where (including the specific line number).
+ 
+  Most events that would result in task termination are recoverable. This includes stack overflow, array access out-of-bounds, integer over/under flow, etc. Operator (or user) DS is not recoverable except by privileged tasks using an UNSAFE form of try.
+ 
+  MCP thus provides a very fault-tolerant environment, not the crash-and-burn core-dump of other systems.
+ 
+  As with file attributes, tasks have attributes as well, such as the task priority (which is assigned at compile time or execution time, or can be changed while the task is running), processor time, wait time, status, etc. These task attributes can be accessed programmatically as can file attributes of files. The parent task is available programmatically as a task attribute that is of type task. For example, 'myself.initiator.name' gives the name of the process that initiated the current process.
+ 
+
+   GETSPACE
+  
+  and
+  
+   FORGETSPACE
+  
+  are the two main procedures handling memory allocation and deallocation. Memory needs to be allocated at process initiation and whenever a block is entered that uses arrays, files, etc.
+  
+   GETSPACE
+  
+  and
+  
+   FORGETSPACE
+  
+  not only handle memory space, they also allocate or deallocate the disk space where non memory resident data may be overlaid. Memory may be SAVE (i.e., memory resident), OVERLAYABLE (i.e., virtual memory) or STICKY (meaning memory resident, but movable). They are called upon e.g. by
+  
+   HARDWAREINTERRUPT
+  
+  when a process addresses an uninitialized array or by
+  
+   FILEOPEN
+  
+  .
+ 
+
+   HARDWAREINTERRUPT
+  
+  handles hardware interrupts and may call upon
+  
+   GETSPACE
+  
+  ,
+  
+   IO_FINISH
+  
+  or the like.
+ 
+
+   BLOCKEXIT
+  
+  is called upon by a task exiting a block. BLOCKEXIT may in turn call
+  
+   FILECLOSE
+  
+  ,
+  
+   FORGETSPACE
+  
+  or the like while cleaning up and releasing resources declared and used within that block.
+ 
+
+   J_EDGAR_HOOVER
+  
+  is the main security guardian of the system, called upon at process start, file open, user log on, etc.
+ 
+
+   GEORGE
+  
+  is the procedure that decides which process is the next one to receive CPU resources and is thus one of the few processes that uses the MoveStack instruction.
+ 
+  A task goes through various states starting with NASCENT. At DELIVERY the event BIRTH is caused and the task's state changes to ALIVE. When PROCESSKILL is called upon the state changes into DISEASED. When DEATH is caused the task gets put into the queue structure the MORGUE, after which all remaining resources are freed to the system by a process called PROCESSKILL.
+ 
+  While the task is ALIVE, MCP functions are run on top of that particular process, thus CPU resources are automatically charged to the task causing the MCP overhead. Also, much of the MCP work is being performed with that particular stack's security rights. Only before BIRTH and after DEATH does the MCP need to be operating out of some other stack. If none is available, the system maintains an idle stack.
+ 
+  MCP
+  
+   libraries
+  
+  provide a way of sharing data and code between processes. The article on
+  
+   Burroughs large systems
+  
+  looks at the way dependent processes could be asynchronously run so that many processes could share common data (with the mechanisms to provide synchronized update). Such a family of related processes had to be written as a single program unit, processing procedures at higher lex levels as the asynchronous processes, which could still access global variables and other variables at lower lex levels.
+ 
+  Libraries completely inverted this scenario with the following advantages:
+ 
+  So clean and radical was the library mechanism that much system software underwent major rewrites resulting in a better structured systems and performance boosts.
+ 
+  Libraries were introduced to MCP systems in the early 1980s having been developed by Roy Guck and others at
+  
+   Burroughs
+  
+  . They are very much like
+  
+   C. A. R. Hoare
+  
+  's monitors and provide the opportunity for controlled mutual exclusion and synchronization between client processes, using MCP EVENTs and the Dahm locking technique. Libraries offer procedural entry-points to the client, which are checked for a compatible interface (all parameters and return types of imported procedures checked) before the client is linked to the library. The library and its client may be written in different languages. The advantage is that all synchronization is provided in the library and client code does not need to worry about this level of programming at all. This results in robust code since clients can't undermine the synchronization code in the library. (Some would call this a '
+  
+   Trusted Computing
+  
+  Initiative'.)
+ 
+  Libraries are more sophisticated forms of libraries on other systems such as
+  
+   DLLs
+  
+  . MCP libraries can be 'shared by all', ‘shared by rununit’ or 'private'. The private case is closest to libraries on other systems – for each client a separate copy of the library is invoked and there is no data sharing between processes.
+ 
+  Shared by all is more interesting. When a client starts up, it can run for a while until it requires the services in the library. Upon first reference of a library entry-point, the linkage is initiated. If an instance of the library is already running, the client is then linked to that instance of the library. All clients share the same instance.
+ 
+  Shared by rununit is a sharing mechanism in between these two sharing schemes. It was designed specifically for COBOL, where a rununit is defined as the original initiating client program and all the libraries it has linked to. Each rununit gets one instance of the library and different rununits get a different instance. This is the only dynamic implementation of COBOL rununits.
+ 
+  If this was the first invocation of the library the library would run its main program (outer block in an ALGOL program) to initialize its global environment. Once initialization was complete, it would execute a freeze, at which point all exported entry points would be made available to clients. At this point, the library's stack was said to be frozen since nothing more would be run on this stack until the library became unfrozen, in which case clean-up and termination code would be run. When a client calls a routine in a library, that routine runs on top of the client stack, storing its locals and temporary variables there. This allows many clients to be running the same routine at the same time, being synchronized by the library routine, which accesses the data in the global environment of the library stack.
+ 
+  Freeze could also be in three forms – temporary, permanent and controlled. Temporary meant that once the client count dropped to zero, the library would be unfrozen and terminated. Permanent meant that the library remained available for further clients even if the client count dropped to zero – permanent libraries could be unfrozen by an operator with a THAW command. A controlled freeze meant that the library actually kept running, so that it could execute monitoring functions and perform data initialization and cleanup functions for each linking client.
+ 
+  Libraries could also be accessed 'by title' and 'by function'. In 'by title' the client specified the file name of the library. 'By function' was an indirect method where a client would just specify the function name of the library, for example 'system_support' and the actual location of the library is found in a table previously set up by an operator with 'SL' (system library) commands, for example 'SL system_support = *system/library/support'. MCP's fault tolerant attitude also works here – if a client tries accessing a library that is not present, the client is put in the 'waiting' tasks and the library could be made present, or the request redirected.
+ 
+  Libraries can also be updated on the fly, all that needs to be done is to 'SL' the new version. Running clients will continue to use the old version until they terminate and new clients will be directed to the new version.
+ 
+  Function libraries also implemented a very important security feature, linkage classes. All normal libraries have a linkage class of zero. Libraries used by the MCP or other privileged system modules may not be usable from normal programs. They are accessed by function and forced in linkage class one. A client in linkage class zero cannot link to linkage class one entry-points. A library with linkage class one that needs to offer entry-points to normal programs can do so if it is designated as ‘trusted’. It can offer selected entry-points in linkage class zero.
+ 
+  The entire database system is implemented with libraries providing very efficient and tailored access to databases shared between many clients. The same goes for all networking functionality and system intrinsics.
+ 
+  In the mid-1990s a new type of library was made available: Connection Libraries. These are programs in their own right that can execute independently as well as import and export data and functions to other programs in arrays of structure blocks. For example, the networking component of the operating system is available as a connection library, allowing other programs to use its services by exporting and importing functions. Upon linkage each client gets a dedicated structure block to keep state information in. A program that uses the network might import a network-write function and export a network-read function. Thus, if you open a network connection (e.g., using
+  
+   TCP
+  
+  ), when data arrives for you to read, the networking component can directly call your function to consume it, without having to first copy the data to a buffer and do a context switch. Likewise, you can write data to the network by directly calling a network-write function.
+ 
+  Connection Libraries allow a significant degree of control over linkages. Each side of a linkage can optionally approve a linkage and can sever the linkage as desired. State can be easily maintained per linkage as well as globally.
+ 
+  Another technique for
+  
+   inter-process communication (IPC)
+  
+  is port files. They are like
+  
+   Unix pipes
+  
+  , except that they are generalized to be multiway and bidirectional. Since these are an order of magnitude slower than other IPC techniques such as libraries, it is better to use other techniques where the IPC is between different processes on the same machine.
+ 
+  The most advantageous use of port files is therefore for distributed IPC. Port files were introduced with BNA (Burroughs Network Architecture), but with the advent of standard networking technologies such as
+  
+   OSI
+  
+  and
+  
+   TCP
+  
+  /
+  
+   IP
+  
+  , port files can be used with these networks as well.
+ 
+  A server listening for incoming connections declares a port file (a file with the KIND attribute equal to PORT). Each connection that is made from a client creates a subfile with an index, so each port file represents multiple connections to different clients around the network.
+ 
+  A server process receives client requests from anywhere on the network by issuing a read on the port file (subfile = 0 to read from any subfile). It issues a response to the client that issued the request by writing to the particular subfile from which the request was read.
+ 
+  The MCP also provides a sophisticated yet simple operator environment. For large installations, many operators might be required to make physical resources, such as printers (loading paper, toner cartridges, etc.) available. Low-end environments for small offices or single user may require an operator-free environment (especially the laptop implementation).
+ 
+  Large systems have dedicated operations terminals called ODTs (Operator Display Terminals), usually kept in a secure environment. For small systems, machines can be controlled from any terminal (provided the terminal and user have sufficient privileges) using the MARC program (Menu Assisted Resource Control). Operator commands can also be used by users familiar with them.
+ 
+  Operator commands are mostly two letters (as with Unix), and some are just one letter. This means that the operator interface must be learned, but it is very efficient for experienced operators who run a large mainframe system from day to day. Commands are case insensitive.
+ 
+  Tasks are entered in the program 'mix' and identified by mix numbers, as are libraries. To execute a program, operators can use the 'EX' or 'RUN' command followed by the file name of the program. ODTs are run typically with ADM (Automatic Display Mode), which is a tailorable display of system status usually set up to display the active, waiting, and completed mix entries, as well as system messages to the operator for notifications or situations requiring operator action.
+ 
+  Complete listing of these displays are given by the 'A' (active), 'W' (waiting), 'C' (completed), and 'MSG' (message commands).
+ 
+  If a task becomes waiting on some operator action, the operator can find out what the task needs by entering its mix number followed by the 'Y' command. (Note the object-oriented style of commands, selecting the object first, followed by the command.) For example, '3456Y'.
+ 
+  An operator can force a task into the waiting entries with the stop command '3456ST' and make it active again with OK: '3456OK'. The OK command can also be used when an operator has made a resource available for a task, although more frequently than not, the MCP will detect that resources have become available, CAUSE the EVENT that processes have been waiting on without further operator intervention. To pass textual information from an operator to a program, the accept command ‘3456AX MORE INFO’ can be used. Programs can pass information to operators using the DISPLAY mechanism, which causes DISPLAY messages to be added to the MSG display.
+ 
+  As well as tasks and processes, operators also have control over files. Files can be listed using the FILE command, copied using COPY, removed using REMOVE, and renamed.
+ 
+  The operating environment of the MCP is powerful, yet simple and usually only requires a fraction of the number of operators of other systems.
+ 
+  An important part of the operations environment is the high-level
+  
+   Work Flow Language
+  
+  .
+ 
+  All actions in the system are logged, for example all messages displayed to the operator, and all operator actions. All significant program actions are optionally logged in a system log and a program log, for example BOJ for beginning of a WFL job, BOT for beginning of a task within a WFL job, EOT and EOJ for end of tasks and jobs. As well, all file and database open and closes can be logged. Logging many events contributes to an apparent slowness of the MCP operating environment compared to systems like Unix, since everything is logged with forced physical writes to the program log after every record, which is what systems like Unix don’t do, even though they too keep many things in the system logs.
+ 
+  The logs can be used for forensics to find out why programs or systems may have failed, or for detecting attempts to compromise system security. System logs are automatically closed after a system-settable period and a new one opened. System logs contain a huge amount of information, which can be filtered and analyzed with programs such as LOGANALYZER.
+ 
+  The DUMPANALYZER analyzes memory dumps that were originally written to tape. As all compilers added LINEINFO into the code-files the DUMPANALYZER is able to pinpoint exactly which source statement was being executed at the time of error.
+ 
+  Also a normal program dump, where just one program was dumped, contains information on source-code sequence number and variable names.
+ 
+  The two analyzers are major diagnostic tools for all kinds of purposes.
+ 
+  Beyond the many technical innovations in the MCP design, the Burroughs Large Systems had many management innovations now being used by the internet community at large. The system software was shipped to customers inclusive of source code and all the editing and compilation tools to generate new versions of MCP for customers. Many customers developed niche expertise on the inner workings of the MCP, and customers often sent in the 'patches' (fragment pieces of source code with sequence numbers) as suggestions of new enhanced features or fault corrections (FTR - field trouble reports). Many of the suggested patches were included by the systems developers and integrated into the next version of the MCP release. Including a community of voluntary, self-professed experts, into mainstream technical work, is now widely practised and is the essence of
+  
+   Open Innovation
+  
+  . This management innovation of community development dated back to the '70s.
+ 
+  The MCP was the first OS developed exclusively in a high-level language. Over its 50 year history it has had many firsts in a commercial implementation, including virtual memory, symmetric multiprocessing, and a high-level job control language (WFL). It has long had many facilities that are only now appearing in other widespread operating systems, and together with the Burroughs large systems architecture, the MCP provides a very secure, high performance, multitasking and transaction processing environment.
+ 

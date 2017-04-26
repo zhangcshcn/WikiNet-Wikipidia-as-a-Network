@@ -1,0 +1,418 @@
+
+
+  A
+  
+   touchpad
+  
+  or trackpad is a pointing device featuring a tactile sensor, a specialized surface that can translate the motion and position of a user's fingers to a relative position on the operating system that is made output to the screen. Touchpads are a common feature of
+  
+   laptop computers
+  
+  , and are also used as a substitute for a
+  
+   mouse
+  
+  where desk space is scarce. Because they vary in size, they can also be found on
+  
+   personal digital assistants
+  
+  (PDAs) and some
+  
+   portable media players
+  
+  . Wireless touchpads are also available as detached accessories.
+ 
+
+
+  Touchpads operate in one of several ways, including
+  
+   capacitive sensing
+  
+  and
+  
+   resistive touchscreen
+  
+  . The most common technology used as of 2010
+  
+
+    [update]
+   
+
+  entails sensing the capacitive
+  
+   virtual ground
+  
+  effect of a finger, or the capacitance between
+  
+   sensors
+  
+  . Capacitance-based touchpads will not sense the tip of a pencil or other similar implement. Gloved fingers may also be problematic.
+ 
+  While touchpads, like touchscreens, are able to sense absolute position, resolution is limited by their size. For common use as a pointer device, the dragging motion of a finger is translated into a finer, relative motion of the cursor on the output to the display on the operating system, analogous to the handling of a
+  
+   mouse
+  
+  that is lifted and put back on a surface. Hardware buttons equivalent to a standard mouse's left and right buttons are positioned below, above, or beside the touchpad.
+ 
+  Some touchpads and associated
+  
+   device driver
+  
+  software may interpret tapping the pad as a click, and a tap followed by a continuous pointing motion (a "click-and-a-half") can indicate dragging.
+  
+
+    [1]
+   
+
+  Tactile touchpads allow for clicking and dragging by incorporating button functionality into the surface of the touchpad itself.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  To select, one presses down on the touchpad instead of a physical button. To drag, instead performing the "click-and-a-half" technique, one presses down while on the object, drags without releasing pressure and lets go when done. Touchpad drivers can also allow the use of multiple fingers to facilitate the other mouse buttons (commonly two-finger tapping for the center button).
+ 
+  Some touchpads have "hotspots", locations on the touchpad used for functionality beyond a mouse. For example, on certain touchpads, moving the finger along an edge of the touch pad will act as a
+  
+   scroll wheel
+  
+  , controlling the
+  
+   scrollbar
+  
+  and scrolling the
+  
+   window
+  
+  that has the
+  
+   focus
+  
+  vertically or horizontally. Many touchpads use two-finger dragging for
+  
+   scrolling
+  
+  . Also, some touchpad drivers support tap zones, regions where a tap will execute a function, for example, pausing a media player or launching an
+  
+   application
+  
+  . All of these functions are implemented in the touchpad
+  
+   device driver
+  
+  software, and can be disabled.
+ 
+  By 1982
+  
+   Apollo
+  
+  desktop computers were equipped with a touchpad on the right side of the keyboard.
+  
+
+    [4]
+   
+
+  Introduced a year later, the
+  
+   Gavilan SC
+  
+  included a touchpad above its keyboard.
+ 
+  A touchpad was first developed for
+  
+   Psion
+  
+  's MC 200/400/600/WORD Series in 1989.
+  
+
+    [5]
+   
+
+
+   Olivetti
+  
+  and
+  
+   Triumph-Adler
+  
+  introduced the first laptops with touchpad in 1992.
+  
+
+    [6]
+   
+
+
+   Cirque
+  
+  introduced the first widely available touchpad, branded as GlidePoint, in 1994.
+  
+
+    [7]
+   
+
+
+   Apple Inc
+  
+  introduced touchpads to the modern laptop in the PowerBook series in 1994, using Cirque’s GlidePoint technology;
+  
+
+    [8]
+   
+
+  later PowerBooks and MacBooks would use Apple-developed trackpads. Another early adopter of the GlidePoint pointing device was Sharp.
+  
+
+    [7]
+   
+
+  Later,
+  
+   Synaptics
+  
+  introduced their touchpad into the marketplace, branded the TouchPad.
+  
+   Epson
+  
+  was an early adopter of this product.
+  
+
+    [7]
+   
+
+
+  As touchpads began to be introduced in laptops in the 1990s, there was often confusion as to what the product should be called. No consistent term was used, and references varied, such as: glidepoint, touch sensitive input device, touchpad, trackpad, and pointing device.
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+
+  Users were often presented the option to purchase a
+  
+   pointing stick
+  
+  , touchpad, or
+  
+   trackball
+  
+  . Combinations of the devices were common, though touchpads and trackballs were rarely included together.
+  
+
+    [12]
+   
+
+
+  Touchpads are primarily used in self-contained portable
+  
+   laptop
+  
+  computers and do not require a flat surface near the machine. The touchpad is close to the keyboard, and only very short finger movements are required to move the cursor across the display screen; while advantageous, this also makes it possible for a user's palm or wrist to move the mouse cursor accidentally while typing. Touchpads also exist for desktop computers as an external peripheral, albeit rarely seen. Touchpads are sometimes integrated in some desktop computer keyboards, particularly keyboards oriented for
+  
+   HTPC
+  
+  use.
+ 
+  One-dimensional touchpads are the primary control interface for menu navigation on second-generation and later
+  
+   iPod Classic
+  
+  portable music players, where they are referred to as "click wheels", since they only sense motion along one axis, which is wrapped around like a wheel.
+  
+   Creative Labs
+  
+  also uses a touchpad for their
+  
+   Zen
+  
+  line of
+  
+   MP3 players
+  
+  , beginning with the Zen Touch. The second-generation
+  
+   Microsoft
+  
+
+   Zune
+  
+  product line (the
+  
+   Zune 80/120
+  
+  and
+  
+   Zune 4/8
+  
+  ) uses touch for the
+  
+   Zune Pad
+  
+  .
+ 
+  Apple's
+  
+   PowerBook 500
+  
+  series was its first laptop to carry such a device,
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  which Apple refers to as a "trackpad". When introduced in May 1994 it replaced the
+  
+   trackball
+  
+  of previous
+  
+   PowerBook
+  
+  models. In late 2008 Apple's revisions of the
+  
+   MacBook
+  
+  and
+  
+   MacBook Pro
+  
+  incorporated a "Tactile Touchpad" design with button functionality incorporated into the tracking surface.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [13]
+   
+
+  Beginning in the second generation of MacBook Pro, the entire touchpad surface acts as a clickable button.
+  
+
+    [14]
+   
+
+
+  Laptops today feature multitouch touchpads that can sense in some cases up to five fingers simultaneously, providing more options for input, such as the ability to bring up the
+  
+   context menu
+  
+  by tapping two fingers, dragging two fingers for scrolling, or gestures for zoom in/out or rotate.
+ 
+
+   Psion
+  
+  's MC 200/400/600/WORD Series,
+  
+
+    [5]
+   
+
+  introduced in 1989, came with a new mouse-replacing input device similar to a touchpad,
+  
+
+    [15]
+   
+
+  although more closely resembling a
+  
+   graphics tablet
+  
+  , as the cursor was positioned by clicking on a specific point on the pad, instead of moving it in the direction of a stroke.
+ 
+  There are two principal means by which touchpads work.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  In the
+  
+   matrix approach
+  
+  , a series of
+  
+   conductors
+  
+  are arranged in an array of parallel lines in two layers, separated by an
+  
+   insulator
+  
+  and crossing each other at
+  
+   right angles
+  
+  to form a grid. A high frequency signal is applied sequentially between pairs in this two-dimensional grid array. The current that passes between the nodes is proportional to the
+  
+   capacitance
+  
+  . When a
+  
+   virtual ground
+  
+  , such as a finger, is placed over one of the intersections between the conductive layer some of the electrical field is
+  
+   shunted
+  
+  to this ground point, resulting in a change in the apparent capacitance at that location. This method received
+  
+
+    U.S. Patent 5,305,017
+   
+
+  awarded to George Gerpheide in April 1994.
+ 
+  The
+  
+   capacitive shunt method
+  
+  , described in an application note by
+  
+   Analog Devices
+  
+  ,
+  
+
+    [16]
+   
+
+  senses the change in
+  
+   capacitance
+  
+  between a transmitter and receiver that are on opposite sides of the sensor. The transmitter creates an electric field which oscillates at 200–300 kHz. If a ground point, such as the finger, is placed between the transmitter and receiver, some of the field lines are shunted away, decreasing the apparent capacitance.
+ 
+  Major manufacturers include:
+ 

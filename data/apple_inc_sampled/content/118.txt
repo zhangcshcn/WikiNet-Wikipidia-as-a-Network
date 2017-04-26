@@ -1,0 +1,864 @@
+
+
+
+       iPod Touch
+      
+
+
+
+       iPad
+      
+
+
+
+   iOS 7
+  
+  is the
+  
+   seventh major release
+  
+  of the
+  
+   iOS
+  
+
+   mobile operating system
+  
+  developed by
+  
+   Apple Inc.
+  
+  , being the successor to
+  
+   iOS 6
+  
+  . It was announced at the company's
+  
+   Worldwide Developers Conference
+  
+  on June 10, 2013,
+  
+
+    [1]
+   
+
+  and was released on September 18, 2013.
+  
+
+    [2]
+   
+
+  It was succeeded by
+  
+   iOS 8
+  
+  on September 17, 2014.
+  
+
+    [3]
+   
+
+
+  iOS 7 introduced a completely redesigned
+  
+   user interface
+  
+  , a design credited to a team led by Apple's senior vice president of design,
+  
+   Jony Ive
+  
+  . The new look, featuring
+  
+   flatter icons
+  
+  , a new slide-to-unlock function, and new animations, was described by Ive as "profound and enduring beauty in simplicity". The new design was implemented throughout the operating system, including the Notification Center, which was updated with three tabs offering different views of information; notifications visible on the lock screen; a redesigned
+  
+   Siri
+  
+  voice assistant offering visual indicators; and a Control Center offering easy access to the most commonly used features. iOS 7 also introduced
+  
+   AirDrop
+  
+  , a wireless sharing technology;
+  
+   CarPlay
+  
+  , phone and car integration; and automatic app updates in the
+  
+   App Store
+  
+  .
+ 
+  Reception of iOS 7 was mixed. The new design language was criticized, with critics noting the implementation of design changes rather than actual productivity improvements, and citing examples such as animations delaying access, lack of icon consistency, and buttons being hidden as negative aspects of the user experience. The addition of the Control Center was praised, as were updates to Siri and multitasking. Shortly after release, there were reports of the new design causing sickness, a trend explained as being caused by animations with similar effects as car sickness.
+ 
+  User adoption of iOS 7 was fast. Its iOS market share was reported to be as high as 35% after one day, and installed on 200 million devices within 5 days, which Apple claimed was "the fastest software upgrade in history."
+ 
+
+
+  iOS 7 was introduced at the
+  
+   Apple Worldwide Developers Conference
+  
+  on June 10, 2013. A
+  
+   beta release
+  
+  was made available to registered developers after the announcement.
+  
+
+    [1]
+   
+
+
+  iOS 7 was officially released on September 18, 2013.
+  
+
+    [2]
+   
+
+
+  iOS 7.0.1 was released on September 20, 2013 specifically for the
+  
+   iPhone 5C
+  
+  and
+  
+   iPhone 5S
+  
+  . The update included bug fixes that allow users to purchase
+  
+   iTunes
+  
+  content with the
+  
+   Touch ID
+  
+  fingerprint recognition scanner rather than with a passcode.
+  
+
+    [4]
+   
+
+
+  iOS 7.0.2 was released on September 26, 2013. The update fixed bugs that could allow someone to bypass the lock screen passcode, and reintroduced a Greek keyboard option for passcode entry.
+  
+
+    [5]
+   
+
+
+  iOS 7.0.3 was released on October 23, 2013, with support for the
+  
+   iPad Air
+  
+  and
+  
+   iPad Mini 2
+  
+  . It also included support for
+  
+   iCloud Keychain
+  
+  , a password generator for the
+  
+   Safari
+  
+  web browser, updated the lock screen with a delay of the "Slide to Unlock" text when Touch ID is in use, and many bug fixes.
+  
+
+    [6]
+   
+
+
+  iOS 7.0.4 was released on November 14, 2013, with bug fixes addressing some
+  
+   FaceTime
+  
+  calls failing.
+  
+
+    [7]
+   
+
+
+  iOS 7.0.5 was released on January 29, 2014, with a fix correcting network provisioning for some iPhone 5S and iPhone 5C models in
+  
+   China
+  
+  .
+  
+
+    [8]
+   
+
+
+  iOS 7.0.6 was released on February 21, 2014, with a fix for an
+  
+   SSL
+  
+  connection verification issue.
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+  iOS 7.1 was released on March 10, 2014. The update included improvements to the
+  
+   Touch ID
+  
+  fingerprint technology, support for
+  
+   CarPlay
+  
+  , and a fix for a home screen
+  
+   crash issue
+  
+  . It also brought visual updates for the shift and caps lock keys on the keyboard, refined icons for several of Apple's standard apps, and a redesign for some aspects of the Phone dialer and shutdown screens.
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+  iOS 7.1.1 was released on April 22, 2014, with a few bug fixes.
+  
+
+    [13]
+   
+
+
+  iOS 7.1.2 was released on June 30, 2014, with bug fixes and improved
+  
+   iBeacon
+  
+  connectivity and stability.
+  
+
+    [14]
+   
+
+
+  iOS 7 introduced a complete visual overhaul of the user interface. With "sharper, flatter icons, slimmer fonts, a new slide-to-unlock function, and a new control panel that slides up from the bottom of the screen for frequently accessed settings", the operating system also significantly redesigned the standard pre-installed apps from Apple.
+  
+
+    [1]
+   
+
+
+   Jony Ive
+  
+  , Apple's head of design, commented that "There is a profound and enduring beauty in simplicity, in clarity, in efficiency. True simplicity is derived from so much more than just the absence of clutter and ornamentation - it's about bringing order to complexity. ... iOS 7 is a clear representation of these goals. It has a whole new structure that is coherent and applied across the entire system."
+  
+
+    [15]
+   
+
+
+  iOS 7 introduced
+  
+   AirDrop
+  
+  , a wireless sharing technology accessible from the share icon, which lets users send files from their local device to other, nearby iOS devices.
+  
+
+    [16]
+   
+
+  It can be enabled in the Control Center, with options for controlling its discovery by other devices, including Off, Contacts Only, and Everyone.
+  
+
+    [17]
+   
+
+
+  At launch, AirDrop was only available on the
+  
+   iPhone 5
+  
+  and later,
+  
+   fourth-generation iPad
+  
+  and later, all
+  
+   iPad Minis
+  
+  , and the
+  
+   fifth-generation iPod Touch
+  
+  .
+  
+
+    [18]
+   
+
+
+  iOS 7 introduced the
+  
+   Control Center
+  
+  , a menu that users can access by swiping up from the bottom of the screen, providing access to frequently used settings such as
+  
+   Airplane Mode
+  
+  ,
+  
+   Wi-Fi
+  
+  ,
+  
+   Bluetooth
+  
+  , Do Not Disturb Mode, and Rotation Lock. There is a slider for adjusting screen brightness, controls for music playback, along with a volume slider. A Flashlight toggle is also available,
+  
+
+    [19]
+   
+
+  as is an icon for quickly accessing the camera.
+  
+
+    [20]
+   
+
+
+  iOS 7 overhauled the
+  
+   Notification Center
+  
+  , with both visual and functional changes. It has three tabs; "Today" (information on what's coming during the day), "All", and "Missed". Notifications are now visible on the phone's lock screen, and notifications are synchronized across devices, so users don't need to dismiss the same notification multiple times on different devices.
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+
+  iOS 7 expanded the multitasking screen. Users double-tapped the home button and were taken out of the current app for a view of full-screen thumbnails of recently accessed apps.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+
+
+   CarPlay
+  
+  (formerly iOS in the Car), released as part of iOS 7.1, integrates with selected car models to offer phone interaction, including music controls and Maps navigation, through the car's display. Users can also talk to
+  
+   Siri
+  
+  to send messages hands-free.
+  
+
+    [25]
+   
+
+  It supports all
+  
+   Lightning
+  
+  -equipped iPhones with iOS 7.1 or later.
+  
+
+    [26]
+   
+
+
+
+   Siri
+  
+  features a new design where the assistant fades in with the background app being blurred. While speaking, visual vocal waves appear, that form into a spinning circle as the device communicates with Apple's servers. Siri can now control a limited set of device settings, including
+  
+   Bluetooth
+  
+  . The assistant can alternatively send the user directly to the settings menu if their query cannot be controlled by voice, or otherwise, displays an error if the request can't be processed. For searching the Internet,
+  
+   Bing
+  
+  became the default search engine, and Siri's web resources were expanded to include Wikipedia. Siri was also more deeply connected into
+  
+   Twitter
+  
+  , offering full tweet search.
+  
+
+    [27]
+   
+
+
+  iOS 7 also allowed the user to change Siri's gender, with new options for male and female voices.
+  
+
+    [28]
+   
+
+
+
+   Spotlight
+  
+  search is accessed by holding and dragging down the home screen.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+  iOS 7 came with new wallpapers that included a "Parallax" effect; the icons appear to be moving as the user moves the phone around, producing an "illusion that the icons are floating above the background wallpaper".
+  
+
+    [31]
+   
+
+
+  In Settings, users have the option to make custom vibrations for certain types of notifications,
+  
+
+    [32]
+   
+
+  turn off the parallax wallpaper animation effect using a Reduce Motion setting,
+  
+
+    [33]
+   
+
+  and block callers, with the block applying across multiple devices and apps, including Phone,
+  
+   Messages
+  
+  , and
+  
+   FaceTime
+  
+  .
+  
+
+    [34]
+   
+
+
+  The
+  
+   App Store
+  
+  received several significant changes in iOS 7. Users can now view a history of updates to each installed app. Through Settings, users can enable automatic app updates. With location services enabled, the App Store has a Near Me tab that recommends popular apps based on the user's geographic location.
+  
+
+    [35]
+   
+
+  It also became possible to download older versions of apps, in case new iOS versions left older devices incompatible for system updates, allowing users to maintain a working copy of the last supported update of each app.
+  
+
+    [36]
+   
+
+
+  iOS 7 introduced a square photo mode for the Camera app, enabling "
+  
+   Instagram
+  
+  -style photos". Also new are live filters; nine different filter options that each change the photo's appearance.
+  
+
+    [20]
+   
+
+  Further improvements to the camera included the ability to pinch-to-zoom during video recording, and a Burst mode for easily taking successive photos by holding the shutter button, causing the phone to take 10 frames per second.
+  
+
+    [37]
+   
+
+  On the
+  
+   iPhone 5S
+  
+  , a
+  
+   slow-motion
+  
+  video option was added, with the ability to shoot a video at a high
+  
+   frame rate
+  
+  of 120 frames per second. It can be edited in the Photos app, where users can decide where to start and end the slow-motion part.
+  
+
+    [38]
+   
+
+
+  The Photos app was updated with new categorization options. Three tabs on the bottom, "Photos", "Shared", and "Albums", each open to new windows featuring galleries. On the main Photos interface, the app displays a timeline of all photos, sorted into "Years", "Collections", and "Moments". Filters were added, allowing users to choose from several types of filters to add to their photos. Alongside existing options for sharing pictures, the app was updated with support for the new
+  
+   AirDrop
+  
+  functionality.
+  
+
+    [39]
+   
+
+
+  The Music app integrated Apple's
+  
+   iTunes Radio
+  
+  service; a station-based music service that let users choose an artist, with the service generating a "station" based on that and similar artists' songs. Users were able to skip songs and search through the history of previous songs, in addition to being able to purchase the songs directly from the
+  
+   iTunes Store
+  
+  while playing. iTunes Radio also had a feature that showed songs currently trending on
+  
+   Twitter
+  
+  . iTunes Radio was free and ad-supported, but users could subscribe to
+  
+   iTunes Match
+  
+  , that enabled ad-free playback.
+  
+
+    [40]
+   
+
+
+  After more than two years of release, iTunes Radio was eventually discontinued in January 2016, with the features moving to the new
+  
+   Apple Music
+  
+  music subscription service and
+  
+   Beats 1
+  
+  radio station.
+  
+
+    [41]
+   
+
+
+
+    [42]
+   
+
+
+  In iOS 7, the
+  
+   Safari
+  
+  web browser received multiple significant updates. The two search bars found in previous iterations of the browser have been combined into a single "Smart Search" field. Tab management was improved to allow more than eight open tabs at once, as well as stacking tabs on top of each other vertically as opposed to a horizontal card view. The option to enter a Private tab was built into the app itself rather than in Settings menus, and a new "Do Not Track" button allows the user to further manage their privacy levels.
+  
+
+    [43]
+   
+
+
+
+   Apple Maps
+  
+  now features turn-by-turn walking directions.
+  
+
+    [44]
+   
+
+
+  The design of Maps was updated to feature a full-screen view, where interface elements such as the search bar disappear from view, alongside new translucent search and lower toolbars, and a Night Mode that automatically activates when users drive at night. A separate Siri volume control is available in Maps, enabling users to "change the relative volume of Siri's voice feedback independently of the system volume, so it doesn't shout too loud over your background music".
+  
+
+    [45]
+   
+
+
+  The Weather app on iOS 7 received significant changes, including a new icon, the absence of a static weather indicator on the app thumbnail on the home screen, and new dynamic, visual representations of the current weather.
+  
+
+    [46]
+   
+
+
+  iOS 7 has its own
+  
+   FaceTime
+  
+  app on iPhone, with FaceTime Audio, a feature that allows users to call while on
+  
+   Wi-Fi
+  
+  . FaceTime Audio is accessible from the Phone app, the Contacts app, or the FaceTime app itself. It is available on devices running iOS 7 or later.
+  
+
+    [47]
+   
+
+
+  The
+  
+   Messages
+  
+  app allows users to see timestamps for every message they have sent or received.
+  
+
+    [48]
+   
+
+
+  The reception of iOS 7 was mixed. Mark Rogowsky of
+  
+
+    Forbes
+   
+
+  criticized multiple aspects of the new design, including the
+  
+   3D effect
+  
+  on the home screen wallpaper, writing that "the interaction between iOS 7 and the screen background is challenging at best", and writing that the new overall design language for the operating system "now has your icons fly into the screen whenever you unlock it like some kind of videogame effect. It's pointless, delays your access to the phone by a fraction of a second and is arguably distracting".
+  
+
+    [50]
+   
+
+  Joshua Topolsky of
+  
+
+    The Verge
+   
+
+  also criticized the design, noting lack of icon consistency in different parts of the OS, as well as writing that "instead of correcting issues with the notification panel and alerts, Apple has simply given them a fresh coat of paint and several layers of sub-navigation [...] doing nothing to actually speed up your productivity on the device."
+  
+
+    [51]
+   
+
+
+  The
+  
+   Nielsen Norman Group
+  
+  , a research company, wrote an extensive report on the user-experience of iOS 7, summarizing the report as "Flat design hides calls to action, and swiping around the edges can interfere with carousels and scrolling."
+  
+
+    [52]
+   
+
+
+
+   David Pogue
+  
+  of
+  
+
+    The New York Times
+   
+
+  , however, liked the minimalist design of iOS 7, writing that "The longer you spend with the new OS, the more you're grateful for the fixing and de-annoyifying on display", and that "you can swipe upward from the bottom of the screen to open the Control Center: a compact, visual palette of controls for the settings and functions you're most likely to need". He also praised the improvements to the Siri voice assistant, writing that Siri "is much better". He concluded by writing: "The structure, layout and features represent some of Apple's best work. The look of iOS 7 — well, that judgment is up to you."
+  
+
+    [53]
+   
+
+
+  Darrell Etherington of
+  
+
+    TechCrunch
+   
+
+  focused on many of the new features introduced, praising the Control Center as being "incredibly useful", AirDrop as being "great" (although noting the lack of interoperability between iOS and
+  
+   Mac
+  
+  at the time), Siri as being "more generally useful", and the new multitasking features as "smarter", with the multitasking screen being "much better". In conclusion, he wrote that "There's no question that iOS 7 will be a dramatic change from the iOS many users already know and love, but on balance it's an update packed with plenty of new features that make using Apple's mobile devices easier and more enjoyable".
+  
+
+    [54]
+   
+
+
+  Some critics noted the influence of competition from other mobile platforms on the design and functionality of iOS 7. Of note were the use of concepts from
+  
+   Android
+  
+  and
+  
+   Windows Phone
+  
+  , such as a similarly minimal and typographic design, Control Center being an equivalent to similar settings toggles on the notification shade of Android, a similar multitasking menu to
+  
+   WebOS
+  
+  , and even the design of the Weather app being almost identical to those on
+  
+   Windows 8
+  
+  and
+  
+   HTC Sense
+  
+  .
+  
+
+    [55]
+   
+
+  Sascha Segan of
+  
+
+    PC Magazine
+   
+
+  stated that "Apple's brilliance is in putting the pieces together and marketing them. Apple's developer
+  
+   APIs
+  
+  and its history of making money for developers still reign supreme—there's less piracy than on Android, and a bigger audience and more design flexibility than on Windows Phone."
+  
+
+    [56]
+   
+
+
+  The adoption rate of iOS 7 was reported to be as high as 35% after one day.
+  
+
+    [57]
+   
+
+  Within five days, iOS 7 was installed on more than 200 million devices, which Apple claimed was "the fastest software upgrade in history."
+  
+
+    [58]
+   
+
+  In August 2014, it was reported that 91% of iOS devices ran iOS 7 at the time.
+  
+
+    [59]
+   
+
+
+  In September 2013, Pranav Dixit of
+  
+
+    Fast Company
+   
+
+  reported about user complaints shared on Apple's support forums that the new design of iOS 7, including "many zoom animations while multitasking and opening and closing apps, in addition to a slight parallax effect" were causing users to feel sick. Dixit noted that while the parallax effect could be turned off, most animations did not have such an option.
+  
+
+    [60]
+   
+
+
+  Dr. George Kikano, "division chief of family medicine at UH Case Medical Center in Ohio", told
+  
+   Fox News
+  
+  that "There’s some validity to this, for people who are susceptible." Fox News wrote that Dr. Kikano said "It's a new "parallax" function that causes the background of the phone to subtly move back and forth, a feature that leads to an effect not unlike car sickness. The inner ear is responsible for balance, the eyes for vision. When things are out of sync you feel dizzy, nauseous. Some people get it, some people don't, and some people get used to it."
+  
+
+    [61]
+   
+
+
+  Adrian Kingsley-Hughes of
+  
+
+    ZDNet
+   
+
+  wrote in March 2014 that iPhone and iPad users reported battery drain with the iOS 7.1 update.
+  
+
+    [62]
+   
+
+  In lab testing, Andrew Cunningham of
+  
+
+    Ars Technica
+   
+
+  found some hardware models experienced minor battery depletion, while others experienced no statistically significant changes.
+  
+
+    [63]
+   
+
+
+  Dom Esposito of
+  
+   9to5Mac
+  
+  reported in June 2014 that a new lock screen bypass method had been discovered in iOS 7, allowing access to the phone in "5 seconds under certain circumstances". The issue was later fixed.
+  
+
+    [64]
+   
+
+
+  During the iOS 7 release, fake advertisements claimed that the update would cause devices to become
+  
+   waterproof
+  
+  ,
+  
+
+    [65]
+   
+
+  and that
+  
+   AirDrop
+  
+  was a mechanism for protecting the device's screen from breaking when dropped.
+  
+
+    [66]
+   
+
+
+  With this release, Apple dropped support for older devices, specifically the
+  
+   iPhone 3GS
+  
+  and the fourth-generation
+  
+   iPod Touch
+  
+  .
+  
+
+    [67]
+   
+

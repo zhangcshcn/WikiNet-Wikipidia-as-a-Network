@@ -1,0 +1,456 @@
+
+
+
+   Webmail
+  
+  (or
+  
+   web-based email
+  
+  ) is any
+  
+   email client
+  
+  implemented as a
+  
+   web application
+  
+  running on a
+  
+   web server
+  
+  . Examples of webmail software are
+  
+   Roundcube
+  
+  and
+  
+   SquirrelMail
+  
+  . Examples of
+  
+   webmail providers
+  
+  are
+  
+   AOL Mail
+  
+  ,
+  
+   Gmail
+  
+  ,
+  
+   Outlook.com/Hotmail.com
+  
+  and
+  
+   Yahoo! Mail
+  
+  .
+  
+
+    [1]
+   
+
+  Many webmail providers also offer email access by a desktop
+  
+   email client
+  
+  using standard email protocols, while many
+  
+   internet service providers
+  
+  provide a webmail client as part of the email service included in their internet service package.
+ 
+  As with any web application, webmail's main advantage over the use of a desktop
+  
+   email client
+  
+  is the ability to send and receive email anywhere from a
+  
+   web browser
+  
+  . Its main disadvantage is the need to be connected to the Internet while using it. Other software tools also exist to integrate parts of webmail functionality into an OS (e.g. creating messages directly from third party applications via
+  
+   MAPI
+  
+  ).
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+
+  The first Web Mail implementation was developed at CERN in 1993 by
+  
+   Phillip Hallam-Baker
+  
+
+
+    [4]
+   
+
+  as a test of the HTTP protocol stack. This led to the discovery that the specification of the POST method was faulty, requiring the introduction of the Content-Length header. The CERN-PTG daemon was released later that year but was not developed further.
+ 
+  In the early days of the web, in 1994 and 1995, several people were working on enabling email to be accessed via a web browser. In Europe, there were three implementations,
+  
+   Søren Vejrum
+  
+  's "WWW Mail",
+  
+
+    [5]
+   
+
+
+   Luca Manunza
+  
+  's "WebMail",
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+  and
+  
+   Remy Wetzels
+  
+  ' "WebMail",
+  
+
+    [8]
+   
+
+  whereas in the
+  
+   United States
+  
+  ,
+  
+   Matt Mankins
+  
+  wrote "Webex".
+  
+
+    [9]
+   
+
+  Three of these early applications were
+  
+   perl
+  
+  scripts that included the full source code available for download. Remy Wetzels' version was a
+  
+   CGI program
+  
+  written in
+  
+   C
+  
+  on
+  
+   Unix
+  
+  .
+ 
+  In 1994, Bill Fitler, while at
+  
+   Lotus cc:Mail
+  
+  in Mountain View, California, began working on an implementation of web-based email as a
+  
+   CGI program
+  
+  written in
+  
+   C
+  
+  on
+  
+   Windows NT
+  
+  , and demonstrated it publicly at
+  
+   Lotusphere
+  
+  on January 24, 1995.
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+  Søren Vejrum's "WWW Mail" was written when he was studying and working at the
+  
+   Copenhagen Business School
+  
+  in Denmark, and was released on February 28, 1995.
+  
+
+    [14]
+   
+
+  Luca Manunza's "WebMail" was written while he was working at
+  
+   CRS4
+  
+  in Sardinia, with the first source release on March 30, 1995.
+  
+
+    [15]
+   
+
+  Remy Wetzels' "WebMail" was written while he was studying at the
+  
+   Eindhoven University of Technology
+  
+  in the Netherlands for the DSE
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+  and was released early January, 1995. In the United States, Matt Mankins, under the supervision of Dr.
+  
+   Burt Rosenberg
+  
+  at the
+  
+   University of Miami
+  
+  ,
+  
+
+    [18]
+   
+
+  released his "Webex" application source code in a post to comp.mail.misc on August 8, 1995,
+  
+
+    [9]
+   
+
+  although it had been in use as the primary email application at the School of Architecture where Mankins worked for some months prior.
+ 
+  Meanwhile, Bill Fitler's webmail implementation was further developed as a commercial product which Lotus announced and released in the fall of 1995 as cc:Mail for the World Wide Web 1.0, thereby providing an alternative means of accessing a cc:Mail message store (the usual means being a cc:Mail desktop application that operated either via dialup or within the confines of a local area network).
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+
+  Early commercialization of webmail was also achieved when "Webex"—with no relation to the web conferencing company—began to be sold by Mankins' company, DotShop, Inc., at the end of 1995. Within DotShop, "Webex" changed its name to "EMUmail", which would be sold to companies like UPS and Rackspace until its sale to Accurev in 2001.
+  
+
+    [23]
+   
+
+  EMUmail was one of the first applications to feature a free version that included embedded advertising as well as a licensed version that did not.
+ 
+
+   Hotmail
+  
+  and
+  
+   Four11's RocketMail
+  
+  both launched in 1996
+  
+
+    [24]
+   
+
+  as free services and immediately became very popular.
+ 
+  As the 1990s progressed, and into the 2000s, it became more common for the general public to have access to webmail because:
+ 
+  In some cases, webmail application software is developed in-house by the organizations running and managing the application, and in some cases it is obtained from software companies that develop and sell such applications, usually as part of an integrated mail server package (an early example being
+  
+   Netscape Messaging Server
+  
+
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+  ). The market for webmail application software has
+  
+   continued into the 2010s
+  
+  .
+ 
+  Email users may find the use of both a webmail client and a desktop client using the
+  
+   POP3
+  
+  protocol presents some difficulties. For example, email messages that are downloaded by the desktop client and are removed from the server will no longer be available on the webmail client. The user is limited to previewing messages using the web client before they are downloaded by the desktop email client. However, one may choose to leave the emails on the server, in which case this problem does not occur. The use of both a webmail client and a desktop client using the
+  
+   IMAP4
+  
+  protocol allows the contents of the mailbox to be consistently displayed in both the webmail and desktop clients and any action the user performs on messages in one interface will be reflected when email is accessed via the other interface. There are significant differences in rendering capabilities for many popular webmail services such as
+  
+   Gmail
+  
+  ,
+  
+   Outlook.com
+  
+  and
+  
+   Yahoo! Mail
+  
+  . Due to the varying treatment of
+  
+   HTML
+  
+  tags, such as <style> and <head>, as well as
+  
+   CSS
+  
+  rendering inconsistencies, email marketing companies rely on older
+  
+   web development
+  
+  techniques to send
+  
+   cross-platform
+  
+  mail. This usually means a greater reliance on tables and inline stylesheets.
+ 
+  Although emails stored
+  
+   unencrypted
+  
+  on any service provider's servers can be read by that service provider, specific concerns have been raised regarding webmail services that automatically analyze the contents of users' emails for the purpose of
+  
+   targeted advertising
+  
+  .
+  
+
+    [27]
+   
+
+
+
+    [28]
+   
+
+
+
+    [29]
+   
+
+  At least two such services, Gmail and Yahoo! Mail, give users the option to opt out of targeted advertising.
+  
+
+    [30]
+   
+
+
+  Webmail that is accessed over unsecured HTTP may be readable by a third party who has access to the data transmission, such as over an unsecured
+  
+   Wi-Fi
+  
+  connection. This may be avoided by connecting to the webmail service via
+  
+   HTTPS
+  
+  , which encrypts the connection.
+  
+
+    [31]
+   
+
+  Gmail has supported HTTPS since launch
+  
+
+    [31]
+   
+
+  and in 2014 began requiring it for all webmail connections.
+  
+
+    [32]
+   
+
+  Yahoo! Mail added the option to connect over HTTPS in 2013
+  
+
+    [33]
+   
+
+  and made HTTPS required in 2014.
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+
+
+
+  Media related to
+  
+   Webmail
+  
+  at Wikimedia Commons
+ 

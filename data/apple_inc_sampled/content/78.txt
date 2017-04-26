@@ -1,0 +1,2369 @@
+
+
+  The
+  
+   MacBook Pro
+  
+  (sometimes abbreviated
+  
+   MBP
+  
+  )
+  
+
+    [1]
+   
+
+  is a line of
+  
+   Macintosh
+  
+  portable computers introduced in January 2006 by
+  
+   Apple Inc
+  
+  . Replacing the
+  
+   PowerBook G4
+  
+  , the MacBook Pro was the second model to be announced during the
+  
+   Apple–Intel transition
+  
+  , after the
+  
+   iMac
+  
+  . It is the high-end model of the
+  
+   MacBook family
+  
+  and is currently available in 13- and 15-inch screen sizes. A 17-inch version was available between April 2006 and June 2012.
+ 
+  The first generation MacBook Pro appeared externally similar to the PowerBook G4, but used
+  
+   Intel Core
+  
+
+   processors
+  
+  instead of
+  
+   PowerPC G4
+  
+  chips. The 15-inch model was introduced first, in January 2006; the 17-inch model followed in April. Both received several updates and
+  
+   Core 2 Duo
+  
+  processors later that year.
+ 
+  The product's second iteration, known as the "unibody" model, has a casing made from a single piece of aluminum. It debuted in October 2008 in 13- and 15-inch screen sizes. In January 2009, the 17-inch model was updated with the same unibody design. Subsequent updates brought upgraded
+  
+   Intel Core i5
+  
+  and
+  
+   i7
+  
+  processors and introduced Intel's
+  
+   Thunderbolt
+  
+  technology.
+ 
+  Apple released the third generation of MacBook Pro with a 15-inch screen during
+  
+   WWDC
+  
+  2012 and discontinued the 17-inch variant. The previous generation 13- and 15-inch unibody models continued to sell with updated processors. The third generation model was a quarter thinner than its predecessor and introduced the
+  
+   Retina Display
+  
+  with a much higher screen resolution. A 13-inch variant was released in October 2012.
+ 
+  The fourth generation MacBook Pro was announced on October 27, 2016. It replaced the function keys with an interactive, multi-touch "Touch Bar" and a Touch ID sensor integrated into the Power button. The 15-inch notebook started at $2,399, compared to $1,999 for the previous iteration.
+  
+
+    [2]
+   
+
+
+
+
+  The original 15-inch MacBook Pro was announced on January 10, 2006 by
+  
+   Steve Jobs
+  
+  at the
+  
+   Macworld Conference & Expo
+  
+  .
+  
+
+    [3]
+   
+
+  The 17-inch model was unveiled on April 24, 2006.
+  
+
+    [4]
+   
+
+  The first design was largely a carryover from the PowerBook G4, but uses
+  
+   Intel Core
+  
+
+   CPUs
+  
+  instead of
+  
+   PowerPC G4
+  
+  chips.
+  
+
+    [5]
+   
+
+  The 15-inch MacBook Pro weighs the same as the 15-inch aluminum PowerBook G4, but is 0.1 inches (0.25 cm) deeper, 0.4 inches (1.0 cm) wider, and 0.1 inches (0.25 cm) thinner.
+  
+
+    [6]
+   
+
+  Other changes from the PowerBook include a built-in
+  
+   iSight
+  
+
+   webcam
+  
+  and the inclusion of
+  
+   MagSafe
+  
+  , a magnetic power connector designed to detach easily when yanked. These features were later brought over to the
+  
+   MacBook
+  
+  . The optical drive was reduced in size in order to fit into the slimmer MacBook Pro, hence it runs slower than the optical drive in the PowerBook G4 and cannot write to
+  
+   dual layer DVDs
+  
+  .
+  
+
+    [5]
+   
+
+
+
+    [7]
+   
+
+
+  Both the original 15- and 17-inch model MacBook Pros come with
+  
+   ExpressCard/34
+  
+  slots, which replace the
+  
+   PC Card
+  
+  slots found in the
+  
+   PowerBook G4
+  
+  . All first generation 15-inch models have two
+  
+   USB 2.0
+  
+  ports and one
+  
+   FireWire 400
+  
+  port,
+  
+
+    [8]
+   
+
+  while the 17-inch models have three USB 2.0 ports as well as one FireWire 400 port.
+  
+
+    [9]
+   
+
+  When first introduced, the MacBook Pro did not come with
+  
+   FireWire 800
+  
+  or
+  
+   S-Video
+  
+  ports,
+  
+
+    [6]
+   
+
+
+
+    [8]
+   
+
+  although FireWire 800 was added in the next 15-inch model revision
+  
+
+    [10]
+   
+
+  and is present in every version of the 17-inch design.
+  
+
+    [9]
+   
+
+  S-Video capability can be attained through the use of a DVI to S-Video adapter.
+  
+
+    [6]
+   
+
+  External displays with up to a
+  
+   2,560 × 1,600
+  
+  pixel resolution are supported through a dual-link
+  
+   DVI
+  
+  port.
+  
+
+    [11]
+   
+
+  All models include a built-in
+  
+   Gigabit Ethernet
+  
+  port,
+  
+   Bluetooth 2.0
+  
+  , and
+  
+   802.11a/b/g
+  
+  .
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  Later models include support for the draft 2.0 specification of
+  
+   802.11n
+  
+
+
+    [12]
+   
+
+  and
+  
+   Bluetooth 2.1
+  
+  .
+ 
+  Apple refreshed the entire MacBook Pro line on October 24, 2006 to include
+  
+   Intel Core 2
+  
+  Duo processors.
+  
+
+    [10]
+   
+
+  Memory capacity was doubled for each model, to 1 GB on the low-end 15-inch and 2 GB for the high-end 15- and 17-inch models.
+  
+
+    [10]
+   
+
+
+   FireWire 800
+  
+  was added to the 15-inch models. Hard drive capacity was increased, although video card options stayed the same.
+  
+
+    [10]
+   
+
+  The MacBook Pro line received a second update on June 5, 2007 with new
+  
+   Nvidia
+  
+
+   Geforce
+  
+
+   8600M GT
+  
+  video cards and faster processor options.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+   LED
+  
+  backlighting was added to the 15-inch model's screen, and its weight was reduced from 5.6 pounds (2.5 kg) to 5.4 pounds (2.4 kg).
+  
+
+    [14]
+   
+
+  Furthermore, the speed of the
+  
+   front-side bus
+  
+  was increased from 667 MHz to 800 MHz. On November 1, 2007, Apple added the option of a 2.6 GHz
+  
+   Santa Rosa platform
+  
+  Core 2 Duo CPU as well as reconfigured hard drive options.
+  
+
+    [14]
+   
+
+
+  On February 26, 2008, the MacBook Pro line was again updated.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+
+   LED backlighting
+  
+  was added as an option for the 17-inch model.
+  
+
+    [15]
+   
+
+  Processors were updated to "
+  
+   Penryn
+  
+  " cores, which are built on the
+  
+   45 nanometer
+  
+  process (
+  
+   65 nanometer
+  
+  "
+  
+   Merom
+  
+  " cores were previously used), and hard drive and memory capacities were increased.
+  
+
+    [15]
+   
+
+  Multi-touch capabilities, first introduced with the
+  
+   MacBook Air
+  
+  earlier that year, were brought over to the MacBook Pro's
+  
+   trackpad
+  
+  .
+  
+
+    [15]
+   
+
+  When the 15-inch unibody MacBook Pro was introduced on October 14, 2008, the pre-unibody model with the same screen size was discontinued, while the 17-inch pre-unibody model continued to be sold.
+  
+
+    [17]
+   
+
+  The original case design was discontinued on January 6, 2009, when the 17-inch MacBook Pro was also updated with unibody construction.
+  
+
+    [18]
+   
+
+
+  Some reviewers applauded the MacBook Pro for its doubling or tripling the speed of the PowerBook G4 in some areas.
+  
+
+    [5]
+   
+
+  For example, the
+  
+   3D rendering
+  
+  program
+  
+   Cinema 4D XL
+  
+  was 3.3 times as fast (2.3 times faster),
+  
+
+    [5]
+   
+
+  and its
+  
+   boot-up
+  
+  time was more than twice as quick.
+  
+
+    [6]
+   
+
+  The MacBook Pro generally outperformed the PowerBook G4 in performance analyzer utility tests XBench and Cinebench.
+  
+
+    [6]
+   
+
+  Reviewers lauded the screen's maximum brightness, 67 percent higher than the PowerBook G4; the excellent horizontal viewing angles; the matte options; and the bright, crisp, and true colors.
+  
+
+    [7]
+   
+
+  Although the screen offered fewer vertical pixels (1,440 × 900 in the MacBook Pro instead of 1,440 × 960 in the PowerBook), one reviewer called the screen "nothing less than stellar".
+  
+
+    [6]
+   
+
+  Reviewers praised the new MagSafe power adapter,
+  
+
+    [5]
+   
+
+  although one reviewer said it disconnected too easily in some instances.
+  
+
+    [6]
+   
+
+  They also praised the backlit keyboard, large
+  
+   trackpad
+  
+  , and the virtually silent operation of the machine.
+  
+
+    [5]
+   
+
+
+
+    [7]
+   
+
+  The new laptop also offered better
+  
+   wireless
+  
+  performance.
+ 
+  One reviewer criticized the decision to
+  
+   underclock
+  
+  the
+  
+   ATI Mobility Radeon X1600
+  
+  graphics card by about 30 percent its original speed.
+  
+
+    [7]
+   
+
+  The notebook was also noted for running hot.
+  
+
+    [5]
+   
+
+
+
+    [7]
+   
+
+  Users complained that upgrading
+  
+   system memory
+  
+  was harder than in older Apple notebooks.
+  
+
+    [6]
+   
+
+  Since the dimensions for the 15-inch MacBook Pro were tweaked slightly from the 15-inch PowerBook G4, older accessories such as notebook sleeves did not work with the new models.
+  
+
+    [6]
+   
+
+  Some users noted a slight flickering when the screen was on lower brightness settings.
+  
+
+    [6]
+   
+
+  Apple increased the
+  
+   battery capacity
+  
+  by 10
+  
+   Wh
+  
+  , going from 50 in the PowerBook G4 to 60,
+  
+
+    [6]
+   
+
+  but the more powerful Core Duo CPU required more power.
+  
+
+    [6]
+   
+
+  Battery life therefore remained about the same as in previous models, at three-plus hours.
+  
+
+    [6]
+   
+
+
+
+
+       SuperDrive
+      
+
+     : 8×
+     
+      DVD-DL
+     
+     discs reads.
+     
+      4×
+     
+     DVD+/-R & RW recording. 24× CD-R and 10× CD-RW recording
+     
+
+
+       (optional for 15-inch)
+      
+
+
+
+      SuperDrive
+     
+     : 4× DVD+R writes,
+     
+      8×
+     
+     DVD+/-R read, 4× DVD+/-RW writes, 24× CD-R, and 10× CD-RW recording
+     
+
+       (17-inch)
+      
+
+
+  On October 14, 2008, in a press event at
+  
+   company headquarters
+  
+  , Apple officials announced a new 15-inch MacBook Pro featuring a "precision aluminum unibody enclosure" and tapered sides similar to those of the
+  
+   MacBook Air
+  
+  .
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+  Designers shifted the MacBook Pro's ports to the left side of the case, and moved the
+  
+   optical disc drive
+  
+  slot from the front to the right side, similar to the
+  
+   MacBook
+  
+  . The new MacBook Pros had two new video cards: the
+  
+   Nvidia
+  
+
+   GeForce
+  
+
+   9600M GT
+  
+  with either 256 or 512 MB of dedicated memory and a GeForce
+  
+   9400M
+  
+  with 256 MB of shared system memory.
+  
+
+    [29]
+   
+
+  Although the FireWire 400 port was removed, the FireWire 800 port was retained. The
+  
+   DVI
+  
+  port was replaced with a
+  
+   Mini DisplayPort
+  
+  receptacle.
+  
+
+    [29]
+   
+
+  The original unibody MacBook Pro came with a user-removable battery; Apple claimed five hours of use,
+  
+
+    [29]
+   
+
+  with one reviewer reporting results closer to four on a continuous video battery stress test.
+  
+
+    [31]
+   
+
+  Apple said that the battery would hold 80 percent of its charge after 300 recharges.
+  
+
+    [32]
+   
+
+
+  The unibody-construction MacBook Pro largely follows the styling of the original aluminum
+  
+   iMac
+  
+  and the
+  
+   MacBook Air
+  
+  and is slightly thinner than its predecessor, albeit wider and deeper due to the
+  
+   widescreen
+  
+  display.
+  
+
+    [29]
+   
+
+  The screen is high-gloss, covered by an edge-to-edge reflective glass finish, while an anti-glare matte option is available in the 15- and 17-inch models in which the glass panel is removed.
+  
+
+    [33]
+   
+
+  The entire trackpad is usable and acts as a clickable button.
+  
+
+    [33]
+   
+
+  The trackpad is also larger than the first generation model's, giving more room for scrolling and
+  
+   multi-touch
+  
+  gestures.
+  
+
+    [33]
+   
+
+  When the line was updated in April 2010,
+  
+   inertial scrolling
+  
+  was added, making the scrolling experience much like that of the
+  
+   iPhone
+  
+  and
+  
+   iPad
+  
+  .
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+
+    [36]
+   
+
+  The keys, still backlit, are now that of Apple's now-standard sunken keyboard with separated black keys.
+  
+
+    [34]
+   
+
+
+  During the
+  
+   MacWorld Expo
+  
+  keynote on January 6, 2009,
+  
+   Phil Schiller
+  
+  announced a 17-inch MacBook Pro with unibody construction. This version diverged from its 15-inch sibling with an anti-glare "matte" screen option (with the glossy finish standard) and a non user-removable
+  
+   lithium polymer
+  
+  battery.
+  
+
+    [37]
+   
+
+  Instead of traditional round cells inside the casing, the lithium-ion polymer batteries are shaped and fitted into each laptop to maximally utilize space. Adaptive charging, which uses a chip to optimize the charge flow to reduce wear and tear, extends the battery's overall life.
+  
+
+    [37]
+   
+
+  Battery life for the 17" version is quoted at eight hours, with 80 percent of this charge remaining after 1,000 charge-discharge cycles.
+  
+
+    [37]
+   
+
+
+  At Apple's
+  
+   Worldwide Developers Conference
+  
+  (WWDC) on June 8, 2009, it was announced that the 13-inch unibody MacBook would be upgraded and re-branded as a MacBook Pro,
+  
+
+    [38]
+   
+
+  leaving only the white
+  
+   polycarbonate
+  
+  MacBook in the MacBook line.
+  
+
+    [39]
+   
+
+  It was also announced that the entire MacBook Pro line would use the non user-removable battery first introduced in the 17-inch MacBook Pro.
+  
+
+    [40]
+   
+
+  The updated MacBook Pro 13- and the 15-inch would each have up to a claimed seven hours of battery life, while the 17-inch would keep its eight-hour capacity.
+  
+
+    [38]
+   
+
+
+
+    [40]
+   
+
+  Some sources even reported up to eight hours of battery life for the 13- and 15-inch MacBook Pros during casual use,
+  
+
+    [41]
+   
+
+  while others reported around six hours.
+  
+
+    [33]
+   
+
+  Like the 17-inch MacBook Pro, Apple claims that they will last around 1,000 charge cycles while still containing 80 percent of their capacity.
+  
+
+    [42]
+   
+
+  Graphics card options stayed the same from the previous release, although the 13-inch
+  
+
+    [43]
+   
+
+  and the base model 15-inch, came with only the GeForce 9400M GPU.
+  
+
+    [44]
+   
+
+  The screens were also improved, gaining a claimed 60 percent greater
+  
+   color gamut
+  
+  .
+  
+
+    [43]
+   
+
+
+
+    [44]
+   
+
+  All of these mid 2009 models also included a
+  
+   FireWire 800
+  
+  port and all except the 17-inch models would receive an
+  
+   SD card
+  
+  slot.
+  
+
+    [30]
+   
+
+  The 17-inch model would retain its
+  
+   ExpressCard/34
+  
+  slot.
+  
+
+    [40]
+   
+
+  For the 13-inch MacBook Pro, the
+  
+   Kensington
+  
+
+   lock slot
+  
+  was moved to the right side of the chassis.
+  
+
+    [45]
+   
+
+  In August 2009, Apple extended the "matte" anti-glare display option to the 15-inch MacBook Pro.
+  
+
+    [46]
+   
+
+
+  On April 13, 2010,
+  
+
+    [47]
+   
+
+
+   Intel Core i5
+  
+  and
+  
+   Core i7
+  
+
+   CPUs
+  
+  were introduced in the 15- and 17-inch models, while the 13-inch retained the
+  
+   Core 2 Duo
+  
+  with a speed increase.
+  
+
+    [47]
+   
+
+  The power brick was redesigned
+  
+
+    [34]
+   
+
+  and a high-resolution display (of
+  
+   1,680 × 1,050
+  
+  ) was announced as an option for the 15-inch models.
+  
+
+    [35]
+   
+
+  The 13-inch gained an integrated
+  
+   Nvidia
+  
+
+   GeForce
+  
+
+   320M
+  
+
+   graphics processing unit
+  
+  (GPU) with 256 MB of shared memory, while the 15- and 17-inch models were upgraded to the
+  
+   GeForce
+  
+  GT
+  
+   330M
+  
+  , with either 256 or 512 MB of dedicated memory.
+  
+
+    [47]
+   
+
+  The 15- and 17-inch models also have an integrated Intel GPU that is built into the Core i5 and i7 processors.
+  
+
+    [47]
+   
+
+  The 15-inch model also gained 0.1 pounds (0.045 kg).
+  
+
+    [35]
+   
+
+  Save for a third USB 2.0 slot, all the ports on the 17-inch MacBook Pro are the same in type and number as on the 15-inch version.
+  
+
+    [48]
+   
+
+  All models come with 4 GB of system memory that is upgradeable to 8 GB.
+  
+
+    [47]
+   
+
+  Battery life was also extended further in this update, to an estimated ten hours for the 13-inch and 8–9 hours on the 15- and 17-inch MacBook Pros.
+  
+
+    [47]
+   
+
+  This was achieved through both greater power efficiency and adding more battery capacity.
+  
+
+    [47]
+   
+
+  One reviewer reported about six hours of battery life through a continuous video battery stress test in the 15-inch
+  
+
+    [36]
+   
+
+  and another, who called the battery life "unbeatable," reported nearer to eight in the 13-inch through their "highly demanding battery drain test".
+  
+
+    [34]
+   
+
+
+
+   Thunderbolt
+  
+  technology,
+  
+   Sandy Bridge
+  
+  dual core Intel Core i5 and i7 (on the 13-inch model) or quad-core i7 (on the 15- and 17-inch models) processors, and a
+  
+   high definition
+  
+
+   FaceTime
+  
+  camera were added on February 24, 2011. Intel HD Graphics 3000 come integrated with the CPU, while the 15- and 17-inch models also utilize
+  
+   AMD
+  
+  Radeon HD 6490M and Radeon HD 6750M graphics cards. Later editions of these models, following the release of OS X Lion, replaced the dashboard (F4) key with a launchpad key. The chassis bottoms are also engraved differently from the 2010 models.
+  
+
+    [49]
+   
+
+  The Thunderbolt
+  
+   serial bus
+  
+  platform can achieve speeds of up to 10 Gbit/s,
+  
+
+    [50]
+   
+
+  which is up to twice as fast as the
+  
+   USB 3.0
+  
+  specification, 20 times faster than the
+  
+   USB 2.0
+  
+  specification, and up to 12 times faster than
+  
+   FireWire 800
+  
+  .
+  
+
+    [51]
+   
+
+  Apple says that Thunderbolt can be used to drive displays or to transfer large quantities of data in a short amount of time.
+  
+
+    [51]
+   
+
+
+  On June 11, 2012, Apple showcased its upgraded Mac notebooks,
+  
+   OS X Mountain Lion
+  
+  , and iOS 6 at the
+  
+   Worldwide Developers Conference
+  
+  (WWDC) in San Francisco.
+  
+
+    [52]
+   
+
+  The new MacBook Pro models were updated with
+  
+   Ivy Bridge
+  
+  processors and USB 3.0 ports, and the default RAM on premium models was increased to 8 GB.
+  
+
+    [53]
+   
+
+  Following this announcement, the 17-inch model was discontinued. After a media event on October 22, 2013 Apple discontinued all second generation MacBook Pros except for the entry-level 2.5 GHz 13-inch model.
+  
+
+    [54]
+   
+
+  Apple discontinued the 13-inch 2nd generation MacBook Pro on October 27, 2016. Prior to its discontinuation it was Apple’s only product to still include an optical drive and a Firewire port, and only laptop with a hard disk drive and ethernet port.
+  
+
+    [55]
+   
+
+
+  Some reviewers praised the new laptop's performance and compact size,
+  
+
+    [31]
+   
+
+  the quality of the screen, and sturdy unibody build,
+  
+
+    [31]
+   
+
+  which allowed easier upgrading of internal components as compared to the original models.
+  
+
+    [31]
+   
+
+  Some reviewers also noted that the new MacBook Pro ran more quietly and at cooler temperatures than first generation machines.
+  
+
+    [31]
+   
+
+  Others, however, criticized the amount of heat generated by the new design.
+  
+
+    [56]
+   
+
+
+
+    [57]
+   
+
+
+  Reviewers lamented the loss of a matte screen option for the 2008 unibody MacBook Pro, noting the reflectiveness of the screen in sunlight, even when its brightness was turned all the way up.
+  
+
+    [31]
+   
+
+
+   CNET
+  
+  's
+  
+   Dan Ackerman
+  
+  commented of the mid-2009 models: "According to Apple, the new display offers a wider color gamut, and the screen certainly looks bright and colorful, but we wish the same matte-screen option offered on the 17-inch MacBook Pro was available across the line... While the LED screen means a thinner lid and some battery life benefits, the edge-to-edge glass covering the entire display panel grabs stray light rays with ease, making the glossy screen hard to see in some lighting conditions."
+  
+
+    [33]
+   
+
+  By 2011, matte screens were offered for both the 15" and 17" models. Furthermore, the addition of
+  
+   Mini DisplayPort
+  
+  instead of the more popular
+  
+   HDMI
+  
+  was criticized.
+  
+
+    [31]
+   
+
+  The relatively low number of ports and lower end technical specifications when compared to similarly priced laptops from other brands were also bemoaned.
+  
+
+    [31]
+   
+
+
+
+   Laptop Magazine
+  
+
+   '
+  
+  s Michael Prospero praised the 2010 15-inch model's display, calling it "bright and crisp". He further commented, "While reflections from the glossy display weren't overwhelming, it's also nice to know there's an antiglare option—though only for the higher resolution display. Still, colors were bright, blacks were deep and dark, and viewing angles were excellent both vertically and horizontally." He also lauded the quality of the
+  
+   iSight
+  
+  webcam, the responsiveness of the touchpad, the microphone and speakers, as well as the performance of the new CPUs for the 15" model and the long battery life. Complaints included the price of the laptop, the low number of
+  
+   USB
+  
+  ports, and the lack of
+  
+   HDMI
+  
+  .
+  
+
+    [35]
+   
+
+
+
+   CNET
+  
+  praised the automatic graphics switching features of the 15- and 17-inch 2010 models as well as the graphics cards themselves. Acclaim was also given to the Core i5 and i7 CPUs, the multi-touch trackpad, and the addition of audio capabilities to the
+  
+   Mini DisplayPort
+  
+  video output.
+  
+
+    [36]
+   
+
+  They also called for the addition of HDMI and the
+  
+   Blu-ray
+  
+
+   optical disc
+  
+  format, saying that most other computers in the MacBook Pro's price range possessed these features.
+  
+
+    [36]
+   
+
+  CNET also criticized the option of a higher resolution screen in the 15-inch model, saying that "the higher-resolution screen should be included by default."
+  
+
+    [36]
+   
+
+
+     2.53 GHz (T9400)
+     
+      Intel
+     
+
+      Core 2 Duo
+     
+
+      Penryn
+     
+     with 6 MB on-chip L2 cache
+     
+
+
+       Optional 2.8 GHz (T9600) with 6 MB on-chip L2 cache
+      
+
+
+     2.8 GHz (T9600)
+     
+
+       (15" and 17" only)
+      
+
+
+      Intel
+     
+
+      Core 2 Duo
+     
+
+      Penryn
+     
+     with 6 MB on-chip
+     
+      L2 cache
+     
+
+
+
+       Optional 3.06 GHz (T9900)
+       
+        with 6 MB on-chip L2 cache (15" and 17" only)
+       
+
+
+
+  Since the RAM and the hard drive on some generations of MacBook Pro are user serviceable parts, there are aftermarket modifications to enhance the system with up to 16GB of DDR3-1600 RAM (maximum capacity and frequency depend on the hardware in question), 7200-rpm hard drives or third party SSDs.
+ 
+  Early and Late 2011 models reportedly suffer from manufacturing problems leading to overheating, graphical issues, and eventually complete GPU and logic board failure. A thread was opened on the Apple Support community
+  
+
+    [88]
+   
+
+  that reached more than 12,000 posts and 4,000,000 visits (Feb 2015). A similar but nonidentical issue affected iMac GPUs which were later recalled by Apple.
+  
+
+    [89]
+   
+
+  The problem was covered by many articles in Mac-focused magazines, starting late 2013 throughout 2014.
+  
+
+    [90]
+   
+
+
+
+    [91]
+   
+
+
+
+    [92]
+   
+
+
+
+    [93]
+   
+
+
+
+    [94]
+   
+
+  In August 2014 the law firm Whitfield Bryson & Mason LLP had begun investigating the problem to determine if any legal claim exists.
+  
+
+    [95]
+   
+
+  On October 28, 2014, the firm announced that it has filed a class-action lawsuit in a California federal court against Apple. The lawsuit will cover residents residing in both California and Florida who have purchased a 2011 MacBook Pro notebook with an AMD graphics card. The firm is also investigating similar cases across the United States.
+  
+
+    [96]
+   
+
+  On February 20, 2015, Apple instituted the
+  
+
+    "MacBook Pro Repair Extension Program for Video Issues"
+   
+   .
+  
+
+
+
+
+  This "will repair affected MacBook Pro systems, free of charge."
+ 
+  On June 11, 2012 at the
+  
+   Apple Worldwide Developers Conference
+  
+  in San Francisco, Apple introduced the third generation MacBook Pro, marketed as the "MacBook Pro with Retina display" to differentiate it from the predecessor model.
+  
+
+    [52]
+   
+
+  The new model includes Intel's third generation
+  
+   Core i7
+  
+  processors (
+  
+   Ivy Bridge microarchitecture
+  
+  ),
+  
+   USB 3.0
+  
+  , and a high-resolution 15.4"
+  
+   IPS
+  
+  2880×1800-pixel
+  
+   Retina Display
+  
+  .
+  
+
+    [53]
+   
+
+  Other new or changed features include a second
+  
+   Thunderbolt
+  
+  port, a
+  
+   HDMI
+  
+  port, and a thinner
+  
+   MagSafe
+  
+  port, dubbed the "MagSafe 2".
+  
+
+    [97]
+   
+
+  Apple introduced a 13-inch version on October 23, 2012 with specifications similar but slightly inferior to the 15-inch version's, such as less powerful processors.
+  
+
+    [98]
+   
+
+
+  The new models omit
+  
+   Ethernet
+  
+  and
+  
+   FireWire 800
+  
+  ports, though Apple offers Thunderbolt adapters for both interfaces.
+  
+
+    [99]
+   
+
+  They also omit a
+  
+   SuperDrive
+  
+  , making the 15-inch model Apple's first professional notebook since the
+  
+   PowerBook 2400c
+  
+  to ship without a built-in optical drive.
+  
+
+    [100]
+   
+
+  Instead of a
+  
+   hard disk drive
+  
+  , the new models ship with a
+  
+   solid state drive
+  
+  housed in a proprietary flash module design rather than a 2.5" notebook drive. Apple also claims improved speakers and microphones and a new system for cooling the notebook with improved fans.
+  
+
+    [97]
+   
+
+  The new case design does not have a
+  
+   Kensington lock slot
+  
+  , so alternative products are required to physically secure the computer.
+  
+
+    [101]
+   
+
+
+  The Retina models also have fewer user-accessible upgrade or replacement options than previous MacBooks. Unlike in previous generations, the memory is soldered onto the logic board and is therefore not upgradable. The solid state drive is not soldered and can be replaced by users.
+  
+
+    [102]
+   
+
+  The battery is glued into place; attempts to remove it may destroy the battery and/or trackpad.
+  
+
+    [103]
+   
+
+  The entire case uses proprietary
+  
+   pentalobe
+  
+  screws and cannot be disassembled with standard tools. While the battery is glued in, recycling companies have stated that the design is only "mildly inconvenient" and does not hamper the recycling process.
+  
+
+    [104]
+   
+
+
+  On February 13, 2013, Apple announced updated prices and processors for the MacBook Pro with Retina Display and increased the RAM of the high-end 15-inch model to 16 GB.
+  
+
+    [105]
+   
+
+
+  On October 22, 2013, Apple updated the line with Intel's Haswell processors and Iris Graphics,
+  
+   802.11ac
+  
+  Wi-Fi,
+  
+   Thunderbolt 2
+  
+  , and PCIe-based flash storage.
+  
+
+    [106]
+   
+
+  The chassis of the 13-inch version was slightly slimmed to 0.71 inches (18 mm) to match the 15-inch model. The lower-end 15-inch model only included integrated graphics while the higher-end model continued to include a discrete Nvidia graphics card in addition to integrated graphics.
+  
+
+    [107]
+   
+
+  Support for
+  
+   4K
+  
+  video output via HDMI was added but limited the maximum number of external displays from three to two.
+  
+
+    [108]
+   
+
+  On July 29, 2014 Apple announced updated prices and processors for the Haswell MacBook Pro with Retina Display.
+  
+
+    [109]
+   
+
+
+  On March 9, 2015, the 13-inch model was updated with Intel Broadwell processors, Iris 6100 graphics, faster flash storage, increased battery life, and a
+  
+   Force Touch
+  
+  trackpad.
+  
+
+    [110]
+   
+
+
+
+    [111]
+   
+
+  On May 19, 2015, the 15-inch model was also updated with similarly fast flash storage, increased battery life, the Force Touch trackpad, and an AMD Radeon R9 discrete graphics card on the higher-end model.
+  
+
+    [112]
+   
+
+
+
+    [113]
+   
+
+  The higher-end 15-inch model also added support for dual-cable output to 5120×2880 displays.
+  
+
+    [114]
+   
+
+  The 15-inch models were released with the same Intel Haswell processors and Iris Pro graphics as the 2014 models due to a delay in shipment of newer Broadwell quad-core processors.
+  
+
+    [115]
+   
+
+
+  The Retina Display MacBook Pro largely follows the design of the previous generation with its aluminum enclosure and separated black keys. The most apparent body changes are a thinner chassis and a display with a redesigned hinge and thinner bezel and the removal of the internal optical drive. The power button is moved from the upper right corner of the chassis onto the keyboard, taking the place of the optical disc eject button.
+  
+
+    [116]
+   
+
+  At 0.71 inches (18 mm) thick, the 15-inch model is 25 percent thinner than its predecessor. The model name is no longer placed at the bottom of the screen bezel; instead, it is found on the underside of the chassis, similar to an
+  
+   iOS
+  
+  device. It is the first Macintosh laptop to not have its model name visible during normal use, as every prior laptop had its model name on the screen bezel or keyboard.
+  
+
+    [117]
+   
+
+
+  The third generation MacBook Pro received positive reviews of the Retina Display, flash storage and power. It was criticized, however, for its high price and lack of an Ethernet port and optical drive. Roman Loyola of
+  
+
+    Macworld
+   
+
+  said that the Retina MacBook Pro was "groundbreaking" and made people "rethink how they use technology." He praised the inclusion of USB 3.0 and the slimmer body.
+  
+
+    [118]
+   
+
+
+   Dan Ackerman
+  
+  of
+  
+   CNET
+  
+  commented "I've previously called the 15-inch MacBook Pro one of the most universally useful all-around laptops you can buy. This new version adds to that with HDMI, faster ports, and more portability. But it also subtracts from that with its exclusion of an optical drive and Ethernet port, plus its very high starting price. The Pro and Retina Pro are clearly two laptops designed for two different users, and with the exception of all-day commuters who need something closer to a MacBook Air or ultrabook, one of the two branches of the MacBook Pro family tree is still probably the most universally useful laptop you can buy."
+  
+
+    [119]
+   
+
+
+  Joel Santo Domingo of
+  
+
+    PC Magazine
+   
+
+  gave the MacBook Pro an "Editor's Choice" rating. He praised its "brilliant Retina display," the thin design, port selection and speedy storage, and highlighted the expandability via Thunderbolt ports which support up to seven devices each.
+  
+
+    [120]
+   
+
+
+   David Pogue
+  
+  of
+  
+
+    The New York Times
+   
+
+  praised the 15-inch model's screen, keyboard, sound, start-up time, cosmetics, battery life, storage, and
+  
+   RAM
+  
+  capacity. They criticized the lack of a
+  
+   SuperDrive
+  
+  , pricing, and the MagSafe 2 power connector's lack of backwards compatibility with the older MagSafe design.
+  
+
+    [121]
+   
+
+
+  Since the battery is glued in and cannot be easily disassembled for recycling (an
+  
+   EPEAT
+  
+  requirement), Apple received criticisms about the machine's ability to be recycled.
+  
+   Greenpeace
+  
+  spokesman Casey Harrell said Apple "has pitted design against the environment—and chosen design. They're making a big bet that people don't care, but recycling is a big issue."
+  
+
+    [122]
+   
+
+
+   Wired
+  
+  also criticized Apple's recyclability claims, stating "[t]he design may well be comprised of 'highly recyclable aluminum and glass'—but my friends in the electronics recycling industry tell me they have no way of recycling
+  
+   aluminum
+  
+  that has glass glued to it like Apple did with both this machine and the recent iPad."
+  
+
+    [123]
+   
+
+
+  The
+  
+   Retina Display
+  
+  on the MacBook Pro have been criticized for "
+  
+   image retention
+  
+  ," specifically for displays manufactured by
+  
+   LG
+  
+  .
+  
+
+    [124]
+   
+
+
+
+    [125]
+   
+
+
+
+
+       Optional 2.6 GHz (i7-3720QM) with 6 MB on-chip
+       
+        L3 cache
+       
+
+
+
+
+
+       Optional 2.7 GHz (i7-3820QM) with 8 MB on-chip
+       
+        L3 cache
+       
+
+
+
+
+
+       Optional 2.9 GHz (i7-3520M) dual-core Intel Core i7 Ivy Bridge processor with 4 MB shared L3 cache
+      
+
+
+
+
+       Optional 3.0 GHz (i7-3540M) dual-core Intel Core i7 Ivy Bridge with 4 MB shared L3 cache
+      
+
+
+
+
+       Optional 2.6 GHz (i5-4288U) dual-core Intel Core i5 Haswell with 3 MB shared L3 cache
+      
+
+
+
+
+       Optional 2.8 GHz (i7-4558U) dual-core Intel Core i7 Haswell with 4 MB shared L3 cache
+      
+
+
+
+
+       Optional 2.8 GHz (i5-4308U) dual-core Intel Core i5 Haswell with 3 MB shared L3 cache
+      
+
+
+
+
+       Optional 3.0 GHz (i7-4578U) dual-core Intel Core i7 Haswell with 4 MB shared L3 cache
+      
+
+
+
+
+       Optional 2.9 GHz (i5-5287U) dual-core Intel Core i5 Broadwell with 3 MB shared L3 cache
+      
+
+
+
+
+       Optional 3.1 GHz (i7-5557U) dual-core Intel Core i7 Broadwell with 4 MB shared L3 cache
+      
+
+
+
+
+       Optional 2.5 GHz (i7-4870HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+
+
+       Optional 2.8 GHz (i7-4980HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+
+
+       Optional 2.7 GHz (i7-3740QM) with 6 MB on-chip L3 cache
+      
+
+
+
+
+       Optional 2.8 GHz (i7-3840QM) with 8 MB on-chip L3 cache
+      
+
+
+
+
+       Optional 2.3 GHz (i7-4850HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+
+
+       Optional 2.6 GHz (i7-4960HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+
+
+       Optional 2.5 GHz (i7-4870HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+
+
+       Optional 2.8 GHz (i7-4980HQ) with 6 MB on-chip L3 cache and 128 MB L4 cache (Crystalwell)
+      
+
+
+  Apple unveiled fourth generation 13- and 15-inch MacBook Pro models during a press event at their
+  
+   headquarters
+  
+  on October 27, 2016. The models introduced the Touch Bar, a multi-touch enabled
+  
+   OLED
+  
+  strip built into the top of the keyboard in place of the
+  
+   function keys
+  
+  . They include a sapphire-glass covered
+  
+   Touch ID
+  
+  sensor at the right end of the Touch Bar which doubles as a power button. The models also introduce a "second-generation" butterfly mechanism keyboard that was first implemented on the Retina
+  
+   MacBook
+  
+  . The 13-inch model has a trackpad that is 46% larger than its predecessor while the 15-inch model has a trackpad twice as large as the prior generation.
+ 
+  All ports have been replaced with either two or four combination
+  
+   USB-C 3.1
+  
+  ports that support
+  
+   Thunderbolt 3
+  
+  and dual
+  
+   DisplayPort
+  
+  1.2 signals,
+  
+
+    [137]
+   
+
+  any of which can be used for charging.
+  
+
+    [138]
+   
+
+  The MacBook Pro is incompatible with some older Thunderbolt 3 certified peripherals,
+  
+
+    [139]
+   
+
+
+
+    [140]
+   
+
+  including Intel’s own reference design for Thunderbolt 3 devices.
+  
+
+    [141]
+   
+
+  Furthermore
+  
+   MacOS
+  
+  on MacBook Pro blocks certain classes of Thunderbolt 3 compatible devices from working by blacklisting them.
+  
+
+    [142]
+   
+
+  Devices using HDMI, previous generation Thunderbolt, and USB will require an adapter to connect to the MacBook Pro.
+  
+
+    [138]
+   
+
+
+
+    [143]
+   
+
+
+
+    [144]
+   
+
+  The models come with a
+  
+   3.5mm headphone jack
+  
+  , although
+  
+   TOSLINK
+  
+  functionality of older generation MacBook Pros has been removed.
+ 
+  Other updates to the MacBook Pro include dual and quad-core
+  
+   Intel
+  
+
+   "Skylake"
+  
+  Core i5 and i7 processors, improved graphics, and displays that offer a 25% wider
+  
+   color gamut
+  
+  , 67% more brightness, and 67% more contrast. All versions are able to output to a
+  
+   5K
+  
+  display, with the 15-inch models capable of two. The 15-inch models include a discrete
+  
+   Radeon Pro 450
+  
+  , 455 or 460 graphics card in addition to the integrated Intel graphics. Additionally, Apple introduced a cheaper lower-end 13-inch model which lacks the Touch Bar in favor of function keys, and has only two USB-C ports. The flash storage in the Touch Bar models is soldered to the logic board and is not upgradeable, while in the 13-inch model without Touch Bar, it is removable.
+  
+
+    [145]
+   
+
+
+
+    [146]
+   
+
+
+  The fourth generation MacBook Pro follows the design of the previous two generations with an all-metal unibody enclosure and separated black keys. A few apparent design changes are a thinner chassis, thinner screen bezel, larger trackpad, the OLED Touch Bar, and shallower butterfly mechanism keyboard with less key separation than the previous models. The speakers grilles have been relocated to the sides of the keyboard on the 13-inch variant. Tear downs show that the speaker grilles on 13-inch model with Touch Bar is "largely cosmetic" and sound mostly output through the side vents.
+  
+
+    [147]
+   
+
+  The fourth generation MacBook Pro comes in two finishes, the traditional silver color and a darker "space gray" color. The MacBook Pro model name returns to the bottom of the screen bezel in Apple's
+  
+   San Francisco
+  
+  font after being absent from the third generation. Similar to the Retina
+  
+   MacBook
+  
+  , the new models replace the backlit Apple logo on the rear of the screen with a glossy opaque version.
+ 
+  MagSafe, a magnetic charging connector, has been replaced with USB-C charging.
+  
+
+    [138]
+   
+
+  Unlike MagSafe, which provided an indicator light within the user’s field of view to indicate the device's charging status, the USB-C charger has no visual indicator. Instead, the MacBook Pro emits a chime when connected to power.
+  
+
+    [138]
+   
+
+  The Macintosh startup chime that has been used since the first Macintosh in 1984 is now muted by default. The laptop now boots automatically when the lid is opened.
+  
+
+    [138]
+   
+
+
+  The 2016 MacBook Pro garnered mostly positive, if mixed reviews.
+  
+
+    Ars Technica
+   
+
+  noted that the keyboard was a "drastic departure" from previous MacBook Pro keyboards, being a second-generation version of the keyboard used in the
+  
+   Retina MacBook
+  
+  . It further noted resting palms may brush the trackpad occasionally causing inadvertent cursor jumps onscreen as the laptop interprets this as input, without one's hands or wrists actually resting on it.
+  
+
+    [138]
+   
+
+  Also noted was an increase of bandwidth and approximately 40 percent increased read speed of the flash storage.
+  
+
+    [138]
+   
+
+
+
+    Engadget
+   
+
+  praised the thinner, lighter design, improved display and audio, and increased speed of the graphics and flash storage, but criticized the lack of ports and price.
+  
+
+    [148]
+   
+
+
+
+    Wired
+   
+
+  praised the display, calling it, "the best laptop display I’ve ever seen", and the Touch Bar, though criticized the need of adapters for many common connectors.
+  
+
+    [149]
+   
+
+  Likewise,
+  
+
+    The Verge
+   
+
+  concluded that "using [the new MacBook] is alienating to anyone living in the present. I agree with Apple’s vision of the future. I’m just not buying it today."
+  
+
+    [150]
+   
+
+
+  The battery life of the new models also received mixed reception, with outlets reporting inconsistent battery life and inaccurate estimates of time remaining on battery by the operating system. Apple addressed the latter by hiding the display of estimated battery time remaining entirely in a macOS update.
+  
+
+    [151]
+   
+
+
+
+    [152]
+   
+
+  Citing inconsistent and unpredictable battery life in testing, which involves the consecutive loading of multiple websites,
+  
+
+    Consumer Reports
+   
+
+  did not recommend the 2016 Macbook Pro. However, Apple reported that it had not experienced such issues, and began working with the publication to identify the issues. It was discovered that a rare bug in the
+  
+   Safari
+  
+  web browser, triggered when
+  
+   caching
+  
+  is disabled in its developer tools, had led to the inconsistent battery life in
+  
+   Consumer Reports
+  
+
+   '
+  
+  laboratory testing procedures.
+  
+   Consumer Reports
+  
+  re-tested the 2016 models after being given access to a beta version of macOS that addressed the problem, and retracted its original assessment in favor of recommending the 2016 MacBook Pro models.
+  
+
+    [153]
+   
+
+
+
+    [154]
+   
+
+
+
+   iFixit
+  
+  gave the models their lowest possible score of 1 out of 10 for repairability, noting that memory, the processor, and flash storage are soldered to the logic board, while the battery is glued to the case. The entire assembly uses proprietary
+  
+   pentalobe screws
+  
+  and cannot be disassembled with standard tools.
+  
+
+    [145]
+   
+
+
+
+
+       Optional 2.4 GHz i7-6660U, up to 3.4 GHz, 4 MB L3 cache
+      
+
+
+
+       [162]
+      
+
+
+
+
+       Optional 3.1 GHz i5-6287U, up to 3.5 GHz, 4 MB L3 cache
+      
+
+
+
+       [164]
+      
+
+
+
+
+       Optional 3.3 GHz i7-6567U, up to 3.6 GHz, 4 MB L3 cache
+      
+
+
+
+       [165]
+      
+
+
+
+
+       Optional 2.9 GHz i7-6920HQ, up to 3.8 GHz, 8 MB L3 cache
+      
+
+
+
+       [167]
+      
+
+
+
+
+       Optional 2.9 GHz i7-6920HQ, up to 3.8 GHz, 8 MB L3 cache
+      
+
+
+
+       [167]
+      
+
+
+
+
+       Optional 16 GB RAM configuration available at time of purchase only
+      
+
+
+
+      AMD
+     
+
+      Radeon Pro
+     
+     450 with 2 GB of GDDR5 memory and automatic graphics switching
+     
+
+       (15", 2.6 GHz)
+      
+
+
+
+       Configurable to Radeon Pro 460 with 4 GB of GDDR5 memory
+      
+
+
+
+      AMD
+     
+
+      Radeon Pro
+     
+     455 with 2 GB of GDDR5 memory and automatic graphics switching
+     
+
+       (15", 2.7 GHz)
+      
+
+
+
+       Configurable to Radeon Pro 460 with 4 GB of GDDR5 memory
+      
+
+
+  The
+  
+   MacOS
+  
+  operating system has been pre-installed on all MacBook Pros since release, starting with version
+  
+   10.4.4 (Tiger)
+  
+  .
+  
+
+    [3]
+   
+
+  Along with OS X,
+  
+   iLife
+  
+  has also shipped with all systems, beginning with iLife '06.
+  
+
+    [3]
+   
+
+
+  The MacBook Pro comes with the successor to
+  
+   BIOS
+  
+  ,
+  
+   Extensible Firmware Interface
+  
+  (EFI) 1.1. EFI handles booting differently from BIOS-based computers,
+  
+
+    [171]
+   
+
+  but provides backwards compatibility, allowing dual and triple boot configurations. In addition to OS X, the
+  
+   Microsoft
+  
+
+   Windows
+  
+  operating system is installable on Intel x86-based Apple computers. Officially, this is limited to both 32-bit and 64-bit versions of
+  
+   Windows XP
+  
+  ,
+  
+   Vista
+  
+  ,
+  
+   7
+  
+  ,
+  
+   8
+  
+  , and
+  
+   10
+  
+  with the necessary hardware drivers included with the
+  
+   Boot Camp
+  
+  software.
+  
+
+    [76]
+   
+
+
+
+    [172]
+   
+
+  Other x86 operating systems such as
+  
+   Linux
+  
+  are also unofficially supported.
+  
+
+    [173]
+   
+
+  This is made possible by the presence of the Intel architecture as provided by the CPU and the BIOS emulation Apple has provided on top of EFI.
+  
+
+    [174]
+   
+
+
+
+    [175]
+   
+
+
+  As the MacBook Pro uses a different hardware platform from earlier
+  
+   PowerPC
+  
+  (PPC)-based Macintoshes, versions of OS X prior to
+  
+   Lion
+  
+  can run PPC applications only via the
+  
+   Rosetta
+  
+  emulator, which exacts some performance penalty, cannot emulate some lower-level PPC code, and does not support 64-bit (
+  
+   G5
+  
+  specific) PPC features.
+  
+
+    [176]
+   
+
+  Rosetta is not present in Lion and later, so PPC applications cannot be run under those versions of OS X.
+  
+
+    [177]
+   
+
+
+
+
+

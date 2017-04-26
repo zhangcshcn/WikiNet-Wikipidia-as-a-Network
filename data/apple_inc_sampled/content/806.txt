@@ -1,0 +1,402 @@
+
+
+
+   SuperDrive
+  
+  is a trademark used by
+  
+   Apple Inc.
+  
+  for two different storage drives: from 1988–99 to refer to a high-density
+  
+   floppy disk
+  
+  drive capable of reading all major 3.5″ disk formats; and from 2001 onwards to refer to a
+  
+   CD
+  
+  /
+  
+   DVD
+  
+  reader/writer.
+ 
+  The terms
+  
+   DVD Multi
+  
+  ,
+  
+   Super AllWrite
+  
+  and
+  
+   Super Multi
+  
+  are used to describe optical disc drives from non-Apple manufacturers.
+ 
+
+
+  The term was first used by Apple Computer in 1988 to refer to their 1.40
+  
+   MB
+  
+  3.5 inch
+  
+   floppy drive
+  
+  . This replaced the older
+  
+   800 KB floppy drive
+  
+  that had been standard in the
+  
+   Macintosh
+  
+  up to then, but remained compatible in that it could continue to read and write both 800 KB (double-sided) and 400 KB (single-sided) floppy disks, as well as the then-new high-density floppies.
+ 
+  This drive was also capable of reading and writing
+  
+   MS-DOS
+  
+  formatted disks and
+  
+   FAT12
+  
+  file formats, using
+  
+   PC Exchange
+  
+  or other software, unlike the 400 KB and 800 KB drives. This was made possible as the SuperDrive now utilitized the same
+  
+   MFM
+  
+  (Modified Frequency Modulation) encoding scheme used by the
+  
+   IBM
+  
+  PC, yet still retained backward compatibility with Apple's variable-speed
+  
+   zoned CAV
+  
+  scheme and
+  
+   Group Coded Recording
+  
+  encoding format, so it could continue to read Macintosh
+  
+   MFS
+  
+  ,
+  
+   HFS
+  
+  and
+  
+   Apple II
+  
+
+   ProDOS
+  
+  formats on 400/800 KB disks.
+ 
+  Introduced in 1988 under the Trademark name
+  
+   FDHD
+  
+  (Floppy Disk High Density), the subsequently renamed SuperDrive was known primarily as an internally mounted floppy drive that was part of the Macintosh computer; however, an external version of the drive was manufactured that came in a
+  
+   Snow White
+  
+  -styled plastic case.
+ 
+  While the external drive worked on both Apple's product lines, it was mainly intended for use on the Apple II series, for which Apple introduced in 1991 a slot-based interface called the Apple II 3.5 Disk Controller Card for
+  
+   Apple IIe
+  
+  and
+  
+   II
+   
+    GS
+   
+
+  computers so they too could use 1.40 MB storage and read/write MS-DOS. The controller card as well as the external Superdrive were discontinued in June 1994.
+ 
+  The SuperDrive cannot be used with the original four Mac models (
+  
+   Macintosh 128K
+  
+  through
+  
+   Macintosh Plus
+  
+  ), as their disk controller (IWM) doesn't support high density. The next two models to be released (
+  
+   Macintosh II
+  
+  &
+  
+   Macintosh SE
+  
+  (1987)) also shipped with that controller; a SuperDrive connected to them will behave as an 800 KB drive. These two models can be upgraded via the M0244 upgrade kit (which replaces the IWM disk controller with the SWIM) and gain full use of the SuperDrive. All later models shipped with the SWIM.
+ 
+  The first
+  
+   Macintosh
+  
+  model to include a SuperDrive floppy drive was the
+  
+   Macintosh IIx
+  
+  (1988). Every
+  
+   Macintosh
+  
+  and
+  
+   PowerBook
+  
+  introduced from 1988–97 (with the exception of the
+  
+   PowerBook 100
+  
+  ,
+  
+   PowerBook Duo
+  
+  series, and
+  
+   PowerBook 2400c
+  
+  , which offered a proprietary external floppy drive as an option), had a built-in SuperDrive floppy drive. The last model to include one was the beige
+  
+   Power Macintosh G3
+  
+  series, which was manufactured until January 1999.
+ 
+  The
+  
+   PowerBook G3
+  
+  1998 model (a.k.a. Wallstreet) had an optional floppy drive module. The
+  
+   PowerBook 190
+  
+  series,
+  
+   PowerBook 5300
+  
+  Series,
+  
+   PowerBook 3400c
+  
+  , and original
+  
+   PowerBook G3
+  
+  shared the same interchangeable floppy drive module as a standard feature. The drive as mounted on PowerBooks lacked the auto-inject feature of Apple's initial desktop SuperDrive implementation, requiring the user to manually insert the disk all the way into the drive. The feature was dropped throughout the lineup during 1993–94.
+ 
+  The
+  
+   PowerBook 1400
+  
+  series also had a floppy drive module, but was incompatible with the other PowerBooks. The end of the SuperDrive coincides with the demise of
+  
+   Old World ROM
+  
+  Macs; with the advent of the
+  
+   New World ROM
+  
+  machines, Apple stopped offering internal floppy drives on all models. The SuperDrive is not supported in
+  
+   Mac OS X
+  
+  , not even on the few Old World ROM machines that can officially run OS X.
+ 
+  Once the use of floppy disks started declining, Apple reused the trademark to refer to the optical drives built into its Macintosh models, which could read and write both DVDs and
+  
+   CDs
+  
+  . The early 2001 release of the
+  
+   Power Mac G4
+  
+  was the first Macintosh to include a SuperDrive.
+  
+
+    [1]
+   
+
+  SuperDrives featured 6–24x write speeds
+  
+
+    [2]
+   
+
+  and supported the
+  
+   DVD±R
+  
+  ,
+  
+   DVD±R DL
+  
+  ,
+  
+   DVD±RW
+  
+  ,
+  
+   CD-R
+  
+  , and
+  
+   CD-RW
+  
+  formats along with all normal read-only media.
+  
+   DVD-RAM
+  
+  support, notably, is absent though it can be unofficially enabled on some drive models. Apple never offered a
+  
+   Blu-Ray
+  
+  drive or supported playback of the format.
+ 
+  Unlike tray-style disc holders which have an inner guide ring, slot-style drives will not work with
+  
+   MiniCD
+  
+  or
+  
+   MiniDVD
+  
+  discs (8cm diameter instead of 12cm) unless an 8 cm optical disc adapter is used
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  and extraction of the disc is difficult, requiring tweezers, use of a card with double-sided sticky tape, or complete disassembly of it.
+ 
+  The
+  
+   MacBook Air
+  
+  , released in 2008, was the first Macintosh to not include a SuperDrive after it became standard across the line. Apple began phasing SuperDrives out across the Macintosh line beginning in 2011. The second generation
+  
+   MacBook Pro
+  
+  , released in 2012 and discontinued in 2016, was the last Macintosh to include a SuperDrive.
+  
+
+    [5]
+   
+
+
+  Apple still sells a USB-connected external SuperDrive as an accessory.
+  
+
+    [5]
+   
+
+  The drive has faced criticism and mixed customer reviews, with 923 reviews averaging three stars. Criticism includes the lack of support for
+  
+   Blu-ray
+  
+  or mini optical discs and malfunctions that make the drive inoperable, with no way to eject a stuck disc.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+   DVD Multi
+  
+  is a specification for optical media drives. The specification was approved by the
+  
+   DVD Forum
+  
+  and was claimed to enable disc compatibility for virtually all formats officially created by the DVD Forum.
+  
+
+    [8]
+   
+
+  However,
+  
+   DVD+R/RW
+  
+  is not included because it is not "officially" from the DVD Forum.
+  
+   LiteOn
+  
+  uses the term
+  
+   Super AllWrite
+  
+  instead, which essentially has the same meaning.
+ 
+  Drives with
+  
+   DVD Multi
+  
+
+   logo
+  
+  can read and write
+  
+   DVD-R/RW
+  
+  and
+  
+   DVD-RAM
+  
+  discs, and read
+  
+   DVD-Video
+  
+  and
+  
+   DVD-ROM
+  
+  . Some may also play
+  
+   DVD-Audio
+  
+  and/or DVD+R/RW discs. Version 1.1 is the current version (as of September 2009).
+ 
+
+   Super Multi
+  
+  or Super AllWrite refers to a drive that reads and writes
+  
+   CD-R/RW
+  
+  , DVD-R/RW, DVD+R/RW and DVD-RAM. They usually do not support
+  
+   LightScribe
+  
+  , HD-BURN or
+  
+   GigaRec
+  
+  either.
+  
+   Overburning
+  
+  may or may not be possible.
+ 

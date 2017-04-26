@@ -1,0 +1,295 @@
+
+
+
+   Frederick Rodney "Rod" Holt
+  
+
+
+    [1]
+   
+
+  (born 1934) is an American
+  
+   computer engineer
+  
+  and political
+  
+   activist
+  
+  . He is
+  
+   Apple employee #5
+  
+  , and developed the unique power supply for the 1977
+  
+   Apple II
+  
+  . Actor
+  
+   Ron Eldard
+  
+  portrayed him in the 2013 film,
+  
+
+    Jobs
+   
+   .
+  
+
+
+
+  Holt was born in 1934 to a psychiatry resident father and artist and teacher mother. He became interested in electronics by the age of 14 and taught
+  
+   ham radio
+  
+  courses for
+  
+   Wellesley High School
+  
+  by the age of 16.
+  
+
+    [2]
+   
+
+
+  In 1952, after graduating from high school, Holt married his high school girlfriend Joanne. He also joined
+  
+   Ohio State University
+  
+  as a math major. He and Joanne had two children, Christine and Cheryl, during this period. Holt later stated that while at OSU, he also "became entranced with motorcycles and opened up my own motorcycle shop. That adventure failed within a year, however, and I then worked in the electronics industry to support my family. I continued to race bikes intermittently for the next twenty years."
+  
+
+    [2]
+   
+
+  By 1958, when he was a grad student at OSU, he also became a political activist. He would later become involved in OSU's
+  
+   Free Speech Movement
+  
+  , served as editor of the
+  
+   Free Speech Press,
+  
+  and reconfigured himself as a
+  
+   socialist
+  
+  .
+  
+
+    [2]
+   
+
+
+  After graduate school, he became an electrical engineer with the Hickok Electrical Instrument company in
+  
+   Cleveland, Ohio
+  
+  ,
+  
+
+    [2]
+   
+
+  and later joined
+  
+   Atari
+  
+  as an Analog Engineer.
+  
+
+    [3]
+   
+
+
+     "Other hobby computers of the day used inefficient power supplies. The
+     
+      Apple II
+     
+     was the first computer ever to use a plastic case. The heat buildup using even my own power supply design (inefficient type) would have been too great. Steve [Jobs] tapped an
+     
+      Atari
+     
+     engineer, Rod Holt, to design a switching power supply that was much more efficient and generated less heat. Rod also keyed us into the fact that the plastic case wouldn't conduct heat well. At this point in time we took pride in being the first computer to use a switching power supply. Steve was proud of the fact that we didn't need a fan and seems to hold to that ideal to this day. By the way, Rod joined us as the 5th of 5 key [Apple Computer] team members for the first couple of years."
+    
+  During the early development of the
+  
+   Apple II
+  
+  ,
+  
+   Apple Inc.
+  
+  's co-founder,
+  
+   Steve Jobs
+  
+  asked his former boss, Atari's
+  
+   Al Alcorn
+  
+  for help with the power supply. Alcorn redirected Jobs to Holt, who saw himself as "a second string quarterback" at Atari.
+  
+
+    [3]
+   
+
+  He was initially "skeptical of Jobs and of Apple" (Swaine and Freiberger note that Holt "had trouble understanding the West Coast culture that shaped Apple's Founders")
+  
+
+    [3]
+   
+
+  telling Jobs that his rate was $200 per day. Jobs, however, replied that "we can afford you" and Holt joined the Apple II team in part responding to Alcorn's request to "help the kids out."
+  
+
+    [3]
+   
+
+  Holt thus began to work "after hours at Atari on Apple's television interface and power supply."
+  
+
+    [3]
+   
+
+  According to Apple's first CEO,
+  
+   Michael ("Scotty") Scott
+  
+  , "One thing Holt has to his credit is that he created the switching power supply that allowed us to do a very lightweight computer compared to everybody else's that used transformers."
+  
+
+    [5]
+   
+
+  However, one history reports over a dozen computer systems with a switching power supply came out in years prior to the Apple II, including the
+  
+   PDP-11/20
+  
+  minicomputer in 1969, the
+  
+   IBM 5100
+  
+  portable computer in 1975, and the
+  
+   decsystem 20
+  
+  in 1976.
+  
+
+    [6]
+   
+
+  Holt later joined Apple full-time
+  
+
+    [3]
+   
+
+  as Apple Employee #5.
+  
+
+    [5]
+   
+
+
+  In 1977, Jobs and
+  
+   Daniel Kottke
+  
+  were sharing a house with Jobs' girlfriend since high school,
+  
+   Chrisann Brennan
+  
+  (who was working in Apple's Shipping Department).
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+  In October of that year, Holt approached Brennan to take "a paid apprenticeship designing blueprints for the Apples."
+  
+
+    [8]
+   
+
+  Both Holt and Jobs felt that it would be a good position for Brennan, given her artistic abilities. Holt was particularly eager that she take the position and puzzled by her ambivalence towards it. Brennan's decision, however, was overshadowed by the fact that she was pregnant (and that Jobs was the father). Brennan was afraid of telling anyone, as Jobs was initially angry over the news.
+  
+
+    [8]
+   
+
+  Holt was waiting for her decision on the internship and Jobs encouraged her to take it stating that she could "be pregnant and work at Apple, you can take the job. I don’t get what the problem is.”
+  
+
+    [8]
+   
+
+  Brennan however notes that she "felt so ashamed: the thought of my growing belly in the professional environment at Apple, with the child being his [Jobs], while he was unpredictable, in turn being punishing and sentimentally ridiculous. I could not have endured it."
+  
+
+    [8]
+   
+
+  Brennan thus told Holt that she was not going to take the internship. She decided instead to leave Apple and raise the child on her own.
+  
+
+    [8]
+   
+
+
+  According to Holt, he was the "Chief Engineer and Vice President of Engineering during most the reign of Apple II. I am most proud of my contributions to the floppy disk, the switching power supply, and radio interference problems. I received four patents for my work and was ennobled with the title of 'Chief Scientist'- whatever that may be. Amidst all the clamor and confusion of Apple's astonishing growth, my son Alan William was born. Six years later, after working what seemed to be sixteen-hour days and seven day weeks, I was exiled by new management — the fourth member out of five of the original Apple team to be retired or pushed out."
+  
+
+    [2]
+   
+
+
+  In an interview,
+  
+   Bill Fernandez
+  
+  and
+  
+   Daniel Kottke
+  
+  discussed the way in which Holt was conceptualized in the 2013 American independent film,
+  
+
+    Jobs
+   
+
+  (portrayed by actor
+  
+   Ron Eldard
+  
+  ). Kottke disputed the characterization, noting that: "What completely cracked us all up is the scene where Rod arrives for the first time. Rod comes up wearing leathers, riding up on a motorcycle with long hair [...] he’s like this motorcycle dude. It just cracked us all up."
+  
+
+    [9]
+   
+
+  Fernandez, who had not seen the film at the time of the interview, was also surprised by this portrayal. Holt, however, (according to Kottke), "thought it was hilarious."
+  
+
+    [9]
+   
+
+  As for why he may have been characterized this way, Kottke states that, "Rod was really into dirt bikes. And I never saw him riding one, but he talked about it all the time. So the author just had him riding up on a motorcycle. I liked that guy. I met him on the set. I had no idea who he was when I met him because he doesn’t look at all like Rod, he has long straight hair and he’s wearing leathers."
+  
+
+    [9]
+   
+
+  Fernandez, who was equally amused by this vision of Holt responded by asking, “Who could this possibly be in the Apple universe? [...] It seems to me that there’s a lot of fan fiction about Apple Computer and about Steve Jobs, and I think that this is the biggest, flashiest piece of fan fiction that there’s been to date.
+  
+
+    [9]
+   
+

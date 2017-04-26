@@ -1,0 +1,323 @@
+
+
+  An
+  
+   Apple ID
+  
+  is an all-in-one account used to log into various online systems that
+  
+   Apple Inc.
+  
+  offers for many of its products, such as
+  
+   iWork
+  
+  ,
+  
+   iCloud
+  
+  , the
+  
+   iTunes Store
+  
+  , and the
+  
+   Apple Store
+  
+  , using a customer's existing email address from any email provider.
+  
+
+    [1]
+   
+
+
+
+
+  An Apple ID is available free of charge and can be obtained by signing up at the My Apple ID webpage.
+  
+
+    [2]
+   
+
+  An Apple ID must be a valid email address, protected by a password that is an alphanumeric string of at least 8 characters, and case sensitive.
+ 
+  When a user creates a new Apple ID, Apple will send a verification email to the email address that the user provided during registration. The user is required to follow the
+  
+   URL
+  
+  that is included in the verification email to activate the account, then the user will be able to use their Apple ID. It is possible to create an Apple ID without specifying a credit card.
+  
+
+    [3]
+   
+
+
+  In March 2013, Apple ID launched an optional two-step verification security feature for authentication. When enabled, a second verification step is required when using the Apple ID under certain conditions, such as a web login, or making a store purchase from a new device. The feature makes use of the
+  
+   Find My iPhone
+  
+  service to send a four-digit pin code to a trusted device associated with the Apple ID when the second verification step is required for authentication.
+  
+
+    [4]
+   
+
+
+  Users can change their passwords or personal information at the My Apple ID page by selecting the Manage your account link. Changes that a user makes to his or her Apple ID account, while he or she is using one Apple product,
+  
+
+    [5]
+   
+
+  are also recognized by other applications where the user uses the same Apple Account (for example, the online Apple Store, MobileMe, or iPhoto).
+  
+
+    [6]
+   
+
+  Apple requires the user to confirm the changes by following a verification URL that will be sent to the account’s email address. After confirming the changes, users can still be asked to verify their information the next time they use their Apple IDs to purchase on-line, e.g., on iTunes Store.
+ 
+  Apple also allows users to change the name of their Apple IDs but the users are required to contact Apple customer service to make such a change.
+ 
+  An Apple ID can be disabled for security reasons if the password is entered incorrectly multiple times. The user will be warned with the following error message when the account has been disabled: “This Apple ID has been disabled for security reasons".
+  
+
+    [7]
+   
+
+  Apple IDs and passwords can be retrieved by answering account security questions on iForgot.
+  
+
+    [8]
+   
+
+  For security reasons, Apple will not reset the password for an account.
+ 
+  Another error is "Your Apple ID has been disabled" without disclosure of a reason. The cause for this error is as yet unknown and resetting one's password does not clear it.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  It has been reported as occurring on both iPhone and iPod touch devices as well as in iTunes.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  One can get this issue resolved by contacting iTunes Store support at www.apple.com/support/itunes.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Users can use different Apple IDs for their store purchases and for their iCloud storage and other uses. This includes many
+  
+   MobileMe
+  
+  users who have always had difficulties as they were forced to use more than one Apple ID, because on signing-up to the MobileMe service a new Apple ID was automatically created using the me.com email address being created at the time, meaning users could not change their previous Apple ID email address to be their me.com email address, and has always remained so. Apple does not permit different accounts to be merged.
+  
+
+    [9]
+   
+
+
+  Apple does not support the merging of Apple IDs with other Apple IDs or with AOL IDs created as an Apple ID.
+ 
+  Apple IDs contain user personal information and settings. When an Apple ID is used to log into an Apple device, such as Apple iPhone or Apple iPod Touch, the device will automatically roam the user's settings associated to the Apple ID.
+ 
+  Apple ID also speeds up the process of setting up a new OS X computer or iOS device. When a user first starts up a new product, he or she will be prompted to enter an Apple ID, if available. If the user enters the Apple ID as prompted, OS X and iOS devices will bring the user straight to the desktop screen without performing the initial settings. The computer will automatically fill in all the personal data of the Apple ID into the device’s address book, contact information, and Apple Mail settings.
+ 
+  An Apple ID is required to register any Apple products or
+  
+   Apple Care Protection Plans
+  
+  on Apple's website. Product or protection plan registrations can be done quickly on
+  
+   Apple's register website
+  
+  by entering the serial number of the products and the Apple ID.
+ 
+  An Apple ID is needed to make a reservation at the Apple Genius Bar. Apple Genius Bar is a tech support service that is offered inside every Apple Retail Store. By using an Apple ID, users can schedule an appointment at any Apple Genius Bar to get help and support on all Apple products.
+ 
+  Apple Discussions is a user-to-user support forum where Apple experts and users get together to discuss Apple products.
+  
+
+    [10]
+   
+
+  Any user can browse and read the discussion forum without the need of an Apple ID. However, an Apple ID gives the user the ability to participate in Apple Discussion website such as allowing the user to ask questions about any Apple hardware or software products, to receive help, tips, and solutions from other Apple users.
+ 
+  If a customer needs to send an Apple Product via mail to Apple for maintenance, the customer needs to have an Apple ID in order to perform such a request. The ID can also be used to track the status of the requested service.
+ 
+  Furthermore, an Apple ID can be used to schedule a supported phone call from Apple technical support to guide the customer through the process of setting up systems or to perform certain tasks such as using
+  
+   Time Machine
+  
+  software on OS X to back up data or calibrating the color of the
+  
+   Apple Cinema Display
+  
+  .
+ 
+  An Apple ID is needed to file rebate claims on the Apple Rebate website. The process of filing a claim is very simple. The user will only need to log in with an Apple ID and provide the transaction numbers of the purchases. All of the needed information such as mailing address and customer name will be completed by the Apple ID.
+ 
+  iWork Publishing allowed an Apple ID user to upload and share iWork projects such as Pages, Numbers, and Keynotes. The published contents could be viewed publicly or by whoever the user invited via iWork.com. The user did not need to know whether his or her colleagues use a Mac or a PC.
+  
+
+    [11]
+   
+
+  Since iWork was a web based service, anyone with a web browser and internet connection can use it.
+ 
+  On July 31, 2012, iWork.com was shut down in favor of iCloud, Apple's cloud service.
+  
+
+    [12]
+   
+
+
+  FaceTime is a
+  
+   video calling
+  
+  feature for iPhone 4 or later, Mac OS X 10.6.6 Snow Leopard or higher, the fourth generation iPod touch or later, and the iPad 2 or later. However, an Apple ID is not required to use FaceTime if one owns an iPhone (One can make calls with their iPhone number on their Mac, iPod, and iPad). An Apple ID serves as an alternative.
+  
+
+    [13]
+   
+
+
+  An Apple ID allows an iPhoto or Aperture user to place orders of photo prints or photo books directly through the iPhoto and Aperture application. The Apple ID will provide the shipping information as well as payment for the order. Users only need to choose the photos they would like to print, choose the printing service, and place the order.
+ 
+  An Apple ID can also be used to access Apple developer resources such as Xcode and iOS SDK. However, to use an Apple ID on an Apple developer website, the user needs to provide more personal information such as what kind of applications the user plans to develop, the primary markets for the products, and the primary platforms the user is interested in developing for.
+ 
+  An Apple ID that has been registered at an Apple Developer Connection website and enrolled in a Developer Program can be used to purchase Apple hardware products at discounted rates. In addition, the ID can be used to access pre-released software from Apple, get support from Apple engineers, and attend the
+  
+   Apple Worldwide Developers Conference
+  
+  (WWDC).
+ 
+  An Apple ID is not required to place an order on the Apple Online Store. Apple lets buyers place orders on its online store without an Apple ID by using the Guest Checkout Feature. An Apple ID and the Guest Checkout Feature both allow the customer to access order info such as invoices, check the order status, and track the shipping package. However, Apple IDs allow users to customize their Apple Online Store experiences. Users can save items they are interested in purchasing; save a cart if they are almost ready to place an order; save shipping and billing addresses and payment information to speed up the checkout process; use 1-Click ordering on Apple's website and check Apple Gift Card balances.
+  
+
+    [14]
+   
+
+
+  Apple ID gives users access to buying (or downloading for free) and later free re-download of many Apple-based resources, including:
+ 
+  iTunes Store, App Store (for iOS apps), Mac App Store, iBookstore, and Newsstand all make use of Apple ID. To
+ 
+  purchase digital media such as movies and music on the iTunes Store or the App Store, an Apple ID is required. A user can use an Apple ID and password to sign into the iTunes Store or App Store to buy content, or authorize items the user has purchased. The ID is the proof of ownership for the content the user has previously downloaded from Apple digital stores.
+ 
+  The Apple ID allows the user to re-download their purchased content for any of their devices. For iTunes on computers, an Apple ID is authorized to copy purchased content on up to 5 computers at a time. Apple has not confirmed exactly how many iOS devices can use the purchased content of one ID.
+ 
+  According to Apple support "Your Apple ID can have up to 10 devices and computers (combined) associated with it."
+  
+
+    [15]
+   
+
+
+
+   iCloud
+  
+  is a
+  
+   cloud storage
+  
+  and
+  
+   cloud computing
+  
+  service
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+
+    [18]
+   
+
+  from
+  
+   Apple Inc.
+  
+  launched on October 12, 2011. As of January 2013, the service has more than 250 million users.
+  
+
+    [19]
+   
+
+
+  The service allows users to store data such as music and
+  
+   iOS
+  
+  applications on remote
+  
+   computer servers
+  
+  for download to multiple devices such as iOS-based devices running iOS 5 or later,
+  
+
+    [20]
+   
+
+  and personal computers running
+  
+   OS X 10.7.2 "Lion"
+  
+  or later, or
+  
+   Microsoft Windows
+  
+  (
+  
+   Windows Vista
+  
+  service pack 2 or later). It also replaces Apple's
+  
+   MobileMe
+  
+  service,
+  
+
+    [18]
+   
+
+  acting as a data syncing center for email, contacts, calendars, bookmarks, notes, reminders (to-do lists), iWork documents, photos and other data. The service also allows users to wirelessly back-up their iOS devices to iCloud instead of manually doing so using
+  
+   iTunes
+  
+  .
+ 
+  An Apple ID was required to access iTunes Ping, also known simply as Ping. iTunes Ping was a software-based, music-oriented social networking and recommendation system service developed and operated by Apple. Ping has been discontinued.
+ 

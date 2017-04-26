@@ -1,0 +1,212 @@
+
+
+  The
+  
+   eMac
+  
+  , short for
+  
+   education Mac
+  
+  , is a
+  
+   Macintosh
+  
+  desktop computer made by
+  
+   Apple Inc.
+  
+  It was originally aimed at the
+  
+   education
+  
+  market, but was later made available as a cheaper
+  
+   mass market
+  
+  alternative to Apple's
+  
+   second-generation LCD iMac G4
+  
+  . The eMac was pulled from retail on October 12, 2005 and was sold exclusively to educational institutions thereafter. It was discontinued by Apple on July 5, 2006 and replaced by a cheaper, low-end
+  
+   iMac
+  
+  that, like the eMac, was originally sold exclusively to educational institutions.
+ 
+  The eMac design closely resembles the
+  
+   first-generation iMac
+  
+  . Compared to the first iMac, eMacs feature a
+  
+   PowerPC G4
+  
+  processor that is significantly faster than the previous generation
+  
+   G3
+  
+  processors, as well as a 17-inch flat
+  
+   CRT
+  
+
+   display
+  
+  , which was aimed at the education market, as LCD screens would be expensive. Unlike the iMac G3, however, the eMac is not meant to be portable as it weighs 50 lb (23 kg) and lacks a carrying handle which was on the iMac G3.
+  
+
+    [1]
+   
+
+
+
+
+  The eMac generally catered to the mass market, eventually taking over from the soon-to-be-discontinued iMac G3 to become the entry level Macintosh from 2003 to 2005, while the iMac G4 was positioned as a premium offering throughout its lifetime.
+  
+
+    [1]
+   
+
+  The eMac generally offered similar performance and features to the iMac G4 while they were sold side-by-side. The eMac was gradually supplanted by the
+  
+   iMac G5
+  
+  in 2005 to 2006.
+ 
+  Apple introduced the eMac in April 2002. The eMac was originally intended exclusively for education buyers, but the demand for it was high enough that it was made available for general retail one month later. In the retail market, it was positioned as a lower-cost alternative to the recently released second-generation G4-powered iMac (known during its lifespan as "the new iMac", and as
+  
+   iMac G4
+  
+  after discontinuation). The new iMac's
+  
+   LCD
+  
+  , which at the time was significantly more costly than a CRT, made it considerably more expensive than its G3 predecessor, so the eMac was considered the more affordable upgrade for those looking for more processing power than the iMac G3.
+ 
+  The eMac featured a 17-inch (430 mm) flat-screen
+  
+   CRT
+  
+  monitor, a
+  
+   Freescale
+  
+  PowerPC G4 processor running at 700 or 800
+  
+   MHz
+  
+  ,
+  
+   Nvidia
+  
+
+   GeForce2
+  
+  MX graphics, and built-in 18-watt stereo speakers. The retail models were priced at US$1,099 and US$1,499 which filled the price gap between the US$799 iMac G3 and the US$1499 iMac G4.
+ 
+  Apple discontinued the iMac G3 line in March 2003 but did not fill the "cheap" price point until May 2003, when the eMac line was updated and its price brought down to old iMac levels. That revision brought the
+  
+   processor
+  
+  speed to 800 MHz and 1
+  
+   GHz
+  
+  and replaced the GeForce2 MX with an
+  
+   ATI
+  
+
+   Radeon
+  
+
+   7500
+  
+  graphics card.
+ 
+  The eMac was further improved in October 2003, when the 800 MHz model was eliminated and the 1 GHz model was brought down in price. The more expensive 1 GHz model that included a
+  
+   SuperDrive
+  
+  was also made cheaper. This model was notable for being one of the least expensive brand-name
+  
+   computers
+  
+  at the time that could
+  
+   burn
+  
+
+   DVDs
+  
+  . It was both the last revision of the eMac able to run Apple's OS 9 operating system natively and the last Macintosh model sold that retained this capability.
+ 
+  The next revision to the eMac line came in April 2004, with
+  
+   DDR SDRAM
+  
+  , a faster processor running at 1.25 GHz, and a better
+  
+   ATI
+  
+
+   Radeon 9200
+  
+  video chipset. The most recent revision came in May 2005, with an even faster CPU running at 1.42 GHz,
+  
+   Radeon 9600
+  
+  graphics, and larger standard
+  
+   hard disks
+  
+  .
+ 
+  On October 12, 2005, Apple once again restricted sales of the eMac to educational institutions and returned to its "E is for Education" marketing plan that had been attached to the product from the original restriction to education buyers. The company re-implemented this restrictive measure for unspecified reasons. Some analysts believe Apple wanted to force the general public to purchase the more expensive
+  
+   Mac mini
+  
+  or iMac which had higher profit margins. Also, the eMac was the only CRT display product left in Apple's lineup which made it somewhat bulky compared to new offerings which had compact form factors due to LCD screens. The falling cost of LCD displays would also gradually bring down the prices of the
+  
+   iMac G5
+  
+  . However, the eMac was still available for sale to the general public through some third-party retailer websites.
+ 
+  On July 5, 2006, the entire eMac line was discontinued. An "educational configuration" of the iMac Core Duo was introduced that same day, which has a Combo drive rather than a SuperDrive and a smaller hard disk of 80 GB.
+ 
+  eMacs natively boot
+  
+   Mac OS 9.2.2
+  
+  and
+  
+   Mac OS X
+  
+  beginning with
+  
+   OS X 10.1.4
+  
+  . With the exception of some non-SuperDrive-equipped 1 GHz units, models 1 GHz and faster cannot boot OS 9, while eMacs slower than 1.0 GHz do not officially support
+  
+   10.5
+  
+  (requirements are an 867 MHz G4 with 512 MB ram). No model of eMac can run
+  
+   OS X 10.6 ("Snow Leopard")
+  
+  or higher, because Snow Leopard requires an Intel-based processor.
+ 
+  A number of eMac machines have suffered from what was known as "Raster Shift", a phenomenon where the bottom third or half of the screen goes black, with the rest of image shifting upward and out of the top boundary of the display. Serious static also accompanies the problem, rendering the viewable part of the screen virtually useless. In response to the problem, Apple offered a solution which involved the replacement of a video cable inside the eMac's case.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+

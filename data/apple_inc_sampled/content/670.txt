@@ -1,0 +1,391 @@
+
+
+
+   Spotlight
+  
+  is a system-wide
+  
+   desktop search
+  
+  feature of
+  
+   Apple's
+  
+
+   macOS
+  
+  and
+  
+   iOS
+  
+
+   operating systems
+  
+  . Spotlight is a
+  
+   selection-based search
+  
+  system, which creates an index of all items and files on the system. It is designed to allow the user to quickly locate a wide variety of items on the computer, including documents, pictures, music, applications, and
+  
+   System Preferences
+  
+  . In addition, specific words in documents and in web pages in a web browser's history or bookmarks can be searched. It also allows the user to narrow down searches with creation dates, modification dates, sizes, types and other
+  
+   attributes
+  
+  . Spotlight also offers quick access to definitions from the built-in
+  
+   New Oxford American Dictionary
+  
+  and to calculator functionality. There are also
+  
+   command-line tools
+  
+  to perform functions such as Spotlight searches.
+ 
+  Spotlight was first announced at the June 2004
+  
+   Apple Worldwide Developers Conference
+  
+  ,
+  
+
+    [1]
+   
+
+  and then released with
+  
+   Mac OS X v10.4
+  
+  in April 2005.
+  
+
+    [2]
+   
+
+
+  A similar feature for
+  
+   iOS
+  
+  3.0 with the same name was announced on March 17, 2009.
+ 
+
+
+  Indices of filesystem
+  
+   metadata
+  
+  are maintained by the Metadata Server (which appears in the system as the
+  
+   mds
+  
+
+   daemon
+  
+  , or
+  
+   mdworker
+  
+  ). The Metadata Server is started by
+  
+   launchd
+  
+  when macOS boots and is activated by client requests or changes to the filesystems that it monitors. It is fed information about the files on a computer's
+  
+   hard disks
+  
+  by the
+  
+   mdimport
+  
+  daemon; it does not index removable media such as
+  
+   CDs
+  
+  or
+  
+   DVDs
+  
+  .
+  
+
+    [3]
+   
+
+  Aside from basic information about each file like its name, size and timestamps, the mdimport daemon can also index the content of some files, when it has an Importer plug-in that tells it how the file content is formatted. Spotlight comes with importers for certain types of files, such as
+  
+   Microsoft Word
+  
+  ,
+  
+   MP3
+  
+  , and
+  
+   PDF
+  
+  documents. Apple publishes
+  
+   APIs
+  
+  that allow developers to write Spotlight Importer plug-ins for their own file formats.
+  
+
+    [3]
+   
+
+
+  The first time that a user logs onto the operating system, Spotlight builds indexes of metadata about the files on the computer's
+  
+   hard disks
+  
+  .
+  
+
+    [3]
+   
+
+  It also builds indexes of files on devices such as external hard drives that are connected to the system. This initial indexing may take some time, but after this the indexes are updated continuously in the background as files are created or modified. If the system discovers that files on an external drive have been modified on a system running a version of macOS older than Mac OS X 10.4, it will re-index the volume from scratch.
+  
+
+    [3]
+   
+
+
+  Within Mac OS X v10.4, Spotlight can be accessed from a number of places. Clicking on an icon in the top-right of the
+  
+   menu bar
+  
+  opens up a text field where a search query can be entered.
+  
+   Finder
+  
+  windows also have a text field in the top-right corner where a query can be entered, as do the standard load and save dialogue boxes. Both of these text fields immediately start listing results of the search as soon as the user starts typing in a search term, returning items that either match the term, or items that start with the term. The search results can be further refined by adding criteria in a Finder window such as "Created Today" or "Size Greater than 1 KB".
+  
+
+    [3]
+   
+
+
+  Mac OS X v10.4 and later also include
+  
+   command line
+  
+  utilities for querying or manipulating Spotlight. The
+  
+   mdimport
+  
+  command, as well as being used by the system itself to index information, can also be used by the user to import certain files that would otherwise be ignored or force files to be reimported. It is also designed to be used as a debugging tool for developers writing Importer plug-ins.
+  
+   mdfind
+  
+  allows the user to perform Spotlight queries from the command line, also allowing Spotlight queries to be included in things like
+  
+   shell scripts
+  
+  .
+  
+   mdls
+  
+  lists the indexed attributes for specific files, allowing the user to specify which files and/or which attributes. The indexes that Spotlight creates can be managed with
+  
+   mdutil
+  
+  , which can erase existing indexes causing them to be rebuilt if necessary or turn indexing off.
+  
+
+    [4]
+   
+
+  These utilities are also available on
+  
+   Darwin
+  
+
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  .
+ 
+  Although not widely advertised, Spotlight can perform boolean searches.
+  
+
+    [5]
+   
+
+  By default if one includes more than one word, Spotlight performs the search as if an "AND" was included in between words. If one places a '|' between words, Spotlight performs an OR query. Placing a '-' before a word tells Spotlight to search for results that do not include that word (a NOT query).
+  
+
+    [6]
+   
+
+
+  Currently Spotlight is unable to index and search NTFS volumes shared via SMB.
+  
+
+    [7]
+   
+
+
+  With
+  
+   Mac OS X Leopard
+  
+  , Apple introduced some additional features. With Spotlight in Tiger, users can only search devices that are attached to their computers. With Leopard, Spotlight is able to search networked Macs running Leopard (both client and server versions) that have file sharing enabled. A feature called
+  
+   Quick Look
+  
+  has been added to the
+  
+   GUI
+  
+  that will display live previews of files within the search results, so applications do not have to be opened just to confirm that the user has found the right file. The syntax has also been extended to include support for worded boolean operators ("AND", "OR" and "NOT").
+  
+
+    [8]
+   
+
+  These variants of the operators are localized; while users that have their System language set to English may use an "AND", German users, for example, would have to use "UND". The character variants work with any system language.
+  
+
+    [9]
+   
+
+
+  Also while Spotlight is not enabled on the server version of Tiger,
+  
+
+    [10]
+   
+
+  it is on the server release of Leopard.
+  
+
+    [11]
+   
+
+
+  In addition, where Spotlight in Tiger had a unique and separate window design, Spotlight in Leopard now shares windows with the Finder, allowing for a more unified GUI.
+ 
+  The unique Spotlight window in Tiger allowed sorting and viewing of search results by any metadata handled by the Finder; whereas Spotlight Finder windows in Leopard are fixed to view and sort items by last opened date, filename and kind only. Under Leopard there is currently no way to save window preferences for the Finder window that is opened via Spotlight.
+ 
+  Since Leopard the Spotlight menu has doubled as a
+  
+   calculator
+  
+  , with functionality very similar to the
+  
+   Google search feature
+  
+  (but without the need to be online), as well as a dictionary that allows one to look up the definition of an English word using the
+  
+   Oxford Dictionary
+  
+
+   included
+  
+  in macOS.
+ 
+  As of OS X 10.10 Yosemite, Spotlight search is completely redesigned. Instead of it acting as a drop-down menu, it is now located in the center of the screen. It does everything the previous version does and more, such as searching Wikipedia, Maps, and other sources.
+ 
+  A search tool also named Spotlight has been included on
+  
+   iOS
+  
+  (formerly iPhone OS) products since version
+  
+   3.0
+  
+  . The feature helps users search contacts, mail
+  
+   metadata
+  
+  ,
+  
+
+    [12]
+   
+
+  calendars, media and other content.
+  
+
+    [12]
+   
+
+  Compared to Spotlight on macOS, the iOS search ability is limited.
+  
+
+    [12]
+   
+
+  The Spotlight screen is opened with a finger-flick to the right from the primary home screen, or, as of iOS 7, by pulling down on any of the home screens.
+  
+
+    [12]
+   
+
+
+  The feature was announced in March 2009 and released with iOS 3.0 in June 2009. The release of iOS 4.0 included the ability to search text messages. In
+  
+   iOS 6
+  
+  , the folder that an application is inside of is now shown (if applicable). Since the Introduction of iOS 7, Spotlight no longer has its own dedicated page, but is accessible by pulling down on the middle of any Homescreen.
+ 
+  On September 17, 2014, Spotlight Search was updated with
+  
+   iOS 8
+  
+  to include more intuitive web results via
+  
+   Bing
+  
+  and
+  
+   Wikipedia
+  
+  , as well as quicker access to other content.
+  
+
+    [13]
+   
+
+
+  With
+  
+   iOS 9
+  
+  , Spotlight Search has been updated to include results of content in apps.
+  
+
+    [14]
+   
+
+
+  Since the release of Yosemite, Spotlight sends all entered queries and location information to Apple by default. The data is accompanied by a unique identifying code, which Apple alleges to rotate every 15 minutes to a new identifier. In response to privacy concerns, Apple has stated that they do not use the data to create profiles of their users, and that query and location information is only shared with their partner,
+  
+   Bing
+  
+  , under a strict contract which prohibits the information from being used for advertising purposes. Additionally, Apple has stated that while Spotlight seeks to obscure exact locations, the information is typically more precise in densely populated areas and less so in sparse ones.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+
+
+    [17]
+   
+

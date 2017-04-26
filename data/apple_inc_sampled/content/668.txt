@@ -1,0 +1,83 @@
+
+
+   Notification Center
+  
+  is a feature in
+  
+   iOS
+  
+
+
+    [1]
+   
+
+  and
+  
+   macOS
+  
+
+
+    [2]
+   
+
+  that provides an overview of alerts from applications. It displays notifications until the user completes an associated action, rather than requiring instant resolution. Users may choose what applications appear in Notification Center, and how they are handled. Initially released with iOS 5 in October 2011, Notification Center was made available on Macs as part of
+  
+   OS X Mountain Lion
+  
+  in July 2012.
+ 
+  Notification Center was released in iOS 5 to replace the previous system for dealing with push and local notifications. Instead of interrupting the user with an alert, Notification Center instead displays a banner at the top of the screen. This allows the user to continue using their device, and disappears after a set period of time. All previous notifications are collated into the Notification Center panel, which can be displayed in iOS by dragging down from the status bar, and in OS X by clicking on the notification center button (or using track-pad gestures, swiping from right to left). Notifications may be selected by the user, which redirects the user to the application where the notification was initially created, and marking that alert as read. Once a notification is read, it is removed from the panel. Users may also remove notifications without reading them by deleting individual alerts, or dismissing all of an application's alerts from within the application that is generating them. When an iOS device is locked, new notifications appear on the lock screen, and users may access the application generating an alert by swiping the application's icon with their finger from left to right along the notification.
+ 
+  Notification Center on
+  
+   iPhone
+  
+  and
+  
+   iPod Touch
+  
+  also includes Weather and Stocks widgets, displaying information on the weather at the user's current location, and any stocks that the user has selected in the Stocks application. This feature was not available on
+  
+   iPad
+  
+  or OS X until the release of iOS 7, which added the Weather widget to the
+  
+   iPad
+  
+  's Notification Center. Users can also select the option to display
+  
+   Twitter
+  
+  and
+  
+   Facebook
+  
+  buttons, allowing them to send tweets or update their status directly from Notification Center.
+  
+
+    [3]
+   
+
+  In iOS 7, however, the option to send tweets or update Facebook statuses has been removed.
+ 
+  Any application that uses the
+  
+   Push Notifications system
+  
+  provided by Apple, or local notifications, may use Notification Center.
+  
+
+    [4]
+   
+
+  Users may customise what they want to appear in Notification Center, and may opt to stop certain applications appearing in the center, or sending alerts to their screen. OS X users may also disable alerts and banners for a day, stopping notifications appearing on the screen. However, any notifications sent during this time are still visible in the Notification Center panel. A similar service is included in iOS 6 as part of the
+  
+   Do Not Disturb
+  
+  feature.
+  
+
+    [5]
+   
+
+

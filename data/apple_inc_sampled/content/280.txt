@@ -1,0 +1,437 @@
+
+
+  An
+  
+   iPod click wheel game
+  
+  or
+  
+   iPod game
+  
+  is a
+  
+   video game
+  
+  playable on the various versions of the
+  
+   Apple
+  
+  portable media player, the
+  
+   iPod
+  
+  . The original iPod had the game
+  
+
+    Brick
+   
+
+  (originally invented by Apple co-founder
+  
+   Steve Wozniak
+  
+  ) included as an
+  
+   easter egg
+  
+  hidden feature; later
+  
+   firmware
+  
+  versions added it as a menu option. Later revisions of the iPod added three more games in addition to
+  
+   Brick
+  
+  :
+  
+
+    Parachute
+   
+
+  ,
+  
+
+    Solitaire
+   
+
+  , and
+  
+   Music Quiz
+  
+  . These games should not be confused with games for the
+  
+   iPod Touch
+  
+  , which require
+  
+   iOS
+  
+  and are only available on Apple's
+  
+   App Store
+  
+  on
+  
+   iTunes
+  
+  .
+ 
+
+
+  In September 2006, the
+  
+   iTunes Store
+  
+  began to offer nine additional games for purchase with the launch of
+  
+   iTunes 7
+  
+  , compatible with the
+  
+   fifth generation iPod
+  
+  with iPod software 1.2 or later. Those games were:
+  
+
+    Bejeweled
+   
+
+  ,
+  
+   Cubis 2
+  
+  ,
+  
+
+    Mahjong
+   
+
+  ,
+  
+
+    Mini
+   
+
+    Golf
+   
+
+  ,
+  
+
+    Pac-Man
+   
+
+  ,
+  
+
+    Tetris
+   
+
+  ,
+  
+
+    Texas Hold 'Em
+   
+
+  ,
+  
+
+    Vortex
+   
+
+  , and
+  
+
+    Zuma
+   
+
+  . These games were made available for purchase from the iTunes Store for
+  
+   US$
+  
+  4.99 each. In December 2006 two more games were released by
+  
+   EA Mobile
+  
+  at the same price:
+  
+   Royal
+   
+    Solitaire
+   
+
+  and
+  
+
+    Sudoku
+   
+
+  . In February 2007,
+  
+
+    Ms. Pac-Man
+   
+
+  was released followed in April 2007 by
+  
+
+    iQuiz
+   
+
+  . Until this time, all the available games could be purchased in a package, with no discount.
+ 
+  In May 2007 Apple released
+  
+
+    Lost: The Video Game
+   
+
+  based on the
+  
+   television show
+  
+  , which is made by
+  
+   Gameloft
+  
+  . In June 2007 "
+  
+   SAT
+  
+  Prep 2008" by
+  
+   Kaplan
+  
+  . This was introduced as 3 separate educational games based on the subjects writing, reading, and mathematics. In December 2007, Apple released
+  
+   Sega
+  
+  's classic game;
+  
+   Sonic the Hedgehog
+  
+  , which was originally packaged with the
+  
+   Sega Genesis
+  
+  system in the early 1990s.
+ 
+  With third parties like
+  
+   Namco
+  
+  ,
+  
+   Square Enix
+  
+  ,
+  
+   EA
+  
+  ,
+  
+   Sega
+  
+  , and
+  
+   Hudson Soft
+  
+  all making games for the iPod, Apple's MP3 player has taken great steps towards entering the video game handheld console market. Even video game magazines like
+  
+   GamePro
+  
+  &
+  
+   EGM
+  
+  have reviewed and rated most of their games as of late.
+ 
+  The games are in the form of .ipg files (iPod game), which are actually .zip archives in disguise. When unzipped, they reveal executable files along with common audio and image files, leading to the possibility of
+  
+   third party games
+  
+  . Currently, Apple has no publicly available
+  
+   software development kit
+  
+  (SDK) for iPod-specific development.
+  
+
+    [1]
+   
+
+  The
+  
+   iOS SDK
+  
+  covers only
+  
+   iOS
+  
+  on the
+  
+   iPhone
+  
+  and
+  
+   iPod Touch
+  
+  , not traditional iPods.
+ 
+  As of October 2011, Apple has removed all the click-wheel operated games from its store.
+ 
+  This is a list of games available for the newest iPods, excluding the iPod Touch. Each game (other than Reversi and Chinese Checkers) costs
+  
+   US$
+  
+  4.99 to buy.
+ 
+  These are the games that originally came with an iPod.
+  
+
+    [2]
+   
+
+
+  iTunes had come under much criticism due to the
+  
+   UK
+  
+  price of iPod games,
+  
+   GB£
+  
+  3.99 (about US$7.40). Many people from the UK had given the games 1* ratings, stating that Apple was
+  
+   "ripping off" Britain
+  
+  .
+  
+
+    [3]
+   
+
+
+  A similar situation occurred in
+  
+   Australia
+  
+  , where the price was
+  
+   A$
+  
+  7.49, even though the Australian dollar (was at the time) worth more than the US dollar (A$7.49 = US$7.76).
+ 
+  Developers had criticized Apple for not creating a
+  
+   software development kit
+  
+  (SDK) for software developers to create new iPod games. This was likely to keep the
+  
+   digital rights management
+  
+  of iPod games closed.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Although technically speaking this does not prevent the running of an alternative OS on the iPod such as Linux, whereby for example there are ports of Doom that will run on fifth-generation iPods. Interestingly, running Linux on an iPod retains the music playing functionality of the device, while adding features such as the ability to create voice memos through the headphones.
+ 
+  When the iPod Classic and iPod Nano third generation were released, games which were bought formerly could not be synced to the new iPods. This made many consumers angry due to losing their investment.
+ 
+  It is also notable that after a download had been made for a game, it couldn't have been downloaded again unless a separate purchase was made for the same item.
+  
+
+    [4]
+   
+
+  This is different behavior than applications downloaded on the App Store, which can be downloaded multiple times. This issue was later fixed, making it possible to install any single game on any number of iPods.
+ 
+  Some older iPod units are capable of using replacement
+  
+   firmware
+  
+  such as
+  
+   iPod Linux
+  
+  and
+  
+   Rockbox
+  
+  . These firmware projects can play many other games including a native port of
+  
+
+    Doom
+   
+
+  , and via a native port of the
+  
+   Game Boy
+  
+
+   emulator
+  
+
+   Gnuboy
+  
+  many other games including
+  
+
+    Super Mario
+   
+
+  ,
+  
+
+    Tomb Raider
+   
+
+  ,
+  
+
+    Mega Man
+   
+
+  ,
+  
+
+    Kirby
+   
+
+  ,
+  
+
+    Metroid
+   
+
+  ,
+  
+
+    The Legend of Zelda
+   
+
+  ,
+  
+
+    Street Fighter
+   
+
+  , and hundreds more.
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+

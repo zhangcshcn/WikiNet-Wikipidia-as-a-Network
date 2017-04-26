@@ -1,0 +1,465 @@
+
+
+  A
+  
+   mobile device
+  
+  (or
+  
+   handheld computer
+  
+  ) is a small
+  
+   computing device
+  
+  , typically, small enough to hold and operate in the hand and having an
+  
+   operating system
+  
+  capable of running
+  
+   mobile apps
+  
+  . These may provide a diverse range of functions. Typically, the device will have a
+  
+   display screen
+  
+  with a small
+  
+   numeric
+  
+  or
+  
+   alphanumeric keyboard
+  
+  or a
+  
+   touchscreen
+  
+  providing a
+  
+   virtual keyboard
+  
+  and buttons (
+  
+   icons
+  
+  ) on-screen. Many such devices can connect to the
+  
+   Internet
+  
+  and interconnect with other devices such as car entertainment systems or
+  
+   headsets
+  
+  via
+  
+   Wi-Fi
+  
+  ,
+  
+   Bluetooth
+  
+  or
+  
+   near field communication
+  
+  (NFC). Integrated cameras, digital media players,
+  
+   mobile phone
+  
+  and
+  
+   GPS
+  
+  capabilities are common. Power is typically provided by a
+  
+   lithium battery
+  
+  .
+ 
+  Early pocket-sized devices were joined in the late 2000s by larger but otherwise similar
+  
+   tablet computers
+  
+  . Input and output is now usually via a
+  
+   touch-screen interface
+  
+  .
+  
+   Smartphones
+  
+  and
+  
+   personal digital assistants
+  
+  may provide much of the functionality of a laptop or desktop computer but more conveniently.
+  
+   Enterprise digital assistants
+  
+  can provide additional business functionality such as integrated data capture via
+  
+   barcode
+  
+  ,
+  
+   RFID
+  
+  and
+  
+   smart card
+  
+  readers By 2010, mobile devices often contained sensors such as
+  
+   accelerometers
+  
+  ,
+  
+   compasses
+  
+  ,
+  
+   magnetometers
+  
+  and
+  
+   gyroscopes
+  
+  allowing detection of orientation and motion. Mobile devices may provide
+  
+   biometric
+  
+  user authentication such as
+  
+   face recognition
+  
+  or
+  
+   fingerprint recognition
+  
+  .
+ 
+  Manufacturers include
+  
+   Apple
+  
+  ,
+  
+   Samsung
+  
+  ,
+  
+   Sony
+  
+  ,
+  
+   HTC
+  
+  ,
+  
+   LG
+  
+  , and
+  
+   Motorola Mobility
+  
+  .
+ 
+
+
+  Device mobility can be viewed in the context of several dimensions:
+  
+
+    [1]
+   
+
+
+  Strictly speaking, many so-called mobile devices are not mobile. It is the host that is mobile, i.e., a mobile human host carries a non-mobile smart phone device. An example of a true mobile computing device, where the device itself is mobile, is a
+  
+   robot
+  
+  . Another example is an
+  
+   autonomous vehicle
+  
+  . There are three basic ways mobile devices can be physically bound to mobile hosts: accompanied, surface-mounted or embedded into the fabric of a host, e.g., an embedded controller embedded in a host device. Accompanied refers to an object being loosely bound and accompanying a mobile host, e.g., a mobile phone can be carried in a bag or pocket but can easily be misplaced.
+  
+
+    [1]
+   
+
+  Hence, mobile hosts with embedded devices such as an
+  
+   autonomous vehicle
+  
+  can appear larger than pocket-sized.
+ 
+  As stated earlier, the most common size of mobile computing device is pocket-sized that can be hand-held, but other sizes for mobile devices exist too.
+  
+   Mark Weiser
+  
+  , known
+  
+   [
+   
+
+
+      by whom?
+     
+
+
+   ]
+  
+  as the father of
+  
+   ubiquitous computing
+  
+  , computing everywhere, referred to device sizes that are tab-sized, pad and board sized,
+  
+
+    [2]
+   
+
+  where
+  
+   tabs
+  
+  are defined as accompanied or wearable centimetre-sized devices, e.g.
+  
+   smartphones
+  
+  and
+  
+   smart cards
+  
+  , and
+  
+   pads
+  
+  are defined as hand-held decimetre-sized devices, e.g., laptops and tablet computers. If one changes the form of the mobile devices in terms of being non-planar, one can also have skin devices and tiny dust-sized devices.
+  
+
+    [1]
+   
+
+
+   Dust
+  
+  refers to miniaturised devices without direct HCI interfaces, e.g., micro electro-mechanical systems (
+  
+   MEMS
+  
+  ), ranging from nanometres through micrometers to millimetres. See also
+  
+   Smart dust
+  
+  .
+  
+   Skin
+  
+  : fabrics based upon light emitting and conductive polymers and organic computer devices. These can be formed into more flexible non-planar display surfaces and products such as clothes and curtains, see
+  
+   OLED display
+  
+  . See also
+  
+   smart device
+  
+  .
+ 
+  Although mobility is often regarded
+  
+   [
+   
+
+
+      by whom?
+     
+
+
+   ]
+  
+  as synonymous with having wireless connectivity, these terms are different. Not all network access by mobile users, applications and devices need be via wireless networks and vice versa. Wireless access devices can be static and mobile users can move in between wired and wireless hotspots such as in Internet cafés.
+  
+
+    [1]
+   
+
+  Some mobile devices can be used as
+  
+   mobile Internet devices
+  
+  to access the Internet while moving but they do not need to do this and many phone functions or applications are still operational even while disconnected to the
+  
+   Internet
+  
+  . What makes the mobile device unique compared to other technologies is the inherent flexibility in the hardware and also the software. Flexible applications include video chat, Web browsing, payment systems, NFC, audio recording etc.
+  
+
+    [3]
+   
+
+  As mobile devices become ubiquitous there, will be a proliferation of services which include the use of the
+  
+   cloud
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Although a common form of mobile device, a smartphone, has a display, another perhaps even more common form of smart computing device, the
+  
+   smart card
+  
+  , e.g., used as a bank card or travel card, does not have a display. This mobile device often has a CPU and memory but needs to connect, or be inserted into a reader in order to display its internal data or state.
+ 
+  Mobile devices have been designed for many applications. They include:
+ 
+  Handheld devices have become
+  
+   ruggedized
+  
+  for use in
+  
+   mobile field management
+  
+  . Uses include
+  
+   digitizing
+  
+  notes, sending and receiving
+  
+   invoices
+  
+  ,
+  
+   asset management
+  
+  , recording signatures, managing parts, and
+  
+   scanning barcodes
+  
+  . In 2009, developments in
+  
+   mobile collaboration
+  
+  systems enabled the use of handheld devices that combine video, audio and on-screen drawing capabilities to enable multi-party
+  
+   conferencing
+  
+  in real-time, independent of location.
+  
+
+    [4]
+   
+
+  Handheld computers are available in a variety of form factors, including
+  
+   smartphones
+  
+  on the low end, handheld
+  
+   PDAs
+  
+  ,
+  
+   Ultra-Mobile PCs
+  
+  and
+  
+   Tablet PCs
+  
+  (
+  
+   Palm OS
+  
+  ,
+  
+   WebOS
+  
+  ).
+  
+
+    [5]
+   
+
+  Users can watch
+  
+   television through Internet by IPTV
+  
+  on some mobile devices. Mobile
+  
+   television receivers
+  
+  have existed since the 1960s, and in the 21st century mobile phone providers began making television available on cellular phones.
+  
+
+    [6]
+   
+
+
+  In the 2010s, mobile devices can create,
+  
+   sync
+  
+  , and share everything we want despite of distance or specifications of mobile devices. In the medical field, mobile devices are quickly becoming essential tools for accessing clinical information such as drugs, treatment, even medical calculation.
+  
+
+    [7]
+   
+
+  Due to the popularity of
+  
+   Candy Crush
+  
+  and other mobile device games, online casinos are also offering casino games on mobile devices. The casino games are available on
+  
+   iOS
+  
+  ,
+  
+   Android
+  
+  ,
+  
+   Windows Phone
+  
+  and
+  
+   Windows
+  
+  . Available games are
+  
+   roulette
+  
+  ,
+  
+   blackjack
+  
+  and several different types of
+  
+   slots
+  
+  . Most casinos have a play for free option.
+  
+
+    [8]
+   
+
+  In the military, mobile devices have created new opportunities for the armed forces to deliver training and educational materials to soldiers, regardless of where they are stationed.
+  
+
+    [9]
+   
+
+
+

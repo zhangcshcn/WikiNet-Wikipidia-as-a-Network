@@ -1,0 +1,536 @@
+
+
+  The
+  
+   Apple II
+  
+  is an
+  
+   8-bit
+  
+
+   home computer
+  
+  , one of the first highly successful mass-produced
+  
+   microcomputer
+  
+  products,
+  
+
+    [4]
+   
+
+  designed primarily by
+  
+   Steve Wozniak
+  
+  (
+  
+   Steve Jobs
+  
+  oversaw the development of the Apple II's foam-molded plastic case
+  
+
+    [5]
+   
+
+  and
+  
+   Rod Holt
+  
+  developed the
+  
+   switching power supply
+  
+  ).
+  
+
+    [6]
+   
+
+  It was introduced in 1977 at the
+  
+   West Coast Computer Faire
+  
+  by Jobs and was the first consumer product sold by
+  
+   Apple Computer
+  
+  . It is the first model in a
+  
+   series of computers
+  
+  which were produced until
+  
+   Apple IIe
+  
+  production ceased in November 1993.
+  
+
+    [3]
+   
+
+  The Apple II marks Apple's first launch of a personal computer aimed at a consumer market – branded towards American households rather than businessmen or computer hobbyists.
+  
+
+    [7]
+   
+
+
+  Along with the
+  
+   PET 2001
+  
+  and the
+  
+   TRS-80
+  
+  ,
+  
+
+    Byte
+   
+   magazine
+  
+  referred to these as the "1977 Trinity" of personal computing.
+  
+
+    [8]
+   
+
+  The Apple II had the defining feature of being able to display color graphics, and this capability was the reason why the
+  
+   Apple logo
+  
+  was redesigned to have a spectrum of colors.
+ 
+
+
+  By 1976, Steve Jobs had convinced the product designer Jerry Manock (who had formerly worked at Hewlett Packard designing calculators) to create the "shell" for the Apple II – a smooth case inspired by kitchen appliances that would conceal the internal mechanics.
+  
+
+    [7]
+   
+
+  The earliest Apple IIs were assembled in
+  
+   Silicon Valley
+  
+  , and later in Texas;
+  
+
+    [9]
+   
+
+
+   printed circuit boards
+  
+  were manufactured in
+  
+   Ireland
+  
+  and
+  
+   Singapore
+  
+  . The first computers went on sale on June 10, 1977
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+  with a
+  
+   MOS Technology 6502
+  
+  microprocessor running at 1.023
+  
+   MHz
+  
+  , two
+  
+   game paddles
+  
+
+
+    [12]
+   
+
+  (no longer bundled as of 1980 because they violated
+  
+   FCC regulations
+  
+
+
+    [13]
+   
+
+  ), 4 kB of
+  
+   RAM
+  
+  , an
+  
+   audio cassette
+  
+  interface for loading programs and storing data, and the
+  
+   Integer BASIC
+  
+  programming language built into the
+  
+   ROMs
+  
+  . The video controller displays 24 lines by 40 columns of monochrome, upper-case-only (the original character set matches ASCII characters 20
+  
+   h
+  
+  to 5F
+  
+   h
+  
+  ) text on the screen, with
+  
+   NTSC
+  
+
+   composite video
+  
+  output suitable for display on a TV monitor, or on a regular TV set by way of a separate
+  
+   RF modulator
+  
+  . The original retail price of the computer was $1,298
+  
+
+    [14]
+   
+
+  (with 4 kB of RAM) and $2,638 (with the maximum 48 kB of RAM).
+  
+
+    [15]
+   
+
+  To reflect the computer's
+  
+   color graphics
+  
+  capability, the Apple logo on the casing has rainbow stripes,
+  
+
+    [16]
+   
+
+  which remained a part of Apple's corporate logo until early 1998. Perhaps most significantly, the Apple II was a catalyst for personal computers across many industries; responsible for opening the doors to software marketed at consumers.
+  
+
+    [7]
+   
+
+
+  In the May 1977 issue of
+  
+
+    Byte
+   
+
+  ,
+  
+   Steve Wozniak
+  
+  published a detailed description of his design; the article began, "To me, a personal computer should be small, reliable, convenient to use and inexpensive".
+  
+
+    [17]
+   
+
+
+  The Apple II used a multiplicity of idiosyncratic engineering shortcuts to save hardware and reduce costs. For example:
+ 
+  The text and graphics screens have a complex arrangement (the scanlines were not stored in sequential areas of memory) which is reputedly due to Wozniak's realization that doing it that way would allow for the refresh of the dynamic RAM as a side effect, as described above; it had no cost overhead to have software calculate or look up the address of the required scanline and avoided the need for significant extra hardware. Similarly, in the high-resolution graphics mode, color is determined by pixel position and can thus be implemented in software, saving Wozniak the chips needed to convert bit patterns to colors. This also allows for
+  
+   subpixel
+  
+  font rendering since orange and blue pixels appear half a pixel-width farther to the right on the screen than green and purple pixels.
+  
+
+    [18]
+   
+
+
+  The Apple II at first used
+  
+   data cassette
+  
+  storage like most other microcomputers of the time. In 1978 the company introduced an external
+  
+
+
+   5
+   
+
+
+    1
+   
+   ⁄
+   
+    4
+   
+
+  -inch
+  
+   floppy disk
+  
+  drive, the
+  
+   Disk II
+  
+  , attached via a controller card that plugs into one of the computer's
+  
+   expansion slots
+  
+  (usually slot 6). The Disk II interface, created by Wozniak, is regarded as an engineering masterpiece for its economy of electronic components.
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+
+  The approach taken in the Disk II controller is typical of Wozniak's designs. With a few small-scale logic chips and a cheap PROM (
+  
+   programmable read-only memory
+  
+  ), he created a functional floppy-disk interface at a fraction of the component cost of standard circuit configurations.
+ 
+  With the Apple I and the Apple II, Wozniak introduced an entirely novel configuration of the microcomputer concept which was immediately adopted as the industry standard, and remains taken for granted to this day—namely the integration of the standard input and output devices (the typewriter-style keyboard and the video display screen) into the computer itself. Until that time, microcomputer devices either had an extremely limited I/O capability—such as perhaps a hex keypad and a 16- or 32-character display, or no built-in user interface at all, following the convention of
+  
+   mainframe
+  
+  and
+  
+   minicomputers
+  
+  in requiring the connection of an external
+  
+   teleprinter
+  
+  unit or
+  
+   visual display terminal
+  
+  to complete a usable system. The cost of such terminals could easily exceed the price of the computer itself. Wozniak's inclusion of an
+  
+   RF
+  
+  output which could connect to the aerial socket of a standard domestic television set enabled users to acquire a complete system without incurring the cost of a video monitor.
+ 
+  The Apple II's PCB underwent several revisions as Steve Wozniak made modifications to it. The earliest version was known as Revision 0, and the first 6000 units shipped used it. Later revisions added a color killer circuit to prevent color fringing when the computer was in text mode, as well as modifications to improve the reliability of cassette I/O. Revision 0 Apple IIs powered up in an undefined mode and had garbage on screen, requiring the user to press Reset. This was eliminated on the later board revisions. Revision 0 Apple IIs could display only four colors, but Wozniak was later able to generate 16 in low-res mode.
+ 
+  Original Apple IIs were designed to accommodate either 2104 (4kx1) DRAM or 4116 (16kx1) DRAM and had jumper switches to adjust the RAM size. The early Apple II+ models retained this feature, but after a drop in DRAM prices, Apple began shipping all machines with 48k and the jumpers were removed.
+ 
+  Color on the Apple II series uses a quirk of the
+  
+   NTSC
+  
+  television signal standard, which made color display relatively easy and inexpensive to implement. The original NTSC television signal specification was black-and-white. Color was added on later by adding a 3.58-MHz subcarrier signal that was partially ignored by black-and-white TV sets. Color is encoded based on the
+  
+
+    phase
+   
+
+  of this signal in relation to a reference
+  
+
+    color burst
+   
+
+  signal. The result is that the position, size, and intensity of a series of pulses define color information. These pulses can translate into
+  
+
+    pixels
+   
+
+  on the computer screen, with the possibility of exploiting
+  
+   composite artifact colors
+  
+  .
+ 
+  The Apple II display provides two pixels per subcarrier cycle. When the color burst reference signal is turned on and the computer attached to a color display, it can display green by showing one alternating pattern of pixels, magenta with an opposite pattern of alternating pixels, and white by placing two pixels next to each other. Blue and orange are available by tweaking the offset of the pixels by half a pixel-width in relation to the color-burst signal. The high-resolution display offers more colors by compressing more (and narrower) pixels into each subcarrier cycle.
+ 
+  The coarse, low-resolution graphics display mode works differently, as it can output a pattern of dots per pixel to offer more color options. These patterns are stored in the character generator ROM and replace the text character bit patterns when the computer is switched to low-res graphics mode. The text mode and low-res graphics mode use the same memory region and the same circuitry is used for both.
+ 
+  Rather than a dedicated sound-synthesis chip, the Apple II has a toggle circuit that can only emit a click through a built-in speaker or a line out jack; all other sounds (including two, three and, eventually, four-voice music and playback of audio samples and speech synthesis) are generated entirely by software that clicked the speaker at just the right times. Similar techniques are used for cassette storage: the cassette output works the same as the speaker, and the input is a simple
+  
+   zero-crossing detector
+  
+  that serves as a relatively crude (1-bit) audio digitizer. Routines in the ROM encode and decode data in
+  
+   frequency-shift keying
+  
+  for the cassette.
+ 
+  Initially, the Apple II was shipped with Integer BASIC encoded in the motherboard
+  
+   ROM
+  
+  chips. Written by Wozniak, the interpreter enabled users to write software applications without needing to purchase additional development utilities. Written with game programmers and hobbyists in mind, the language only supported the encoding of numbers in 16-bit integer format. But limiting numerical values to whole numbers between -32768 and +32767 reduced the machine's attractiveness to business users. Jobs responded by licensing a floating-point version of BASIC from Microsoft which was initially available as a plug-in expansion card. This more versatile (but slower) variant was more popular with customers, so later models were shipped with it as standard and anyone wanting Integer BASIC had to get that on a language card.
+ 
+  As shipped, the machine incorporated a "monitor" program which supported functions such as displaying and altering the contents of the computer's RAM memory in
+  
+   hexadecimal
+  
+  format, either one byte at a time or in blocks of 256 bytes at once. This feature enabled hackers to write and debug machine code programs without needing further development software.
+ 
+  A 6502 assembler was soon offered on disk, and later the
+  
+   UCSD
+  
+  compiler and operating system for the
+  
+   Pascal
+  
+  language were made available. The Pascal system required a 16k RAM card to be installed in the language card position (expansion slot 0) in addition to the full 48k of motherboard memory.
+ 
+  Wozniak's
+  
+   open-architecture
+  
+  design and the Apple II's multiple expansion slots permit a wide variety of third-party devices, including
+  
+   peripheral cards
+  
+  such as
+  
+   serial controllers
+  
+  , display controllers, memory boards, hard disks, networking components, and
+  
+   realtime clocks
+  
+  . There are plug-in
+  
+   expansion cards
+  
+  – such as the
+  
+   Z-80 SoftCard
+  
+  – that permit the Apple to use the
+  
+   Z80
+  
+  processor and run programs for the
+  
+   CP/M
+  
+  operating system,
+  
+
+    [21]
+   
+
+  including the
+  
+   dBase II
+  
+  database and the
+  
+   WordStar
+  
+  word processor. There is also a third-party
+  
+   6809
+  
+  card that allows
+  
+   OS-9
+  
+  Level One to be run. Third-party
+  
+   sound cards
+  
+  greatly improve audio capabilities, allowing simple music synthesis and text-to-speech functions.
+  
+   Apple II accelerator cards
+  
+  double or quadruple the computer's speed.
+ 
+  Jesse Adams Stein wrote, "As the first company to release a 'consumer appliance' micro-computer, Apple Computer offers us a clear view of this shift from a 'machine' to an 'appliance'." But the company also had "to negotiate the attitudes of its potential buyers, bearing in mind social anxieties about the uptake of new technologies in multiple contexts. The office, the home and the 'office-in-the-home' were implicated in these changing spheres of gender stereotypes and technological development."
+  
+
+    [22]
+   
+
+  After seeing a crude,
+  
+   wire-wrapped
+  
+  prototype demonstrated by Wozniak and
+  
+   Steve Jobs
+  
+  in November 1976,
+  
+
+    [12]
+   
+
+
+   Byte
+  
+  predicted in April 1977 that the Apple II "may be the first product to fully qualify as the 'appliance computer' ... a completed system which is purchased off the retail shelf, taken home, plugged in and used". The computer's color graphics capability especially impressed the magazine.
+  
+
+    [23]
+   
+
+  The magazine published a favorable review of the computer in March 1978, concluding, "For the user that wants color graphics, the Apple II is the only practical choice available in the 'appliance' computer class".
+  
+
+    [12]
+   
+
+
+
+
+    Personal Computer World
+   
+
+  in August 1978 also cited the color capability as a strength, stating that "the prime reason that anyone buys an Apple II must surely be for the colour graphics". While mentioning the "oddity" of the artifact colors that produced output "that is not always what one wishes to do", it noted that "no-one has colour graphics like this at this sort of price". The magazine praised the sophisticated monitor software, user expandability, and comprehensive documentation, and concluded that "the Apple II is a very promising machine" which "would be even more of a temptation were its price slightly lower ... for the moment, colour is an Apple II".
+  
+
+    [24]
+   
+
+
+  Although it sold well from the launch, the initial market was to hobbyists, games players and computer enthusiasts. Sales expanded exponentially into the business and professional market when the spreadsheet program
+  
+   VisiCalc
+  
+  was launched in mid-1979. VisiCalc is credited as being the defining "
+  
+   killer app
+  
+  " in the microcomputer industry.
+ 
+  During the first five years of operations, revenues doubled about every four months. Between September 1977 and September 1980, yearly sales grew from $775,000 to $118 million, an average annual growth rate of 533%.
+  
+
+    [25]
+   
+
+  During this period the sole products of the company were the Apple II and its peripherals, accessories and software.
+ 

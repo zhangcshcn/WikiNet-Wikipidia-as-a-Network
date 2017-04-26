@@ -1,0 +1,348 @@
+
+
+  The
+  
+   Apple Macintosh II
+  
+  is the first personal computer model of the
+  
+   Macintosh II series
+  
+  in the
+  
+   Apple Macintosh
+  
+  line, and the first Macintosh to support a color display. A basic system with 20 MB drive and monitor cost
+  
+   US$5,498
+  
+  (equivalent to $11,590 in 2016). With a 13-inch color monitor and 8-bit display card the price was around
+  
+   US$7,145
+  
+  (equivalent to $15,062 in 2016).
+  
+
+    [1]
+   
+
+  This price placed it in competition with
+  
+   workstations
+  
+  from
+  
+   Silicon Graphics
+  
+  ,
+  
+   Sun Microsystems
+  
+  , and
+  
+   Hewlett-Packard
+  
+  .
+ 
+  The Macintosh II was designed by
+  
+   hardware engineers
+  
+
+   Michael Dhuey
+  
+  (computer) and Brian Berkeley (monitor) and
+  
+   industrial designer
+  
+
+   Hartmut Esslinger
+  
+  (case).
+ 
+
+
+  Two common criticisms of the Macintosh from its introduction in 1984 were the
+  
+   closed architecture
+  
+  and lack of color; rumors of a color Macintosh began almost immediately.
+  
+
+    [2]
+   
+
+
+  The Macintosh II project was begun by Dhuey and Berkeley during 1985 without the knowledge of Apple co-founder and Macintosh division head
+  
+   Steve Jobs
+  
+  , who opposed features like
+  
+   expansion slots
+  
+  and color, on the basis that the former complicated the user experience and the latter did not conform to
+  
+   WYSIWYG
+  
+  , since color printers were not common.
+  
+
+    [3]
+   
+
+  Initially referred to as "Little Big Mac", it was codenamed "
+  
+   Milwaukee
+  
+  " after Dhuey's hometown, and later went through a series of new names, including "Reno", "
+  
+   Uzi
+  
+  " and "Paris" (after
+  
+   Jean-Louis Gassee
+  
+  , Apple's then products manager, who protected the semi-clandestine project from cancellation).
+  
+
+    [4]
+   
+
+  After Jobs was fired from Apple in September 1985, the project could proceed openly.
+ 
+  Introduced in March 1987 and retailing for US $5,498,
+  
+
+    [5]
+   
+
+  the Macintosh II was the first "modular" Macintosh model, so called because it came in a horizontal desktop case like many
+  
+   IBM PC compatibles
+  
+  of the time. All previous Macintosh computers used an
+  
+   all-in-one design with a built-in black-and-white CRT
+  
+  .
+ 
+  The Macintosh II had
+  
+   drive bays
+  
+  for an internal hard disk (originally 40 MB or 80 MB) and an optional second floppy disk drive. It, along with the
+  
+   Macintosh SE
+  
+  , was the first Macintosh computer to use the
+  
+   Apple Desktop Bus
+  
+  (ADB) introduced with the
+  
+   Apple IIGS
+  
+  for keyboard and mouse interface.
+ 
+  The primary improvement in the Mac II was Color
+  
+   QuickDraw
+  
+  in ROM, a color version of the graphics language which was the heart of the machine. Among the many innovations in Color QuickDraw were an ability to handle any display size, up to 8-bit color depth, and multiple monitors. Because Color QuickDraw was included in the Mac II's ROM and relied on new 68020 instructions, earlier Macintoshes could not be upgraded to display color.
+ 
+  The Mac II featured a
+  
+   Motorola 68020
+  
+  processor operating at 16
+  
+   MHz
+  
+  teamed with a
+  
+   Motorola 68881
+  
+
+   floating point unit
+  
+  . The machine shipped with a socket for an MMU, but the "Apple HMMU Chip" (VLSI VI475 chip) was installed that did not implement virtual memory (instead, it translated 24-bit addresses to 32-bit addresses for the Mac OS, which was not 32-bit clean until
+  
+   System 7
+  
+  ). Standard memory was 1
+  
+   megabyte
+  
+  , expandable to 8 MB.
+  
+
+    [6]
+   
+
+  The Mac II had eight 30-pin SIMMs, and memory was installed in groups of four (called "Bank A" and "Bank B"). A 5.25-inch 40 MB internal
+  
+   SCSI
+  
+  hard disk was optional, as was a second internal 800 kilobyte 3.5-inch floppy disk drive. Six
+  
+   NuBus
+  
+  slots were available for expansion (at least one of which had to be used for a
+  
+   graphics card
+  
+  , as the Mac II had no onboard graphics chipset and the OS didn't support
+  
+   headless
+  
+  booting). It is possible to connect as many as six displays to a Macintosh II by filling all of the NuBus slots with graphics cards. Another option for expansion included the
+  
+   Mac286
+  
+  , which included an
+  
+   Intel 80286
+  
+  chip and could be used for
+  
+   MS-DOS
+  
+  emulation.
+ 
+  The original ROMs in the Macintosh II contained a bug which prevented the system from recognizing more than one megabyte of memory address space on a Nubus card. Every Macintosh II manufactured up until about November 1987 had this defect. This happened because Slot Manager was not
+  
+   32-bit clean
+  
+  .
+  
+
+    [7]
+   
+
+  Apple offered a well publicized recall of the faulty ROMs and released a program to test whether a particular Macintosh II had the defect. As a result, it is rare to find a Macintosh II with the original ROMs.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The Macintosh II and
+  
+   Macintosh SE
+  
+  were the first Apple computers since the
+  
+   Apple I
+  
+  to be sold without a keyboard. Instead the customer was offered the choice of the new ADB
+  
+   Apple Keyboard
+  
+  or the
+  
+   Apple Extended Keyboard
+  
+  as a separate purchase. Dealers could bundle a third-party keyboard or attempt to
+  
+   upsell
+  
+  a customer to the more expensive (and higher-profit) Extended Keyboard.
+ 
+  The Macintosh II was followed by a
+  
+   series
+  
+  of related models including the
+  
+   Macintosh IIx
+  
+  and
+  
+   Macintosh IIfx
+  
+  , all of which used the
+  
+   Motorola 68030
+  
+  processor. It was possible to upgrade a Macintosh II to a Macintosh IIx or IIfx with a motherboard swap. The Macintosh II was the first Macintosh to have the
+  
+   Chimes of Death
+  
+  accompany the
+  
+   Sad Mac
+  
+  logo whenever a serious hardware error occurred.
+ 
+  The new extensions featured for the Macintosh II at the time were
+  
+   A/ROSE
+  
+  and Sound Manager.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The card was unaccelerated, but it had a 16.7 million color palette (true color).
+  
+
+    [8]
+   
+
+  It supported two resolutions, 512×384 and 640×480 (supporting Apple's fixed-resolution 12" and 13" color monitors respectively) and was available in two configurations, 4-bit and 8-bit. The 4-bit model supports 16 colors on a 640×480 display, 256 colors (8-bit video) on a 512×384 display, which means that
+  
+   VRAM
+  
+  was 256 KB. The 8-bit model supports 8-bit/256-color video on a 640×480 display, which means that VRAM was 512 KB in size. With an optional RAM upgrade (requires eight 120 ns DIP chips), the 4-bit version supports 640×480 in 8-bit color.
+  
+
+    [9]
+   
+
+
+
+   This section also applies to the
+   
+    Macintosh IIx
+   
+   ,
+   
+    Macintosh IIcx
+   
+   , and
+   
+    Macintosh SE/30
+   
+   .
+  
+
+  The original Macintosh II did not have a PMMU by default. It relied on the memory controller hardware to map the installed memory into a contiguous address space. This hardware had the restriction that the address space dedicated to bank A must be larger than those of bank B. Though this memory controller was designed to support up to 16MB 30-pin SIMMs for up to 128MB of RAM, the original Macintosh II ROMs had problems limiting the amount of RAM that can be installed to 8MB. The Macintosh IIx ROMs that also shipped with the FDHD upgrade fixed this problem, though still do not have a 32-bit Memory Manager and cannot boot into 32-bit addressing mode under Mac OS (without the assistance of
+  
+   MODE32
+  
+  ).
+  
+
+    [10]
+   
+
+
+   MODE32
+  
+  contained a workaround that allowed larger SIMMs to be put in Bank B with the PMMU installed. In this case, the ROMs at boot think that the computer has 8MB or less of RAM. MODE32 then reprograms the memory controller to dedicate more address space to Bank A, allowing the additional memory in Bank B to be accessed. Since after that the physical address space is not contiguous, the PMMU is then use to remap the address space into a contiguous block.
+ 

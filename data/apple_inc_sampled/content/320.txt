@@ -1,0 +1,442 @@
+
+
+  A
+  
+   mobile application software
+  
+  or
+  
+   mobile app
+  
+  is an
+  
+   application software
+  
+  designed to run on
+  
+   mobile devices
+  
+  such as
+  
+   smartphones
+  
+  and
+  
+   tablet computers
+  
+  . Most such devices are sold with several apps bundled as
+  
+   pre-installed software
+  
+  , such as a
+  
+   web browser
+  
+  ,
+  
+   email client
+  
+  ,
+  
+   calendar
+  
+  , mapping program, and an app for
+  
+   buying music
+  
+  or other media or more apps. Some pre-installed apps can be removed by an ordinary uninstall process, thus leaving more storage space for desired ones. Where the software does not allow this, some devices can be
+  
+   rooted
+  
+  to eliminate the undesired apps.
+ 
+  Native mobile apps often stand in contrast to
+  
+   desktop applications
+  
+  that run on
+  
+   desktop computers
+  
+  , and with
+  
+   web applications
+  
+  which run in
+  
+   mobile web browsers
+  
+  rather than directly on the mobile device.
+ 
+
+
+  Apps that are not preinstalled are usually available through distribution platforms called
+  
+   app stores
+  
+  . They began appearing in 2008 and are typically operated by the owner of the
+  
+   mobile operating system
+  
+  , such as the Apple
+  
+   App Store
+  
+  ,
+  
+   Google Play
+  
+  ,
+  
+   Windows Phone Store
+  
+  , and
+  
+   BlackBerry App World
+  
+  . Some apps are free, while others must be bought. Usually, they are downloaded from the platform to a target device, but sometimes they can be downloaded to
+  
+   laptops
+  
+  or
+  
+   desktop computers
+  
+  . For apps with a price, generally a percentage, 20-30%, goes to the distribution provider (such as
+  
+   iTunes
+  
+  ), and the rest goes to the producer of the app.
+  
+
+    [1]
+   
+
+  The same app can therefore cost a different price depending on the mobile platform.
+ 
+  The term "app" is a shortening of the term "
+  
+   application software
+  
+  ". It has become very popular, and in 2010 was listed as "
+  
+   Word of the Year
+  
+  " by the
+  
+   American Dialect Society
+  
+  .
+  
+
+    [2]
+   
+
+  In 2009, technology columnist
+  
+   David Pogue
+  
+  said that newer smartphones could be nicknamed "app phones" to distinguish them from earlier less-sophisticated smartphones.
+  
+
+    [3]
+   
+
+
+  Mobile apps were originally offered for general productivity and information retrieval, including email,
+  
+   calendar
+  
+  , contacts, stock market and weather information. However, public demand and the availability of developer tools drove rapid expansion into other categories, such as those handled by desktop
+  
+   application software
+  
+  packages. As with other software, the explosion in number and variety of apps made discovery a challenge, which in turn led to the creation of a wide range of review, recommendation, and curation sources, including blogs, magazines, and dedicated online app-discovery services. In 2014 government regulatory agencies began trying to regulate and curate apps, particularly medical apps.
+  
+
+    [4]
+   
+
+  Some companies offer apps as an alternative method to deliver
+  
+   content
+  
+  with certain advantages over an official
+  
+   website
+  
+  .
+ 
+  Usage of mobile apps has become increasingly prevalent across mobile phone users.
+  
+
+    [5]
+   
+
+  A May 2012
+  
+   comScore
+  
+  study reported that during the previous quarter, more mobile subscribers used apps than browsed the web on their devices: 51.1% vs. 49.8% respectively.
+  
+
+    [6]
+   
+
+  Researchers found that usage of mobile apps strongly correlates with user context and depends on user's location and time of the day.
+  
+
+    [7]
+   
+
+  Mobile apps are playing an ever-increasing role within healthcare and when designed and integrated correctly can yield many benefits.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+  Market research firm
+  
+   Gartner
+  
+  predicted that 102 billion apps would be downloaded in 2013 (91% of them free), which would generate $26 billion in the US, up 44.4% on 2012's US$18 billion.
+  
+
+    [10]
+   
+
+  By Q2 2015, the Google Play and Apple stores alone generated $5 billion. An analyst report estimates that the app economy creates revenues of more than
+  
+   €
+  
+  10 billion per year within the European Union, while over 529,000 jobs have been created in 28 EU states due to the growth of the app market.
+  
+
+    [11]
+   
+
+
+  Developing apps for mobile devices requires considering the constraints and features of these devices. Mobile devices run on battery and have less powerful
+  
+   processors
+  
+  than personal computers and also have more features such as location detection and cameras. Developers also have to consider a wide array of screen sizes, hardware specifications and configurations because of intense competition in mobile software and changes within each of the platforms (although these issues can be overcome with mobile device detection).
+ 
+  Mobile application development requires use of specialized
+  
+   integrated development environments
+  
+  . Mobile apps are first tested within the development environment using
+  
+   emulators
+  
+  and later subjected to field testing. Emulators provide an inexpensive way to test applications on mobile phones to which developers may not have physical access.
+  
+
+    [12]
+   
+
+
+  Mobile
+  
+   user interface
+  
+  (UI) Design is also essential. Mobile UI considers constraints and contexts, screen, input and mobility as outlines for design. The user is often the focus of interaction with their device, and the interface entails components of both hardware and software. User input allows for the users to manipulate a system, and device's output allows the system to indicate the effects of the users' manipulation. Mobile UI design constraints include limited attention and form factors, such as a mobile device's screen size for a user's hand. Mobile UI contexts signal cues from user activity, such as location and scheduling that can be shown from user interactions within a mobile application. Overall, mobile UI design's goal is primarily for an understandable, user-friendly interface.
+ 
+  Mobile UIs, or front-ends, rely on mobile back-ends to support access to enterprise systems. The mobile back-end facilitates data routing, security, authentication, authorization, working off-line, and service orchestration. This functionality is supported by a mix of
+  
+   middleware
+  
+  components including
+  
+   mobile app servers
+  
+  ,
+  
+   Mobile Backend as a service
+  
+  (MBaaS), and
+  
+   SOA
+  
+  infrastructure.
+ 
+  Conversational interfaces display the computer interface and present interactions through text instead of graphic elements. They emulate conversations with real humans.
+  
+
+    [13]
+   
+
+  There are two main types of conversational interfaces: voice assistants (like the
+  
+   Amazon Echo
+  
+  ) and
+  
+   chatbots
+  
+  .
+  
+
+    [13]
+   
+
+
+  Conversational interfaces are growing particularly practical as users are starting to feel overwhelmed with mobile apps (a term known as “app fatigue”).
+  
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+
+  David Limp, Amazon’s senior vice president of devices, says in an interview with Bloomberg, “We believe the next big platform is voice.”
+  
+
+    [16]
+   
+
+
+  The two biggest
+  
+   app stores
+  
+  are
+  
+   Google Play
+  
+  for
+  
+   Android
+  
+  and
+  
+   App Store
+  
+  for
+  
+   iOS
+  
+  .
+ 
+  Google Play (formerly known as the Android Market) is an international online software store developed by Google for Android devices. It opened in October 2008.
+  
+
+    [17]
+   
+
+  In July 2013, the number of apps downloaded via the Google Play Store surpassed 50 billion, of the over 1 million apps available.
+  
+
+    [18]
+   
+
+  As of September 2016, according to
+  
+   Statista
+  
+  the number of apps available exceeded 2.4 million. The store generated a revenue of 6 billion U.S. dollars in 2015.
+ 
+
+   Apple
+  
+  's App Store for
+  
+   iOS
+  
+  was not the first app distribution service, but it ignited the mobile revolution and was opened on July 10, 2008, and as of January 2011, reported over 10 billion downloads. The original
+  
+   AppStore
+  
+  was first demonstrated to Steve Jobs in 1993 by Jesse Tayler at NeXTWorld Expo
+  
+
+    [19]
+   
+
+  As of June 6, 2011, there were 425,000 apps available, which had been downloaded by 200 million iOS users.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+  During Apple's 2012
+  
+   Worldwide Developers Conference
+  
+  , Apple CEO Tim Cook announced that the App Store has 650,000 available apps to download as well as 30 billion apps downloaded from the app store until that date.
+  
+
+    [22]
+   
+
+  From an alternative perspective, figures seen in July 2013 by the
+  
+   BBC
+  
+  from tracking service Adeven indicate over two-thirds of apps in the store are "zombies", barely ever installed by consumers.
+  
+
+    [23]
+   
+
+
+  Mobile application management (MAM) describes software and services responsible for provisioning and controlling access to internally developed and commercially available mobile apps used in business settings. The strategy is meant to off-set the security risk of a Bring Your Own Device (BYOD) work strategy. When an employee brings a personal device into an enterprise setting, mobile application management enables the corporate IT staff to transfer required applications, control access to business data, and remove locally cached business data from the device if it is lost, or when its owner no longer works with the company. Containerization is an alternate BYOD security solution. Rather than controlling an employees entire device, containerization apps create isolated and secure pockets separate from all personal data. Company control of the device only extends to that separate container.
+  
+
+    [34]
+   
+
+
+  Especially when employees "
+  
+   bring your own device
+  
+  ", mobile apps can be a significant security risk for businesses, because they transfer unprotected sensitive data to the Internet without knowledge and consent of the users. Reports of stolen corporate data show how quickly corporate and personal data can fall into the wrong hands. Data theft is not just the loss of confidential information, but makes companies vulnerable to attack and blackmail.
+  
+
+    [35]
+   
+
+
+  Professional mobile application management helps companies protect their data. One option for securing corporate data is
+  
+   app wrapping
+  
+  . But there also are some disadvantages like copyright infringement or the loss of warranty rights. Functionality, productivity and user experience are particularly limited under app wrapping. The policies of a wrapped app can't be changed. If required, it must be recreated from scratch, adding cost.
+  
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+
+  Alternatively, it is possible to offer native apps securely through
+  
+   enterprise mobility management
+  
+  without limiting the native user experience. This enables more flexible IT management as apps can be easily implemented and policies adjusted at any time.
+  
+
+    [38]
+   
+

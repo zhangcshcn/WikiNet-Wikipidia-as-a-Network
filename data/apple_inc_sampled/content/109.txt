@@ -1,0 +1,983 @@
+
+
+
+      San Francisco
+     
+     ,
+     
+      California
+     
+     ,
+     
+      U.S.
+     
+
+
+  The
+  
+   Apple Worldwide Developers Conference
+  
+  (
+  
+   WWDC
+  
+  ), is a
+  
+   conference
+  
+  held annually in
+  
+   California
+  
+  by
+  
+   Apple Inc.
+  
+  The conference is used by Apple to showcase its new software and technologies for
+  
+   software developers
+  
+  . Attendees can participate in hands-on labs with Apple engineers, and in-depth sessions covering a wide variety of topics. WWDC began in 1983 in
+  
+   Monterey
+  
+  , California. Until 2007, the number of attendees varied between 2,000 and 4,200; however, during WWDC 2007,
+  
+   Steve Jobs
+  
+  noted that there were more than 5,000 attendees. The WWDC events held from 2008 to 2015 were capped, and sold out at 5,000 attendees (5,200 including special attendees).
+ 
+
+
+  Since 1998, the conference has generally started with a
+  
+   keynote
+  
+  presentation. It was usually delivered by Jobs, resulting in their becoming termed
+  
+
+    Stevenotes
+   
+
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  After Jobs' 2011 resignation and death, his successor
+  
+   Tim Cook
+  
+  delivered the keynotes.
+ 
+  In 1989, announcing
+  
+   System 7
+  
+  .
+ 
+  In 1991, first public demonstration of
+  
+   QuickTime
+  
+  .
+ 
+  In 1995, WWDC'95 focused almost fully on the
+  
+
+    Copland
+   
+
+  project,
+  
+
+    [1]
+   
+
+  which by this time was able to be demonstrated to some degree.
+  
+   Gil Amelio
+  
+  stated that the system was on-schedule to ship in beta form in later summer with an initial commercial release in the very late fall. However, very few
+  
+   live
+  
+  demos were offered, and no beta of the operating system was offered.
+ 
+  In 1996, WWDC'96's primary emphasis was a new software component technology called
+  
+
+    OpenDoc
+   
+
+  ,
+  
+
+    [2]
+   
+
+  which allowed end users to compile an application from components offering features they desired most. The OpenDoc consortium included Adobe, Lotus, others, and Apple. Apple touted OpenDoc as the future foundation for application structure under Mac OS. As proof of concept, Apple demonstrated a new end-user product called
+  
+   Cyberdog
+  
+  , a comprehensive Internet application component suite offering users an integrated browser, email, FTP, telnet, finger and other services built fully of user-exchangeable OpenDoc components.
+  
+   ClarisWorks
+  
+  (later renamed
+  
+
+    AppleWorks
+   
+
+  ), a principal product in Apple's wholly owned subsidiary
+  
+
+    Claris
+   
+   Corporation
+  
+  , was demonstrated as an example of a pre-OpenDoc component architecture application modified to be able to contain functional OpenDoc
+  
+
+    components
+   
+
+  .
+ 
+  In 1997, WWDC'97 was the first show after the purchase of
+  
+   NeXT
+  
+  , and focused on the efforts to use
+  
+   OpenStep
+  
+  as the foundation of the next Mac OS. The plan at that time was to introduce a new system then named
+  
+
+    Rhapsody
+   
+
+  , which would consist of a version of OpenStep modified with a more Mac-like
+  
+   look and feel
+  
+  , the
+  
+
+    Yellow Box
+   
+
+  , along with a
+  
+
+    Blue Box
+   
+
+  that allowed extant Mac applications to run under OS emulation. The show focused mainly on the work in progress, including a short history of development efforts since the two development teams had been merged on February 4. Several new additions to the system were also demonstrated, including tabbed and outline views, and a new object-based graphics layer (NSBezier).
+ 
+  In 1998, in response to developer comments about the new operating system, the
+  
+   big announcement
+  
+  at WWDC'98 was the introduction of
+  
+
+    Carbon
+   
+
+  , effectively a version of the
+  
+   classic Mac OS
+  
+  API implemented on
+  
+   OpenStep
+  
+  . Under the original Rhapsody plans, classic applications would run in sandboxed installation of the classic Mac OS, (called the Blue Box) and have no access to the new Mac OS X features. To receive new features, such as protected memory and preemptive multitasking, developers had to rewrite applications using the Yellow Box API. Developer complaints about the major porting effort to what was then a shrinking market and warnings that they might simply abandon the platform, led Apple to reconsider the original plan. Carbon addressed the problem by dramatically reducing the effort needed, while exposing some of the new functions of the underlying OS. Another major introduction at WWDC'98 was the
+  
+   Quartz
+  
+  imaging model, which replaced
+  
+   Display PostScript
+  
+  with something akin to
+  
+   display
+   
+    PDF
+   
+
+  . Although the reasons for this switch remain unclear, Quartz also included better support for the extant
+  
+   QuickDraw
+  
+  model from the classic OS, and (as later learned)
+  
+   Java2D
+  
+  . Supporting QuickDraw directly in the graphics model also led to a related announcement, that the Blue Box would now be
+  
+   invisible
+  
+  , integrated into the extant desktop, instead of a separate window.
+ 
+  In 1999, WWDC'99 was essentially a
+  
+   progress report
+  
+  as the plans outlined in WWDC'98 came to fruition. Three major announcements were the
+  
+   opening
+  
+  of the operating system underlying the new OS as
+  
+
+    Darwin
+   
+
+  , improvements to the
+  
+   Macintosh Finder
+  
+  , and the replacement of
+  
+   QuickDraw 3D
+  
+  with
+  
+   OpenGL
+  
+  as the primary 3D API. The system formerly named
+  
+   OpenStep
+  
+  , and during development termed
+  
+   Yellow Box
+  
+  , was formally renamed
+  
+   Cocoa
+  
+  . 2,563 developers attended.
+ 
+  WWDC 2000 was another "progress report" before the upcoming release of
+  
+   Mac OS X
+  
+  . Recent changes included a modified dock and improved versions of the developer tools.
+  
+   Developer Preview 4
+  
+  was released at the show, with the commercial release pushed back to January 2001. Also,
+  
+   WebObjects
+  
+  was dropped in price to a flat fee of US$699. Approximately 3,600 developers attended and the band
+  
+   The Rippingtons
+  
+  played at the Apple campus.
+ 
+  In 2001, Mac OS X had only recently been released, but WWDC'01 added the first release of Mac OS X Server and WebObjects 5. Over 4,000 developers attended, and leather jackets with a large blue "X" embroidered on the back were distributed to attendees.
+ 
+  In 2002, Mac OS X v.10.2, QuickTime 6 and Rendezvous (now named
+  
+   Bonjour
+  
+  ) were presented.
+  
+
+    [3]
+   
+
+  Apple also said farewell to Mac OS 9 with a mock funeral, and told the developers that no more Mac OS 9 development would occur, reinforcing that the future of the Mac was now entirely on Mac OS X.
+  
+
+    [4]
+   
+
+
+  In 2003, WWDC 2003 demonstrated the
+  
+   Power Mac G5
+  
+  , previewed
+  
+   Mac OS X Panther
+  
+  (10.3), announced the launch of
+  
+   Safari
+  
+  1.0 (concluding its beta phase), and introduced the
+  
+   iApps
+  
+  :
+  
+   iPhoto
+  
+  ,
+  
+   iMovie
+  
+  ,
+  
+   iDVD
+  
+  , etc. Attendees received Apple's first model of the
+  
+   iSight
+  
+  web camera (to coincide with the launch of iChat AV), pre-releases of Mac OS X 10.3 and Mac OS X 10.3 Server, the O'Reilly book
+  
+   Cocoa in a Nutshell
+  
+  , and a 17-inch notebook carry bag. Apple also screened the Pixar film
+  
+
+    Finding Nemo
+   
+
+  for attendees, ahead of its premiere in cinemas. Originally scheduled for May 19 to 23 in
+  
+   San Jose, California
+  
+  , WWDC 2003 was rescheduled for June 23 to 27 at San Francisco's Moscone Center. Approximately 3,000 developers attended.
+ 
+  In 2004, WWDC was held from June 28 to July 2. Jobs noted that 3,500 developers attended, a 17% increase from 2003. New displays were introduced in 23- and 30-inch widescreen.
+  
+   Mac OS X Tiger
+  
+  (10.4) was previewed and iTunes 4.9, the first version with integrated podcast support, was demoed by Jobs. All attendees received a developer preview of Tiger, a grey T-shirt with the Apple logo on the front and "WWDC 2004" on the back, a backpack able to hold a 17-inch PowerBook, and a copy of Apple Remote Desktop 2.0. The band
+  
+   Jimmy Eat World
+  
+  played at the Apple campus after attendees were taken there by bus from Moscone Center West.
+ 
+  WWDC 2005 was held from June 6 to 10. After a basic market update, Jobs announced that Apple would transition the Macintosh platform to
+  
+   Intel
+  
+
+   x86
+  
+  processors. The keynote featured developers from
+  
+   Wolfram Research
+  
+  , who discussed their experience porting
+  
+   Mathematica
+  
+  to Mac OS X on the Intel platform. The conference consisted of 110 lab sessions and 95 presentation sessions, while more than 500 Apple engineers were on site alongside 3,800 attendees from 45 countries. The band
+  
+   The Wallflowers
+  
+  played at the Apple campus.
+ 
+  In 2006, Jobs once again delivered the keynote presentation at the WWDC, which was held from August 7 to 11 in
+  
+   Moscone Center
+  
+  West, San Francisco. The
+  
+   Mac Pro
+  
+  was announced as a replacement to the
+  
+   Power Mac G5
+  
+  , which was Apple's prior
+  
+   pro
+  
+  desktop computer and the last remaining
+  
+   PowerPC
+  
+  -based Mac. The standard Mac Pro featured two 2.66 GHz dual core Xeon (Woodcrest) processors, 1 GB RAM, 250 GB hard drive, and a 256 MB video card. An Xserve update, based on the dual core Xeons, was also announced. Redundant power and Lights Out Management were further product improvements to Apple's server lineup. While certain key Mac OS X improvements were undisclosed, there were 10 improvements in the next iteration,
+  
+   Mac OS X Leopard
+  
+  (10.5), including: full 64-bit app support,
+  
+   Time Machine
+  
+  ,
+  
+   Boot Camp
+  
+  ,
+  
+   Front Row
+  
+  ,
+  
+   Photo Booth
+  
+  , Spaces (Virtual Desktops),
+  
+   Spotlight
+  
+  enhancements,
+  
+   Core Animation
+  
+  , Universal Access enhancements,
+  
+   Mail
+  
+  enhancements, and
+  
+   Dashboard
+  
+  enhancements (including
+  
+   Dashcode
+  
+  , and
+  
+   iChat
+  
+  enhancements). Along with the Leopard features that were announced, a major revision to the Mac OS X Server product was announced. New features to the Server included: a simplified set-up process,
+  
+   iCal Server
+  
+  (based on the
+  
+   CalDAV
+  
+  standard),
+  
+   Apple Teams
+  
+  (a set of web-based collaborative services), Spotlight Server, and Podcast Producer. The 2006 WWDC attracted 4,200 developers from 48 countries, while there were 140 sessions and 100 hands-on labs for developers. More than 1,000 Apple engineers were present at the event, and the DJ
+  
+
+    BT
+   
+
+  performed at the Apple Campus in Cupertino.
+ 
+  WWDC 2007 was held from June 11 to 15 in Moscone Center West, and started with a keynote presentation from Jobs. Apple presented a feature-complete beta of
+  
+   Mac OS X Leopard
+  
+  , even though its release date was pushed back to October. Jobs announced that a version of
+  
+   Safari
+  
+  , Apple's proprietary
+  
+   web browser
+  
+  , had been created for
+  
+   Windows
+  
+  , and that a beta release was being made available online that same day. Apple also announced support for third-party development of the then-upcoming
+  
+   iPhone
+  
+  via online web applications running in Safari on the handset. The announcement implied that Apple, at least for the time being, had no plans to release an iPhone
+  
+   software development kit
+  
+  (SDK), meaning that developers must use
+  
+   standard web protocols
+  
+  . Also, Jobs noted during the keynote that more than 5,000 attendees were present at WWDC 2007, breaking the prior year's record. The band
+  
+   Ozomatli
+  
+  played at the
+  
+   Yerba Buena Gardens
+  
+  .
+ 
+  In 2008, WWDC 2008 took place from June 9 to 13 in Moscone Center West. Apple reported that, for the first time, the conference had sold out. There were three tracks for developers, iPhone, Mac, and IT. Announcements at the keynote included the
+  
+   App Store
+  
+  for iPhone and
+  
+   iPod Touch
+  
+  , the stable version of the
+  
+   iPhone SDK
+  
+  , a subsidized
+  
+   3G
+  
+  version of the iPhone for Worldwide markets,
+  
+
+    [5]
+   
+
+
+   version 2.0
+  
+  of
+  
+   iPhone OS
+  
+  ,
+  
+   Mac OS X Snow Leopard
+  
+  (10.6),
+  
+
+    [6]
+   
+
+  and the replacement/rebranding of .Mac as
+  
+   MobileMe
+  
+  .
+  
+
+    [7]
+   
+
+  For the bash held June 12, the band
+  
+   Barenaked Ladies
+  
+  played at the Yerba Buena Gardens.
+ 
+  In 2009, WWDC 2009 took place from June 8 to 12 in Moscone Center West, and Apple reported that the 2009 conference sold out in late April. Announcements at the keynote included the release of the
+  
+   iPhone OS 3.0
+  
+  software announced to developers in March, a demonstration of
+  
+   Mac OS X Snow Leopard
+  
+  (10.6), the new 13"
+  
+   MacBook Pro
+  
+  , updates to the 15" and 17" MacBook Pros, and the new
+  
+   iPhone 3GS
+  
+  .
+  
+   Phil Schiller
+  
+  , Apple's
+  
+   SVP
+  
+  for Product Marketing, presented the WWDC keynote this year, instead of Jobs, who had taken medical leave of absence since the start of the year.
+  
+
+    [8]
+   
+
+  Attendees received a
+  
+   neoprene
+  
+  messenger bag and the band
+  
+   Cake
+  
+  played at the Yerba Buena Gardens. This was the first year plastic badges were used instead of printed paper badges.
+ 
+
+
+
+  In 2010, WWDC 2010 was announced April 28, 2010.
+  
+
+    [9]
+   
+
+  WWDC 2010 was held at Moscone Center West from June 7 to 11, 2010.
+  
+
+    [10]
+   
+
+  Apple reported that the conference was sold out within 8 days of tickets being made available, even though tickets were only available at the full price of US$1599 (2009 and prior, tickets could be bought with an early-bird discount of US$300). On June 7, 2010, Jobs announced the
+  
+   iPhone 4
+  
+  ,
+  
+
+    [11]
+   
+
+  and renaming
+  
+   iPhone OS
+  
+  to
+  
+
+    iOS
+   
+
+  . The
+  
+   FaceTime
+  
+
+
+    [12]
+   
+
+  and
+  
+   iMovie
+  
+
+   app
+  
+  for iPhone
+  
+
+    [13]
+   
+
+  applications were also announced. The band
+  
+   OK Go
+  
+  played at the Yerba Buena Gardens. Attendees received a black track jacket with the letters "WWDC" across the vest and the number "10" stitched on the back.
+ 
+  In 2011, WWDC 2011 was held in Moscone Center West from June 6 to 10, 2011. The event reportedly sold out within just 12 hours of the 5,000 tickets being placed on sale on March 28, 2011.
+  
+
+    [14]
+   
+
+  The ticket price also remained the same from the 2010 WWDC, selling at US$1,599, however, after-market pricing for tickets ranged from US$2,500 to US$3,500.
+  
+
+    [15]
+   
+
+  At the keynote, Apple unveiled its next generation software:
+  
+   Mac OS X Lion
+  
+  , the eighth major release of Mac OS X; iOS 5, the next version of Apple's advanced mobile operating system which powers the iPad, iPhone and iPod Touch; and iCloud, Apple's upcoming cloud services offering.
+  
+   Michael Franti and Spearhead
+  
+  played at the Bash in
+  
+   Yerba Buena Gardens
+  
+  on June 9. Attendees received a black track jacket similar to that of the prior year, but with a smaller "WWDC" across the front and the number "11" stitched on the back. This was the final Apple event hosted by Jobs.
+ 
+  WWDC 2012 was held in Moscone Center West from June 11 to 15. The ticket price remained the same as the 2010 WWDC, selling at US$1,599. Apple changed the purchasing process by requiring purchases to be made using an Apple ID associated with a paid Apple developer account. Tickets went on sale shortly after 8:30am Eastern Time on Wednesday April 25, 2012, and were sold out within 1 hour and 43 minutes. In the keynote, Apple announced new models of the MacBook Air, and MacBook Pro including one with
+  
+   Retina Display
+  
+  . They also showcased
+  
+   OS X Mountain Lion
+  
+  and
+  
+   iOS 6
+  
+  .
+  
+
+    [16]
+   
+
+
+  In prior years, attendees were required to be at least 18 years old. In 2012, Apple changed this requirement to at least 13 years after a minor who was "accidentally" awarded a student scholarship in 2011 successfully petitioned Tim Cook to retain the award. Despite the change, Beer Bash attendees were still required to be 18 years old, and 21 years old to consume alcohol, in accord with local and federal laws.
+  
+   Neon Trees
+  
+  performed at the WWDC Bash.
+  
+
+    [17]
+   
+
+
+  In 2013, WWDC 2013 was held from June 10 to 14, 2013 in Moscone Center West.
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  Tickets went on sale at 10am
+  
+   PDT
+  
+  on April 25, 2013,
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  selling out within 71 seconds (1 minute and 11 seconds).
+  
+
+    [20]
+   
+
+  Apple also announced that it would award 150 free WWDC 2013 Student Scholarship tickets for young attendees to benefit from the conference's many workshops.
+  
+
+    [21]
+   
+
+
+  In the keynote, Apple unveiled redesigned models of the
+  
+   Mac Pro
+  
+  ,
+  
+   AirPort Time Capsule
+  
+  ,
+  
+   AirPort Extreme
+  
+  , and MacBook Air, and showcased
+  
+   OS X Mavericks
+  
+  ,
+  
+   iOS 7
+  
+  ,
+  
+   iWork for iCloud
+  
+  , and a new music streaming service named
+  
+   iTunes Radio
+  
+  .
+  
+
+    [22]
+   
+
+
+   Vampire Weekend
+  
+  performed at the Bash on June 13 at the Yerba Buena Gardens. Attendees received a black wind breaker with the letters "WWDC" across the front and the number "13" stitched on the back.
+ 
+  WWDC 2014 was held from June 2 to 6, 2014 in Moscone Center West.
+  
+
+    [23]
+   
+
+  For the first time, the opportunity to buy tickets was given at random to developers who were members of an Apple developer program at the time of the conference announcement, and who registered at Apple's developer web site.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+  Apple also gave 200 free Student Scholarship tickets. The keynote began on June 2 and Apple unveiled several new software items, including
+  
+   iOS 8
+  
+  —the largest update to iOS since the release of the App Store—and
+  
+   OS X Yosemite
+  
+  , which features a redesigned interface inspired by iOS. Announcements included the new programming language
+  
+   Swift
+  
+  , many developer kits and tools for iOS 8, but no new hardware.
+  
+   Bastille
+  
+  performed at the Yerba Buena Gardens, and attendees received a black windbreaker with the letters "WWDC" across the front and the number "14" stitched on the back, along with a US$25 iTunes gift card to commemorate the 25th anniversary of WWDC.
+ 
+  WWDC 2015 was held from June 8 to 12, 2015 in Moscone Center West in San Francisco. The major announcements were the new features of
+  
+   iOS 9
+  
+  , the next version of OS X called
+  
+   OS X El Capitan
+  
+  , the first major software update to the Apple Watch, the June 30 debut of
+  
+   Apple Music
+  
+  , and news that the language Swift is becoming
+  
+   open-source software
+  
+  supporting iOS, OS X, and Linux.
+  
+
+    [26]
+   
+
+  The Beer Bash was held at the Yerba Buena Gardens on June 11.
+  
+   Walk the Moon
+  
+  performed there.
+  
+
+    [27]
+   
+
+
+  WWDC 2016 was held from June 13 to June 17, 2016 at the
+  
+   Bill Graham Civic Auditorium
+  
+  and Moscone Center West in San Francisco. The announcements at the event included renaming
+  
+   OS X
+  
+  to macOS, the new version named
+  
+   macOS Sierra
+  
+  , as well as updates to
+  
+   iOS 10
+  
+  ,
+  
+   watchOS 3
+  
+  , and
+  
+   tvOS 10
+  
+  . Apple proclaimed that the keynote would be the largest ever for developers; this became the reality when they allowed third-party developers to extend the functionality in
+  
+   Messages
+  
+  ,
+  
+   Apple Maps
+  
+  , and
+  
+   Siri
+  
+  .
+  
+   Cisco Systems
+  
+  and Apple announced a partnership at the 2016 WWDC.
+  
+
+    [28]
+   
+
+  Cisco APIs, accessed through
+  
+   Cisco DevNet
+  
+  , are to have greater interoperability with Apple iOS and APIs.
+ 
+  The keynote was more about software updates and features, as no new hardware was introduced. New apps that Apple created are the Home App that works with
+  
+   HomeKit
+  
+  as a control center for all third-party applications which provide functions for the home. Swift Playgrounds was also announced as an iPad exclusive app that helps younger people learn to code with Apple's new programming language,
+  
+   Swift
+  
+  .
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+
+    [31]
+   
+
+
+  WWDC 2017 will be held on June 5 to June 9, 2017 at the
+  
+   McEnery Convention Center
+  
+  , in
+  
+   San Jose, California
+  
+  , which will be the first time since 2002 that the conference will be held in the city. Expected announcements to be made at the conference include
+  
+   iOS
+  
+  11,
+  
+   watchOS
+  
+  4,
+  
+   macOS
+  
+  10.13, and possibly
+  
+   tvOS
+  
+  11.
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+

@@ -1,0 +1,288 @@
+
+
+
+   Find My iPhone
+  
+  (also known as
+  
+   Find iPhone
+  
+  on the
+  
+   SpringBoard
+  
+  , and also known specifically for other devices as
+  
+   Find My iPad
+  
+  ,
+  
+   Find My iPod
+  
+  , or
+  
+   Find My Mac
+  
+  ) is an app and service provided by
+  
+   Apple Inc.
+  
+  that allows remote location-tracking of
+  
+   iOS devices
+  
+  and
+  
+   Mac
+  
+  computers. As of March 2013
+  
+
+    [update]
+   
+
+  , the service currently is available for
+  
+   iOS 5
+  
+  or later and
+  
+   OS X 10.7.5 "Lion"
+  
+  or later through
+  
+   iCloud
+  
+  . As of the release of iOS 9, the application (app) is now bundled with the operating system. If a user is running
+  
+   iOS 8
+  
+  , the app is available for download from the
+  
+   App Store
+  
+  free of charge.
+  
+
+    [1]
+   
+
+
+
+
+  Find My iPhone was released initially as an app in June 2010 for users of
+  
+   MobileMe
+  
+  . In November 2010 with iOS 4.2, Find My iPhone was available for free for such devices.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  With the release of
+  
+   iCloud
+  
+  in October 2011, the service became free for all iCloud users. Also, the service was made available as "Find My Mac"
+  
+
+    [4]
+   
+
+  for
+  
+   Mac
+  
+  computers running
+  
+   OS X 10.7.2 "Lion"
+  
+  or later using iCloud.
+ 
+     June 15, 2010
+     
+      (
+      
+       2010-06-15
+      
+      )
+     
+
+     September 7, 2010
+     
+      (
+      
+       2010-09-07
+      
+      )
+     
+
+     November 22, 2010
+     
+      (
+      
+       2010-11-22
+      
+      )
+     
+
+     June 6, 2011
+     
+      (
+      
+       2011-06-06
+      
+      )
+     
+
+     August 8, 2011
+     
+      (
+      
+       2011-08-08
+      
+      )
+     
+
+     October 12, 2011
+     
+      (
+      
+       2011-10-12
+      
+      )
+     
+
+     March 7, 2012
+     
+      (
+      
+       2012-03-07
+      
+      )
+     
+
+     September 19, 2012
+     
+      (
+      
+       2012-09-19
+      
+      )
+     
+
+     December 11, 2012
+     
+      (
+      
+       2012-12-11
+      
+      )
+     
+
+     March 21, 2013
+     
+      (
+      
+       2013-03-21
+      
+      )
+     
+
+     August 22, 2013
+     
+      (
+      
+       2013-08-22
+      
+      )
+     
+
+     October 22, 2013
+     
+      (
+      
+       2013-10-22
+      
+      )
+     
+
+     September 17, 2014
+     
+      (
+      
+       2014-09-17
+      
+      )
+     
+
+  Find My iPhone allows users to locate their
+  
+   iOS devices
+  
+  using either the iOS app or
+  
+   icloud.com
+  
+  on a computer. In addition to locating a device, the service provides three key features:
+ 
+  The update with iOS 6 added the ability to check the device's battery level.
+  
+
+    [1]
+   
+
+
+  Since the release of iOS 7 users have complained about the link between GPS, WiFi, and the App itself. Some handset owners have noted the App enables and disables itself when passing between cellular protocol bandwidths.
+ 
+  As of January 2013
+  
+
+    [update]
+   
+
+  , the service is supported on
+  
+   iPhone
+  
+  ,
+  
+   iPad
+  
+  ,
+  
+   iPod Touch
+  
+  , and
+  
+   Mac
+  
+  computers running
+  
+   OS X 10.7.5 "Lion"
+  
+  or later.
+  
+
+    [11]
+   
+
+  In addition to a compatible device, a free iCloud account is required to use Find My iPhone.
+  
+
+    [10]
+   
+
+  Users also can track their Find My iPhone enabled devices through
+  
+   iCloud.com
+  
+  on Windows, but cannot use it the other way around to track their PC.
+ 
+

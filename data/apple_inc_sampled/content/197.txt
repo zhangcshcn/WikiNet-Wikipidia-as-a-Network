@@ -1,0 +1,187 @@
+
+
+   Cover Flow
+  
+  is an animated, three-dimensional
+  
+   graphical user interface element
+  
+  that is integrated within the
+  
+   Macintosh Finder
+  
+  and other
+  
+   Apple Inc.
+  
+  products for visually flipping through snapshots of documents, website bookmarks, album artwork, or photographs.
+ 
+  Cover Flow is browsed using the on-screen scrollbar,
+  
+   mouse wheel
+  
+  , gestures, or by selecting a file from a list, which flips through the pages to bring the associated image into view. On iPod and iPhone devices, the user slides their finger across the
+  
+   touch screen
+  
+  or uses the
+  
+   click wheel
+  
+  .
+ 
+  Cover Flow was conceived by artist
+  
+   Andrew Coulter Enright
+  
+
+
+    [1]
+   
+
+  and originally implemented by an independent Macintosh developer, Jonathan del Strother. Enright later named the interaction style
+  
+   fliptych
+  
+  to distinguish it from the particular Cover Flow implementation.
+  
+
+    [2]
+   
+
+
+  Cover Flow was purchased by
+  
+   Apple Inc.
+  
+  in 2006,
+  
+
+    [3]
+   
+
+  and its technology was integrated into its music application,
+  
+   iTunes
+  
+  7.0, which was released September 12, 2006.
+  
+
+    [4]
+   
+
+  The name was previously "CoverFlow" without a space.
+ 
+  The last release of Steel Skies’ stand-alone application, version RC1.2, was released on September 10, 2006, and was freely distributed until the end of the next day only, however it remains available for download from MacUpdate.
+ 
+  On January 9, 2007, when Apple announced the
+  
+   iPhone
+  
+  , it was announced that it would incorporate Cover Flow technology.
+ 
+  During the
+  
+   WWDC
+  
+  Keynote on June 11, 2007,
+  
+   Steve Jobs
+  
+  announced that Cover Flow would be added as a view option in
+  
+   Leopard
+  
+  ’s Finder.
+ 
+  On September 5, 2007 Apple announced that Cover Flow would be utilized in the third generation
+  
+   iPod nano
+  
+  as well as the new
+  
+   iPod classic
+  
+  and
+  
+   iPod touch
+  
+  models. Cover Flow was integrated into the fourth generation
+  
+   iPod nano
+  
+  by the use of an accelerometer which accesses Cover Flow when the iPod nano is turned horizontally on its side.
+ 
+  On March 14, 2008,
+  
+   Mirror Worlds
+  
+  LLC sued Apple for infringing on its patents (nos. 6006227, 6638313, 6725427, and 6768999) (Mirror Worlds, LLC, vs Apple, Inc; Texas Eastern District Court)
+  
+
+    [5]
+   
+
+
+  On February 24, 2009, Cover Flow was also included with the public beta of
+  
+   Safari 4
+  
+  , with the final version of Safari 4, released on June 8, using Cover Flow to browse history, bookmarks, RSS feeds,
+  
+   Bonjour
+  
+  , and Address Book.
+ 
+  In April 2010, Apple was granted US
+  
+   design patent
+  
+  D613,300 on the Cover Flow interface.
+  
+
+    [6]
+   
+
+
+  On October 1, 2010, Apple was ordered to pay $625.5 million to Mirror Worlds LLC for infringing
+  
+   utility patents
+  
+  relating to Cover Flow.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+  On April 4, 2011, Judge Davis reversed the judgement.
+  
+
+    [9]
+   
+
+
+  With the release of version 11 of iTunes, Cover Flow was removed from the iTunes interface.
+ 
+  iOS 7 saw Cover Flow replaced by
+  
+   album wall
+  
+  .
+  
+
+    [10]
+   
+
+  This feature shows tiles of album art in rows when the device is in landscape.
+  
+
+    [11]
+   
+
+

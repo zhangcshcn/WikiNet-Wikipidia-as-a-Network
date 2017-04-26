@@ -1,0 +1,450 @@
+
+
+
+       iPod Touch
+      
+
+
+
+       iPad
+      
+
+
+
+   iOS 5
+  
+  is the
+  
+   fifth
+  
+  major release of the
+  
+   iOS
+  
+
+   mobile operating system
+  
+  designed by
+  
+   Apple Inc.
+  
+  New features of the software include
+  
+   iCloud
+  
+  , Notification Center, new apps, over-the-air software updates, and many others. It was announced at the company's
+  
+   Worldwide Developers Conference
+  
+  (WWDC) on June 6, 2011, and was released on October 4, 2011.
+  
+
+    [1]
+   
+
+  It had the fewest updates out of all the major iOS versions. It was preceded by
+  
+   iOS 4
+  
+  (final version was 4.3.5) and succeeded by
+  
+   iOS 6
+  
+  , which was released on September 19, 2012.
+ 
+
+
+  iOS 5 was introduced on June 6, 2011 during
+  
+   WWDC
+  
+  2011. At the same event, Apple introduced
+  
+   Mac OS X Lion
+  
+
+
+    [2]
+   
+
+  and announced its cloud-based media service,
+  
+   iCloud
+  
+  .
+  
+
+    [3]
+   
+
+
+  On October 4, 2011, Apple held an event at the 4
+  
+   Infinite Loop
+  
+  building at its headquarters in
+  
+   Cupertino, California
+  
+  . While other items were discussed, the main focus was the unveiling of the
+  
+   iPhone 4S
+  
+  and its new, exclusive
+  
+   Siri
+  
+  software.
+  
+
+    [4]
+   
+
+  The release date for iOS 5, October 12, was announced at this event.
+  
+
+    [5]
+   
+
+
+  The
+  
+   iPhone 4S
+  
+  came with iOS 5 pre-installed, but older units required the update to be installed through
+  
+   iTunes
+  
+  .
+  
+
+    [1]
+   
+
+  However, when the update was first released, many users received error messages upon attempting to download it, and some had warnings that their devices could not be restored. It was thought that Apple's servers were simply not able to keep up with the demand, causing as many as half of the initial requests for the update to fail.
+  
+
+    [6]
+   
+
+
+  iOS 5.0.1 was released on November 10, 2011 as the first update to iOS 5. The update attempted to fix battery issues.
+  
+
+    [7]
+   
+
+  On December 12, 2011, the update was released to the
+  
+   iPhone 4S
+  
+  .
+ 
+  iOS 5.1 was released on March 7, 2012, with the support for the
+  
+   third-generation iPad
+  
+  . It also included Japanese support for
+  
+   Siri
+  
+  , a redesigned Camera app for iPad, enhanced dictation, increased App store download limit, and security updates.
+  
+
+    [8]
+   
+
+
+  iOS 5.1.1 was released on May 7, 2012, and May 25, 2012, respectively. It is the final release that is supported for the
+  
+   original iPad
+  
+  and the
+  
+   third-generation iPod Touch
+  
+  . It includes bug fixes and improvements on HDR reliability.
+  
+
+    [9]
+   
+
+
+  iOS 5.1.1 is the last version of iOS 5.
+ 
+  Notifications are revamped in iOS 5. Rather than popping up on the screen and stopping whatever was going on at the time, they show up in a banner at the top of the screen. Recent notifications can also be accessed by pulling a "
+  
+   Notification Center
+  
+  " down from the top of the screen, where it is hidden. Users who prefer the old notification system can keep it by choosing the appropriate option in the settings menu.
+  
+
+    [1]
+   
+
+
+
+    [10]
+   
+
+
+  Apple's cloud-based service,
+  
+   iCloud
+  
+  , first became available with iOS 5. This new feature allows users to synchronize their music, pictures, videos, and more across all of their iCloud-enabled devices.
+  
+
+    [11]
+   
+
+  Each user is given 5
+  
+   gigabytes
+  
+  of storage space for free, but is allowed to sync unlimited amounts of music, apps, books and photos.
+  
+
+    [10]
+   
+
+
+  iOS 5 allows the camera app to be easily accessed from the lock screen for the first time. By swiping up on a camera icon on the lock screen, users can go directly to the camera, without having to unlock the device or enter their passcode. For security purposes (passcode), this method of accessing the camera only allows access to the camera app, and no other features of the device.
+  
+
+    [10]
+   
+
+  iOS 5.0 originally included a camera button to tap that could only be revealed by double-clicking the home button. However, iOS 5.1 changed it so that the camera button could be swiped up.
+ 
+  Pressing the volume up button now allows the user to take a picture.
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+
+   iMessage
+  
+  , built into the
+  
+   Messages
+  
+  app, allows anyone with an iOS-enabled device to send
+  
+   instant messages
+  
+  to anyone else who has a device with iOS 5.
+  
+
+    [11]
+   
+
+  The messages are received on all of the person's wirelessly connected devices. This feature also allows iPhone users to send
+  
+   text messages
+  
+  to non-iOS devices as well.
+  
+
+    [10]
+   
+
+  Before iOS 5, Messages was only available with SMS and MMS on
+  
+   iPhone
+  
+  , but iOS 5 brought it to
+  
+   iPod touch
+  
+  and
+  
+   iPad
+  
+  .
+ 
+  The iOS Mail app includes rich text formatting, better indent control, flagging of messages, and the ability to drag addresses between To, CC, and BCC lines.
+  
+
+    [14]
+   
+
+
+
+   Reminders
+  
+  allows users to create lists of tasks with alerts that can be either date-based or location-based.
+  
+
+    [15]
+   
+
+
+
+   Newsstand
+  
+  does not act as a true app, but is actually a special folder. When selected, it shows icons for all of the periodicals that the user has subscribed to, such as newspapers and magazines. New issues are downloaded automatically.
+  
+
+    [15]
+   
+
+
+  iOS 5 gives devices the ability to sync with iTunes wirelessly, without needing to be connected to a computer. Both activation of a new iOS device and iOS updates can also be done over a wireless network for the first time.
+  
+
+    [1]
+   
+
+
+
+    [10]
+   
+
+
+  iOS 5 features deep
+  
+   Twitter
+  
+  integration. Users are able to sign into Twitter directly from the settings menu. Photos can be tweeted directly from the Photos or Camera apps, and users are also able to tweet from the
+  
+   Safari
+  
+  , YouTube, and Google Maps apps.
+  
+
+    [16]
+   
+
+  You could also tell Siri to tweet something.
+ 
+  Multitasking gestures are debuted in iPad with the release of iOS 5. It allows to jump to and from apps without double tapping the home button or making a roundtrip to the home screen.
+  
+
+    [17]
+   
+
+
+  The iPod app was replaced by separate Music and Videos apps.
+ 
+  Apple confirmed that several battery life bugs were negatively affecting battery life in iOS 5.
+  
+
+    [18]
+   
+
+  They attempted to fix them with iOS 5.0.1, but the problem still remained.
+  
+
+    [19]
+   
+
+
+  The launch of the iOS 5 update on October 12, 2011 (including iOS 5.0.1 released on November 10, 2011), led many users to report a major bug causing the device to lose
+  
+   Wi-Fi
+  
+  access. This problem was supposedly fixed with the release of iOS 5.1.1.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+  Some users of the iPhone 4S and iPad reported issues with the
+  
+   SIM
+  
+  card in the initial release of iOS 5,
+  
+
+    [22]
+   
+
+  and even though Apple attempted to fix these issues in version 5.0.1 build 9A406 (for iPhone 4S only), they still remained.
+  
+
+    [23]
+   
+
+
+  Some users of the iPhone 4 and iPhone 4S reported the random appearance of echoes during phone calls made with earphones in the initial release of iOS 5. The other party in the call was generally unable to hear the conversation due to this problem.
+  
+
+    [24]
+   
+
+  The owners reported a "fix", which involved switching to speaker mode when the echo occurred, then turning the speaker off again. This got rid of the echo temporarily, but it could still happen again, even within the same phone call. It is unclear whether Apple attempted to fix this issue in version 5.0.1, but for many users this problem still remained after updating to 5.0.1. The new noise-cancelling microphone/technology may have been the reason behind this bug. Apple has since released version 5.1.1 in an attempt to fix the problem.
+ 
+  Many aspects of iOS 5 received positive reviews, including the new notification center, the ability to sync and update wirelessly, iMessage, and more. Richmond Shane of
+  
+   Telegraph
+  
+  said "iOS 5 is a brilliant upgrade to an already brilliant operating system. Different people look for different things in a mobile operating system. That's why some people prefer BlackBerry, Android or Windows Mobile. I value ease of use and attention to detail in design. With iOS 5, Apple continues to deliver the best user experience available."
+  
+
+    [25]
+   
+
+
+  Richard Goodwin of
+  
+   Know Your Mobile
+  
+  said "All in all, we reckon iOS 5 is everything it needs to be a more. We can’t wait to get our teeth stuck into it as soon as it’s released in the Autumn of 2011."
+  
+
+    [26]
+   
+
+
+  For the second time, support for some devices was dropped, specifically the
+  
+   iPhone 3G
+  
+  and the
+  
+   iPod Touch
+  
+  (2nd generation). Supported devices on this release include the
+  
+   iPhone 3GS
+  
+  onwards, the iPod Touch (3rd generation) onwards, and the original
+  
+   iPad
+  
+  onwards.
+  
+
+    [5]
+   
+
+
+
+       iPhone
+      
+
+
+       iPod Touch
+      
+
+
+       iPad
+      
+
+
+       Apple TV
+      

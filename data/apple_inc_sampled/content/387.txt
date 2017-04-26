@@ -1,0 +1,213 @@
+
+
+  The
+  
+   Apple S1
+  
+  is the integrated computer in the
+  
+   Apple Watch
+  
+  , and it is described as a "
+  
+   System in Package
+  
+  " (SiP) by
+  
+   Apple Inc
+  
+  .
+  
+
+    [6]
+   
+
+
+
+   Samsung
+  
+  is said to be the main supplier of key components, such as the
+  
+   RAM
+  
+  and
+  
+   NAND flash
+  
+  storage, and the assembly itself,
+  
+
+    [7]
+   
+
+  but early teardowns reveal RAM and flash memory from
+  
+   Toshiba
+  
+  and
+  
+   Micron Technology
+  
+  .
+  
+
+    [4]
+   
+
+
+
+
+  It uses a customized
+  
+   application processor
+  
+  that together with
+  
+   memory
+  
+  ,
+  
+   storage
+  
+  and support processors for wireless connectivity, sensors and
+  
+   I/O
+  
+  constitute a complete computer in a single package. This package is filled with
+  
+   resin
+  
+  for durability.
+  
+
+    [8]
+   
+
+
+  From reverse engineering, the processor handling the
+  
+   Wi-Fi
+  
+  and
+  
+   Bluetooth
+  
+  is a
+  
+   Broadcom
+  
+  BCM43342
+  
+
+    [9]
+   
+
+  and the six-axis
+  
+   gyroscope
+  
+  is from
+  
+   STMicroelectronics
+  
+  .
+  
+
+    [2]
+   
+
+
+  The SiP in Apple Watch Series 1 is called
+  
+   S1P
+  
+  and looks superficially identical to the S1, and it includes most of the new features of the
+  
+   Apple S2
+  
+  except notably for the on-chip
+  
+   GPS
+  
+  functionality. It contains the same dual-core CPU with the same new
+  
+   GPU
+  
+  capabilities as the S2 making it about 50% faster than the S1.
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+  The S1 was announced on 9 September 2014 as part of the "Wish we could say more" event.
+ 
+  The S1P was announced on 7 September 2016 as part of the "See you on the 7th" event.
+ 
+  The S1 made its first appearance within the Apple Watch, which arrived in April 2015.
+  
+
+    [6]
+   
+
+
+
+    [13]
+   
+
+  The S1 was discontinued with the launch of Apple Watch Series 1, containing the S1P.
+ 
+  The S1P was released with the Apple Watch Series 1 16 September 2016.
+  
+
+    [12]
+   
+
+
+      An illustration of the encapsulated S1 package.
+      
+
+        [8]
+       
+
+
+
+        [14]
+       
+
+
+      The S1P package shows little of the differences that's encapsulated inside.
+     
+      This illustration shows the positions of the chips and other components inside the S1 package.
+      
+
+        [14]
+       
+
+
+      This is how large the S1 is compared to the Apple Watch case.
+      
+
+        [14]
+       
+
+
+      A size comparison of the S1 to the
+      
+       Apple A6
+      
+      in the
+      
+       iPhone 5
+      
+      .
+      
+
+        [14]
+       
+

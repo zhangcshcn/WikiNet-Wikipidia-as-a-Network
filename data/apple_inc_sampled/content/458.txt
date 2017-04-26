@@ -1,0 +1,389 @@
+
+
+  A
+  
+   Unix-like
+  
+  (sometimes referred to as
+  
+   UN*X
+  
+  or
+  
+   *nix
+  
+  )
+  
+   operating system
+  
+  is one that behaves in a manner similar to a
+  
+   Unix
+  
+  system, while not necessarily conforming to or being certified to any version of the
+  
+   Single UNIX Specification
+  
+  . A Unix-like
+  
+   application
+  
+  is one that behaves like the corresponding
+  
+   Unix command
+  
+  or
+  
+   shell
+  
+  . There is no
+  
+   standard
+  
+  for defining the term, and some difference of opinion is possible as to the degree to which a given operating system or application is "Unix-like".
+ 
+  The term can include
+  
+   free and open-source
+  
+  operating systems inspired by
+  
+   Bell Labs
+  
+  ' Unix or designed to emulate its features, commercial and proprietary work-alikes, and even versions based on the
+  
+   licensed
+  
+  UNIX source code (which may be sufficiently "Unix-like" to pass certification and bear the "UNIX" trademark).
+ 
+
+
+
+   The Open Group
+  
+  owns the
+  
+   UNIX
+  
+
+   trademark
+  
+  and administers the Single UNIX Specification, with the "UNIX" name being used as a
+  
+   certification mark
+  
+  . They do not approve of the construction "Unix-like", and consider it a misuse of their trademark. Their guidelines require "UNIX" to be presented in uppercase or otherwise distinguished from the surrounding text, strongly encourage using it as a branding adjective for a generic word such as "system", and discourage its use in hyphenated phrases.
+  
+
+    [1]
+   
+
+
+  Other parties frequently treat "Unix" as a
+  
+   genericized trademark
+  
+  . Some add a
+  
+   wildcard character
+  
+  to the name to make an abbreviation like "Un*x"
+  
+
+    [2]
+   
+
+  or "*nix", since Unix-like systems often have Unix-like names such as
+  
+   AIX
+  
+  ,
+  
+   A/UX
+  
+  ,
+  
+   HP-UX
+  
+  ,
+  
+   IRIX
+  
+  ,
+  
+   Linux
+  
+  ,
+  
+   Minix
+  
+  ,
+  
+   Ultrix
+  
+  ,
+  
+   Xenix
+  
+  ,
+  
+   Xinu
+  
+  , and
+  
+   XNU
+  
+  . These patterns do not literally match many system names, but are still generally recognized to refer to any UNIX descendant or work-alike system, even those with completely dissimilar names such as
+  
+   Darwin
+  
+  /
+  
+   macOS
+  
+  ,
+  
+   illumos
+  
+  /
+  
+   Solaris
+  
+  or
+  
+   FreeBSD
+  
+  .
+ 
+  In 2007, Wayne R. Gray sued to dispute the status of UNIX as a trademark, but lost his case, and lost again on appeal, with the court upholding the trademark and its ownership.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+  "Unix-like" systems started to appear in the late 1970s and early 1980s. Many
+  
+   proprietary
+  
+  versions, such as
+  
+   Idris
+  
+  (1978),
+  
+   UNOS
+  
+  (1982),
+  
+   Coherent
+  
+  (1983), and
+  
+   UniFlex
+  
+  (1985), aimed to provide businesses with the functionality available to academic users of UNIX.
+ 
+  When
+  
+   AT&T
+  
+  allowed relatively inexpensive commercial binary sub-licensing of UNIX in 1979, a variety of proprietary systems were developed based on it, including
+  
+   AIX
+  
+  ,
+  
+   HP-UX
+  
+  ,
+  
+   IRIX
+  
+  ,
+  
+   SunOS
+  
+  ,
+  
+   Tru64
+  
+  ,
+  
+   Ultrix
+  
+  , and
+  
+   Xenix
+  
+  . These largely displaced the proprietary clones. Growing incompatibility among these systems led to the creation of interoperability standards, including
+  
+   POSIX
+  
+  and the
+  
+   Single UNIX Specification
+  
+  .
+ 
+  Various free, low-cost, and unrestricted substitutes for UNIX emerged in the 1980s and 1990s, including
+  
+   4.4BSD
+  
+  ,
+  
+   Linux
+  
+  , and
+  
+   Minix
+  
+  . Some of these have in turn been the basis for commercial "Unix-like" systems, such as
+  
+   BSD/OS
+  
+  and
+  
+
+    OS X
+   
+
+  . Notably,
+  
+
+    Mac OS X Leopard
+   
+
+  (10.5),
+  
+
+    [5]
+   
+
+
+
+    Mac OS X Snow Leopard
+   
+
+  (10.6),
+  
+
+    [6]
+   
+
+
+
+    OS X Mountain Lion
+   
+
+  (10.8),
+  
+
+    [7]
+   
+
+
+
+    OS X Mavericks
+   
+
+  (10.9),
+  
+
+    [8]
+   
+
+
+
+    OS X Yosemite
+   
+
+  (10.10),
+  
+
+    [9]
+   
+
+
+
+    OS X El Capitan
+   
+
+  (10.11),
+  
+
+    [10]
+   
+
+  and
+  
+
+    macOS Sierra
+   
+
+  (10.12),
+  
+
+    [11]
+   
+
+  running on Intel Macs are certified under the
+  
+   Single UNIX Specification
+  
+  .
+ 
+  The various BSD variants are notable in that they are in fact descendants of UNIX, developed by the University of California at Berkeley with UNIX source code from Bell Labs. However, the BSD code base has evolved since then, replacing all of the AT&T code. Since the
+  
+   BSD
+  
+  variants are not certified as compliant with the
+  
+   Single UNIX Specification
+  
+  (except for
+  
+   Mac OS X
+  
+  10.5 Leopard and later), they are referred to as "UNIX-like".
+ 
+
+   Dennis Ritchie
+  
+  , one of the original creators of Unix, expressed his opinion that Unix-like systems such as
+  
+   Linux
+  
+  are
+  
+
+    de facto
+   
+
+  Unix systems.
+  
+
+    [12]
+   
+
+
+   Eric S. Raymond
+  
+  and Rob Landley have suggested that there are three kinds of Unix-like systems:
+  
+
+    [13]
+   
+
+
+  Some non-Unix-like operating systems provide a Unix-like
+  
+   compatibility layer
+  
+  , with variable degrees of Unix-like functionality.
+ 

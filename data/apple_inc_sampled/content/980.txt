@@ -1,0 +1,355 @@
+
+
+
+   Mail
+  
+  (also known as
+  
+   Apple Mail
+  
+  or
+  
+   Mail.app
+  
+  ) is an
+  
+   email client
+  
+  included with the
+  
+   operating systems
+  
+
+   macOS
+  
+  ,
+  
+   iOS
+  
+  and
+  
+   watchOS
+  
+  by
+  
+   Apple Inc.
+  
+  Originally developed by
+  
+   NeXT
+  
+  as
+  
+   NeXTMail
+  
+  , a part of their
+  
+   NeXTSTEP
+  
+  operating system, it eventually became Mail after apple's acquisition of NeXT.
+ 
+  The current version of Mail utilizes
+  
+   SMTP
+  
+  for message sending,
+  
+   POP3
+  
+  ,
+  
+   Exchange
+  
+  and
+  
+   IMAP
+  
+  for message retrieval and
+  
+   S/MIME
+  
+  for end-to-end message encryption.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  It is also preconfigured to work with popular
+  
+   email providers
+  
+  , such as
+  
+   Yahoo! Mail
+  
+  ,
+  
+   AOL Mail
+  
+  ,
+  
+   Gmail
+  
+  ,
+  
+   Outlook
+  
+  and
+  
+   iCloud
+  
+  (formerly
+  
+   MobileMe
+  
+  ) and it supports
+  
+   Exchange
+  
+  .
+  
+
+    [4]
+   
+
+
+   iOS
+  
+  features a mobile version of Mail with added
+  
+   Exchange ActiveSync
+  
+  support, though it notoriously missed the functionality of attaching files to reply emails until the release of
+  
+   iOS 9
+  
+  .
+  
+
+    [5]
+   
+
+  The iOS version of Mail is the most popular email client in the world by market share.
+  
+
+    [6]
+   
+
+
+   [
+   
+
+
+      unreliable source?
+     
+
+
+   ]
+  
+
+
+
+  Mail first shipped as NeXTMail, the email application for the NeXTSTEP operating system. NeXTMail was innovative for its time,
+  
+   [
+   
+
+
+      according to whom?
+     
+
+
+   ]
+  
+  supporting rich text formatting with images and voice messaging. It also supported
+  
+   MIME
+  
+  emails, along with plain text to allow for backwards compatibility. The default message found in the inbox when the user first opened NeXTMail included a voice recording of
+  
+   Steve Jobs
+  
+  .
+ 
+  When Apple began to adapt NeXTSTEP to become
+  
+   Mac OS X
+  
+  , both the operating system and the application went through various stages as it was developed. In a beta version (codenamed "
+  
+   Rhapsody
+  
+  ") and various other early pre-releases of Mac OS X, Mail was known as MailViewer. However, with the third developer release of Mac OS X, the application had returned to being known simply as Mail.
+ 
+  Included in all versions of macOS up to and including
+  
+   Mac OS X Panther
+  
+  , Mail was integrated with other Apple applications such as
+  
+   Address Book
+  
+  ,
+  
+   iChat
+  
+  , and
+  
+   iCal
+  
+  . Some of its features that remain in the most recent version of Mail include rules for mailboxes,
+  
+   junk mail
+  
+
+   filtering
+  
+  and multiple account management.
+ 
+  In
+  
+   Mac OS X Tiger
+  
+  , Mail was updated to version 2. It included a proprietary single-message-per-file format (with the
+  
+   filename extension
+  
+
+   .emlx
+  
+  ) in order to permit indexing by
+  
+   Spotlight
+  
+  .
+ 
+  Additional features were:
+ 
+  The new version also changed the UI for the buttons in the toolbar. Whereas previous buttons had free-standing defined shapes, the new buttons featured shapes within a
+  
+   lozenge
+  
+  -shaped capsule.
+  
+
+    [7]
+   
+
+  According to many users, and even Apple's own
+  
+   human interface guidelines
+  
+  at the time, this was worse for usability.
+  
+
+    [8]
+   
+
+  An open-source third-party application that reverted the icons to their former shapes was available. Nevertheless, Apple updated their guidelines to include capsule-shaped buttons, and the new UI persisted.
+  
+
+    [9]
+   
+
+
+  In
+  
+   Mac OS X Leopard
+  
+  , Mail included personalized stationery, handled in standard HTML format. In addition, version 3 offered notes and to-dos (which could be synced with
+  
+   iCal
+  
+  ) as well as a built-in
+  
+   RSS
+  
+  reader. Version 3 also introduced
+  
+   IMAP IDLE
+  
+  support for account inboxes.
+ 
+
+   Mac OS X Snow Leopard
+  
+  brought
+  
+   Microsoft Exchange Server 2007
+  
+  support. The
+  
+   iCal
+  
+  and
+  
+   Address Book
+  
+  applications bundled with OS X 10.6 also supported Microsoft Exchange Server.
+ 
+  In
+  
+   Mac OS X Lion
+  
+  , Mail featured a redesigned
+  
+   iPad
+  
+  -like user interface with full-screen capabilities, an updated message search interface, support for
+  
+   Microsoft Exchange Server 2010
+  
+  and
+  
+   Yahoo! Mail
+  
+  (via IMAP). Also added was the capability to group messages by subject in a similar fashion to Mail on
+  
+   iOS 4
+  
+  . The bounce function, where unwanted emails could be
+  
+   bounced back
+  
+  to the sender, was dropped in this version, as was support for Exchange push email.
+ 
+  In
+  
+   OS X Mountain Lion
+  
+  , Mail received VIP tagging,
+  
+   Safari
+  
+  -style inline search for words within an email message, the ability to sync with
+  
+   iCloud
+  
+  and new sharing features. Notes were split off into a stand-alone application in this version, called
+  
+   Notes
+  
+  . The RSS reader and to-dos were discontinued.
+ 
+
+   OS X Mavericks
+  
+  threw out the capability of displaying the plain-text version of MIME multipart/alternative messages, and the option of doing so by default. Users were stuck viewing the HTML or rich-text version of multipart/alternative messages.
+ 
+  In
+  
+   OS X Yosemite
+  
+  , Mail supported new features such as: Markup (inline annotation of PDF or image files) and Mail Drop (automatically uploads attachments to iCloud, and sends a link in the message instead of the whole file).
+ 
+  In
+  
+   OS X El Capitan
+  
+  , a filter was added to the message list to filter by various options such as Unread, Flagged, or messages with attachments. The conversation display was also redesigned and various disk space saving optimizations were implemented. Streaming notification support for Exchange accounts was also added.
+ 

@@ -1,0 +1,911 @@
+
+
+
+   FairPlay
+  
+  is a
+  
+   digital rights management
+  
+  (DRM) technology created by
+  
+   Apple Inc.
+  
+  , based on technology created by the company
+  
+   Veridisc
+  
+  . FairPlay is built into the
+  
+   QuickTime
+  
+  multimedia software and used by the
+  
+   iPhone
+  
+  ,
+  
+   iPod
+  
+  ,
+  
+   iPad
+  
+  ,
+  
+   Apple TV
+  
+  ,
+  
+   iTunes
+  
+  ,
+  
+   iTunes Store
+  
+  and the
+  
+   App Store
+  
+  . Formerly, all
+  
+   songs
+  
+  in the iTunes Store were encoded with FairPlay. Apple later started offering a selection of songs, that after an additional 30
+  
+   cents
+  
+  per song is charged, could be downloaded FairPlay-free.
+  
+
+    [1]
+   
+
+  Apple no longer sells individual songs or
+  
+   albums
+  
+  with FairPlay
+  
+   encryption
+  
+  from the iTunes store.
+  
+
+    [2]
+   
+
+  However,
+  
+   apps
+  
+  downloaded from the iTunes store and
+  
+   Apple Music
+  
+  subscription songs saved for
+  
+   offline
+  
+  listening are still encrypted with FairPlay.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  FairPlay digitally encrypts
+  
+   AAC
+  
+
+   audio files
+  
+  and prevents
+  
+   users
+  
+  from playing these files on unauthorized
+  
+   computers
+  
+  .
+ 
+  The majority of FairPlay-encrypted content is purchased through the iTunes Store, using the iTunes software. The iTunes software relies on Apple's QuickTime multimedia software for
+  
+   decoding
+  
+  and playback of the encrypted files. Every
+  
+   media player
+  
+  capable of using QuickTime is capable of playing back FairPlay-encrypted files, including
+  
+   RealPlayer
+  
+  ,
+  
+   JRiver Media Center
+  
+  ,
+  
+   Media Player Classic
+  
+  and
+  
+   Songbird
+  
+  .
+  
+
+    [5]
+   
+
+
+
+
+  FairPlay-protected files are regular
+  
+   MP4
+  
+
+   container files
+  
+  with an encrypted
+  
+   AAC
+  
+
+   audio stream
+  
+  . The audio stream is encrypted using the
+  
+   AES
+  
+
+   algorithm
+  
+  in combination with
+  
+   MD5
+  
+
+   hashes
+  
+  . The master key required to decrypt the encrypted audio stream is also stored in encrypted form in the MP4 container file. The key required to decrypt the master key is called the "user key".
+  
+
+    [6]
+   
+
+
+  Each time a new customer uses iTunes to buy a track, a new random user key is generated and used to encrypt the master key. The random user key is stored, together with the account information, on Apple’s
+  
+   servers
+  
+  , and also sent to iTunes. iTunes stores these keys in its own encrypted key repository. Using this key repository, iTunes is able to retrieve the user key required to decrypt the master key. Using the master key, iTunes is able to decrypt the AAC audio stream and play it.
+ 
+  When a user authorizes a new computer, iTunes sends a unique machine
+  
+   identifier
+  
+  to Apple’s servers. In return, it receives all the user keys that are stored with the account information. This ensures that Apple is able to limit the number of computers that are authorized and makes sure that each authorized computer has all the user keys that are needed to play the tracks they bought.
+ 
+  When a user deauthorizes a computer, iTunes will instruct Apple’s servers to remove the unique machine identifier from their
+  
+   database
+  
+  , and at the same time it will remove all the user keys from the deauthorized computer's encrypted key repository.
+ 
+  The iPod also has its own encrypted key repository. Every time a FairPlay-protected track is copied onto the iPod, iTunes will copy the user key from its own key repository to the key repository on the iPod. This makes sure that the iPod has everything it needs to play the encrypted AAC audio stream.
+ 
+  FairPlay does not affect the ability of the file itself to be copied. It only manages the decryption of the audio content.
+ 
+  FairPlay-encrypted audio tracks allow the following:
+ 
+  At this time, it appears that the restrictions mentioned above are
+  
+   hard-coded
+  
+  into QuickTime and the iTunes application, and not configurable in the protected files themselves.
+ 
+  FairPlay prevents iTunes
+  
+   customers
+  
+  from using the purchased music directly on any
+  
+   portable digital music player
+  
+  other than the
+  
+   Apple iPod
+  
+  ,
+  
+   Motorola ROKR E1
+  
+  ,
+  
+   Motorola SLVR
+  
+  ,
+  
+   Motorola RAZR V3i
+  
+  , the
+  
+   iPhone
+  
+  and the
+  
+   iPad
+  
+  .
+ 
+  On January 3, 2005, an iTunes
+  
+   online music store
+  
+  customer, Thomas Slattery, filed a
+  
+   lawsuit
+  
+  against
+  
+   Apple Inc.
+  
+  , alleging the company broke
+  
+   antitrust laws
+  
+  by using FairPlay with iTunes, so that purchased music will work only with its own music player, the iPod, freezing out competitors.
+  
+
+    [9]
+   
+
+  Though most of the complaints were dropped, the case was combined with two other lawsuits and continued under the temporary name "The Apple iPod iTunes Antitrust Litigation".
+  
+
+    [10]
+   
+
+  In December 2014 an eight-member jury unanimously found in Apple's favour.
+  
+
+    [11]
+   
+
+
+  On June 28, 2004,
+  
+   VirginMega
+  
+  filed a complaint with the
+  
+   French Competition Council
+  
+  against Apple, regarding its refusal to license FairPlay to VirginMega for use in their own
+  
+   online music commerce store
+  
+  . The Council (
+  
+   Conseil
+  
+  ) rejected the complaint over accused anti-competitive behavior.
+  
+
+    [12]
+   
+
+  The Conseil ruled against the notion that FairPlay was an "
+  
+   essential facility
+  
+  " for three distinct reasons:
+ 
+  After the launch of the iTunes Store, multiple people attempted to circumvent the encryption of FairPlay-protected files.
+ 
+
+   Jon Johansen
+  
+  – also known for his
+  
+   DeCSS
+  
+  program – was the first to devise a way to circumvent the DRM. The
+  
+   open source
+  
+  application
+  
+   QTFairUse
+  
+  intercepted the decrypted output and wrote it to a raw AAC file. Many media players do not support such raw files and the files had to be processed with a tool like
+  
+   FAAD
+  
+  to create normal files. One of the few media players that is able to play raw AAC files is
+  
+   foobar2000
+  
+  .
+ 
+  The second time around, Johansen
+  
+   reverse engineered
+  
+  the encryption technique used in FairPlay and created an algorithm to completely remove the encryption without re-encoding the encrypted AAC stream. This method was also used by
+  
+   VLC media player
+  
+  in order to play FairPlay-protected tracks, until a newer version of iTunes and FairPlay broke it.
+ 
+  Only a few days after the release of iTunes 7.0 the experimental version 2.3 of QTFairUse6, a derivative of the python open source
+  
+   QTFairUse
+  
+  , was released which dumps each track to a raw AAC file which then can be converted to any format.
+ 
+  Jon Johansen himself also released a tool to remove the encryption, called DeDRMS. Later he released FairKeys, which uses Apple’s own servers to retrieve the keys needed by DeDRMS.
+ 
+  All these applications have two things in common. First, they employ the user keys from either the Apple servers, the iTunes key repository, or the iPod key repository, which ensures they can decrypt only files that are legally bought; a user cannot use these applications to decrypt files that another user bought. Second, they keep user specific metadata inside the MP4 container intact, so it is possible to identify the user who originally bought the file after it is decrypted.
+ 
+  In March 2005, it was revealed through a front end of the iTunes Store called
+  
+   PyMusique
+  
+  that the FairPlay DRM was added only as a song was being purchased from the store by the client software itself.
+ 
+  In October 2006,
+  
+   Jon Johansen
+  
+  announced that instead of breaking FairPlay, he had reverse-engineered it so that other companies could play their DRM-protected music and movies on iPods and Apple's new
+  
+   Apple TV
+  
+  . His company,
+  
+   doubleTwist
+  
+  , would license the technology to media companies who wished to have their media playable on the iPod or Apple TV, with the protection of FairPlay DRM, but without having to go through Apple.
+  
+
+    [14]
+   
+
+
+  A software package named
+  
+   PlayFair
+  
+  – created by an anonymous author – also appeared. It can remove the encryption from files using the FairPlay DRM mechanism. The author of Playfair used the
+  
+   source code
+  
+  written by Jon Johansen for VLC. Apple's legal department forced PlayFair to be first removed from
+  
+   SourceForge.net
+  
+  , and then, when the Indian
+  
+   open source
+  
+
+   website
+  
+  Sarovar.org hosted the project, they too were sent a
+  
+   cease and desist
+  
+  by Apple's
+  
+   lawyers
+  
+  . However, Playfair's successor
+  
+   Hymn
+  
+  (a
+  
+   backronym
+  
+  for "
+  
+   H
+  
+  ear
+  
+   Y
+  
+  our
+  
+   M
+  
+  usic a
+  
+   N
+  
+  ywhere") has become JHymn, a
+  
+   Java
+  
+  variant of the program, and iOpener, a
+  
+   Windows
+  
+  variant.
+ 
+  Apple Computer introduced iTunes 6.0 in October 2005, which included changes intended to stop programs like JHymn from decrypting FairPlay encrypted files. Furthermore, once iTunes 6 has been used to purchase songs or authorize a computer with a particular iTMS (iTunes Music Store) account, that account will be blocked from making purchases or activations on earlier iTunes versions, thus JHymn can no longer be used.
+  
+
+    [15]
+   
+
+
+  Apple Computer introduced iTunes 7.0 in September 2006, which once again included changes intended to stop programs similar to JHymn.
+ 
+  In July 2004,
+  
+   RealNetworks
+  
+  introduced their Harmony technology. The Harmony technology is built into
+  
+   RealPlayer
+  
+  and allows users of the
+  
+   RealPlayer Music Store
+  
+  to play their songs on the
+  
+   iPod
+  
+  . Before the introduction of Harmony this was not possible, because the RealPlayer Music Store uses a different DRM scheme, called
+  
+   Helix DRM
+  
+  , that was incompatible with that used by Apple. While using RealPlayer to transfer a Helix DRM-restricted song onto the iPod, Harmony transparently converts it to a FairPlay-compatible protected file. Real argued that Harmony was a boon to consumers that "frees" them "from the limitation of being locked into a specific portable device when they buy digital music."
+  
+
+    [16]
+   
+
+  Apple responded:
+ 
+  RealNetworks launched an
+  
+   internet petition
+  
+  titled "Hey Apple! Don't break my iPod", encouraging iPod users to sign up to support Real's action. The petition backfired badly.
+  
+
+    [17]
+   
+
+  The overwhelming majority of posters reacted negatively. The main points of criticism against Harmony were:
+ 
+  Apple did disable Harmony around the time of the
+  
+   iPod photo
+  
+  launch, and to older versions shortly after in firmware updates. The change makes it so that all music (past and present) purchased through the
+  
+   RealPlayer Music Store
+  
+  will not work on Apple's
+  
+   iPod
+  
+  . In response, Real said they would get it working again.
+ 
+  In August 2005, an
+  
+   SEC filing
+  
+  by RealNetworks disclosed that continued use of the Harmony technology put themselves at considerable risk because of the possibility of a
+  
+   lawsuit
+  
+  from Apple, which would be expensive to defend against, even if the court agreed that the technology is legal. Additionally, the possibility that "Apple will continue to modify its technology to 'break' the interoperability that Harmony provides to consumers" would mean that "Harmony may no longer work with Apple's products, which could harm our business and reputation, or we may be forced to incur additional development costs to refine Harmony to make it interoperate again."
+  
+
+    [18]
+   
+
+
+  Harmony never resurfaced as an option by RealNetworks.
+ 
+  Requiem was originally released by "Brahms" as version 1.0 in February 2008, and version 1.8.17 was released in early 2010. Requiem allows a person to decrypt music, movies, and e-books that they are authorized to play in iTunes by reverse-engineering Apple's FairPlay algorithm. Requiem does not remove identification tags from songs. However, there are other methods to remove them.
+  
+
+    [19]
+   
+
+
+  Requiem works by decrypting the iTunes configuration files that are in "/Users/Shared/SC Info". In Mac OS X, the key to decrypt these config files is an obfuscated version of the
+  
+   MAC address
+  
+  of one's computer. In Windows, an amalgamation of hard drive volume information and registry keys are used instead of the MAC address. The initialization variable for this decryption is a
+  
+   hard coded
+  
+  constant. The program then decrypts the keys in the config files as well as the private atoms in the audio/video files and creates unencrypted versions.
+  
+
+    [20]
+   
+
+  An updated
+  
+   iTunes 7.6.2
+  
+  disabled Requiem, however, versions 1.4 and 1.5 again circumvented the protection. Apple again disabled Requiem with
+  
+   iTunes 8
+  
+  , but the author released version 1.8.2 which circumvents iTunes 8 DRM on Mac OS and Microsoft Windows systems. Apple responded by releasing iTunes 8.0.2, which again disabled Requiem.
+ 
+  Apple has taken steps to remove references to Requiem from the JHymn forums. A JHymn forums explained Apple's
+  
+   cease and desist
+  
+  order against the forum regarding posting information on circumvention technologies like Requiem. Since the C&D order, the author of Requiem initially made it available with source code on the anonymous
+  
+   Freenet
+  
+  network, but then moved it to a
+  
+   Tor
+  
+
+   hidden service
+  
+  . From there it has been copied onto popular
+  
+   BitTorrent
+  
+  public trackers, such as
+  
+   The Pirate Bay
+  
+  .
+ 
+  On March 16, 2009, the day that iTunes 8.1 was released,
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Requiem was updated several times, ending up with version 1.8.8. Requiem 1.8.8 decrypts files with iTunes 8.1.0.51, but, as before, Apple responded by releasing iTunes 8.1.0.52, which appears to again disable Requiem. As of May 5, 2009, Requiem 1.8.10 decrypts files with iTunes 8.1.1. On January 5, 2010, Requiem 1.8.16 was released for iTunes 9.0.2.
+  
+
+    [21]
+   
+
+  On January 21, 2010, Requiem 1.8.17 was released for iTunes 9.0.2 as a bug-fix to process files with a size greater than 4GB.
+  
+
+    [22]
+   
+
+  Versions 2.X, updated for iTunes 10, required use of an iPod, iPhone, or iPad to decrypt music. Apple plans to have iTunes update the DRM coding on videos bought from the iTunes Store automatically by checking the files to see if the coding is up to date. Requiem 3.1 was released for Mac only, and does away with the need for an iOS device. It has been updated to version 3.3 (Mac & Windows) to support iTunes 10.5.3, and now also removes the DRM on Apple's ePub format ebooks. Since then it has been updated to version 4.0 to support removing DRM from 1080p iTunes TV shows. 4.0.1 was issued shortly after as a bug fix. Its final update, 4.1, was issued to remove easy bugs. Brahms stated the following: "Requiem 4.1 will be my last official release, barring any obvious bugs that are easy to fix."
+ 
+  There are methods to bypass the DRM control:
+ 
+
+
+
+  On February 6, 2007,
+  
+   Steve Jobs
+  
+  , then-
+  
+   CEO
+  
+  of Apple Inc., published an
+  
+   open letter
+  
+  entitled
+  
+   Thoughts on Music
+  
+  on the Apple website, calling on the "big four"
+  
+   music companies
+  
+  to sell their music without DRM.
+  
+
+    [23]
+   
+
+  According to Jobs, Apple does not want to use DRM, but is forced by the four major musical labels, with whom Apple
+  
+   negotiates
+  
+
+   contracts
+  
+  for iTunes. Jobs's main points were:
+ 
+  Jobs' letter was met with some
+  
+   praise
+  
+  , but many others
+  
+   criticized
+  
+  Apple's
+  
+   hypocritical
+  
+  approach to DRM. While openly criticizing DRM, Apple has been actively threatening or
+  
+   suing
+  
+  anybody trying to open their own DRM or make it
+  
+   interoperable
+  
+  . Critics claim that this is not because Apple is afraid of illegal copies, but because it gives them an advantage in their market position as a leader in both electronic music sales (iTunes) and in music players (iPod), reinforcing each other due to the FairPlay DRM.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+
+  The essay caused ripples across the industries with a stake in the success or failure of DRM. Responses include those from
+  
+   Jon Lech Johansen
+  
+  on February 6,
+  
+   MP3.com
+  
+  founder
+  
+   Michael Robertson
+  
+  and the
+  
+   Free Software Foundation
+  
+  on February 8,
+  
+
+    [28]
+   
+
+
+   Warner Music
+  
+  boss
+  
+   Edgar Bronfman
+  
+  and the open DRM
+  
+   Coral Consortium
+  
+  on February 9, head of
+  
+   Yahoo Music
+  
+
+   Dave Goldberg
+  
+  on February 11, and
+  
+   Fred Amoroso
+  
+  of Macrovision on February 16.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The famous decoder of the
+  
+   Content Scramble System
+  
+  ,
+  
+   Jon Lech Johansen
+  
+  , criticized Jobs' statistical evidence that users are not locked into using the
+  
+   iPod
+  
+  by using the
+  
+   iTunes Store
+  
+  to download music with
+  
+   Apple Computer
+  
+  's FairPlay (DRM).
+  
+
+    [29]
+   
+
+
+  In a
+  
+   conference call
+  
+  on the earnings of
+  
+   Warner Music Group Corp.
+  
+  , CEO
+  
+   Edgar Bronfman
+  
+  argued in favour of DRM, claiming that DRM and interoperability are not mutually exclusive.
+  
+
+    [30]
+   
+
+
+  A multi-industry group working on creating interoperability between DRM formats, the
+  
+   Coral Consortium
+  
+  , responded with an invitation to incorporate their technical specifications for interoperability into the iTunes framework.
+  
+
+    [31]
+   
+
+
+  In the Silicon Valley Watcher, Tom Foremski interviewed
+  
+   Yahoo Music
+  
+  head
+  
+   Dave Goldberg
+  
+  , who advocated removing DRM from music altogether.
+  
+
+    [32]
+   
+
+
+  CEO and President of
+  
+   Macrovision Corporation
+  
+
+   Fred Amoroso
+  
+  posted his own open letter in response to Steve Jobs's. In his reply, Amoroso argued that DRM increases both consumer value and electronic distribution by giving users choices (e.g.
+  
+   rent
+  
+  vs.
+  
+   buy
+  
+  ). He also argues in favor of interoperable and "open" DRM.
+  
+
+    [33]
+   
+
+
+  On April 2, 2007, Steve Jobs and
+  
+   EMI
+  
+  announced DRM-free music for EMI's complete music library for a 30
+  
+   ¢
+  
+  premium above the standard fee.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  This began in May 2007. Soon after,
+  
+   Amazon.com
+  
+  began selling unrestricted music files for 99¢ and Apple dropped the price of its DRM-free music back to 99¢.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  On January 6, 2009 Apple announced at the 2009
+  
+   Macworld Conference & Expo
+  
+  that they had reached an agreement with major record labels to sell all music on the iTunes Store free of DRM restrictions. Eight million tracks were available with FairPlay restrictions removed from that day,
+  
+
+    [34]
+   
+
+  with the remainder of the music store to be DRM-free by the end of March 2009. However,
+  
+   movies
+  
+  ,
+  
+   books
+  
+  , apps,
+  
+
+    [35]
+   
+
+  and
+  
+   television shows
+  
+  purchased from the iTunes Store still contain FairPlay restrictions.
+  
+
+    [36]
+   
+

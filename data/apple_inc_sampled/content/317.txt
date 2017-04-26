@@ -1,0 +1,856 @@
+
+
+
+   Firefox OS
+  
+
+
+    [4]
+   
+
+  (project name:
+  
+   Boot to Gecko
+  
+  , also known as
+  
+   B2G
+  
+  )
+  
+
+    [5]
+   
+
+  is a discontinued
+  
+   open-source
+  
+
+   operating system
+  
+  –  made for
+  
+   smartphones
+  
+  ,
+  
+
+    [6]
+   
+
+
+   tablet computers
+  
+
+
+    [7]
+   
+
+  and
+  
+   smart TVs
+  
+
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  –  designed by
+  
+   Mozilla
+  
+  and external contributors. It is based on the rendering engine of the
+  
+   Firefox
+  
+  web browser,
+  
+   Gecko
+  
+  , and on the
+  
+   Linux kernel
+  
+  . It was first commercially released in 2013.
+ 
+  Firefox OS was designed to provide a complete,
+  
+
+    [10]
+   
+
+  community-based alternative operating system, for running
+  
+   web applications
+  
+  directly or those installed from an application marketplace. The applications use
+  
+   open standards
+  
+  and approaches such as
+  
+   JavaScript
+  
+  and
+  
+   HTML5
+  
+  , a robust
+  
+   privilege model
+  
+  ,
+  
+   open web
+  
+
+   APIs
+  
+  that can communicate directly with hardware, e.g. cellphone hardware.
+  
+
+    [5]
+   
+
+  As such, Mozilla with Firefox OS competed with commercially developed operating systems such as
+  
+   Apple
+  
+  's
+  
+   iOS
+  
+  ,
+  
+   Google
+  
+  's
+  
+   Android
+  
+  ,
+  
+   Microsoft
+  
+  's
+  
+   Windows Phone
+  
+  ,
+  
+
+    [10]
+   
+
+
+   BlackBerry
+  
+  's
+  
+   BlackBerry 10
+  
+  and
+  
+   Jolla
+  
+  's
+  
+   Sailfish OS
+  
+  . In December 2015 Mozilla announced it would stop development of new Firefox OS smartphones,
+  
+
+    [11]
+   
+
+  and in September 2016 announced the end of development.
+  
+
+    [12]
+   
+
+
+
+
+  Firefox OS was publicly demonstrated in February 2012, on Android-compatible smartphones.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+  By December 16, 2014, Firefox OS phones were offered from 14 operators in 28 countries throughout the world.
+  
+
+    [15]
+   
+
+
+  On December 8, 2015, Mozilla announced that it would stop sales of Firefox OS smartphones through carriers.
+  
+
+    [16]
+   
+
+  Mozilla later announced that Firefox OS smartphones would be discontinued by May 2016, as the development of "Firefox OS for smartphones"
+  
+
+    [17]
+   
+
+  would cease after the release of version 2.6. Around the same time, it was reported that
+  
+   Acadine Technologies
+  
+  , a startup founded by
+  
+   Li Gong
+  
+  (former president of
+  
+   Mozilla Corporation
+  
+  ) with various other former Mozilla staff among its employees, would take over the mission of developing carrier partnerships, for its own Firefox OS derivative H5OS.
+  
+
+    [18]
+   
+
+
+  In January 2016, Mozilla announced that Firefox OS would power Panasonic's
+  
+   UHD
+  
+  TVs (as previously announced Firefox OS "would pivot to connected devices").
+  
+
+    [19]
+   
+
+  In September 2016, Mozilla announced that work on Firefox OS has ceased, and all B2G-related code is going to be removed from mozilla-central.
+  
+
+    [20]
+   
+
+
+  On July 25, 2011,
+  
+   Andreas Gal
+  
+  , Director of Research at
+  
+   Mozilla Corporation
+  
+  , announced the "Boot to
+  
+   Gecko
+  
+  " Project (B2G) on the mozilla.dev.platform mailing list.
+  
+
+    [10]
+   
+
+  The project proposal was to "pursue the goal of building a complete, standalone operating system for the open web" in order to "find the gaps that keep web developers from being able to build apps that are –  in every way –  the equals of native apps built for the iPhone, Android, and Windows Phone 7."
+  
+
+    [10]
+   
+
+  The announcement identified these work areas: new
+  
+   web APIs
+  
+  to expose device and OS capabilities such as telephone and camera, a
+  
+   privilege model
+  
+  to safely expose these to web pages, applications to prove these capabilities, and low-level code to
+  
+   boot
+  
+  on an Android-compatible device.
+ 
+  This led to much blog coverage.
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+  According to
+  
+   Ars Technica
+  
+  , "Mozilla says that B2G is motivated by a desire to demonstrate that the standards-based
+  
+   open Web
+  
+  has the potential to be a competitive alternative to the existing single-vendor application development stacks offered by the dominant mobile operating systems."
+  
+
+    [23]
+   
+
+
+  In 2012, Andreas Gal expanded on Mozilla's aims. He characterized the current set of mobile OS systems as "
+  
+   walled gardens
+  
+  "
+  
+
+    [24]
+   
+
+  and presented Firefox OS as more accessible: "We use completely open standards and there’s no proprietary software or technology involved."
+  
+
+    [24]
+   
+
+  (That changed in 2014; see
+  
+   Digital rights management (DRM)
+  
+  , below.) Gal also said that because the software stack is entirely HTML5, there are already a large number of established developers.
+  
+
+    [24]
+   
+
+  This assumption is employed in Mozilla's WebAPI.
+  
+
+    [25]
+   
+
+  These are intended
+  
+   W3C
+  
+  standards that attempt to bridge the capability gap that currently exists between native frameworks and web applications.
+  
+
+    [26]
+   
+
+  The goal of these efforts is to enable developers to build applications using WebAPI which would then run in any
+  
+   standards compliant
+  
+  browser without the need to rewrite their application for each platform.
+ 
+  In July 2012, Boot to Gecko was rebranded as 'Firefox OS',
+  
+
+    [27]
+   
+
+  after Mozilla's well-known desktop browser,
+  
+   Firefox
+  
+  , and screenshots began appearing in August 2012.
+  
+
+    [28]
+   
+
+
+  In September 2012, analysts Strategy Analysts forecast that Firefox OS would account for 1% of the global smartphone market in 2013 –  its first year of commercial availability.
+  
+
+    [29]
+   
+
+
+  In February 2013, Mozilla announced plans for global commercial roll-out of Firefox OS.
+  
+
+    [30]
+   
+
+  Mozilla announced at a press conference before the start of
+  
+   Mobile World Congress
+  
+  in Barcelona that the first wave of Firefox OS devices will be available to consumers in Brazil, Colombia, Hungary, Mexico, Montenegro, Poland, Serbia, Spain and Venezuela. Mozilla has also announced that
+  
+   LG Electronics
+  
+  ,
+  
+   ZTE
+  
+  ,
+  
+   Huawei
+  
+  and
+  
+   TCL Corporation
+  
+  have committed to making Firefox OS devices.
+  
+
+    [31]
+   
+
+
+  In December 2013, new features were added with the 1.2 release, including
+  
+   conference calling
+  
+  , silent SMS authentication for mobile billing, improved
+  
+   push notifications
+  
+  , and three state setting for
+  
+   Do Not Track
+  
+  .
+  
+
+    [32]
+   
+
+
+  Async Pan and Zoom (APZ),
+  
+
+    [33]
+   
+
+  included in version 1.3, should improve user interface responsiveness.
+ 
+  Work is currently being done to optimize Firefox OS to run a 128 MB platform with version 1.3T.
+  
+
+    [34]
+   
+
+  A 128 MB device is out
+  
+
+    [35]
+   
+
+  that seems to use that version but it may be unfinished.
+ 
+  In 2015, Mozilla ported Firefox OS (an "experimental version") to
+  
+   MIPS32
+  
+  to work in a sub-$100 tablet (that can also run Android 4.4 KitKat).
+  
+
+    [36]
+   
+
+  Mozilla has also begun the development of Smart Feature Phones
+  
+
+    [37]
+   
+
+
+  In 2014, Gal announced a change in course, writing that future versions of the Firefox browser would include
+  
+   DRM
+  
+  .
+  
+
+    [38]
+   
+
+  Implementation of DRM in the Firefox browser began with version 38.
+  
+
+    [39]
+   
+
+
+  In August 2015, attempts by
+  
+   Matchstick TV
+  
+  (based on Firefox OS) to add DRM caused the demise of
+  
+   Matchstick
+  
+  , a decision that
+  
+   Boing Boing
+  
+  called "suicide-by-DRM."
+  
+
+    [40]
+   
+
+
+  At
+  
+   Mobile World Congress
+  
+  2012, Mozilla and
+  
+   Telefónica
+  
+  announced that the Spanish telecommunications provider intended to deliver "open Web devices" in 2012, based on HTML5 and these APIs.
+  
+
+    [41]
+   
+
+  Mozilla also announced support for the project from
+  
+   Adobe
+  
+  and
+  
+   Qualcomm
+  
+  , and that
+  
+   Deutsche Telekom
+  
+  ’s Innovation Labs will join the project.
+  
+
+    [42]
+   
+
+  Mozilla demonstrated a "sneak preview" of the software and apps running on
+  
+   Samsung Galaxy S II
+  
+  phones (replacing their usual Android operating system).
+  
+
+    [13]
+   
+
+
+
+    [43]
+   
+
+  In August 2012, a
+  
+   Nokia
+  
+  employee demonstrated the OS running on a
+  
+   Raspberry Pi
+  
+  .
+  
+
+    [44]
+   
+
+
+  Firefox OS is compatible with a number of devices, including Otoro,
+  
+   PandaBoard
+  
+  , Emulator (ARM and x86),
+  
+   Desktop
+  
+  ,
+  
+   Nexus S
+  
+  , Nexus S 4G,
+  
+   Samsung Galaxy S II
+  
+  ,
+  
+   Galaxy Nexus
+  
+
+
+    [45]
+   
+
+  and
+  
+   Nexus 4
+  
+  . A
+  
+   MIPS
+  
+  port was created by
+  
+   Imagination Technologies
+  
+  in March 2015.
+  
+
+    [46]
+   
+
+
+  In December 2012, Mozilla rolled out another update and released Firefox OS Simulator 1.0, which can be downloaded as an add-on for Firefox. The latest version of Firefox OS Simulator, version 4.0, was released on July 3, 2013
+  
+
+    [47]
+   
+
+  and announced on July 11, 2013.
+  
+
+    [48]
+   
+
+
+  Mozilla's planned US$25 Firefox smartphone displayed at MWC, is built by
+  
+   Spreadtrum
+  
+  .
+  
+
+    [49]
+   
+
+  Mozilla has collaborated with four handset makers and five wireless carriers to provide five Firefox-powered smartphones in Europe and Latin America so far with cellphone launches being led by UK marketer
+  
+   John D. Bernard
+  
+  . In India, Mozilla planned a launching at $25 in partnership with
+  
+   Intex
+  
+  &
+  
+   Spice
+  
+  ,
+  
+
+    [50]
+   
+
+  but the price ended up being $33 (converted from 1,999
+  
+   Rupees
+  
+  ).
+  
+
+    [51]
+   
+
+
+  The initial development work involves three major software layers:
+  
+
+    [52]
+   
+
+
+  Gonk consists of a
+  
+   Linux kernel
+  
+  and user-space
+  
+   hardware abstraction
+  
+  layer (HAL). The kernel and several user-space libraries are common open-source projects: Linux,
+  
+   libusb
+  
+  ,
+  
+   BlueZ
+  
+  , etc. Some other parts of the HAL are shared with the Android project: GPS, camera, among others. Gonk is basically an extremely simple Linux distribution and is therefore from Gecko's perspective, simply a porting target of Gecko; there is a port of Gecko to Gonk, just like there is a port of Gecko to OS X, and a port of Gecko to Android. However, since the development team have full control over Gonk, the developers can fully expose all the features and interfaces required for comprehensive mobile platforms such as Gecko, but which aren't currently possible to access on other mobile OSes. For example, using Gonk, Gecko can obtain direct access to the full
+  
+   telephony stack
+  
+  and display
+  
+   framebuffer
+  
+  , but doesn't have this access on any other OS.
+  
+
+    [52]
+   
+
+
+
+   Gecko
+  
+  is the
+  
+   web browser engine
+  
+  of Firefox OS. Gecko implements
+  
+   open standards
+  
+  for HTML, CSS, and JavaScript. Gecko includes a networking stack, graphics stack, layout engine, virtual machine (for JavaScript), and porting layers.
+  
+
+    [52]
+   
+
+
+  Gaia is the user interface of Firefox OS and controls everything drawn to screen. Gaia includes by default implementations of a lock screen, home screen, telephone dialer and contacts application, text-messaging application, camera application and a gallery support, plus the classic phone apps: mail, calendar, calculator and marketplace. Gaia is written entirely in HTML, CSS, and JavaScript. It interfaces with the operating system through Open Web APIs, which are implemented by Gecko. Because it uses only standard web APIs, it can work on other OSes and other web-browsers.
+  
+
+    [52]
+   
+
+
+
+   Panasonic
+  
+  will continue to develop the operating system for use in their Smart TVs, which run My Home Screen, powered by the Firefox OS.
+  
+
+    [59]
+   
+
+
+
+   Acadine Technologies
+  
+  has derived their
+  
+   H5OS
+  
+  from Firefox OS as well.
+  
+   Li Gong
+  
+  , the founder of the company, had overseen the development of Firefox OS while serving as president of
+  
+   Mozilla Corporation
+  
+  .
+  
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+
+  Both Firefox OS and Android use the Linux kernel. Firefox OS uses the Gecko engine on top of Linux kernel to render the screen output. Coding is done using HTML, CSS and JavaScript (as in making a webpage). Thus, a Firefox OS app is essentially a website built using these three languages. On the other hand, Android, similar to
+  
+   Microsoft Windows
+  
+  , has a dedicated path for every operation and functionality, i.e. apps are coded in java, using Android Studio. So Android provides a broader set of controls and development options, as compared to what can be achieved using HTML, CSS and JS.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Android also enjoys greater maturity and support. Firefox OS, however, features all the essentials required to use a smartphone.
+  
+
+    [62]
+   
+
+
+
+    [63]
+   
+
+  Firefox launched its first official device in Germany in 2014, which was an Alcatel One Touch Fire. The device had a 3.5” HVGA screen and Cortex A5 processor. 256MB RAM and 512MB storage. As of December 2015, Mozilla has launched 12 smartphones across 24 countries.
+  
+
+    [64]
+   
+
+
+      Firefox OS 2.1: Home screen
+     
+      Firefox OS 2.1: Notification area
+     
+  Chris Ziegler of the technology blog
+  
+
+    The Verge
+   
+
+  wrote that Firefox OS will take app distribution to pre-iPhone era, requiring application developers to deal with multiple carriers and their app stores.
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+  At the
+  
+   Mobile World Congress
+  
+  , Mozilla's CEO
+  
+   Gary Kovacs
+  
+  said that Firefox OS has the advantage that users need not install an app to use it. Mozilla is making the most of this with the search functionality built into Firefox OS, a core feature of the platform.
+  
+
+    [67]
+   
+
+
+  Janne Lindqvist, a mobile security researcher at the
+  
+   Rutgers University WINLAB
+  
+  , expressed concern about the discovery mechanism of a web-based platform, but a Mozilla spokesperson has stated that Mozilla requires developers to "package downloadable apps in a zip file that has been cryptographically signed by the store from which it originated, assuring that it has been reviewed." In addition, "apps coming back from search are given only limited access to device programming interfaces and applications, unless the user grants permission for further access."
+  
+
+    [68]
+   
+
+
+  The structural similarities between Firefox OS and Android allow the Mozilla platform to run on a number of devices that ship with Android. While some ports of Firefox OS are hardly different from their original versions, others are heavily modified to fit the device in question. There are quite a few to note that are specifically made for Firefox OS as stated above. There are some that are designed for the developers themselves and others that are consumer-phones. While to add to it there are also emulators for testing both apps and the OS itself on the desktop which are designed for both OS testing and the developers themselves.
+ 
+  Firefox OS specific devices for developers:
+ 
+  Firefox OS specific devices for consumers:
+ 
+  Firefox OS has been ported to the following devices:
+ 

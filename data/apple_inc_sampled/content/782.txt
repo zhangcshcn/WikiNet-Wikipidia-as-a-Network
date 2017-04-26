@@ -1,0 +1,485 @@
+
+
+  The
+  
+
+    Motorola
+   
+   68000 series
+  
+  (also termed
+  
+   680x0
+  
+  ,
+  
+   m68000
+  
+  ,
+  
+   m68k
+  
+  , or
+  
+   68k
+  
+  ) is a family of
+  
+   32-bit
+  
+
+   complex instruction set computer
+  
+  (CISC)
+  
+   microprocessors
+  
+  . During the 1980s and early 1990s, they were popular in
+  
+   personal computers
+  
+  and
+  
+   workstations
+  
+  and were the primary competitors of
+  
+   Intel
+  
+  's
+  
+   x86
+  
+  microprocessors. They were most well known as the processors powering the early Apple
+  
+   Macintosh
+  
+  , the Commodore
+  
+   Amiga
+  
+  , the
+  
+   Sinclair QL
+  
+  , the
+  
+   Atari ST
+  
+  , the
+  
+   WeatherStar
+  
+  , the
+  
+   Sega Genesis
+  
+  (Mega Drive), and several others. Although no modern desktop computers are based on processors in the 68000 series, derivative processors are still widely used in
+  
+   embedded systems
+  
+  .
+ 
+  Motorola ceased development of the 68000 series architecture in 1994, replacing it with the development of the
+  
+   PowerPC
+  
+  architecture, which they developed in conjunction with
+  
+   IBM
+  
+  and
+  
+   Apple Computer
+  
+  as part of the
+  
+   AIM alliance
+  
+  .
+ 
+
+
+
+   68010
+  
+  :
+ 
+
+   68020
+  
+  :
+ 
+
+   68030
+  
+  :
+ 
+
+   68040
+  
+  :
+ 
+
+   68060
+  
+  :
+ 
+  The 68000 line of processors has been used in a variety of systems, from modern high-end
+  
+   Texas Instruments
+  
+  calculators (the
+  
+   TI-89
+  
+  ,
+  
+   TI-92
+  
+  , and
+  
+   Voyage 200
+  
+  lines) to all of the members of the
+  
+   Palm Pilot
+  
+  series that run Palm OS 1.x to 4.x (OS 5.x is
+  
+   ARM
+  
+  -based), and even
+  
+   radiation hardened
+  
+  versions in the critical control systems of the
+  
+   Space Shuttle
+  
+  . However, they became most well known as the processors powering
+  
+   desktop computers
+  
+  such as the Apple
+  
+   Macintosh
+  
+  , the Commodore
+  
+   Amiga
+  
+  , the
+  
+   Sinclair QL
+  
+  , the
+  
+   Atari ST
+  
+  , and several others. The 68000 was also the processor of choice in the 1980s for
+  
+   Unix
+  
+
+   workstations
+  
+  and
+  
+   servers
+  
+  from firms such as
+  
+   Sun Microsystems
+  
+  ,
+  
+   NeXT
+  
+  and
+  
+   Silicon Graphics
+  
+  (SGI). There was a 68000 version of
+  
+   CP/M
+  
+  called CP/M-68K, which was initially proposed to be the Atari ST operating system, but Atari chose
+  
+   Atari TOS
+  
+  instead.
+ 
+  Also, and perhaps most significantly, the first several versions of Adobe's PostScript interpreters were 68000-based. The 68000 in the Apple
+  
+   LaserWriter
+  
+  and LaserWriter Plus was clocked faster than the version used then in Macintosh computers. A fast 68030 in later PostScript interpreters, including the standard resolution LaserWriter IIntx, IIf and IIg (also 300 dpi), the higher resolution LaserWriter Pro 600 series (usually 600 dpi, but limited to 300 dpi with minimum RAM installed) and the very high resolution
+  
+   Linotronic
+  
+  imagesetters, the 200PS (1500+ dpi) and 300PS (2500+ dpi). Thereafter, Adobe generally preferred a RISC for its processor, as its competitors, with their PostScript clones, had already gone with RISCs, often an AMD 29000-series. The early 68000-based Adobe PostScript interpreters and their hardware were named for
+  
+   cold war
+  
+  U.S. rockets and missiles: Atlas, Redstone, etc.
+ 
+  Today, these systems are either end-of-line (in the case of the Atari), or are using different processors (in the case of Macintosh, Amiga, Sun, and SGI). Since these platforms had their marketshare peak in the 1980s, their original manufacturers are unlikely to support an operating system for this hardware or are even out of business. However, the GNU/
+  
+   Linux
+  
+  ,
+  
+   NetBSD
+  
+  and
+  
+   OpenBSD
+  
+  operating systems still include support for 68000 processors.
+ 
+  The 68000 processors were also used in the
+  
+   Sega Genesis
+  
+  (Mega Drive) and
+  
+   SNK
+  
+
+   Neo Geo
+  
+  consoles as the main CPU. Other consoles such as the
+  
+   Sega Saturn
+  
+  used the 68000 for audio processing and other I/O tasks, while the
+  
+   Atari Jaguar
+  
+  included a 68000 which was intended for basic system control and input processing, but due to the Jaguar's unusual assortment of heterogeneous processors was also frequently used for running game logic. Many arcade boards also used 68000 processors including boards from Capcom, SNK, and Sega.
+ 
+
+   Microcontrollers
+  
+  derived from the 68000 family have been used in a huge variety of applications. For example,
+  
+   CPU32
+  
+  and
+  
+   ColdFire
+  
+  microcontrollers have been manufactured in the millions as automotive engine controllers.
+ 
+  People who are familiar with the
+  
+   PDP-11
+  
+  or
+  
+   VAX
+  
+  usually feel comfortable with the 68000. With the exception of the split of general purpose registers into specialized data and address registers, the 68000 architecture is in many ways a 32-bit PDP-11.
+ 
+  It had a more
+  
+   orthogonal instruction set
+  
+  than those of many processors that came before (e.g., 8080) and after (e.g., x86). That is, it was typically possible to combine operations freely with operands, rather than being restricted to using certain addressing modes with certain instructions. This property made programming relatively easy for humans, and also made it easier to write code generators for compilers.
+ 
+  The 68000
+  
+   instruction set
+  
+  can be divided in the following broad categories:
+ 
+  There was no 68050, though at one point it was a project within Motorola. Odd-numbered releases had always been reactions to issues raised within the prior even numbered part; hence, it was generally expected that the 68050 would have reduced the 68040's power consumption (and thus heat dissipation), improved exception handling in the FPU, used a smaller feature size and optimized the microcode in line with program use of instructions. Many of these optimizations were included with the 68060 and were part of its design goals. For any number of reasons, likely that the 68060 was in development, that the Intel 80486 wasn't progressing as quickly as Motorola assumed it would, and that 68060 was a demanding project, the 68050 was cancelled early in development.
+ 
+  There is also no revision of the
+  
+   68060
+  
+  , as Motorola was in the process of shifting away from the 68000 and
+  
+   88k
+  
+  processor lines into its new
+  
+   PowerPC
+  
+  business, so the 68070 was never developed. Had it been, it would have been a revised 68060, likely with a superior FPU (pipelining was widely speculated upon on Usenet).
+ 
+  Motorola mainly used even numbers for major revisions to the CPU core such as 68000, 68020, 68040 and 68060. The 68010 was a revised version of the 68000 with minor modifications to the core, and likewise the 68030 was a revised 68020 with some more powerful features, none of them significant enough to classify as a major upgrade to the core.
+ 
+  There was a CPU with the
+  
+   68070
+  
+  designation, which was a licensed and somewhat slower version of the 16/32-bit 68000 with a basic DMA controller,
+  
+   I²C
+  
+  host and an on-chip serial port. This 68070 was used as the main CPU in the
+  
+   Philips
+  
+
+   CD-i
+  
+  . This CPU was, however, produced by
+  
+   Philips
+  
+  and not officially part of Motorola's 680x0 lineup.
+ 
+  The 4th generation
+  
+   68060
+  
+  shared most of the features of the Intel
+  
+   P5 microarchitecture
+  
+  .
+ 
+  The Personal Computers XT/370 and AT/370
+  
+   PC-based IBM-compatible mainframes
+  
+  each included two modified Motorola 68000 processors with custom
+  
+   microcode
+  
+  to emulate
+  
+   S/370
+  
+  mainframe instructions.
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+  After the mainline 68000 processors' demise, the 68000 family has been used to some extent in
+  
+   microcontroller
+  
+  and embedded microprocessor versions. These chips include the ones listed under "other" above, i.e. the CPU32 (aka
+  
+   68330
+  
+  ), the
+  
+   ColdFire
+  
+  , the
+  
+   QUICC
+  
+  and the
+  
+   DragonBall
+  
+  .
+ 
+  During the 1980s and early 1990s, when the 68000 was widely used in desktop computers, it mainly competed against
+  
+   Intel
+  
+  's
+  
+   x86
+  
+  architecture used in
+  
+   IBM PC compatibles
+  
+  . Generation 1 68000 CPUs primarily competed against the
+  
+   16-bit
+  
+
+   8086
+  
+  ,
+  
+   8088
+  
+  , and
+  
+   80286
+  
+  . Generation 2 competed against the
+  
+   80386
+  
+  (the first 32-bit x86 processor), and generation 3 against the
+  
+   80486
+  
+  . The fourth generation competed with the
+  
+   P5
+  
+
+   Pentium
+  
+  line, but it was not nearly as widely used as its predecessors, since much of the old 68000 marketplace was either defunct or nearly so (as was the case with Atari and NeXT), or converting to newer architectures (
+  
+   PowerPC
+  
+  for the
+  
+   Macintosh
+  
+  and
+  
+   Amiga
+  
+  ,
+  
+   SPARC
+  
+  for
+  
+   Sun
+  
+  , and
+  
+   MIPS
+  
+  for
+  
+   Silicon Graphics
+  
+  (SGI)).
+ 
+  There are dozens of processor architectures that are currently successful in
+  
+   embedded systems
+  
+  . Some are microcontrollers which are much simpler, smaller, and cheaper than the 68000, while others are relatively sophisticated and capable of running complex software. Embedded versions of the 68000 often compete with processors derived from the
+  
+   PowerPC
+  
+  ,
+  
+   ARM
+  
+  ,
+  
+   MIPS
+  
+  , and
+  
+   SuperH
+  
+  architectures, among others.
+ 
