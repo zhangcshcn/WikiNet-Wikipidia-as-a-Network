@@ -1,0 +1,816 @@
+
+
+
+       iPod Touch
+      
+
+
+
+       iPad
+      
+
+
+
+   iOS 6
+  
+  is the
+  
+   sixth major release
+  
+  of the
+  
+   iOS
+  
+
+   mobile operating system
+  
+  developed by
+  
+   Apple Inc
+  
+  , being the successor to
+  
+   iOS 5
+  
+  . It was announced at the company's
+  
+   Worldwide Developers Conference
+  
+  on June 11, 2012,
+  
+
+    [1]
+   
+
+  and was released on September 19, 2012.
+  
+
+    [2]
+   
+
+  It was succeeded by
+  
+   iOS 7
+  
+  on September 18, 2013.
+  
+
+    [3]
+   
+
+
+  iOS 6 added a new
+  
+   Apple Maps
+  
+  app, replacing
+  
+   Google Maps
+  
+  as the default mapping service for the operating system; a dedicated Podcasts app, as a central location for
+  
+   podcasts
+  
+  ; and a
+  
+   Passbook
+  
+  app, for managing different types of tickets, boarding passes, coupons, and loyalty cards. The
+  
+   App Store
+  
+  received a visual overhaul, bringing a card-based app layout as well as tweaks to search algorithms.
+  
+   Facebook
+  
+  was integrated into the operating system, incorporating status messages, like buttons, and contact and event synchronization to several of Apple's apps. New privacy controls allow users more fine-grained app permissions, as well as an option to prevent targeted advertising.
+  
+   Siri
+  
+  was added to more devices, and updated with more functionality, including the ability to make restaurant reservations, launch apps, retrieve movie reviews and sports statistics, and read items from the Notification Center.
+ 
+  Reception of iOS 6 was positive. Critics noted that the operating system did not offer any significant speed improvements or major redesigned elements, but instead focused on refinements, with a general
+  
+   consensus
+  
+  that Apple "isn't overhauling things for the sake of it". iOS 6 didn't "completely change the way you use your device", but "each of the tweaks [...] will make many daily smartphone actions easier across the board", and critics noted that refinement of "something that already works extremely well" is "something other companies would do well to emulate".
+ 
+  The release of Apple Maps, however, attracted significant criticism, due to inaccurate or incomplete data. The issues prompted an open letter of apology from Apple CEO
+  
+   Tim Cook
+  
+  , and the departure of
+  
+   Scott Forstall
+  
+  , an Apple executive.
+ 
+
+
+  iOS 6 was introduced at the
+  
+   Apple Worldwide Developers Conference
+  
+  on June 11, 2012.
+  
+
+    [1]
+   
+
+
+  iOS 6 was officially released on September 19, 2012.
+  
+
+    [2]
+   
+
+
+
+    [4]
+   
+
+
+  iOS 6.0.1 was released on November 1, 2012, as the first update to iOS 6. It included bug fixes.
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+
+  iOS 6.0.2 was released on December 18, 2012, with more bug fixes.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+  iOS 6.1 was released on January 28, 2013. The update included
+  
+   LTE
+  
+  compatibility for more carriers around the world;
+  
+   Siri
+  
+  and
+  
+   Fandango
+  
+  integration, allowing users to purchase movie tickets by voice (U.S. only); and a "Reset Advertising Identifier" setting in Settings, allowing users greater control over how apps track their usage.
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+  iOS 6.1.1 was released on February 11, 2013 specifically for the
+  
+   iPhone 4S
+  
+  , with fixes for issues that could impact cellular performance and stability.
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+  iOS 6.1.2 was released on February 19, 2013, with a fix for an
+  
+   Exchange
+  
+  calendar bug that could impact network activity and battery life.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+  iOS 6.1.3 was released on March 19, 2013, with bug fixes, including patching a potential lock screen bypass method, and various improvements.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+
+  iOS 6.1.4 was released on May 2, 2013 specifically for the
+  
+   iPhone 5
+  
+  , with an "updated audio profile for speakerphone".
+  
+
+    [17]
+   
+
+
+
+    [18]
+   
+
+
+  iOS 6.1.5 was released on November 14, 2013 specifically for the 4th generation iPod Touch, with a fix for
+  
+   FaceTime
+  
+  calls failing.
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+
+  iOS 6.1.6 was released on February 21, 2014 specifically for the 4th generation iPod Touch and
+  
+   iPhone 3GS
+  
+  , with fixes for
+  
+   SSL
+  
+  connection verification.
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+
+  Apple's
+  
+   Siri
+  
+
+   intelligent personal assistant
+  
+  , introduced in
+  
+   iOS 5
+  
+  with the release of the
+  
+   iPhone 4S
+  
+  , was updated to include the ability to make restaurant reservations, launch apps, read items from Notification Center, dictate
+  
+   Facebook
+  
+  and
+  
+   Twitter
+  
+  updates, retrieve movie reviews, detailed sports statistics, and more.
+  
+
+    [23]
+   
+
+
+  Siri received language support for
+  
+   Italian
+  
+  ,
+  
+   Korean
+  
+  , and
+  
+   Cantonese
+  
+  ,
+  
+
+    [24]
+   
+
+  and device support for
+  
+   iPhone 5
+  
+  ,
+  
+   fifth-generation iPod Touch
+  
+  , and
+  
+   third-generation iPad
+  
+  .
+  
+
+    [25]
+   
+
+
+  In iOS 6.1, Siri was integrated with
+  
+   Fandango
+  
+  , allowing users to buy film tickets by voice. The feature was only available in the
+  
+   United States
+  
+  at launch.
+  
+
+    [9]
+   
+
+
+
+   Facebook
+  
+  came integrated in several of Apple's native apps with iOS 6. Facebook features could be directly accessed from within native apps such as Calendar, which could synchronize Facebook events; Contacts, which could show Facebook friend information; and the
+  
+   App Store
+  
+  and
+  
+   Game Center
+  
+  , which featured Facebook's
+  
+   like button
+  
+  ; as well as through a widget in the Notification Center, which allowed users to post status updates to the social network.
+  
+
+    [23]
+   
+
+
+
+    [26]
+   
+
+
+  The Settings app received multiple changes in iOS 6. The icon was revised to match the System Preferences icon used in the then-named
+  
+   OS X
+  
+  computer operating system developed by Apple; and a "Do Not Disturb" mode was added, which allows users to disable phone sounds. Additional options for Do Not Disturb mode include being able to allow phone calls from a specific group of contacts, and allowing sound on the second call if someone calls repeatedly. A crescent moon icon will appear in the status bar when Do Not Disturb mode is enabled.
+  
+
+    [27]
+   
+
+
+  New privacy settings became available to users. In addition to "Location Services", the following menus were added in iOS 6: "Contacts", "Calendars", "Reminders", and "Photos". The updated privacy menus allow users more fine-grained privacy permission controls for each app, with new notifications when apps want access to information in each of the categories.
+  
+
+    [28]
+   
+
+
+  iOS 6 also came with a "Limit ad tracking" user control setting to allow users the option to prevent
+  
+   targeted advertising
+  
+  . Apple's "Advertising Identifier" was described by Apple as "a nonpermanent, nonpersonal, device identifier, that advertising networks will use to give you more control over advertisers' ability to use tracking methods. If you choose to limit ad tracking, advertising networks using the Advertising Identifier may no longer gather information to serve you targeted ads."
+  
+
+    [29]
+   
+
+
+  In iOS 6.1, a "Reset Advertising Identifier" setting was added to allow users to reset the identifier used by advertising companies.
+  
+
+    [9]
+   
+
+
+  iOS 6 added a Twitter widget in the Notification Center, where users could tweet without going into the app.
+  
+
+    [30]
+   
+
+
+  The Share Sheet interface was updated to display a grid of icons, as opposed to a list, of different apps to which users could share content.
+  
+
+    [31]
+   
+
+
+  A new
+  
+   Apple Maps
+  
+  app replaced
+  
+   Google Maps
+  
+  as the default mapping app on the operating system. Apple Maps used Apple's vector-based engine, making for smoother
+  
+   zooming
+  
+  . New to Maps was
+  
+   turn-by-turn navigation
+  
+  with spoken directions and 3D views in certain countries, "Flyover" views in some major cities, and real-time traffic.
+  
+
+    [23]
+   
+
+
+  At launch, turn-by-turn navigation was only available for
+  
+   iPhone 4S
+  
+  and later, and
+  
+   iPad 2
+  
+  (cellular capability required) and later, while "Flyover" view was only available for iPhone 4S and later,
+  
+   fifth-generation iPod Touch
+  
+  , and iPad 2 and later.
+  
+
+    [25]
+   
+
+
+  A new
+  
+   Passbook
+  
+  app was added, to retrieve documents such as
+  
+   boarding passes
+  
+  ,
+  
+   admission tickets
+  
+  ,
+  
+   coupons
+  
+  and
+  
+   loyalty cards
+  
+  .
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+
+
+    [23]
+   
+
+
+  An iOS device with Passbook can replace a physical card when scanned to process a
+  
+   mobile payment
+  
+  at participating locations. The app has context-aware features such as notifications for relevant coupons when in the immediate vicinity of a given store, and automatic visibility of boarding passes when the user is at an airport, with notifications for gate changes.
+  
+
+    [23]
+   
+
+
+  The Camera app was updated to include a new Panorama mode that allowed users to take 240-degree panoramic photos.
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+  The Photos app received updates to the Photo Stream functionality, letting users remove images, as well as share custom Photo Streams with other people or the public.
+  
+
+    [27]
+   
+
+
+
+    [23]
+   
+
+
+  The
+  
+   App Store
+  
+  on iOS 6 had a brand new user interface that removed the "Categories" tab and replaced it with "Genius", Apple's search and recommendation engine. It also made use of cards rather than lists to present apps. There were also tweaks to the App Store's search algorithm, resulting in a "trend to favor newer companies", which sparked both developer concerns and praise.
+  
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+
+  The App Store also updated apps without requiring the
+  
+   iTunes
+  
+  password, and when installing or updating an app, users were no longer automatically returned to the home screen.
+  
+
+    [38]
+   
+
+
+  Upon receiving calls, iOS 6 enabled users to swipe up the lock screen to reveal "Reply with message" or "Remind me later". The "Reply with message" feature shows several pre-determined messages with an option for a custom message, while the "Remind me later" feature offers several options (such as an hour later, when the user gets home, or when the user leaves the current location) to enable a reminder.
+  
+
+    [39]
+   
+
+
+  Podcast functionality was separated from the iTunes app and received its own Podcasts app in iOS 6, in order to "centralize and promote podcast listening and downloading for users".
+  
+
+    [40]
+   
+
+
+
+    [41]
+   
+
+
+  The
+  
+   Safari web browser
+  
+  was updated with a full-screen landscape view for iPhone and iPod Touch users.
+  
+
+    [42]
+   
+
+
+
+   FaceTime
+  
+  video calling was updated to work over a
+  
+   cellular connection
+  
+  , in addition to
+  
+   Wi-Fi
+  
+  .
+  
+
+    [43]
+   
+
+
+  The
+  
+   Clock
+  
+  app, which had been on iPhone and iPod Touch since their original release, became available on
+  
+   iPad
+  
+  .
+  
+
+    [44]
+   
+
+  The clock design looked similar to a
+  
+   Swiss railway clock
+  
+  , and Apple formed an agreement with the
+  
+   Swiss Federal Railways
+  
+  to license the design for its own use.
+  
+
+    [45]
+   
+
+
+  The reception of iOS 6 was positive. Dan Seifert of
+  
+
+    The Verge
+   
+
+  wrote that "iOS 6 looks nearly identical to iOS 5. There are a few subtle tweaks here and there [...] But for every small change to the look of iOS details, there are ten things that remain the same." While praising the
+  
+   iPhone 4S
+  
+  for being a "snappy performer", he noted that "When it comes to speed, iOS 6 doesn't feel terribly different from iOS 5".
+  
+
+    [46]
+   
+
+  Craig Grannell of
+  
+
+    TechRadar
+   
+
+  wrote that "iOS 6 is rather like the
+  
+   iPhone 5
+  
+  or
+  
+   OS X Mountain Lion
+  
+  - the refinement of something that already works extremely well. Apple isn't overhauling things for the sake of it but, in the main, making the iOS experience gradually better. That in itself is something other companies would do well to emulate."
+  
+
+    [27]
+   
+
+  Jason Parker of
+  
+
+    CNET
+   
+
+  wrote that "iOS 6 is a welcome upgrade for any iOS user, but it's not going to completely change the way you use your device. Instead, each of the tweaks here will make many daily smartphone actions easier across the board and offer some relief to those waiting for certain features (sending images from e-mail and call controls, for example)."
+  
+
+    [47]
+   
+
+
+  In iOS 6, Apple replaced
+  
+   Google Maps
+  
+  with its own
+  
+   Apple Maps
+  
+  as the default mapping service for the operating system, and immediately faced criticism for inaccurate or incomplete data, including a museum in a river, missing towns, satellite images obscured by clouds, missing local places, and more.
+  
+
+    [48]
+   
+
+
+
+    [49]
+   
+
+
+
+    [50]
+   
+
+
+  Apple CEO
+  
+   Tim Cook
+  
+  issued a letter on Apple's website apologizing for the "frustration caused by the Maps application",
+  
+
+    [51]
+   
+
+  and recommended downloading alternative map apps from the App Store.
+  
+
+    [52]
+   
+
+
+
+    [53]
+   
+
+
+   Scott Forstall
+  
+  , one of Apple's then-Executives, departed Apple in October 2012 after he "refused to sign his name to a letter apologizing for shortcomings in Apple's new mapping service".
+  
+
+    [54]
+   
+
+
+  In September 2012, Sarah Downey, a "privacy expert" with the software company Abine expressed her concern that in spite of the new "Advertising Identifier", Apple didn't disclose details on what the identifier was actually based on. She stated: "I need them to tell me why it's not identifying because as we've seen from a lot other "non-identifying" pieces of data, they can identify you quite easily", and that "If you're using the opt-out, [Apple] may no longer gather information to serve you targeted ads. To me, that says they may still collect your information to do things other than serve you targeted ads, like build databases about you to send you marketing or to sell to third parties".
+  
+
+    [29]
+   
+
+
+  Many users reported a higher-than-normal data usage after upgrading to iOS 6, causing some to be heavily billed for data largely exceeding their data plan. Steve Rosenbaum of
+  
+
+    The Huffington Post
+   
+
+  wrote that "The bug is the result of an iOS 6 problem that connects the phone to the cellular data network whenever the phone is connected to a WiFi signal", and also stated that Apple had released a
+  
+   patch
+  
+  .
+  
+
+    [55]
+   
+
+
+
+    [56]
+   
+
+
+  In April 2014, users who were still running iOS 6 could not connect to
+  
+   FaceTime
+  
+  due to the expiration of a certificate. Apple released a support document explaining the problem, adding that devices capable of upgrading to
+  
+   iOS 7
+  
+  must do so to fix the issue, while devices stuck on iOS 6 would receive an iOS 6.1.6 update.
+  
+
+    [57]
+   
+
+
+  With this release, Apple dropped support for older devices, specifically the third-generation
+  
+   iPod Touch
+  
+  and the
+  
+   first-generation iPad
+  
+  .
+  
+
+    [58]
+   
+

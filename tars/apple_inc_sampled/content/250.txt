@@ -1,0 +1,1320 @@
+
+
+  This is a
+  
+   list of
+   
+    macOS
+   
+   components
+  
+  , features that are included in the current Mac operating system.
+ 
+
+
+  Automator is an application developed by
+  
+   Apple Inc.
+  
+  for
+  
+   macOS
+  
+  that implements point-and-click (or
+  
+   drag and drop
+  
+  ) creation of
+  
+   workflows
+  
+  for automating repetitive tasks into
+  
+   batches
+  
+  for quicker alteration, thus saving time and effort over human intervention to manually change each file separately. Automator enables the repetition of tasks across a wide variety of programs, including
+  
+   Finder
+  
+  ,
+  
+   Safari
+  
+  ,
+  
+   Calendar
+  
+  ,
+  
+   Contacts
+  
+  and others. It can also work with third-party applications such as
+  
+   Microsoft Office
+  
+  ,
+  
+   Adobe Photoshop
+  
+  or
+  
+   Pixelmator
+  
+  . The icon features a robot holding a pipe, a reference to
+  
+   pipelines
+  
+  , a
+  
+   computer science
+  
+  term for connected data workflows. Automator was first released with
+  
+   Mac OS X Tiger
+  
+  (10.4).
+ 
+  Automator provides a
+  
+   graphical user interface
+  
+  for automating tasks without knowledge of programming or scripting languages. Tasks can be recorded as they are performed by the user or can be selected from a list. The output of the previous action can become the input to the next action.
+ 
+  Automator comes with a library of Actions (file renaming, finding linked images, creating a new mail message, etc.) that act as individual steps in a Workflow document. A Workflow document is used to carry out repetitive tasks. Workflows can be saved and reused.
+  
+   Unix
+  
+  command line scripts and AppleScripts can also be invoked as Actions. The actions are linked together in a Workflow. The Workflow can be saved as an application, Workflow file or a
+  
+   contextual menu
+  
+  item. Options can be set when the Workflow is created or when the Workflow is run. A workflow file created in Automator is saved in /Users/{User Name}/Library/Services.
+ 
+  Calculator is a basic
+  
+   calculator
+  
+
+   application
+  
+  made by
+  
+   Apple Inc.
+  
+  and bundled with
+  
+   macOS
+  
+  . It has three modes: basic, scientific, and programmer. Basic includes a number pad, buttons for adding, subtracting, multiplying, and dividing, as well as memory keys. Scientific mode supports exponents and trigonometric functions, and programmer mode gives the user access to more options related to
+  
+   computer programming
+  
+  .
+ 
+  The Calculator program has a long history going back to the very beginning of the Macintosh platform, where a simple four-function calculator program was a standard
+  
+   desk accessory
+  
+  from the earliest system versions. Though no
+  
+   higher math
+  
+  capability was included, third-party developers provided upgrades, and Apple released the
+  
+   Graphing Calculator
+  
+  application with the first
+  
+   PowerPC
+  
+  release (7.1.2) of the Mac OS, and it was a standard component through Mac OS 9. Apple currently ships a different application called
+  
+   Grapher
+  
+  .
+ 
+  Calculator has
+  
+   Reverse Polish notation
+  
+  support, and can also speak the buttons pressed and result returned.
+ 
+  The Calculator appeared first as a
+  
+   desk accessory
+  
+  in
+  
+   first version
+  
+  of
+  
+   Macintosh System
+  
+  for the 1984
+  
+   Macintosh 128k
+  
+  . Its original incarnation was developed by
+  
+   Chris Espinosa
+  
+  and its appearance was designed, in part, by
+  
+   Steve Jobs
+  
+  when Espinosa, flustered by Jobs's dissatisfaction with all of his prototype designs, conceived an application called
+  
+   The Steve Jobs Roll Your Own Calculator Construction Set
+  
+  that allowed Jobs to tailor the look of the calculator to his liking. Its design was maintained with the same basic math operations until
+  
+   the final release of classic Mac OS
+  
+  in 2002.
+  
+
+    [1]
+   
+
+
+  A
+  
+   Dashboard
+  
+  Calculator widget is included in all versions of macOS from
+  
+   Mac OS X Tiger
+  
+  onwards. It only has the basic mode of its desktop counterpart. Since the release of
+  
+   OS X Yosemite
+  
+  , there is also a simple calculator widget available in the notifications area.
+  
+
+    [2]
+   
+
+
+  Since the release of
+  
+   Mac OS X Leopard
+  
+  , simple arithmetic functions can be calculated from
+  
+   Spotlight feature
+  
+  .
+  
+
+    [3]
+   
+
+  They include the standard addition, subtraction, division, multiplication, exponentiation and the use of the
+  
+   percent sign
+  
+  to denote
+  
+   percentage
+  
+  .
+ 
+  Apple Chess is a
+  
+   3D
+  
+
+   chess game
+  
+  for
+  
+   macOS
+  
+  , developed by
+  
+   Apple Inc.
+  
+  It supports
+  
+   chess variants
+  
+  such as
+  
+   crazyhouse
+  
+  and
+  
+   suicide chess
+  
+  . It originates in
+  
+   OpenStep
+  
+  and
+  
+   Mac OS X 10.2
+  
+  and is based on
+  
+   open source software
+  
+  . Apple redistributes the source code under its own Apple Sample Code License.
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+  Contacts, called Address Book before
+  
+   OS X Mountain Lion
+  
+  , is a computerized
+  
+   address book
+  
+  included with
+  
+   Apple Inc.
+  
+  's
+  
+   macOS
+  
+  . It includes various synchronizing capabilities and integrates with other macOS applications and features.
+ 
+  Address Book has two viewing modes: View Card and Column and View Card Only. The user can switch between modes with a control in the upper-left portion of the window under the close box.
+ 
+  In releases prior to Lion, in View Card and Column, the Address Book window is divided into three panes. The first pane has the title Group. This pane lists All, Directories, and each user-made group. Users can add new groups by pulling the File menu down to New Group, or typing Command-Shift-N.
+ 
+  When selecting All or a user-made group, the second column has the title Name. It lists the names of the people with cards in that group, or all the names if the selected group is All, in alphabetical order by first or last name, depending on user preference.
+ 
+  The third pane has the card corresponding to the selected name. The card can include information, some of which the user can classify into customizable categories like Home and Work. Many of the fields can have duplicate entries, for example, if the person the card describes has several email addresses. The user can edit the fields by pressing the edit button below the bottom-left of the third pane. Address Book can search LDAP (network) directories. Users customize these in the LDAP tab of the preferences. Users search these by selecting Directories in the first pane, selecting a directory or All in the second pane, and typing their search in the search box above the top-left of the third pane. Results appear in the third pane.
+ 
+  The computer must be connected to a
+  
+   local area network
+  
+  on which the directories reside. If the location has changed or the network connection has been lost, Address Book can’t look up contacts in directories on the network. If the computer is set up to access directory services on one's local area network, Address Book automatically searches the directory services for addresses.
+ 
+  One can also set up Address Book to search Lightweight Directory Access Protocol (LDAP) servers for addresses. LDAP is an Internet protocol used for looking up contact information on servers.
+ 
+  Information from network directories appears only when one is searching. To search a network directory, select Directories in the Group column and a directory in the Directory column, and then type text in the search field. To add someone from the network directory to one's personal address book, drag the card from the directory to All in the Group column.
+ 
+  For instructions about setting up one's computer to access directory services on one's local area network, open Directory Utility and choose Help > Directory Utility Help.
+ 
+  Dictionary is an application that includes an in-built dictionary and thesaurus.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Photo Booth is an application where the user can take pictures of themselves.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  QuickTime Player is an application that can play video and sound files.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Safari is a web browser.
+ 
+  Time Machine is an application where the user can back up their files.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Activity Monitor is a
+  
+   system monitor
+  
+  for the
+  
+   macOS
+  
+
+   operating system
+  
+  , which also incorporates
+  
+   task manager
+  
+  functionality.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+  Activity Monitor appeared in
+  
+   Mac OS X v10.3
+  
+  , when it subsumed the functionality of the programs Process Viewer (a task manager) and CPU Monitor found in the previous version of OS X.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  In
+  
+   OS X 10.9
+  
+  , Activity Monitor was significantly revamped and gained a 5th tab for "energy" (in addition to CPU, memory, disk, and network).
+  
+
+    [10]
+   
+
+
+  AirPort Utility is a program that allows users to configure an
+  
+   AirPort
+  
+
+   wireless network
+  
+  and manage services associated with and devices connected to
+  
+   AirPort Routers
+  
+  . It comes pre-installed on
+  
+   macOS
+  
+  , and is available to download for
+  
+   Microsoft Windows
+  
+  and
+  
+   iOS
+  
+  . AirPort Utility is unique in that it offers network configuration in a native application as opposed to a web application. It provides a graphical overview of AirPort devices attached to a network, and provides tools to manage each one individually. It allows users to configure their network preferences, assign
+  
+   Back to My Mac
+  
+  accounts to the network, and configure USB attached Printers and hard drives.
+  
+
+    [11]
+   
+
+  The current versions are 6.3.6 for recent versions of
+  
+   macOS
+  
+  , 5.6.1 for
+  
+   Microsoft Windows
+  
+  and older versions
+  
+
+    [12]
+   
+
+  of Mac OS X,
+  
+
+    [13]
+   
+
+  and 1.3.4 for
+  
+   iOS
+  
+  .
+  
+
+    [14]
+   
+
+
+  On January 30, 2013, Apple released AirPort Utility 6.0 for macOS featuring a redesign of the user interface focused on increasing usability for novice users.
+  
+
+    [15]
+   
+
+  Reception was mixed with some media outlets reporting IT professionals and network administrators being frustrated over some removed features.
+  
+
+    [15]
+   
+
+  It was reported that most end users, however, wouldn’t notice the feature omissions.
+  
+
+    [16]
+   
+
+  Users requiring the removed features can still access the previous version of AirPort Utility using a workaround.
+  
+
+    [17]
+   
+
+
+  The Audio MIDI Setup utility is a program that comes with the
+  
+   macOS
+  
+  operating system for adjusting the computer's
+  
+   audio
+  
+  input and output configuration settings and managing
+  
+   MIDI
+  
+  devices.
+ 
+  It was first introduced in
+  
+   Mac OS X 10.5 Leopard
+  
+  as a simplified way to configure MIDI Devices. Users need to be aware that prior to this release, MIDI devices did not require this step, and it mention of it might be omitted from MIDI devices from third-party manufactures.
+ 
+  Bluetooth File Exchange is a utility that comes with the
+  
+   macOS
+  
+
+   operating system
+  
+  , used to exchange files to or from a
+  
+   Bluetooth
+  
+  -enabled device. For example, it could be used to send an image to a
+  
+   cellphone
+  
+  , or to receive an image or other documents from a
+  
+   PDA
+  
+  .
+ 
+  ColorSync Utility is software that ships with
+  
+   macOS
+  
+  . It is used for management of color profiles and filters used in Apple's
+  
+   PDF
+  
+
+   workflow
+  
+  , or applying filters to PDF documents.
+ 
+  The interface is composed of two parts: the document browser and the utility window. The document browser lets you zoom in and out of an image or apply a Filter to it. The utility window has several options: Profile First Aid, Profiles, Devices, Filters and Calculator.
+ 
+
+   Profile First Aid
+  
+  allows you to repair ColorSync color profiles so they conform to the
+  
+   International Color Consortium
+  
+  specification.
+ 
+
+   Profiles
+  
+  allows you to browse the profiles installed on your system, grouped by location, class or space, and graphically compare any two profiles.
+ 
+  The profile map is displayed as a rotatable, scalable 3D object and can be plotted in
+  
+   CIELAB
+  
+  ,
+  
+   CIELUV
+  
+  ,
+  
+   Yxy
+  
+  ,
+  
+   Yuv
+  
+  and
+  
+   CIEXYZ
+  
+  .
+ 
+  The
+  
+   Devices
+  
+  section allows you to see a list of all registered ColorSync devices such as your displays and printers, and see what ColorSync profile is applied to each one. You can also override the default setting.
+ 
+  The
+  
+   Filters
+  
+  section allows you to build and modify PDF filters that are available to the rest of the operating system. Each filter can be set to appear in one of three domains: Application, PDF Workflows, and Printing.
+ 
+  Filters set to Printing will appear in the drop-down menu under the "Save as PDF..." button in the standard Mac OS X print dialog box. Filters set to PDF Workflow will appear in the
+  
+   Quartz
+  
+  Filters drop-down menu in the ColorSync section of a print dialog box. The default filters that ship with Mac OS X are:
+ 
+  User-created filters can have color management, image effects, PDF retouch, domain selection and comments.
+ 
+  The
+  
+   Color Management
+  
+  section allows assigning a profile, choosing a default profile,
+  
+   rendering intent
+  
+  , converting to a profile or intermediate transform.
+ 
+  The
+  
+   Intermediate Transform
+  
+  section allows adjustment of brightness, tint, hue, saturation, bilevel (high pass filter) or profile assignment, to either
+  
+   grayscale
+  
+  ,
+  
+   RGB
+  
+  or
+  
+   CMYK
+  
+  , or all data in the file. This can be applied to either text, graphics, images or shading.
+ 
+  Complex filters can be created by stacking multiple effects. Any changes made to the PDF file can then be saved as a new PDF file.
+ 
+
+   Calculator
+  
+  can convert between
+  
+   RGB
+  
+  ,
+  
+   CMYK
+  
+  and other color value schemes, and features an interactive color-picker for identifying a color on the screen, duplicating a feature of another bundled utility,
+  
+
+    DigitalColor Meter
+   
+
+  .
+ 
+  ColorSync is
+  
+   Apple Inc.
+  
+  's
+  
+   color management
+  
+
+   API
+  
+  for the
+  
+   Classic Mac OS
+  
+  and
+  
+   macOS
+  
+  . Apple developed the original 1.0 version of ColorSync as a Mac-only architecture, which made it into an operating system release in 1993. In the same year, Apple co-founded the
+  
+   International Color Consortium
+  
+  (ICC) to develop a
+  
+   cross-platform
+  
+  profile format which became part of ColorSync 2.0. The system
+  
+   Color Management Module
+  
+  (CMM) was "LinoColorCMM", which was developed by Linotype-Hell AG (now part of
+  
+   Heidelberger Druckmaschinen
+  
+  AG). The same CMM was used in Microsoft Windows 2000 and XP under the rubric of "Image Color Management" (ICM)
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  . Apple, with the help of
+  
+   Adobe
+  
+  had ported ColorSync 2.0 and its
+  
+   SDK
+  
+  to
+  
+   Microsoft Windows
+  
+  . With ColorSync 3.0, the Windows version which was initially planned was discontinued. ColorSync 4.0 is the latest version, introduced in
+  
+   Mac OS X 10.1
+  
+  .
+ 
+  Human
+  
+   color perception
+  
+  is a very complex and subtle process, and different devices have widely different color
+  
+   gamuts
+  
+  or ranges of color they can display. To deal with these issues, ColorSync provides several different methods of doing color matching. For instance,
+  
+   perceptual
+  
+  matching tries to preserve as closely as possible the relative relationships between colors, even if all the colors must be systematically distorted in order to get them to fit within the gamut of the destination device. Because the human eye is more sensitive to
+  
+   color differences
+  
+  rather than
+  
+   absolute colors
+  
+  , this method tends to produce the best-looking results, subjectively speaking, for many common uses, but there are other methods that work better in some cases.
+ 
+  As dictated by the ICC system, the
+  
+   profile connection space
+  
+  in ColorSync is the
+  
+   CIE XYZ color space
+  
+  . All image input and output devices (scanners, printers, displays) have to be characterized by providing an
+  
+   ICC profile
+  
+  that defines how their color information is to be interpreted relative to this reference color space. This profile might be provided by the device manufacturer, but for better quality results, it might be generated by performing actual measurements on the device with a
+  
+   colorimeter
+  
+  . Thus, when an image is scanned on a scanner, the image file will include a copy of the scanner's profile to characterize the meaning of its color information. Then, before the image is sent to an output device, a
+  
+   matching
+  
+  process converts the color information at the time of rendering from the
+  
+   source profile
+  
+  (that attached to the image) to the
+  
+   destination profile
+  
+  (that attached to the output device) so that the resulting colors print or display as closely as possible to the original image.
+ 
+  Console is a
+  
+   log
+  
+  viewer developed by
+  
+   Apple Inc.
+  
+  and included with
+  
+   macOS
+  
+  . It allows users to search through all of the system's logged messages, and can alert the user when certain types of messages are logged.
+  
+
+    [18]
+   
+
+  The
+  
+   Console
+  
+  is generally used for troubleshooting when there is a problem with the computer.
+  
+
+    [19]
+   
+
+  macOS itself, as well as any applications that are used, send a constant stream of messages to the system in the form of log files. The console allows you to read the system logs, help find certain ones, monitor them, and filter their contents.
+  
+
+    [20]
+   
+
+
+  Clicking on "Show Log List" in the toolbar will bring up the Log List. The Log List opens a sidebar which shows all of the different logs that the system maintains. This list helps in viewing the many different logs maintained in various parts of the system by bringing them all together to one place. By clicking on a particular log category, all of the logs will be shown.
+  
+
+    [21]
+   
+
+
+  The System Log Queries contains all of the logs that have to do with the entire system. This includes
+  
+   system
+  
+  logs as well as individual
+  
+   application
+  
+  logs.
+  
+
+    [21]
+   
+
+
+  Selecting All Messages gives a live look at your computer's activities, updated live. This includes all activities from both the system as well as any applications running. Logs in this section of the Console are all formatted uniformly. They all include a
+  
+   timestamp
+  
+  , the name of the
+  
+   process
+  
+  or
+  
+   application
+  
+  , and the actual message of the
+  
+   log
+  
+  . When the message displayed includes a paperclip icon next to it, it means that it is a shortened version of a longer report, and clicking the icon will show the complete report.
+  
+
+    [22]
+   
+
+
+  In addition to viewing all messages, users can also create custom queries with any criteria that they like. These custom queries will filter the messages and will also be shown in the All Messages section. In order to make a new query, choose "New System Log Query" from the File menu.
+  
+
+    [23]
+   
+
+
+  Migration Assistant is an application for migrating information from another computer to the computer in use. It may be from a Windows computer or a Mac.
+ 
+  System Information is an application that shows the system information about a Macintosh product.
+ 
+  VoiceOver is an application where the user can listen to spoken descriptions on the computer.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Finder is the default
+  
+   file manager
+  
+  and
+  
+   graphical interface
+  
+
+   shell
+  
+  of
+  
+   macOS
+  
+  . It can store many windows.
+ 
+  Archive Utility (BOMArchiveHelper until
+  
+   Mac OS X 10.5
+  
+  ) is the default
+  
+   archive file
+  
+  handler in
+  
+   macOS
+  
+  . It is usually invoked automatically when opening a file in one of its supported formats.
+  
+
+    [24]
+   
+
+  It can be used to create compressed
+  
+   ZIP archives
+  
+  by choosing "Create archive of 'file'" (Leopard: "Compress") in the
+  
+   Finder
+  
+  's
+  
+   File
+  
+  or
+  
+   contextual menu
+  
+  . It is located at
+  
+   /System/Library/CoreServices/Applications/Archive Utility.app
+  
+  in Mac OS X 10.10,
+  
+   /System/Library/CoreServices/Archive Utility.app
+  
+  in 10.5 and later, and
+  
+   /System/Library/CoreServices/BOMArchiveHelper.app
+  
+  in
+  
+   10.4
+  
+
+
+    [25]
+   
+
+  Prior to Archive Utility's inclusion in
+  
+   Mac OS X v10.3
+  
+  , beginning with
+  
+   Mac OS 7.6
+  
+  , Apple bundled the freeware
+  
+   StuffIt Expander
+  
+  with the operating system.
+ 
+  Invoking Archive Utility manually shows a minimal
+  
+   GUI
+  
+  letting the user change Archive Utility preferences or choose files to compress or uncompress. BOMArchiveHelper 10.4.11 cannot be manually invoked. It may be inferred that prior to 10.5, BOMArchiveHelper could not be manually invoked.
+ 
+  BOM is an abbreviation of Bill of Materials.
+  
+   Bill of Materials
+  
+  files or .bom files are used by the macOS
+  
+   Installer
+  
+  program to document where files in an installer bundle are installed, what their file permissions should be, and other file metadata. Thus, a Bill of Materials is read by the Installer, and Archive Utility
+  
+   helps
+  
+  it by extracting the files specified in the BOM.
+ 
+  Crash Reporter is the standard
+  
+   crash reporter
+  
+  in
+  
+   macOS
+  
+  .
+  
+
+    [26]
+   
+
+  Crash Reporter can send the crash logs to
+  
+   Apple Inc.
+  
+  for their
+  
+   engineers
+  
+  to review.
+ 
+  Crash Reporter has three modes of operations:
+ 
+  The developer tool
+  
+   CrashReporterPrefs
+  
+  can be used to change modes, as can using the terminal command
+  
+
+    defaults
+   
+   write com.apple.CrashReporter DialogType [basic|developer|server]
+  
+  .
+ 
+  In basic mode, if Crash Reporter notices an application has crashed twice in succession, it will offer to rename the application's preference file and try again (corrupted preference files being a common cause of crashes).
+ 
+  When reporting a crash, the top text field of the window has the crash log, while the bottom field is for user comments. Users may also
+  
+   copy and paste
+  
+  the log into their e-mail client to send to a third-party application developer for the developer to use.
+ 
+  The Classic Environment, usually referred to as Classic, is a
+  
+   hardware
+  
+  and
+  
+   software
+  
+
+   abstraction layer
+  
+  in
+  
+   PowerPC
+  
+  versions of
+  
+   Mac OS X
+  
+  that allows most
+  
+   legacy
+  
+
+   applications
+  
+  compatible with
+  
+   Mac OS 9
+  
+  to run on macOS. The name "Classic" is also sometimes used by software vendors to refer to the
+  
+   application programming interface
+  
+  available to "classic" applications, to differentiate between programming for Mac OS X and the classic version of the Mac OS.
+ 
+  The Classic Environment is supported on PowerPC-based
+  
+   Macintosh
+  
+  computers running versions of Mac OS X up to
+  
+   10.4
+  
+  "Tiger", but is not supported with
+  
+   10.5
+  
+  "Leopard", nor on
+  
+   Intel
+  
+  -based Macintosh computers running any version of macOS.
+ 
+  The Classic Environment is a descendant of
+  
+   Rhapsody
+  
+  's
+  
+   "Blue Box"
+  
+  emulation layer, which served as a
+  
+   proof of concept
+  
+  . (Previously, Apple
+  
+   A/UX
+  
+  also offered a virtualized Mac OS environment on top of a
+  
+   UNIX
+  
+  operating system.) It uses a Mac OS 9
+  
+   System Folder
+  
+  , and a
+  
+   New World ROM
+  
+  file to bridge the differences between the older PowerPC Macintosh
+  
+   platforms
+  
+  and the
+  
+   XNU
+  
+
+   kernel
+  
+  environment. The Classic Environment was created as a key element of Apple's strategy to replace the
+  
+   classic Mac OS
+  
+  (versions 9 and below) with Mac OS X as the standard operating system (OS) used by
+  
+   Macintosh
+  
+  computers by eliminating the need to use the older OS directly.
+ 
+  The Classic Environment can be loaded at
+  
+   login
+  
+  (for faster activation when needed later), on command, or whenever a Mac OS application that requires it is launched (to reduce the use of system resources when not needed). It requires a full version of Mac OS 9 to be installed on the system, and loads an instance of that OS in a
+  
+   sandbox
+  
+  environment, replacing some low-level
+  
+   system calls
+  
+  with equivalent calls to macOS via updated system files and the Classic Support system enabler. This sandbox is used to launch all "classic" Mac OS applications—there is only one instance of the Classic
+  
+   process
+  
+  running for a given user, and only one user per machine may be running Classic at a time.
+ 
+  If the user chooses to launch the Classic Environment only when needed, launching a "classic" application first launches the Classic Environment, which can be configured to appear in a
+  
+   window
+  
+  resembling the display of a computer booting into Mac OS 9. When the Classic Environment has finished loading, the application launches. When a "classic" application is in the foreground, the
+  
+   menu bar
+  
+  at the top of the screen changes to look like the older Mac OS system menu.
+  
+   Dialog boxes
+  
+  and other user-interface elements retain their traditional appearance.
+ 
+  The Classic Environment provides a way to run "Classic" applications on Apple's
+  
+   G5
+  
+  systems as well as on most G4 based computers sold after January 2003. These machines cannot boot Mac OS 9 or earlier without the bridging capabilities of the Classic Environment or other software (see
+  
+   SheepShaver
+  
+  ). Classic is not supported on versions of Mac OS X that run on Apple systems incorporating
+  
+   Intel microprocessors
+  
+  , which includes all new shipping Apple computers, as of September 2006.
+  
+
+    [27]
+   
+
+  The last version of Mac OS X to support the Classic Environment on PowerPCs was
+  
+   Mac OS X v10.4
+  
+  "Tiger".
+ 
+  The Classic Environment's compatibility is usually very good, provided the application using it does not require direct access to hardware or engage in full-screen drawing. However, it is not a complete clone of Mac OS 9. The Finder included with
+  
+   Mac OS X v10.2
+  
+  and later does not support the "Reveal Object"
+  
+   Apple events
+  
+  used by some Mac OS 9 applications, causing the "Reveal In Finder" functionality for those applications to be lost. Early releases of Mac OS X would often fail to draw window frames of Classic applications correctly, and after the Classic Environment's windowing was made
+  
+   double buffered
+  
+  in
+  
+   Mac OS X Panther
+  
+  , some older applications and games sometimes failed to update the screen properly, such as the original Macintosh port of
+  
+
+    Doom
+   
+
+  . However, the Classic Environment "resurrected" some older applications that had previously been unusable on the
+  
+   Macintosh Quadra
+  
+  and
+  
+   Power Macintosh
+  
+  series; this is because Mac OS X replaced Mac OS 9's
+  
+   virtual memory
+  
+  system with a more standard and less fragile implementation.
+ 
+  The Classic Environment's
+  
+   performance
+  
+  is also generally acceptable, with a few exceptions. Most of an application is run directly as PowerPC
+  
+   code
+  
+  (which would not be possible on Intel-based Macs).
+  
+   Motorola
+  
+
+   68k
+  
+  code is handled by the same
+  
+   Motorola 68LC040 emulator
+  
+  that Mac OS 9 uses. Some application functions are actually faster in the Classic Environment than under Mac OS 9 on equivalent hardware, due to performance improvements in the newer operating system's
+  
+   device drivers
+  
+  . These applications are largely those that use heavy disk processing, and were often quickly
+  
+   ported
+  
+  to Mac OS X by their developers. On the other hand, applications that rely on heavy processing and which did not share resources under Mac OS 9's
+  
+   co-operative multitasking
+  
+  model will be interrupted by other (non-Classic) processes under macOS's
+  
+   preemptive multitasking
+  
+  . The greater processing power of most systems that run Mac OS X (compared to systems intended to run
+  
+   Mac OS 8
+  
+  or 9) helps to mitigate the performance degradation of the Classic Environment's emulation.
+ 
+  Software Update is a
+  
+   tool
+  
+  that installs the latest version of Apple software on computers running macOS. It was originally introduced to Mac users in
+  
+   Mac OS 9
+  
+  . A Windows version has been available since the introduction of
+  
+   iTunes 7
+  
+  , under the name Apple Software Update. Software Update automatically informs users of new updates.
+ 
+  The program is part of the
+  
+   CoreServices
+  
+  in macOS. Software Update can be set to check for updates daily, weekly, monthly, or not at all; in addition, it can download and store the associated
+  
+   .pkg
+  
+  file (the same type used by
+  
+   Installer
+  
+  ) to be installed at a later date and maintains a history of installed updates.
+ 
+  Software Updates consist of incremental updates of macOS and its applications, Security Updates,
+  
+   device drivers
+  
+  and
+  
+   firmware
+  
+  updates. All software updates require the user to enter their administrative password, as with all consequential system changes. Some updates require a system restart. Starting with
+  
+   Mac OS X 10.5 Leopard
+  
+  , updates that require a reboot log out the user prior to installation and automatically restart the computer when complete. In earlier versions of macOS, the updates are installed, but critical files are not replaced until the next system startup.
+ 

@@ -1,0 +1,336 @@
+
+
+  The
+  
+
+    iMac
+   
+
+  is a series of
+  
+   Macintosh
+  
+
+   desktop computers
+  
+  offered by
+  
+   Apple Inc.
+  
+  The current Apple iMac features either an
+  
+   Intel Core
+  
+  i5 or Core i7 processor, Intel Iris,
+  
+   Nvidia
+  
+
+   GeForce 700 Series
+  
+  , or AMD Radeon R9 M200 Series graphics cards, and a choice of either a 21.5" or 27"
+  
+   LED-LCD
+  
+  display.
+ 
+  Previous iMac models featured either a white
+  
+   polycarbonate
+  
+  enclosure or an
+  
+   aluminium
+  
+  enclosure. The October 2009 iMac model featured a
+  
+   unibody aluminium
+  
+  enclosure, a version of which can still be seen on the current model. The current iMacs released in October 2012 also feature a much thinner display, with the edge measuring just 5 mm.
+  
+
+    [1]
+   
+
+
+
+
+  At the
+  
+   Macworld Conference and Expo
+  
+  on January 10, 2006,
+  
+   Steve Jobs
+  
+  announced that the new iMac would be the first
+  
+   Macintosh
+  
+  to use an
+  
+   Intel
+  
+  CPU, the
+  
+   Core Duo
+  
+  . The introduction of the new iMac along with the Intel-based
+  
+   MacBook Pro
+  
+  signaled the start of a six-month transition from
+  
+   PowerPC
+  
+  to
+  
+   Intel
+  
+  processors.
+ 
+  The features, price, and case design remained unchanged from the
+  
+   iMac G5
+  
+  . The processor speed, however, according to tests run by Apple using SPEC,
+  
+
+    [2]
+   
+
+  was declared to be two to three times faster than the iMac G5.
+ 
+  Alongside the
+  
+   MacBook Pro
+  
+  , the iMac Core Duo represents Apple's first computer to feature Intel processors instead of
+  
+   PowerPC processors
+  
+  ,
+  
+   a transition
+  
+  that completed in November 2006. Since the introduction of the iMac Core Duo, other lines have followed, including the introduction of the Intel Core-powered
+  
+   Mac mini
+  
+  on February 28, 2006, the
+  
+   MacBook
+  
+  consumer line of laptop computers on May 16, 2006, the
+  
+   Mac Pro
+  
+  on August 7, 2006, and the
+  
+   Xserve
+  
+  in November 2006, completing the Macintosh family transition to Intel processors.
+ 
+  In early February 2006,
+  
+   Apple
+  
+  confirmed reports of video display problems on the new Intel-based iMacs. When playing video on Apple's
+  
+   Front Row
+  
+  media browser, some 20-inch iMacs (those built-to-order with upgraded video cards) showed random horizontal lines, ghosting, video tearing and other problems. The problem was fixed with a software update.
+ 
+  In late 2006, Apple introduced a new version of the iMac which included a
+  
+   Core 2 Duo
+  
+  chip and a lower price. Apple added a new 24-inch model with IPS-display and a resolution of 1920 × 1200 (
+  
+   WUXGA
+  
+  ), making it the first iMac to be able to display
+  
+   1080p
+  
+  content in its full resolution, and a
+  
+   VESA
+  
+
+   Flat Display Mounting Interface
+  
+  . Except for the 17-inch 1.83 GHz processor model, this version also included an
+  
+   802.11n
+  
+  draft card.
+  
+
+    [3]
+   
+
+
+  In August 2007, Apple introduced a complete redesign of the iMac, featuring an aluminum, glass and plastic enclosure. There is only one visible screw on the entire computer, located at the base of the iMac for accessing the memory slots. It has a black, plastic backplate that is not user removable. The 17-inch model was completely removed from the lineup.
+ 
+  In March 2009, Apple released a minor refresh of the iMac line. Changes included a fourth
+  
+   USB
+  
+  port, removal of the
+  
+   FireWire 400
+  
+  port, and a slightly redesigned base. The exterior design was almost identical to the older Intel-based iMacs. The models were one 20-inch configuration and three 24-inch configurations (instead of two at each screen size as before).
+  
+
+    [13]
+   
+
+
+  Apple doubled the default RAM and hard-disk size on all models, moving the RAM to the DDR2
+  
+
+    [14]
+   
+
+  specification. This revision also introduced a new, smaller, and more compact
+  
+   Apple Keyboard
+  
+  that excluded the
+  
+   numeric keypad
+  
+  and
+  
+   forward delete key
+  
+  in favor of the
+  
+   fn
+  
+  +
+  
+   Delete
+  
+  keys shortcut by default.
+  
+
+    [13]
+   
+
+  Users could, however, replace
+  
+   this version
+  
+  with a
+  
+   more traditional, full-size model
+  
+
+   with
+  
+  a
+  
+   numeric keypad
+  
+  by requesting Apple to
+  
+   build their machine to order
+  
+  through its
+  
+   online store
+  
+  .
+ 
+  In October 2009, a 16:9
+  
+   aspect ratio
+  
+  screen was introduced in 21.5" and 27" models, replacing the 20" and 24" 16:10 aspect ratio screens of the previous generation. The back is now a continuation of the aluminum body from the front and sides instead of a separate plastic backplate. Video card options entirely switched to
+  
+   AMD
+  
+  , save for the standard onboard
+  
+   Nvidia
+  
+  card in the base model. The iMac's processor selection saw a significant increase.
+ 
+  Default
+  
+   RAM
+  
+  has also been increased across the iMac range. With the advent of the larger screens, Apple doubled the number of memory slots from two to four. Consequently, the maximum memory capacity was also doubled (to 16 GB), and for Intel Core i-series (27-inch), quadrupled, to 32 GB.
+ 
+  In October 2012, a new iMac model was introduced that featured a considerably smaller body depth than the previous models, measuring 5mm at its thinnest point. This was partly achieved by using a process called Full lamination. The display and glass are laminated together eliminating a 2 mm gap between them. The 21.5 in and 27 in screens remained at their previous resolutions, 1920×1080 and 2560×1440 respectively.
+ 
+  As with the 2009 model, memory has been upgraded; the standard specification is now 8 GB, with the 21.5 in model supporting up to 16 GB and the 27 in model supporting up to 32 GB. It was reported that the 21.5 in iMac would have non-replaceable soldered memory similar to the
+  
+   MacBook Air
+  
+  and
+  
+   Retina display MacBook Pro
+  
+
+
+    [29]
+   
+
+  though tear-downs show that it uses removable memory but accessing the modules requires ungluing the screen and removing the logic board.
+  
+
+    [30]
+   
+
+  The 27 in version features an access port to upgrade memory without disassembling the display.
+  
+
+    [31]
+   
+
+  Apple also upgraded the computers' processors, using Intel's
+  
+   Ivy Bridge
+  
+
+   microarchitecture
+  
+  -based Core i5 and Core i7 microprocessors.
+ 
+  Video cards are now
+  
+   Nvidia
+  
+  as standard. USB 3.0 ports are now included for the first time. The 2012 iMac also features the option of a
+  
+   Fusion Drive
+  
+  which combines an
+  
+   SSD
+  
+  and a conventional
+  
+   HDD
+  
+  to create more efficient and faster storage. Apple also removed the built-in optical drive starting with this iMac generation.
+ 
+  On March 5, 2013, Apple quietly announced an education-only version of the iMac, with less powerful specs for a cheaper price. It includes a 3.3 GHz dual-core Intel i3 processor, 4 GB of memory, a 500 GB hard drive and Intel HD Graphics 4000, retailing for US$1099, $200 cheaper than the base-level consumer iMac.
+  
+
+    [32]
+   
+
+
+  On September 24, 2013, the 2012 iMac model was updated with 4th-generation Intel Haswell processors and Nvidia 7xx series GPU, promising up to 1.4x improvements in performance. It also has 802.11ac Wi-Fi, which is capable of reaching speeds up to 1300 Mbit/s and PCIe-based flash storage, offering up to 1.5x the performance of previous-generation (Ivy Bridge) iMacs. This applies to both the Fusion Drive and pure-SSD options.
+ 
+  A
+  
+   Retina Display
+  
+  "5K" model with a resolution of 5120 × 2880 was introduced alongside the previous year's models during a keynote on October 16, 2014. This 27-inch model was given faster Haswell processors and its two Thunderbolt ports were updated to Thunderbolt 2. Secondary storage was also upgraded to a 1TB Fusion drive as standard and video options changed over to AMD Radeon R9 M290X and M295X. A 21.5-inch "4K" model with a resolution of 4096 × 2304 was released on October 13, 2015.
+ 

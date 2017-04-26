@@ -1,0 +1,156 @@
+
+
+  A modern computer
+  
+   operating system
+  
+  usually segregates
+  
+   virtual memory
+  
+  into kernel space and
+  
+   user space
+  
+  .
+  
+
+    [a]
+   
+
+  Primarily, this separation serves to provide
+  
+   memory protection
+  
+  and hardware protection from malicious or errant software behaviour.
+ 
+
+
+
+   Kernel space
+  
+  is strictly reserved for running a privileged
+  
+   operating system kernel
+  
+  , kernel extensions, and most
+  
+   device drivers
+  
+  . In contrast, user space is the memory area where
+  
+   application software
+  
+  and some drivers execute.
+ 
+
+
+  The term
+  
+   userland
+  
+  (or user space) refers to all code that runs outside the operating system's kernel.
+  
+
+    [1]
+   
+
+  Userland usually refers to the various programs and
+  
+   libraries
+  
+  that the operating system uses to interact with the kernel: software that performs
+  
+   input/output
+  
+  , manipulates
+  
+   file system
+  
+  objects,
+  
+   application software
+  
+  , etc.
+ 
+  Each user space
+  
+   process
+  
+  normally runs in its own
+  
+   virtual memory
+  
+  space, and, unless explicitly allowed, cannot access the memory of other processes. This is the basis for
+  
+   memory protection
+  
+  in today's mainstream operating systems, and a building block for
+  
+   privilege separation
+  
+  . A separate user mode can also be used to build efficient virtual machines – see
+  
+   Popek and Goldberg virtualization requirements
+  
+  . Depending on the privileges, processes can request the kernel to map part of another process's memory space to its own, as is the case for
+  
+   debuggers
+  
+  . Programs can also request
+  
+   shared memory
+  
+  regions with other processes, although other techniques are also available to allow
+  
+   inter-process communication
+  
+  .
+ 
+  The most common way of implementing a
+  
+   user mode
+  
+  separate from
+  
+   kernel mode
+  
+  involves operating system
+  
+   protection rings
+  
+  .
+ 
+  Another approach taken in experimental operating systems is to have a single
+  
+   address space
+  
+  for all software, and rely on the programming language's
+  
+   virtual machine
+  
+  to make sure that arbitrary memory cannot be accessed – applications simply cannot acquire any
+  
+   references
+  
+  to the objects that they are not allowed to access.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  This approach has been implemented in
+  
+   JXOS
+  
+  , Unununium as well as Microsoft's
+  
+   Singularity
+  
+  research project.
+ 

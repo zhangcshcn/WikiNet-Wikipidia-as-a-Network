@@ -1,0 +1,290 @@
+
+
+  As a result of the increasing popularity and dominance of the
+  
+   Google search engine
+  
+  ,
+  
+
+    [1]
+   
+
+  usage of the
+  
+   transitive verb
+  
+
+
+    [2]
+   
+
+
+   to google
+  
+  (also spelled
+  
+   Google
+  
+  ) grew ubiquitously. The
+  
+   neologism
+  
+  commonly refers to searching for information on the
+  
+   World Wide Web
+  
+  , regardless of which
+  
+   search engine
+  
+  is used.
+  
+
+    [3]
+   
+
+  The
+  
+   American Dialect Society
+  
+  chose it as the "most useful word of 2002."
+  
+
+    [4]
+   
+
+  It was added to the
+  
+
+    Oxford English Dictionary
+   
+
+  on June 15, 2006,
+  
+
+    [5]
+   
+
+  and to the eleventh edition of the
+  
+
+    Merriam-Webster Collegiate Dictionary
+   
+
+  in July 2006.
+  
+
+    [6]
+   
+
+
+
+
+  The first recorded usage of
+  
+   google
+  
+  used as a
+  
+   participle
+  
+  , thus supposing an
+  
+   intransitive verb
+  
+  , was on July 8, 1998, by
+  
+   Google
+  
+  co-founder
+  
+   Larry Page
+  
+  himself, who wrote on a mailing list: "Have fun and keep googling!"
+  
+
+    [7]
+   
+
+  Its earliest known use (as a transitive verb) on American television was in the "
+  
+   Help
+  
+  " episode of
+  
+
+    Buffy the Vampire Slayer
+   
+
+  (October 15, 2002), when
+  
+   Willow
+  
+  asked
+  
+   Buffy
+  
+  , "Have you googled her yet?"
+  
+
+    [8]
+   
+
+  On February 23, 2003,
+  
+
+    [9]
+   
+
+  the company sent a
+  
+   cease and desist
+  
+  letter to
+  
+   Paul McFedries
+  
+  , creator of
+  
+   Word Spy
+  
+  , a website that tracks
+  
+   neologisms
+  
+  .
+  
+
+    [10]
+   
+
+  In an article in the
+  
+
+    Washington Post
+   
+
+  , Frank Ahrens discussed the letter he received from a Google lawyer that demonstrated "appropriate" and "inappropriate" ways to use the verb "google".
+  
+
+    [11]
+   
+
+  It was reported that, in response to this concern,
+  
+   lexicographers
+  
+  for the
+  
+   Merriam-Webster Collegiate Dictionary
+  
+  lowercased the actual entry for the word,
+  
+   google
+  
+  , while maintaining the capitalization of the search engine in their definition, "to use the
+  
+   Google search engine
+  
+  to seek online information" (a concern which did not deter the Oxford editors from preserving the history of both "cases").
+  
+
+    [12]
+   
+
+  On October 25, 2006, Google sent a request to the public requesting that "You should please only use 'Google' when you’re actually referring to Google Inc. and our services."
+  
+
+    [13]
+   
+
+
+  Ungoogleable, (or unGoogleable) is a term for something that cannot be "googled" – i.e. it is a term for something that cannot be found easily using the
+  
+   Google Search
+  
+
+   web search engine
+  
+  . It is increasingly used to mean something that cannot be found using any web search engine.
+  
+
+    [14]
+   
+
+
+  In 2013 the
+  
+   Swedish Language Council
+  
+  attempted to include the
+  
+   Swedish
+  
+  version of the word ("
+  
+
+    ogooglebar
+   
+
+  ") in its list of new words, but Google objected to the definition not being specifically related to Google, and the Council was forced to briefly remove it to avoid a legal confrontation with Google.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+
+  Google Search generally ignores punctuation and
+  
+   letter case
+  
+  even when using the "quotation" operator to denote exact searches.
+  
+
+    [17]
+   
+
+  Thus, Google may not be able to differentiate terms for which punctuation impacts meaning—for example, "man eating chicken" and "man-eating chicken" (the former meaning a human who is consuming chicken meat and the latter a chicken that eats humans). Because Google treats upper and lower case letters as one and the same, it also is unable to differentiate between the pronoun
+  
+
+    he
+   
+
+  and the surname
+  
+
+    He
+   
+
+  , which, when combined with its disregard for punctuation, could bury results for an obscure person named
+  
+   "Thomas He"
+  
+  among results such as:
+ 
+  The above also exemplifies how Google's
+  
+   PageRank
+  
+  algorithm, which sorts results by "importance", could also cause something to become ungoogleable: results for those with the 17th most common Chinese surname
+  
+
+    [19]
+   
+
+  are difficult to separate from results containing the 16th
+  
+   most common word in English
+  
+  . In other words, a specific subject may be ungoogleable because its results are a
+  
+   needle in a haystack
+  
+  of results for a more "important" term.
+ 

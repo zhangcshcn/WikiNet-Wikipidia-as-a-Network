@@ -1,0 +1,3009 @@
+
+
+
+   macOS
+  
+  (pronounced
+  
+
+
+     /
+     
+
+       ˌ
+      
+
+       m
+      
+
+       æ
+      
+
+       k
+      
+
+       oʊ
+      
+
+       ɛ
+      
+
+       s
+      
+
+     /
+    
+
+
+  ;
+  
+
+    [5]
+   
+
+  previously
+  
+   Mac OS X
+  
+  , then
+  
+   OS X
+  
+  ) is the current series of
+  
+   Unix-based
+  
+
+   graphical
+  
+
+   operating systems
+  
+  developed and marketed by
+  
+   Apple Inc.
+  
+  designed to run on Apple's
+  
+   Macintosh
+  
+  computers ("Macs"), having been preinstalled on all Macs since 2002. Within the market of desktop, laptop and home computers, and by web usage, it is the
+  
+   second most widely used desktop OS
+  
+  after
+  
+   Microsoft Windows
+  
+  .
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+  Launched in 2001 as Mac OS X, the series is the latest in the family of
+  
+   Macintosh operating systems
+  
+  . Mac OS X succeeded
+  
+   "classic" Mac OS
+  
+  , which was introduced in 1984, and the final release of which was
+  
+   Mac OS 9
+  
+  in 1999. An initial, early version of the system,
+  
+   Mac OS X Server 1.0
+  
+  , was released in 1999. The first desktop version,
+  
+   Mac OS X 10.0
+  
+  , followed in March 2001. In 2012, Apple rebranded Mac OS X to OS X. Releases were
+  
+   code named
+  
+  after
+  
+   big cats
+  
+  from the original release up until
+  
+   OS X 10.8 Mountain Lion
+  
+  . Beginning in 2013 with
+  
+   OS X 10.9 Mavericks
+  
+  , releases have been named after
+  
+   landmarks
+  
+  in
+  
+   California
+  
+  .
+  
+
+    [8]
+   
+
+  In 2016, Apple rebranded OS X to macOS, adopting the
+  
+   nomenclature
+  
+  that it uses for their other operating systems,
+  
+   iOS
+  
+  ,
+  
+   watchOS
+  
+  , and
+  
+   tvOS
+  
+  . The latest version of macOS is
+  
+   macOS 10.12 Sierra
+  
+  , which was publicly released in September 2016.
+ 
+  macOS is based on technologies developed at
+  
+   NeXT
+  
+  between 1985 and 1997, when Apple acquired the company. The "X" in Mac OS X and OS X is pronounced "ten", as it is the
+  
+   Roman numeral
+  
+  for the number 10. The X was a prominent part of the operating system's
+  
+   brand identity
+  
+  , and was used to showcase its
+  
+   Unix
+  
+  compatibility;
+  
+   UNIX 03
+  
+  certification was achieved for the
+  
+   Intel
+  
+  version of
+  
+   Mac OS X 10.5 Leopard
+  
+
+
+    [9]
+   
+
+  and all releases from
+  
+   Mac OS X 10.6 Snow Leopard
+  
+  up to the current version also have UNIX 03 certification.
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+  macOS shares its Unix-based core, named
+  
+   Darwin
+  
+  , and many of its
+  
+   frameworks
+  
+  with
+  
+   iOS
+  
+  ,
+  
+
+    [17]
+   
+
+
+   tvOS
+  
+  and
+  
+   watchOS
+  
+  . A heavily modified version of
+  
+   Mac OS X 10.4 Tiger
+  
+  was used for the first-generation
+  
+   Apple TV
+  
+  .
+  
+
+    [18]
+   
+
+
+  Apple also used to have a
+  
+   separate line of releases
+  
+  of Mac OS X designed for
+  
+   servers
+  
+  . Beginning with
+  
+   Mac OS X 10.7 Lion
+  
+  , the server functions were made available as a separate package on the
+  
+   Mac App Store
+  
+  .
+ 
+  Releases of Mac OS X from 1999 to 2005 can run only on the
+  
+   PowerPC
+  
+  -based Macs from the time period. After Apple
+  
+   announced that they were switching to Intel CPUs
+  
+  from 2006 onwards, a separate version of
+  
+   Mac OS X 10.4 Tiger
+  
+  was made and distributed exclusively with early Intel-based Macs; it included an emulator known as
+  
+   Rosetta
+  
+  , which allowed users to run most PowerPC applications on Intel-based Macs.
+  
+   Mac OS X 10.5 Leopard
+  
+  was released as a
+  
+   Universal binary
+  
+  , meaning the installer disc supported both Intel and PowerPC processors. In 2009, Apple released
+  
+   Mac OS X 10.6 Snow Leopard
+  
+  , which ran exclusively on Intel-based Macs. In 2011, Apple released
+  
+   Mac OS X 10.7 Lion
+  
+  , which no longer supported 32-bit Intel processors and also did not include Rosetta. All versions of the system released since then run exclusively on 64-bit Intel CPUs and do not support PowerPC applications.
+ 
+
+
+  The heritage of what would become macOS had originated at
+  
+   NeXT
+  
+  , a company founded by
+  
+   Steve Jobs
+  
+  following his departure from Apple in 1985. There, the
+  
+   Unix-like
+  
+
+   NeXTSTEP
+  
+  operating system was developed, and then launched in 1989. The
+  
+   kernel
+  
+  of NeXTSTEP is based upon the
+  
+   Mach kernel
+  
+  , which was originally developed at
+  
+   Carnegie Mellon University
+  
+  , with additional kernel layers and low-level
+  
+   user space
+  
+  code derived from parts of
+  
+   BSD
+  
+  . Its
+  
+   graphical user interface
+  
+  was built on top of an
+  
+   object-oriented
+  
+
+   GUI toolkit
+  
+  using the
+  
+
+    Objective-C
+   
+
+  programming language.
+ 
+  Throughout the early 1990s, Apple had tried to create a "next-generation" OS to succeed its
+  
+   classic Mac OS
+  
+  through the
+  
+   Taligent
+  
+  ,
+  
+   Copland
+  
+  and
+  
+   Gershwin
+  
+  projects, but all of them were eventually abandoned.
+  
+
+    [19]
+   
+
+  This led Apple to purchase
+  
+   NeXT
+  
+  in 1996, allowing NeXTSTEP, then called
+  
+   OPENSTEP
+  
+  , to serve as the basis for Apple's next generation operating system.
+  
+
+    [20]
+   
+
+  This purchase also led to Steve Jobs returning to Apple as an interim, and then the permanent CEO, shepherding the transformation of the programmer-friendly OPENSTEP into a system that would be adopted by Apple's primary market of home users and creative professionals. The project was first code named "
+  
+   Rhapsody
+  
+  " and then officially named Mac OS X.
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+
+  Mac OS X was originally presented as the tenth major version of Apple's operating system for
+  
+   Macintosh
+  
+  computers; current versions of macOS retain the major version number "10". Previous Macintosh operating systems (versions of the
+  
+   classic Mac OS
+  
+  ) were named using
+  
+   Arabic numerals
+  
+  , e.g.
+  
+   Mac OS 8
+  
+  and
+  
+   Mac OS 9
+  
+  . The letter "X" in Mac OS X's name refers to the number 10, a
+  
+   Roman numeral
+  
+  . It is therefore correctly pronounced "ten"
+  
+
+
+     /
+     
+
+       ˈ
+      
+
+       t
+      
+
+       ɛ
+      
+
+       n
+      
+
+     /
+    
+
+
+  in this context.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+  However, a common mispronunciation is "X"
+  
+
+
+     /
+     
+
+       ˈ
+      
+
+       ɛ
+      
+
+       k
+      
+
+       s
+      
+
+     /
+    
+
+
+  .
+  
+
+    [25]
+   
+
+
+  The first version of Mac OS X,
+  
+   Mac OS X Server 1.0
+  
+  , was a transitional product, featuring an interface resembling the
+  
+   classic Mac OS
+  
+  , though it was not compatible with software designed for the older system. Consumer releases of Mac OS X included more
+  
+   backward compatibility
+  
+  . Mac OS applications could be rewritten to run natively via the
+  
+   Carbon API
+  
+  ; many could also be run directly through the
+  
+   Classic Environment
+  
+  with a reduction in performance.
+ 
+  The consumer version of Mac OS X was launched in 2001 with
+  
+   Mac OS X 10.0
+  
+  . Reviews were variable, with extensive praise for its sophisticated, glossy
+  
+   Aqua interface
+  
+  but criticizing it for sluggish performance.
+  
+
+    [26]
+   
+
+  With Apple's popularity at a low, the makers of several classic Mac applications such as
+  
+   FrameMaker
+  
+  and
+  
+   PageMaker
+  
+  declined to develop new versions of their software for Mac OS X.
+  
+
+    [27]
+   
+
+
+
+    Ars Technica
+   
+
+  columnist John Siracusa, who reviewed every major OS X release up to 10.10, described the early releases in retrospect as 'dog-slow, feature poor' and Aqua as 'unbearably slow and a huge resource hog'.
+  
+
+    [26]
+   
+
+
+
+    [28]
+   
+
+
+
+    [29]
+   
+
+
+  Apple rapidly developed several new releases of Mac OS X. Siracusa's review of version 10.3,
+  
+   Panther
+  
+  , noted "It's strange to have gone from years of uncertainty and
+  
+   vaporware
+  
+  to a steady annual supply of major new operating system releases."
+  
+
+    [30]
+   
+
+  Version 10.4,
+  
+   Tiger
+  
+  , reportedly shocked executives at
+  
+   Microsoft
+  
+  by offering a number of features, such as fast file searching and improved graphics processing, that Microsoft had spent
+  
+   several years struggling
+  
+  to add to
+  
+   Windows
+  
+  with acceptable performance.
+  
+
+    [31]
+   
+
+
+  In 2006, the first
+  
+   Intel
+  
+  Macs released used a specialized version of
+  
+   Mac OS X 10.4 Tiger
+  
+  .
+  
+
+    [32]
+   
+
+  In 2007,
+  
+   Mac OS X 10.5 Leopard
+  
+  was the first to run on both PowerPC and Intel Macs with the use of
+  
+   universal binaries
+  
+  .
+  
+
+    [33]
+   
+
+
+   Mac OS X 10.6 Snow Leopard
+  
+  was the first version of OS X to drop support for
+  
+   PowerPC
+  
+  Macs.
+  
+
+    [34]
+   
+
+
+  As the operating system evolved, it moved away from the
+  
+   classic Mac OS
+  
+  , with applications being added and removed. Targeting the consumer and media markets, Apple emphasized its new "digital lifestyle" applications such as the
+  
+   iLife
+  
+  suite, integrated home entertainment through the
+  
+   Front Row
+  
+  media center and the
+  
+   Safari
+  
+  web browser.
+  
+
+    [35]
+   
+
+  With increasing popularity of the internet, Apple offered additional online services, including the .Mac,
+  
+   MobileMe
+  
+  and most recently
+  
+   iCloud
+  
+  products. It also began selling third-party applications through the
+  
+   Mac App Store
+  
+  .
+ 
+  Newer versions of Mac OS X also included modifications to the general interface, moving away from the striped gloss and transparency of the initial versions. Some applications began to use a
+  
+   brushed metal
+  
+  appearance, or non-pinstriped titlebar appearance in version 10.4.
+  
+
+    [36]
+   
+
+  In Leopard, Apple announced a unification of the interface, with a standardized gray-gradient window style.
+  
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+
+  A key development for the system was the announcement and release of the
+  
+   iPhone
+  
+  from 2007 onwards. While Apple's previous
+  
+   iPod
+  
+  media players used a
+  
+   minimal
+  
+  operating system, the iPhone used an operating system based on Mac OS X, which would later be called "iPhone OS" and then
+  
+   iOS
+  
+  . The simultaneous release of two operating systems based on the same frameworks placed tension on Apple, which cited the iPhone as forcing it to delay
+  
+   Mac OS X 10.5 Leopard
+  
+  .
+  
+
+    [39]
+   
+
+  However, after Apple opened the iPhone to third-party developers its commercial success drew attention to Mac OS X, with many iPhone software developers showing interest in Mac development.
+  
+
+    [40]
+   
+
+
+  In two succeeding versions,
+  
+   Lion
+  
+  and
+  
+   Mountain Lion
+  
+  , Apple moved some applications to a highly
+  
+   skeumorphic
+  
+  style of design inspired by contemporary versions of iOS, at the same time simplifying some elements by making controls such as scroll bars fade out when not in use.
+  
+
+    [28]
+   
+
+  This direction was, like brushed metal interfaces, unpopular with some users, although it continued a trend of greater animation and variety in the interface previously seen in design aspects such as the
+  
+   Time Machine
+  
+
+   backup
+  
+  utility, which presented past file versions against a swirling nebula, and the glossy translucent
+  
+   dock
+  
+  of
+  
+   Leopard
+  
+  and
+  
+   Snow Leopard
+  
+  .
+  
+
+    [41]
+   
+
+  In addition, with
+  
+   Mac OS X 10.7 Lion
+  
+  , Apple ceased to release separate
+  
+   server
+  
+  versions of Mac OS X, selling server tools as a separate downloadable application through the Mac App Store. A review described the trend in the server products as becoming "cheaper and simpler... shifting its focus from large businesses to small ones."
+  
+
+    [42]
+   
+
+
+  In 2012, with the release of
+  
+   OS X 10.8 Mountain Lion
+  
+  , the name of the system was shortened from Mac OS X to OS X. That year, Apple removed the head of OS X development,
+  
+   Scott Forstall
+  
+  , and design was changed towards a more minimal direction.
+  
+
+    [43]
+   
+
+  Apple's new user interface design, using deep color saturation, text-only buttons and a minimal, 'flat' interface, was debuted with
+  
+   iOS 7
+  
+  in 2013. With OS X engineers reportedly working on iOS 7, the version released in 2013,
+  
+   OS X 10.9 Mavericks
+  
+  , was something of a transitional release, with some of the skeumorphic design removed, while most of the general interface of Mavericks remained unchanged.
+  
+
+    [44]
+   
+
+  The next version,
+  
+   OS X 10.10 Yosemite
+  
+  , adopted a design similar to
+  
+   iOS 7
+  
+  but with greater complexity suitable for an interface controlled with a mouse.
+  
+
+    [45]
+   
+
+
+  From 2012 onwards, the system has shifted to an annual release schedule similar to that of
+  
+   iOS
+  
+  . It also steadily cut the cost of updates from Snow Leopard onwards, before removing upgrade fees altogether from 2013 onwards.
+  
+
+    [46]
+   
+
+  Some journalists and third-party software developers have suggested that this decision, while allowing more rapid feature release, meant less opportunity to focus on stability, with no version of OS X recommendable for users requiring stability and performance above new features.
+  
+
+    [47]
+   
+
+  Apple's 2015 update,
+  
+   OS X 10.11 El Capitan
+  
+  , was announced to focus specifically on stability and performance improvements.
+ 
+  In 2016, with the release of
+  
+   macOS 10.12 Sierra
+  
+  , the name was changed from OS X to macOS. macOS 10.12 Sierra's main features are the introduction of
+  
+   Siri
+  
+  to macOS, Optimized Storage, improvements to included applications, and greater integration with Apple's
+  
+   iPhone
+  
+  and
+  
+   Apple Watch
+  
+  . The
+  
+   Apple File System
+  
+  was announced at the
+  
+   Apple Worldwide Developers Conference
+  
+  in 2016 as a replacement for
+  
+   HFS Plus
+  
+  , a highly-criticized file system. This new file system will be implemented at a later date.
+  
+
+    [48]
+   
+
+
+  At macOS's core is a
+  
+   POSIX
+  
+  compliant operating system built on top of the
+  
+   XNU
+  
+
+   kernel
+  
+  , with standard Unix facilities available from the
+  
+   command line interface
+  
+  . Apple has released this family of software as a
+  
+   free
+  
+  and
+  
+   open source
+  
+  operating system named
+  
+   Darwin
+  
+  . On top of Darwin, Apple layered a number of components, including the
+  
+   Aqua
+  
+  interface and the
+  
+   Finder
+  
+  , to complete the
+  
+   GUI
+  
+  -based operating system which is macOS.
+  
+
+    [49]
+   
+
+
+  With its original introduction as Mac OS X, the system brought a number of new capabilities to provide a more stable and reliable platform than its predecessor, the
+  
+   classic Mac OS
+  
+  . For example,
+  
+   pre-emptive multitasking
+  
+  and
+  
+   memory protection
+  
+  improved the system's ability to run multiple applications simultaneously without them interrupting or corrupting each other.
+  
+
+    [50]
+   
+
+  Many aspects of macOS's architecture are derived from
+  
+   OPENSTEP
+  
+  , which was designed to be portable, to ease the transition from one platform to another. For example,
+  
+   NeXTSTEP
+  
+  was ported from the original
+  
+   68k
+  
+  -based NeXT workstations to
+  
+   x86
+  
+  and other architectures before NeXT was purchased by Apple,
+  
+
+    [51]
+   
+
+  and OPENSTEP was later ported to the
+  
+   PowerPC
+  
+  architecture as part of the
+  
+   Rhapsody project
+  
+  .
+ 
+  The default macOS
+  
+   file system
+  
+  is
+  
+   HFS+
+  
+  , which it inherited from the classic Mac OS. Operating system designer
+  
+   Linus Torvalds
+  
+  has criticized HFS+, saying it is "probably the worst file system ever", whose design is "actively corrupting user data". He criticized the
+  
+   case insensitivity
+  
+  of file names, a design made worse when Apple extended the file system to support
+  
+   Unicode
+  
+  .
+  
+
+    [52]
+   
+
+
+
+    [53]
+   
+
+  Initially, HFS+ was designed for classic Mac OS, which runs on
+  
+   big-endian
+  
+
+   68K
+  
+  and
+  
+   PowerPC
+  
+  systems. When Apple switched Macintosh to little-endian Intel processors, it continued to use big-endian byte order on HFS+ file systems. As a result, macOS on current Macs must do
+  
+   byte swap
+  
+  when it reads file system data.
+  
+
+    [54]
+   
+
+
+
+    [55]
+   
+
+  These concerns are being addressed with the new
+  
+   Apple File System
+  
+  , which will be included in a later update.
+ 
+  The
+  
+   Darwin
+  
+  subsystem in macOS is in charge of managing the file system, which includes the Unix
+  
+   permissions
+  
+  layer. In 2003 and 2005, two
+  
+   Macworld
+  
+  editors expressed criticism of the permission scheme; Ted Landau called misconfigured permissions "the most common frustration" in macOS, while Rob Griffiths suggested that some users may even have to
+  
+   reset permissions
+  
+  every day, a process which can take up to 15 minutes.
+  
+
+    [56]
+   
+
+  More recently, another Macworld editor, Dan Frakes, called the procedure of repairing permissions vastly overused.
+  
+
+    [57]
+   
+
+  He argues that macOS typically handles permissions properly without user interference, and resetting permissions should just be tried when problems emerge.
+  
+
+    [58]
+   
+
+
+  The architecture of macOS incorporates a layered design:
+  
+
+    [59]
+   
+
+  the layered frameworks aid rapid development of applications by providing existing code for common tasks.
+  
+
+    [60]
+   
+
+  Apple provides its own
+  
+   software development
+  
+  tools, most prominently an
+  
+   integrated development environment
+  
+  called
+  
+   Xcode
+  
+  . Xcode provides interfaces to
+  
+   compilers
+  
+  that support several
+  
+   programming languages
+  
+  including
+  
+   C
+  
+  ,
+  
+   C++
+  
+  ,
+  
+   Objective-C
+  
+  , and
+  
+   Swift
+  
+  . For the
+  
+   Apple–Intel transition
+  
+  , it was modified so that developers could build their applications as a
+  
+   universal binary
+  
+  , which provides compatibility with both the Intel-based and PowerPC-based Macintosh lines.
+  
+
+    [61]
+   
+
+  First and third-party applications can be controlled programatically using the
+  
+   AppleScript
+  
+  framework,
+  
+
+    [62]
+   
+
+  retained from the
+  
+   classic Mac OS
+  
+  ,
+  
+
+    [63]
+   
+
+  or using the newer
+  
+   Automator
+  
+  application that offers pre-written tasks that do not require programming knowledge.
+  
+
+    [64]
+   
+
+
+  Apple offered two main
+  
+   APIs
+  
+  to develop software natively for macOS:
+  
+   Cocoa
+  
+  and
+  
+   Carbon
+  
+  . Cocoa was a descendant of APIs inherited from
+  
+   OPENSTEP
+  
+  with no ancestry from the
+  
+   classic Mac OS
+  
+  , while Carbon was an adaptation of classic Mac OS APIs, allowing Mac software to be minimally rewritten in order to run natively on Mac OS X.
+ 
+  The Cocoa API was created as the result of a 1993 collaboration between
+  
+   NeXT Computer
+  
+  and
+  
+   Sun Microsystems
+  
+  . This heritage is highly visible for Cocoa developers, since the "NS" prefix is ubiquitous in the framework, standing variously for
+  
+   N
+  
+  eXT
+  
+   S
+  
+  TEP or
+  
+   N
+  
+  eXT/
+  
+
+    S
+   
+   un
+  
+  . The official OPENSTEP API, published in September 1994, was the first to split the API between Foundation and ApplicationKit and the first to use the "NS" prefix.
+  
+
+    [51]
+   
+
+  Traditionally, Cocoa programs have been mostly written in
+  
+   Objective-C
+  
+  , with Java as an alternative. However, on July 11, 2005, Apple announced that "features added to Cocoa in Mac OS X versions later than 10.4 will not be added to the Cocoa-Java programming interface."
+  
+
+    [65]
+   
+
+  macOS also used to support the
+  
+   Java Platform
+  
+  as a "preferred software package"—in practice this means that applications written in Java fit as neatly into the operating system as possible while still being
+  
+   cross-platform
+  
+  compatible, and that graphical user interfaces written in
+  
+   Swing
+  
+  look almost exactly like native Cocoa interfaces. Since 2014, Apple has promoted its new programming language
+  
+   Swift
+  
+  as the preferred language for software development on Apple platforms.
+ 
+  Apple's original plan with macOS was to require all developers to rewrite their software into the Cocoa APIs. This caused much outcry among existing Mac developers, who threatened to abandon the platform rather than invest in a costly rewrite, and the idea was shelved.
+  
+
+    [22]
+   
+
+
+
+    [66]
+   
+
+  To permit a smooth transition from Mac OS 9 to Mac OS X, the
+  
+   Carbon
+  
+
+   Application Programming Interface
+  
+  (API) was created.
+  
+
+    [22]
+   
+
+  Applications written with Carbon were initially able to run natively on both classic Mac OS and Mac OS X, although this ability was later dropped as Mac OS X developed. Carbon was not included in the first product sold as Mac OS X: the little-used original release of
+  
+   Mac OS X Server 1.0
+  
+  , which also did not include the Aqua interface.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Apple limited further development of Carbon from the release of Leopard onwards, announcing Carbon applications would not receive the ability to run at 64-bit.
+  
+
+    [66]
+   
+
+  As of 2015, a small number of older Mac OS X apps with heritage dating back to the classic Mac OS still used Carbon, including
+  
+   Microsoft Office
+  
+  . Early versions of macOS could also run some classic Mac OS applications through the
+  
+   Classic Environment
+  
+  with performance limitations; this feature was removed from 10.5 onwards and all Macs using Intel processors.
+ 
+  Because macOS is
+  
+   POSIX
+  
+  compliant, many software packages written for the other
+  
+   Unix-like
+  
+  systems such as
+  
+   Linux
+  
+  can be recompiled to run on it, including much scientific and technical software.
+  
+
+    [67]
+   
+
+  Third-party projects such as
+  
+   Homebrew
+  
+  ,
+  
+   Fink
+  
+  ,
+  
+   MacPorts
+  
+  and
+  
+   pkgsrc
+  
+  provide pre-compiled or pre-formatted packages. Apple and others have provided versions of the
+  
+   X Window System
+  
+  graphical interface which can allow these applications to run with an approximation of the macOS look-and-feel.
+  
+
+    [68]
+   
+
+
+
+    [69]
+   
+
+
+
+    [70]
+   
+
+  The current Apple-endorsed method is the open-source
+  
+   XQuartz
+  
+  project; earlier versions could use the
+  
+   X11
+  
+  application provided by Apple, or before that the
+  
+   XDarwin
+  
+  project.
+  
+
+    [71]
+   
+
+
+  Applications can be distributed to Macs and installed by the user from any source and by any method such as downloading (with or without
+  
+   code signing
+  
+  , available via an Apple developer account) or through the
+  
+   Mac App Store
+  
+  , a marketplace of software maintained by Apple by way of a process requiring the company's approval. Apps installed through the Mac App Store run within a
+  
+   sandbox
+  
+  , restricting their ability to exchange information with other applications or modify the core operating system and its features. This has been cited as an advantage, by allowing users to install apps with confidence that they should not be able to damage their system, but also as a disadvantage, by blocking the Mac App Store's use by professional applications that require elevated privileges.
+  
+
+    [72]
+   
+
+
+
+    [73]
+   
+
+  Applications without any code signature cannot be run by default except from a computer's administrator account.
+  
+
+    [74]
+   
+
+
+
+    [75]
+   
+
+
+  Apple produces macOS applications, some of which are included and some sold separately. This includes
+  
+   iWork
+  
+  ,
+  
+   Final Cut Pro
+  
+  ,
+  
+   Logic Pro
+  
+  ,
+  
+   iLife
+  
+  , and the database application
+  
+   FileMaker
+  
+  . Numerous other developers also offer
+  
+   software for macOS
+  
+  .
+ 
+  Tools such as
+  
+   XPostFacto
+  
+  and patches applied to the installation media have been developed by third parties to enable installation of newer versions of macOS on systems not officially supported by Apple. This includes a number of pre-G3 Power Macintosh systems that can be made to run up to and including Mac OS X 10.2 Jaguar, all G3-based Macs which can run up to and including Tiger, and sub-867 MHz G4 Macs can run Leopard by removing the restriction from the installation DVD or entering a command in the Mac's
+  
+   Open Firmware
+  
+  interface to tell the Leopard Installer that it has a clock rate of 867 MHz or greater. Except for features requiring specific hardware (e.g. graphics acceleration or DVD writing), the operating system offers the same functionality on all supported hardware.
+ 
+  As most Mac hardware components, or components similar to those, since the Intel transition are available for purchase,
+  
+
+    [78]
+   
+
+  some technology-capable groups have developed software to install macOS on non-Apple computers. These are referred to as
+  
+   Hackintoshes
+  
+  , a
+  
+   portmanteau
+  
+  of the words "hack" and "Macintosh". This violates Apple's
+  
+   EULA
+  
+  (and is therefore unsupported by Apple technical support, warranties etc.), but communities that cater to personal users, who do not install for resale and profit, have generally been ignored by Apple.
+  
+
+    [79]
+   
+
+
+
+    [80]
+   
+
+
+
+    [81]
+   
+
+  These self-made computers allow more flexibility and customization of hardware, but at a cost of leaving the user more responsible for their own machine, such as on matter of data integrity or security.
+  
+
+    [82]
+   
+
+
+   Psystar
+  
+  , a business that attempted to profit from selling macOS on non-Apple certified hardware, was sued by Apple in 2008.
+  
+
+    [83]
+   
+
+
+  In April 2002, eWeek announced a rumor that Apple had a version of Mac OS X code-named
+  
+   Marklar
+  
+  , which ran on
+  
+   Intel x86
+  
+  processors. The idea behind Marklar was to keep Mac OS X running on an alternative platform should Apple become dissatisfied with the progress of the
+  
+   PowerPC
+  
+  platform.
+  
+
+    [84]
+   
+
+  These rumors subsided until late in May 2005, when various media outlets, such as
+  
+
+    The Wall Street Journal
+   
+
+
+
+    [85]
+   
+
+  and
+  
+   CNET
+  
+  ,
+  
+
+    [86]
+   
+
+  announced that Apple would unveil Marklar in the coming months.
+  
+
+    [87]
+   
+
+
+
+    [88]
+   
+
+
+
+    [89]
+   
+
+
+  On June 6, 2005, Steve Jobs announced in his keynote address at the annual Apple
+  
+   Worldwide Developers Conference
+  
+  that Apple would be making the transition from PowerPC to
+  
+   Intel
+  
+  processors over the following two years, and that Mac OS X would support both platforms during the transition. Jobs also confirmed rumors that Apple had versions of Mac OS X running on Intel processors for most of its developmental life. Intel-based Macs would run a new recompiled version of OS X along with
+  
+   Rosetta
+  
+  , a
+  
+   binary translation
+  
+  layer which enables software compiled for PowerPC Mac OS X to run on Intel Mac OS X machines.
+  
+
+    [90]
+   
+
+  The system was included with Mac OS X versions up to version 10.6.8.
+  
+
+    [91]
+   
+
+  Apple dropped support for Classic mode on the new Intel Macs. Third party emulation software such as
+  
+   Mini vMac
+  
+  ,
+  
+   Basilisk II
+  
+  and
+  
+   SheepShaver
+  
+  provided support for some early versions of Mac OS. A new version of Xcode and the underlying command-line compilers supported building
+  
+   universal binaries
+  
+  that would run on either architecture.
+  
+
+    [92]
+   
+
+
+  PowerPC-only software is supported with Apple's official emulation software,
+  
+   Rosetta
+  
+  , though applications eventually had to be rewritten to run properly on the newer versions released for Intel processors. Apple initially encouraged developers to produce universal binaries with support for both PowerPC and Intel.
+  
+
+    [93]
+   
+
+  There is a performance penalty when PowerPC binaries run on Intel Macs through Rosetta. Moreover, some PowerPC software, such as kernel extensions and System Preferences plugins, are not supported on Intel Macs at all. Some PowerPC applications would not run on macOS at all. Plugins for Safari need to be compiled for the same platform as Safari, so when Safari is running on Intel it requires plug-ins that have been compiled as Intel-only or universal binaries, so PowerPC-only plug-ins will not work.
+  
+
+    [94]
+   
+
+  While Intel Macs are able to run PowerPC, Intel, and universal binaries; PowerPC Macs support only universal and PowerPC builds.
+ 
+  Support for the PowerPC platform was dropped following the transition. In 2009, Apple announced at its
+  
+   Worldwide Developers Conference
+  
+  that Mac OS X 10.6 Snow Leopard would drop support for PowerPC processors and be Intel-only.
+  
+
+    [95]
+   
+
+  Rosetta continued to be offered as an optional download or installation choice in Snow Leopard before it was discontinued with Mac OS X 10.7 Lion.
+  
+
+    [96]
+   
+
+
+
+    [96]
+   
+
+  In addition, new versions of Mac OS X first- and third-party software increasingly required Intel processors, including new versions of iLife, iWork, Aperture and Logic Pro.
+ 
+  One of the major differences between the
+  
+   classic Mac OS
+  
+  and the current macOS was the addition of
+  
+   Aqua
+  
+  , a graphical user interface with water-like elements, in the first major release of Mac OS X. Every window element, text, graphic, or
+  
+   widget
+  
+  is drawn on-screen using
+  
+   spatial anti-aliasing
+  
+  technology.
+  
+
+    [97]
+   
+
+
+   ColorSync
+  
+  , a technology introduced many years before, was improved and built into the core drawing engine, to provide color matching for
+  
+   printing
+  
+  and
+  
+   multimedia
+  
+  professionals.
+  
+
+    [98]
+   
+
+  Also,
+  
+   drop shadows
+  
+  were added around windows and isolated text elements to provide a sense of depth. New interface elements were integrated, including sheets (
+  
+   dialog boxes
+  
+  attached to specific windows) and drawers, which would slide out and provide options.
+ 
+  The use of soft edges, translucent colors, and pinstripes, similar to the hardware design of the first
+  
+   iMacs
+  
+  , brought more texture and color to the user interface when compared to what
+  
+   Mac OS 9
+  
+  and
+  
+   Mac OS X Server 1.0
+  
+  's "
+  
+   Platinum
+  
+  " appearance had offered. According to John Siracusa, an editor of
+  
+   Ars Technica
+  
+  , the introduction of Aqua and its departure from the then conventional look "hit like a ton of bricks."
+  
+
+    [99]
+   
+
+
+   Bruce Tognazzini
+  
+  (who founded the original Apple Human Interface Group) said that the Aqua interface in
+  
+   Mac OS X 10.0
+  
+  represented a step backwards in usability compared with the original Mac OS interface.
+  
+
+    [100]
+   
+
+
+
+    [101]
+   
+
+  Third-party developers started producing
+  
+   skins
+  
+  for customizable applications and other operating systems which mimicked the Aqua appearance. To some extent, Apple has used the successful transition to this new design as leverage, at various times threatening
+  
+   legal action
+  
+  against people who make or distribute software with an interface the company says is derived from its
+  
+   copyrighted
+  
+  design.
+  
+
+    [102]
+   
+
+
+  Apple has continued to change aspects of the macOS appearance and design, particularly with tweaks to the appearance of windows and the menu bar. Since 2012, Apple has sold many of its Mac models with high-resolution
+  
+   Retina displays
+  
+  , and macOS and its
+  
+   APIs
+  
+  have extensive support for resolution-independent development on supporting high-resolution displays. Reviewers have described Apple's support for the technology as superior to that on Windows.
+  
+
+    [103]
+   
+
+
+
+    [104]
+   
+
+
+
+    [105]
+   
+
+
+  The
+  
+   human interface guidelines
+  
+  published by Apple for macOS are followed by many applications, giving them consistent user interface and keyboard shortcuts.
+  
+
+    [106]
+   
+
+  In addition, new services for applications are included, which include spelling and grammar checkers, special characters palette, color picker, font chooser and dictionary; these global features are present in every Cocoa application, adding consistency. The graphics system
+  
+   OpenGL
+  
+  composites windows onto the screen to allow hardware-accelerated drawing. This technology, introduced in version 10.2, is called
+  
+   Quartz Extreme
+  
+  , a component of
+  
+   Quartz
+  
+  . Quartz's internal imaging model correlates well with the
+  
+   Portable Document Format
+  
+  (PDF) imaging model, making it easy to output PDF to multiple devices.
+  
+
+    [98]
+   
+
+  As a side result, PDF viewing and creating PDF documents from any application are built-in features.
+  
+
+    [107]
+   
+
+  Reflecting its popularity with design users, macOS also has system support for a variety of professional video and image formats and includes an extensive pre-installed font library, featuring many prominent brand-name designs.
+  
+
+    [108]
+   
+
+
+  The
+  
+   Finder
+  
+  is a file browser allowing quick access to all areas of the computer, which has been modified throughout subsequent releases of macOS.
+  
+
+    [109]
+   
+
+
+
+    [110]
+   
+
+
+   Quick Look
+  
+  is part of the Finder since
+  
+   version 10.5
+  
+  . It allows for dynamic previews of files, including videos and multi-page documents without opening any other applications.
+  
+   Spotlight
+  
+  , a file searching technology which has been integrated into the Finder since
+  
+   version 10.4
+  
+  , allows rapid real-time searches of data files; mail messages; photos; and other information based on item properties (metadata) and/or content.
+  
+
+    [111]
+   
+
+
+
+    [112]
+   
+
+  macOS makes use of a
+  
+   Dock
+  
+  , which holds file and folder shortcuts as well as minimized windows.
+ 
+  Apple added "Exposé" in
+  
+   version 10.3
+  
+  (called
+  
+   Mission Control
+  
+  since
+  
+   version 10.7
+  
+  ), a feature which includes three functions to help accessibility between windows and desktop. Its functions are to instantly display all open windows as thumbnails for easy navigation to different tasks, display all open windows as thumbnails from the current application, and hide all windows to access the desktop.
+  
+
+    [113]
+   
+
+  Also,
+  
+   FileVault
+  
+  was introduced, which is an optional encryption of the user's files with the 128-bit
+  
+   Advanced Encryption Standard
+  
+  (AES-128).
+  
+
+    [114]
+   
+
+
+  Features introduced in
+  
+   version 10.4
+  
+  include
+  
+   Automator
+  
+  , an application designed to create an automatic workflow for different tasks;
+  
+
+    [115]
+   
+
+
+   Dashboard
+  
+  , a full-screen group of small applications called
+  
+   desktop widgets
+  
+  that can be called up and dismissed in one keystroke;
+  
+
+    [116]
+   
+
+  and
+  
+   Front Row
+  
+  , a media viewer interface accessed by the
+  
+   Apple Remote
+  
+  .
+  
+
+    [117]
+   
+
+  Moreover, the Sync Services were included, which is a system that allows applications to access a centralized extensible database for various elements of user data, including calendar and contact items. The operating system then managed conflicting edits and data consistency.
+  
+
+    [118]
+   
+
+
+  All system icons are scalable up to 512×512 pixels as of
+  
+   version 10.5
+  
+  to accommodate various places where they appear in larger size, including for example the
+  
+   Cover Flow
+  
+  view, a
+  
+   three-dimensional
+  
+  graphical user interface included with
+  
+   iTunes
+  
+  , the Finder, and other Apple products for visually skimming through files and digital media libraries via cover artwork. That version also introduced
+  
+   Spaces
+  
+  , a
+  
+   virtual desktop
+  
+  implementation which enables the user to have more than one desktop and display them in an Exposé-like interface;
+  
+
+    [119]
+   
+
+  an automatic backup technology called
+  
+   Time Machine
+  
+  , which provides the ability to view and restore previous versions of files and application data;
+  
+
+    [120]
+   
+
+  and
+  
+   Screen Sharing
+  
+  was built in for the first time.
+  
+
+    [121]
+   
+
+
+  In more recent releases, Apple has developed support for
+  
+   emoji
+  
+  characters by including the proprietary
+  
+   Apple Color Emoji
+  
+  font.
+  
+
+    [122]
+   
+
+
+
+    [123]
+   
+
+  Apple has also connected macOS with social networks such as
+  
+   Twitter
+  
+  and
+  
+   Facebook
+  
+  through the addition of share buttons for content such as pictures and text.
+  
+
+    [124]
+   
+
+  Apple has brought several applications and features that originally debuted in
+  
+   iOS
+  
+  , its mobile operating system, to macOS in recent releases, notably the
+  
+   intelligent personal assistant
+  
+
+   Siri
+  
+  , which was introduced in
+  
+   version 10.12
+  
+  of macOS.
+  
+
+    [125]
+   
+
+
+
+    [126]
+   
+
+
+  There are 34 system languages available in macOS for the user at the moment of installation; the system language is used throughout the entire operating system environment.
+  
+
+    [4]
+   
+
+  Input methods for typing in dozens of scripts can be chosen independently of the system language.
+  
+
+    [127]
+   
+
+  Recent updates have added increasing support for
+  
+   Chinese characters
+  
+  and interconnections with popular social networks in
+  
+   China
+  
+  .
+  
+
+    [128]
+   
+
+
+
+    [129]
+   
+
+
+
+    [130]
+   
+
+
+
+    [131]
+   
+
+
+
+
+
+
+
+  macOS can be updated using the
+  
+   Mac App Store
+  
+  application or the
+  
+   softwareupdate
+  
+
+   command line
+  
+  utility. Until
+  
+   OS X 10.8 Mountain Lion
+  
+  , a separate
+  
+   Software Update
+  
+  application performed this functionality. In Mountain Lion and later, this was merged into the Mac App Store application, although the underlying update mechanism remains unchanged and is fundamentally different than the download mechanism used when purchasing an App Store application.
+ 
+  With the exception of
+  
+   Mac OS X Server 1.0
+  
+  and the original public beta, OS X versions were named after
+  
+   big cats
+  
+  until
+  
+   OS X 10.9 Mavericks
+  
+  , when Apple switched to using
+  
+   California
+  
+  locations. Prior to its release,
+  
+   Mac OS X 10.0
+  
+  was
+  
+   code named
+  
+  "Cheetah" internally at Apple, and
+  
+   Mac OS X 10.1
+  
+  was code named internally as "Puma". After the immense buzz surrounding
+  
+   Mac OS X 10.2
+  
+  , codenamed "Jaguar", Apple's product marketing began openly using the code names to promote the operating system.
+  
+   Mac OS X 10.3
+  
+  was marketed as "Panther",
+  
+   Mac OS X 10.4
+  
+  as "Tiger",
+  
+   Mac OS X 10.5
+  
+  as "Leopard",
+  
+   Mac OS X 10.6
+  
+  as "Snow Leopard",
+  
+   Mac OS X 10.7
+  
+  as "Lion",
+  
+   OS X 10.8
+  
+  as "Mountain Lion", and
+  
+   OS X 10.9
+  
+  as "Mavericks".
+ 
+  "Panther", "Tiger" and "Leopard" are registered as trademarks of Apple, but "Cheetah", "Puma" and "Jaguar" have never been registered. Apple has also registered "Lynx" and "Cougar" as trademarks, though these were allowed to lapse.
+  
+
+    [150]
+   
+
+  Computer retailer
+  
+   Tiger Direct
+  
+  sued Apple for its use of the name "Tiger". On May 16, 2005 a US federal court in the Southern District of Florida ruled that Apple's use did not infringe on Tiger Direct's trademark.
+  
+
+    [151]
+   
+
+
+  On September 13, 2000, Apple released a $29.95
+  
+
+    [152]
+   
+
+  "preview" version of Mac OS X internally codenamed Kodiak in order to gain feedback from users.
+ 
+  The "PB" as it was known marked the first public availability of the Aqua interface and Apple made many changes to the UI based on customer feedback. Mac OS X Public Beta expired and ceased to function in Spring 2001.
+  
+
+    [153]
+   
+
+
+  On March 24, 2001, Apple released Mac OS X 10.0 (internally codenamed Cheetah).
+  
+
+    [154]
+   
+
+  The initial version was slow, incomplete, and had very few applications available at the time of its launch, mostly from independent developers. While many critics suggested that the operating system was not ready for mainstream adoption, they recognized the importance of its initial launch as a base on which to improve. Simply releasing Mac OS X was received by the Macintosh community as a great accomplishment, for attempts to completely overhaul the Mac OS had been underway since 1996, and delayed by countless setbacks. Following some bug fixes,
+  
+   kernel panics
+  
+  became much less frequent.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Later that year on September 25, 2001, Mac OS X 10.1 (internally codenamed Puma) was released. It featured increased performance and provided missing features, such as DVD playback. Apple released 10.1 as a free upgrade CD for 10.0 users, in addition to the US$129 boxed version for people running
+  
+   Mac OS 9
+  
+  . It was discovered that the upgrade CDs were full install CDs that could be used with Mac OS 9 systems by removing a specific file; Apple later re-released the CDs in an actual stripped-down format that did not facilitate installation on such systems.
+  
+
+    [155]
+   
+
+  On January 7, 2002, Apple announced that Mac OS X was to be the default operating system for all Macintosh products by the end of that month.
+  
+
+    [156]
+   
+
+
+  On August 23, 2002,
+  
+
+    [157]
+   
+
+  Apple followed up with Mac OS X 10.2 Jaguar, the first release to use its code name as part of the branding.
+  
+
+    [158]
+   
+
+  It brought great raw performance improvements, a sleeker look, and many powerful user-interface enhancements (over 150, according to Apple
+  
+
+    [159]
+   
+
+  ), including
+  
+   Quartz Extreme
+  
+  for compositing graphics directly on an
+  
+   ATI
+  
+
+   Radeon
+  
+  or
+  
+   Nvidia
+  
+
+   GeForce2
+  
+  MX AGP-based video card with at least 16 MB of VRAM, a system-wide repository for contact information in the new
+  
+   Address Book
+  
+  , and an instant messaging client named
+  
+   iChat
+  
+  .
+  
+
+    [160]
+   
+
+  The
+  
+   Happy Mac
+  
+  which had appeared during the Mac OS startup sequence for almost 18 years was replaced with a large grey Apple logo with the introduction of Mac OS X v10.2.
+ 
+
+   Mac OS X v10.3
+  
+  Panther was released on October 24, 2003. In addition to providing much improved performance, it also incorporated the most extensive update yet to the user interface. Panther included as many or more new features as Jaguar had the year before, including an updated Finder, incorporating a brushed-metal interface,
+  
+   Fast user switching
+  
+  ,
+  
+   Exposé
+  
+  (Window manager),
+  
+   FileVault
+  
+  ,
+  
+   Safari
+  
+  , iChat AV (which added
+  
+   videoconferencing
+  
+  features to iChat), improved
+  
+   Portable Document Format
+  
+  (PDF) rendering and much greater
+  
+   Microsoft Windows
+  
+  interoperability.
+  
+
+    [161]
+   
+
+  Support for some early G3 computers such as "beige" Power Macs and "WallStreet" PowerBooks was discontinued.
+  
+
+    [162]
+   
+
+
+  Mac OS X 10.4 Tiger was released on April 29, 2005. Apple stated that Tiger contained more than 200 new features.
+  
+
+    [163]
+   
+
+  As with Panther, certain older machines were no longer supported; Tiger requires a Mac with 256 MB and a built-in
+  
+   FireWire
+  
+  port.
+  
+
+    [77]
+   
+
+  Among the new features, Tiger introduced
+  
+   Spotlight
+  
+  ,
+  
+   Dashboard
+  
+  ,
+  
+   Smart Folders
+  
+  , updated Mail program with Smart Mailboxes,
+  
+   QuickTime
+  
+  7,
+  
+   Safari
+  
+  2,
+  
+   Automator
+  
+  ,
+  
+   VoiceOver
+  
+  ,
+  
+   Core Image
+  
+  and
+  
+   Core Video
+  
+  . The initial release of the
+  
+   Apple TV
+  
+  used a modified version of Tiger with a different graphical interface and fewer applications and services. On January 10, 2006, Apple released the first Intel-based Macs along with the 10.4.4 update to Tiger. This operating system functioned identically on the PowerPC-based Macs and the new Intel-based machines, with the exception of the Intel release dropping support for the Classic environment.
+  
+
+    [164]
+   
+
+
+  Mac OS X 10.5 Leopard was released on October 26, 2007. It was called by Apple "the largest update of Mac OS X". It brought more than 300 new features.
+  
+
+    [165]
+   
+
+  Leopard supports both
+  
+   PowerPC
+  
+  - and
+  
+   Intel x86
+  
+  -based Macintosh computers; support for the G3 processor was dropped and the G4 processor required a minimum clock rate of 867 MHz, and at least 512 MB of
+  
+   RAM
+  
+  to be installed. The single DVD works for all supported Macs (including 64-bit machines). New features include a new look, an updated Finder,
+  
+   Time Machine
+  
+  ,
+  
+   Spaces
+  
+  ,
+  
+   Boot Camp
+  
+  pre-installed,
+  
+
+    [166]
+   
+
+  full support for
+  
+   64-bit
+  
+  applications (including graphical applications), new features in
+  
+   Mail
+  
+  and
+  
+   iChat
+  
+  , and a number of new security features. Leopard is an
+  
+   Open Brand UNIX 03
+  
+  registered product on the Intel platform. It was also the first
+  
+   BSD-based
+  
+  OS to receive UNIX 03 certification.
+  
+
+    [9]
+   
+
+
+
+    [167]
+   
+
+  Leopard dropped support for the
+  
+   Classic Environment
+  
+  and all Classic applications.
+  
+
+    [168]
+   
+
+  It was the final version of Mac OS X to support the PowerPC architecture.
+ 
+  Mac OS X 10.6 Snow Leopard was released on August 28, 2009. Rather than delivering big changes to the appearance and end user functionality like the previous releases of
+  
+   Mac OS X
+  
+  , Snow Leopard focused on "under the hood" changes, increasing the performance, efficiency, and stability of the operating system. For most users, the most noticeable changes were: the disk space that the operating system frees up after a clean install compared to Mac OS X 10.5 Leopard, a more responsive
+  
+   Finder
+  
+  rewritten in
+  
+   Cocoa
+  
+  , faster
+  
+   Time Machine
+  
+  backups, more reliable and user friendly disk ejects, a more powerful version of the Preview application, as well as a faster
+  
+   Safari
+  
+  web browser. Snow Leopard only supported machines with Intel CPUs, required at least 1 GB of
+  
+   RAM
+  
+  , and dropped default support for applications built for the
+  
+   PowerPC
+  
+  architecture (
+  
+   Rosetta
+  
+  could be installed as an additional component to retain support for PowerPC-only applications).
+  
+
+    [169]
+   
+
+
+  Snow Leopard also featured new
+  
+   64-bit
+  
+  technology capable of supporting greater amounts of
+  
+   RAM
+  
+  , improved support for multi-core processors through
+  
+   Grand Central Dispatch
+  
+  , and advanced GPU performance with
+  
+   OpenCL
+  
+  .
+  
+
+    [170]
+   
+
+
+  An update introduced support for the
+  
+   Mac App Store
+  
+  , Apple's digital distribution platform for macOS applications.
+  
+
+    [171]
+   
+
+
+  Mac OS X 10.7 Lion was released on July 20, 2011. It brought developments made in Apple's iOS, such as an easily navigable display of installed applications called
+  
+   Launchpad
+  
+  and a greater use of
+  
+   multi-touch
+  
+  gestures, to the Mac. This release removed
+  
+   Rosetta
+  
+  , making it incompatible with PowerPC applications.
+  
+
+    [96]
+   
+
+
+  Changes made to the GUI include auto-hiding scrollbars that only appear when they are being used, and Mission Control which unifies Exposé, Spaces, Dashboard, and full-screen applications within a single interface.
+  
+
+    [172]
+   
+
+  Apple also made changes to applications: they resume in the same state as they were before they were closed, similar to iOS. Documents auto-save by default.
+  
+
+    [173]
+   
+
+
+  OS X 10.8 Mountain Lion was released on July 25, 2012.
+  
+
+    [144]
+   
+
+  It incorporates some features seen in iOS 5, which include
+  
+   Game Center
+  
+  , support for
+  
+   iMessage
+  
+  in the new
+  
+   Messages
+  
+  messaging application, and Reminders as a to-do list app separate from
+  
+   iCal
+  
+  (which is renamed as Calendar, like the iOS app). It also includes support for storing
+  
+   iWork
+  
+  documents in
+  
+   iCloud
+  
+  .
+  
+
+    [174]
+   
+
+
+   Notification Center
+  
+  , which makes its debut in Mountain Lion, is a desktop version similar to the one in iOS 5.0 and higher. Application pop-ups are now concentrated on the corner of the screen, and the Center itself is pulled from the right side of the screen. Mountain Lion also includes more Chinese features including support for
+  
+   Baidu
+  
+  as an option for
+  
+   Safari
+  
+  search engine,
+  
+   QQ
+  
+  ,
+  
+   163.com
+  
+  and 126.com services for
+  
+   Mail
+  
+  ,
+  
+   Contacts
+  
+  and
+  
+   Calendar
+  
+  ,
+  
+   Youku
+  
+  ,
+  
+   Tudou
+  
+  and
+  
+   Sina Weibo
+  
+  are integrated into share sheets.
+  
+
+    [131]
+   
+
+
+  Starting with Mountain Lion, Apple software updates (including the OS) are distributed via the
+  
+   App Store
+  
+  . This updating mechanism replaced the Apple Software Update utility.
+ 
+  OS X 10.9 Mavericks was released on October 22, 2013. It was a free upgrade to all users running Snow Leopard or later with a 64-bit Intel processor.
+  
+
+    [175]
+   
+
+  Its changes include the addition of the previously iOS-only
+  
+   Maps
+  
+  and
+  
+   iBooks
+  
+  applications, improvements to the Notification Center, enhancements to several applications, and many under-the-hood improvements.
+  
+
+    [176]
+   
+
+
+  OS X 10.10 Yosemite was released on October 16, 2014. It features a redesigned user interface similar to that of
+  
+   iOS 7
+  
+  , intended to feature a more minimal, text-based 'flat' design, with use of translucency effects and intensely
+  
+   saturated colors
+  
+  .
+  
+
+    [177]
+   
+
+  Apple's showcase new feature in Yosemite is Handoff, which enables users with iPhones running iOS 8.1 or later to answer phone calls, receive and send SMS messages, and complete unfinished iPhone emails on their Mac.
+ 
+  OS X 10.11 El Capitan was released on September 30, 2015. Similar to Mac OS X 10.6 Snow Leopard, Apple described this release as containing "refinements to the Mac experience" and "improvements to system performance" rather than new features. Refinements include public transport built into the
+  
+   Maps
+  
+  application, GUI improvements to the
+  
+   Notes
+  
+  application, adopting
+  
+   San Francisco
+  
+  as the system font for clearer legibility, and the introduction of
+  
+   System Integrity Protection
+  
+  . The
+  
+   Metal API
+  
+  , first introduced in
+  
+   iOS 8
+  
+  , was also included in this operating system for "all Macs since 2012".
+  
+
+    [178]
+   
+
+
+  During the keynote at
+  
+   WWDC
+  
+  on June 13, 2016, Apple announced that OS X would be renamed macOS to stylistically match Apple's other operating systems, such as
+  
+   iOS
+  
+  ,
+  
+   watchOS
+  
+  , and
+  
+   tvOS
+  
+  .
+  
+
+    [179]
+   
+
+
+  macOS 10.12 Sierra was released to the public on September 20, 2016. New features include the addition of
+  
+   Siri
+  
+  , Optimized Storage, and updates to Photos, Messages, and iTunes.
+  
+
+    [180]
+   
+
+
+
+    [181]
+   
+
+
+  As of July 2016, macOS is the second-most-active general-purpose desktop client operating system in use on the
+  
+   World Wide Web
+  
+  following
+  
+   Microsoft Windows
+  
+  , with a 4.90% usage share according to statistics compiled by
+  
+   Wikimedia
+  
+  . It is the most successful
+  
+   Unix-like
+  
+  desktop operating system on the web, estimated at approximately 5 times the usage of
+  
+   Linux
+  
+  (which has 1.01%). Usage share generally continues to shift away from the desktop and toward mobile operating systems such as
+  
+   iOS
+  
+  and
+  
+   Android
+  
+  .
+  
+
+    [182]
+   
+
+
+  In its earlier years, Mac OS X enjoyed a near-absence of the types of
+  
+   malware
+  
+  and
+  
+   spyware
+  
+  that have affected
+  
+   Microsoft Windows
+  
+  users.
+  
+
+    [183]
+   
+
+
+
+    [184]
+   
+
+
+
+    [185]
+   
+
+  macOS has a smaller usage share compared to Windows,
+  
+
+    [186]
+   
+
+  but it also has traditionally more secure
+  
+   Unix
+  
+  roots.
+  
+   Worms
+  
+  , as well as potential vulnerabilities, were noted in 2006, which led some industry analysts and anti-virus companies to issue warnings that Apple's Mac OS X is not immune to malware.
+  
+
+    [187]
+   
+
+  Increasing market share coincided with additional reports of a variety of attacks.
+  
+
+    [188]
+   
+
+  In early 2011, Mac OS X experienced a large increase in malware attacks,
+  
+
+    [189]
+   
+
+  and malware such as
+  
+   Mac Defender
+  
+  , MacProtector, and MacGuard were seen as an increasing problem for Mac users. At first, the malware installer required the user to enter the administrative password, but later versions were able to install without user input.
+  
+
+    [190]
+   
+
+  Initially, Apple support staff were instructed not to assist in the removal of the malware or admit the existence of the malware issue, but as the malware spread, a support document was issued. Apple announced an OS X update to fix the problem. An estimated 100,000 users were affected.
+  
+
+    [191]
+   
+
+
+
+    [192]
+   
+
+  Apple releases security updates for macOS regularly.
+  
+
+    [193]
+   
+
+
+  As a devices company, most large-scale Apple promotion for macOS has been part of the sale of Macs, with promotion of macOS updates generally focused on existing users, promotion at
+  
+   Apple Store
+  
+  and other retail partners, or through events for developers. In larger scale advertising campaigns, Apple specifically promoted macOS as better for handling media and other home-user applications, and
+  
+   comparing
+  
+  Mac OS X (especially versions Tiger and Leopard) with the heavy criticism
+  
+   Microsoft
+  
+  received for the long-awaited
+  
+   Windows Vista
+  
+  operating system.
+  
+
+    [194]
+   
+
+
+
+    [195]
+   
+

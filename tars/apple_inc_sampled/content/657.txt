@@ -1,0 +1,207 @@
+
+
+
+   SpringBoard
+  
+  is the standard application that manages the
+  
+   iOS
+  
+  home screen. Other tasks include starting WindowServer, launching and bootstrapping applications and setting some of the device's settings on startup.
+ 
+
+
+  In 2008, with
+  
+   Apple's
+  
+  release of iPhone OS 1.1.3 and the January App Pack, the SpringBoard underwent some substantial changes. Holding a finger on any application for a few seconds causes all of the icons to wiggle. From this view, you can rearrange your icons, delete
+  
+   web apps
+  
+  and web clips, and create multiple pages by dragging an application to the side of the screen. If the Home button is pressed, the icons will stop wiggling and apps can be opened again.
+  
+
+    [1]
+   
+
+
+  In July 2008, third-party applications were introduced with iPhone OS 2.0. These applications are installed through the
+  
+   App Store
+  
+  and deleted with the traditional "wiggle mode" method.
+ 
+  In June 2009, in iPhone OS 3, Spotlight Search was added to the SpringBoard. This allowed the user to search for applications and other files stored in the iPhone.
+ 
+  In June 2010, in iOS 4, home screen wallpapers were introduced to the SpringBoard. Folders were introduced as well: dragging an application on top of another application while in "wiggle mode" will result in a folder being created. After that, more applications may be added to that folder by dragging an application on top of the folder. Applications can be removed from a folder by simply dragging it out into the main home screen. Folders can be removed by removing every application from the folder.
+ 
+  On
+  
+   jailbroken devices
+  
+  , unsigned applications (applications installed through
+  
+   Cydia
+  
+  ) cannot be deleted by the traditional method of holding a finger on the application and selecting delete as they are installed as System applications, much like Weather and Stocks. Instead, they need to be removed through Cydia, unless CyDelete is installed, which allows for that method to be used.
+ 
+  Researchers found that on mobile devices users organize icons on their SpringBoards mainly based on usage-frequency and relatedness of the applications, as well as for reasons of usability and aesthetics.
+  
+
+    [2]
+   
+
+
+  The layout of the SpringBoard is in a
+  
+   property list
+  
+  file
+  
+   /Library/SpringBoard/IconState.plist
+  
+  .
+ 
+  In iPhone OS/iOS versions before 1.1.3, jailbreaking patched the SpringBoard for displaying third-party applications.
+ 
+  In iPhone OS/iOS versions 1.1.3 and beyond, patching is no longer required as SpringBoard natively renders third-party icons. Jailbroken applications are however stored in /Applications, instead of Apple's native third-party application folder of /var/mobile/Applications.
+ 
+  The SpringBoard on jailbroken devices can also be customized with
+  
+   themes
+  
+  or
+  
+   skins
+  
+  . Themes are applied through WinterBoard, an application from the jailbroken third-party installer
+  
+   Cydia
+  
+  . Applications and user interface elements of SpringBoard can be manually themed but most users choose to use WinterBoard as it is more stable, easier, and offers features such as being able to enable/disable themes whenever the user chooses. Cydia can be downloaded via third-party applications such as evasi0n or redsn0w.
+ 
+  Themes can have a variety of changes to the appearance of SpringBoard, mainly on the icon appearance. However themes also change elements of the user interface.
+ 
+  A
+  
+   bug
+  
+  was discovered in May 2015 where users pasted a certain set of
+  
+   characters
+  
+  and
+  
+   Unicode
+  
+  in a set order; it would make the SpringBoard crash and relaunch, which displays a black or white screen and white or black Apple logo (depending on the user's device) that looks identical to the boot screen.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  The phenomenon was later narrowed down to it only happening when the message was shown via the notification drop-down or the
+  
+   lock screen
+  
+  ; it can be fixed by disabling this.
+  
+
+    [5]
+   
+
+  If the message is unread and the victim opens the
+  
+   iMessage
+  
+  app or any other app that got the message it can crash the
+  
+   iOS device
+  
+  again. Further problems can include the device resetting to its factory settings, the device no longer receiving text messages or calls and the device frequently losing Internet connection.
+  
+
+    [6]
+   
+
+
+
+  The code was:
+  
+
+    [7]
+   
+
+
+   effective. Power لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ 冗
+  
+  The "effective." section was not required for the bug to work.
+  
+
+    [3]
+   
+
+  The bug affected
+  
+   iPhones
+  
+  , the
+  
+   Apple Watch
+  
+  and
+  
+   iPod Touch
+  
+  ,
+  
+   Mac
+  
+  computers and
+  
+   iPads
+  
+  .
+  
+
+    [8]
+   
+
+
+  With the release of iOS 8.4 on 30 June 2015, the "effective. Power" bug has been fixed.
+ 
+  As of iOS 4.3.3, SpringBoard looks for applications in the
+  
+   /Applications
+  
+  and
+  
+   /var/mobile/Applications
+  
+  directories of the iPhone's filesystem to display on the home screen.
+ 
+
+   Mac OS X Lion
+  
+  included a new feature called 'Launchpad". This feature was based on the SpringBoard feature in iOS software. It included the same features (like folders) but was not made as the home screen, more an extension on the dock (like
+  
+   Dashboard
+  
+  ).
+ 
+  Before the Developer Preview of
+  
+   Mac OS X Lion
+  
+  , SpringBoard was renamed Launchpad. Even though the name displayed in the dock remains the same, the images used to make up Launchpad are still named "SpringBoard" (or "sb"), and can be found in
+  
+   /System/Library/CoreServices/Dock.app/Contents/Resources
+  
+  .
+ 

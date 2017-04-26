@@ -1,9 +1,20 @@
+#! /usr/bin/python2
+# -*- coding = utf-8 -*-
+
+### This script takes the seed partial url (i.e. '/wiki/Apple') and a maximum depth
+### as input, crawl and download the pages. The pages will be stored in a sibling 
+### directory named after the url of the seed page (i.e. 'Apple'). The html files 
+### downloaded will be renamed after certain index. The index number, the parent and 
+### the depth of a page will be stored in a sibling file (i.e. Apple.stats). 
+### 
+### Invoke format: 
+###     python hcrawler.py < partial url, i.e. /wiki/Apple > < maximum depth >
+
 from urllib import urlopen
 from bs4 import BeautifulSoup as bs
 import os
 import sys
 import re
-import robotparser
 import lxml
 import shutil
 #import threading
@@ -80,13 +91,11 @@ def heuristicLinkParser(reladdr, parent):
             continue
         if link.find("#") != -1:
             linkd[link[:link.find("#")]] = linkd.pop(link)
-    '''for link in linkd:
-        print link'''
+    for link in linkd:
+        print link
     return score, linkd.keys(), html_text
 
 if __name__ == '__main__':
-    # seed = "/wiki/Apple_Inc"
-    # maxDepth = 5
     seed = sys.argv[1]
     maxDepth = int(sys.argv[2])
     abspath = seed[6:]

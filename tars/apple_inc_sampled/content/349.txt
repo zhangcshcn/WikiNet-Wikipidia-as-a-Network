@@ -1,0 +1,1189 @@
+
+
+
+   MS-DOS
+  
+  (
+  
+
+
+     /
+     
+
+       ˌ
+      
+
+       ɛ
+      
+
+       m
+      
+
+       ɛ
+      
+
+       s
+      
+
+       ˈ
+      
+
+       d
+      
+
+       ɒ
+      
+
+       s
+      
+
+     /
+    
+
+
+
+
+
+
+
+
+        EM
+       
+
+
+     -es-
+     
+
+
+        DOSS
+       
+
+
+
+
+
+  ; acronym for
+  
+
+    M
+   
+   icro
+   
+    s
+   
+   oft
+   
+    D
+   
+   isk
+   
+    O
+   
+   perating
+   
+    S
+   
+   ystem
+  
+  ) is a discontinued
+  
+   operating system
+  
+  for
+  
+   x86
+  
+  -based
+  
+   personal computers
+  
+  mostly developed by
+  
+   Microsoft
+  
+  . It was the most commonly used member of the
+  
+   DOS
+  
+  family of operating systems, and was the main operating system for
+  
+   IBM PC compatible
+  
+  personal computers during the 1980s and the early 1990s, when it was gradually superseded by operating systems offering a
+  
+   graphical user interface
+  
+  (GUI), in various generations of the graphical
+  
+   Microsoft Windows
+  
+  operating system by Microsoft Corporation.
+ 
+  MS-DOS resulted from a request in 1981 by IBM for an operating system to use in its
+  
+   IBM PC
+  
+  range of personal computers.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+  Microsoft quickly bought the rights to
+  
+   86-DOS
+  
+  from
+  
+   Seattle Computer Products
+  
+  ,
+  
+
+    [9]
+   
+
+  and began work on modifying it to meet IBM's specification. IBM licensed and released it in August 1981 as
+  
+   PC DOS
+  
+  1.0 for use in their PCs. Although MS-DOS and PC DOS were initially developed in parallel by Microsoft and IBM, in subsequent years, the two products diverged, with recognizable differences in compatibility, syntax, and capabilities.
+ 
+  During its life,
+  
+   several competing products
+  
+  were released for the x86 platform,
+  
+
+    [10]
+   
+
+  and MS-DOS went through eight versions, until development ceased in 2000.
+  
+
+    [11]
+   
+
+  Initially MS-DOS was targeted at
+  
+   Intel 8086
+  
+  processors running on computer hardware using
+  
+   floppy disks
+  
+  to store and access not only the operating system, but application software and user data as well. Progressive version releases delivered support for other mass storage media in ever greater sizes and formats, along with added feature support for newer processors and rapidly evolving computer architectures. Ultimately it was the key product in Microsoft's growth from a
+  
+   programming languages
+  
+  company to a diverse software development firm, providing the company with essential revenue and marketing resources. It was also the underlying basic operating system on which early versions of Windows ran as a GUI. It is a flexible operating system, and consumes negligible installation space.
+ 
+
+
+  MS-DOS was a renamed form of
+  
+   86-DOS
+  
+
+
+    [12]
+   
+
+  –  owned by
+  
+   Seattle Computer Products
+  
+  , written by
+  
+   Tim Paterson
+  
+  . Development of 86-DOS took only six weeks, as it was basically a clone of
+  
+   Digital Research
+  
+  's
+  
+   CP/M
+  
+  (for 8080/Z80 processors), ported to run on
+  
+   8086
+  
+  processors and with two notable differences compared to CP/M; an improved disk sector buffering logic and the introduction of
+  
+   FAT12
+  
+  instead of the CP/M filesystem. This first version was shipped in August 1980.
+  
+
+    [5]
+   
+
+  Microsoft, which needed an operating system for the
+  
+   IBM Personal Computer
+  
+
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+  hired Tim Paterson in May 1981 and bought 86-DOS 1.10 for $75,000 in July of the same year. Microsoft kept the version number, but renamed it MS-DOS. They also licensed MS-DOS 1.10/1.14 to IBM, who, in August 1981, offered it as
+  
+   PC DOS
+  
+  1.0 as one of three operating systems
+  
+
+    [13]
+   
+
+  for the
+  
+   IBM 5150
+  
+  , or the
+  
+   IBM PC
+  
+  .
+  
+
+    [5]
+   
+
+
+  Within a year Microsoft licensed MS-DOS to over 70 other companies.
+  
+
+    [14]
+   
+
+  It was designed to be an OS that could run on any 8086-family computer. Each computer would have its own distinct hardware and its own version of MS-DOS, similar to the situation that existed for
+  
+   CP/M
+  
+  , and with MS-DOS emulating the
+  
+   same solution
+  
+  as CP/M to adapt for different hardware platforms. To this end, MS-DOS was designed with a modular structure with internal device drivers, minimally for primary disk drives and the console, integrated with the kernel and loaded by the boot loader, and installable device drivers for other devices loaded and integrated at boot time. The
+  
+   OEM
+  
+  would use a development kit provided by Microsoft to build a version of MS-DOS with their basic I/O drivers and a standard Microsoft kernel, which they would typically supply on disk to end users along with the hardware. Thus, there were many different versions of "MS-DOS" for different hardware, and there is a major distinction between an IBM-compatible (or ISA) machine and an MS-DOS [compatible] machine. Some machines, like the
+  
+   Tandy 2000
+  
+  , were MS-DOS compatible but not IBM-compatible, so they could run software written exclusively for MS-DOS without dependence on the peripheral hardware of the IBM PC architecture.
+ 
+  This design would have worked well for compatibility, if application programs had only used MS-DOS services to perform device I/O, and indeed the same design philosophy is embodied in Windows NT (see
+  
+   Hardware Abstraction Layer
+  
+  ). However, in MS-DOS's early days, the greater speed attainable by programs through direct control of hardware was of particular importance, especially for games, which often pushed the limits of their contemporary hardware. Very soon an IBM-compatible architecture became the goal, and before long all 8086-family computers
+  
+   closely emulated IBM's hardware
+  
+  , and only a single version of MS-DOS for a fixed hardware platform was needed for the market. This version is the version of MS-DOS that is discussed here, as the dozens of other OEM versions of "MS-DOS" were only relevant to the systems they were designed for, and in any case were very similar in function and capability to some standard version for the IBM PC—often the same-numbered version, but not always, since some OEMs used their own proprietary version numbering schemes (e.g. labeling later releases of MS-DOS 1.x as 2.0 or vice versa)—with a few notable exceptions.
+ 
+  Microsoft omitted
+  
+   multi-user
+  
+  support from MS-DOS because Microsoft's
+  
+   Unix
+  
+  -based operating system,
+  
+   Xenix
+  
+  , was fully multi-user.
+  
+
+    [15]
+   
+
+  The company planned to over time improve MS-DOS so it would be almost indistinguishable from single-user Xenix, or
+  
+   XEDOS
+  
+  , which would also run on the
+  
+   Motorola 68000
+  
+  ,
+  
+   Zilog Z8000
+  
+  , and the
+  
+   LSI-11
+  
+  ; they would be
+  
+   upwardly compatible
+  
+  with Xenix, which
+  
+
+    Byte
+   
+
+  in 1983 described as "the multi-user MS-DOS of the future".
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+  Microsoft advertised MS-DOS and Xenix together, listing the shared features of its "single-user OS" and "the multi-user,
+  
+   multi-tasking
+  
+  ,
+  
+   UNIX
+  
+  -derived operating system", and promising easy porting between them.
+  
+
+    [18]
+   
+
+  After the
+  
+   breakup of the Bell System
+  
+  , however,
+  
+   AT&T Computer Systems
+  
+  started selling
+  
+   UNIX System V
+  
+  . Believing that it could not compete with AT&T in the Unix market, Microsoft abandoned Xenix, and in 1987 transferred ownership of Xenix to the
+  
+   Santa Cruz Operation
+  
+  (SCO).
+ 
+  On 25 March 2014, Microsoft made the code to
+  
+   SCP MS-DOS 1.25
+  
+  and a mixture of
+  
+   Altos MS-DOS 2.11
+  
+  and
+  
+   TeleVideo PC DOS 2.11
+  
+  available to the public under the
+  
+   Microsoft Research License Agreement
+  
+  , which makes the code
+  
+   source-available
+  
+  , but not
+  
+   open source
+  
+  as defined by
+  
+   Open Source Initiative
+  
+  or
+  
+   Free Software Foundation
+  
+  standards.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+
+    [19]
+   
+
+
+  As an
+  
+   April Fools
+  
+  joke in 2015,
+  
+   Microsoft Mobile
+  
+  launched a
+  
+   Windows Phone
+  
+  application called
+  
+   MS-DOS Mobile
+  
+  which was presented as a new mobile operating system and worked similar to MS-DOS.
+  
+
+    [20]
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Microsoft licensed or released versions of MS-DOS under different names like
+  
+   Lifeboat Associates
+  
+  "Software Bus 86"
+  
+
+    [21]
+   
+
+  aka
+  
+   SB-DOS
+  
+  ,
+  
+
+    [10]
+   
+
+
+   COMPAQ-DOS
+  
+  ,
+  
+
+    [21]
+   
+
+
+   NCR-DOS
+  
+  or
+  
+   Z-DOS
+  
+
+
+    [10]
+   
+
+  before it eventually enforced the MS-DOS name for all versions but the IBM one, which was originally called "IBM Personal Computer DOS", later shortened to
+  
+   IBM PC DOS
+  
+  . (Competitors released compatible DOS systems such as
+  
+   DR DOS
+  
+  and
+  
+   PTS-DOS
+  
+  that could also run DOS applications.)
+ 
+  The following versions of MS-DOS were released to the public:
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+  Microsoft DOS was released through the OEM channel, until DRI released DR DOS 5.0 as a retail upgrade. With PC DOS 5.00.1, the IBM-Microsoft agreement started to end, and IBM entered the retail DOS market with IBM DOS 5.00.1, 5.02, 6.00 and PC DOS 6.1, 6.3, 7, 2000 and 7.1.
+ 
+  Localized versions of MS-DOS existed for different markets.
+  
+
+    [32]
+   
+
+  While Western issues of MS-DOS evolved around the same set of tools and drivers just with localized message languages and differing sets of supported codepages and keyboard layouts, some language versions were considerably different from Western issues and were adapted to run on localized PC hardware with additional BIOS services not available in Western PCs, support multiple hardware codepages for displays and printers, support DBCS, alternative input methods and graphics output. Affected issues include Japanese (
+  
+   DOS/V
+  
+  ), Korean, Arabic (ADOS 3.3/5.0), Hebrew (HDOS 3.3/5.0), Russian (
+  
+   RDOS 4.01
+  
+  /
+  
+   5.0
+  
+  ) as well as some other Eastern European versions of DOS.
+ 
+  On microcomputers based on the Intel
+  
+   8086
+  
+  and
+  
+   8088
+  
+  processors, including the IBM PC and clones, the initial competition to the PC DOS/MS-DOS line came from
+  
+   Digital Research
+  
+  , whose
+  
+   CP/M
+  
+  operating system had inspired MS-DOS. In fact, there remains controversy as to whether QDOS was more or less plagiarised from early versions of CP/M code. Digital Research released
+  
+   CP/M-86
+  
+  a few months after MS-DOS, and it was offered as an alternative to MS-DOS and Microsoft's licensing requirements, but at a higher price.
+  
+   Executable programs
+  
+  for CP/M-86 and MS-DOS were not interchangeable with each other; many
+  
+   applications
+  
+  were sold in both MS-DOS and CP/M-86 versions until MS-DOS became preponderant (later Digital Research operating systems could run both MS-DOS and CP/M-86 software). MS-DOS originally supported the simple
+  
+   .COM
+  
+  , which was modelled after a similar but binary incompatible format known from
+  
+   CP/M-80
+  
+  . CP/M-86 instead supported a relocatable format using the
+  
+   file extension
+  
+
+   .CMD
+  
+  to avoid name conflicts with CP/M-80 and MS-DOS .COM files. MS-DOS version 1.0 added a more advanced relocatable .
+  
+   EXE
+  
+  executable file format.
+ 
+  Most of the machines in the early days of MS-DOS had differing system architectures and there was a certain degree of incompatibility, and subsequently
+  
+   vendor lock-in
+  
+  . Users who began using MS-DOS with their machines were compelled to continue using the version customized for their hardware, or face trying to get all of their proprietary hardware and software to work with the new system.
+ 
+  In the business world the 808x-based machines that MS-DOS was tied to faced competition from the
+  
+   Unix
+  
+  operating system which ran on many different hardware architectures. Microsoft itself sold a version of Unix for the PC called
+  
+   Xenix
+  
+  .
+ 
+  In the emerging world of home users, a variety of other computers based on various other processors were in serious competition with the IBM PC: the
+  
+   Apple II
+  
+  , early
+  
+   Apple Macintosh
+  
+  , the
+  
+   Commodore 64
+  
+  and others did not use the 808x processor; many 808x machines of different architectures used custom versions of MS-DOS. At first all these machines were in competition. In time the IBM PC hardware configuration became dominant in the 808x market as software written to communicate directly with the PC hardware without using standard operating system calls ran much faster, but on true PC-compatibles only. Non-PC-compatible 808x machines were too small a market to have fast software written for them alone, and the market remained open only for IBM PCs and machines that closely imitated their architecture, all running either a single version of MS-DOS compatible only with PCs, or the equivalent IBM PC DOS. Most clones cost much less than IBM-branded machines of similar performance, and became widely used by home users, while IBM PCs had a large share of the business computer market.
+ 
+  Microsoft and IBM together began what was intended as the follow-on to MS-DOS/PC DOS, called
+  
+   OS/2
+  
+  . When OS/2 was released in 1987, Microsoft began an advertising campaign announcing that "DOS is Dead" and stating that version 4 was the last full release. OS/2 was designed for efficient multi-tasking (as was standard in operating systems since 1963) and offered a number of advanced features that had been designed together with similar
+  
+   look and feel
+  
+  ; it was seen as the legitimate heir to the "kludgy" DOS platform.
+ 
+  MS-DOS had grown in spurts, with many significant features being taken or duplicated from Microsoft's other products and operating systems. MS-DOS also grew by incorporating, by direct licensing or feature duplicating, the functionality of tools and utilities developed by independent companies, such as
+  
+   Norton Utilities
+  
+  ,
+  
+   PC Tools
+  
+  (
+  
+   Microsoft Anti-Virus
+  
+  ),
+  
+   QEMM
+  
+  expanded memory manager,
+  
+   Stacker
+  
+
+   disk compression
+  
+  , and others.
+ 
+  During the period when Digital Research was competing in the operating system market some computers, like
+  
+   Amstrad PC1512
+  
+  , were sold with floppy disks for two operating systems (only one of which could be used at a time), MS-DOS and CP/M-86 or a derivative of it. Digital Research produced
+  
+   DOS Plus
+  
+  , which was compatible with MS-DOS 2.11, supported CP/M-86 programs, had additional features including multi-tasking, and could read and write disks in CP/M and MS-DOS format.
+ 
+  While OS/2 was under protracted development, Digital Research released the MS-DOS compatible
+  
+   DR DOS
+  
+  5.0, which included features only available as third-party add-ons for MS-DOS. Unwilling to lose any portion of the market, Microsoft responded by announcing the "pending" release of MS-DOS 5.0 in May 1990. This effectively killed most DR DOS sales until the actual release of MS-DOS 5.0 in June 1991. Digital Research brought out DR DOS 6.0, which sold well until the "pre-announcement" of MS-DOS 6.0 again stifled the sales of DR DOS.
+ 
+  Microsoft had been accused of carefully orchestrating leaks about future versions of MS-DOS in an attempt to create what in the industry is called FUD (
+  
+   fear, uncertainty, and doubt
+  
+  ) regarding DR DOS. For example, in October 1990, shortly after the release of DR DOS 5.0, and long before the eventual June 1991 release of MS-DOS 5.0, stories on feature enhancements in MS-DOS started to appear in
+  
+   InfoWorld
+  
+  and
+  
+   PC Week
+  
+  . Brad Silverberg, then Vice President of Systems Software at Microsoft and General Manager of its Windows and MS-DOS Business Unit, wrote a forceful letter to
+  
+   PC Week
+  
+  (November 5, 1990), denying that Microsoft was engaged in FUD tactics ("to serve our customers better, we decided to be more forthcoming about version 5.0") and denying that Microsoft copied features from DR DOS:
+ 
+   "The feature enhancements of MS-DOS version 5.0 were decided and development was begun long before we heard about DR DOS 5.0. There will be some similar features. With 50 million MS-DOS users, it shouldn't be surprising that DRI has heard some of the same requests from customers that we have." – (Schulman et al. 1994).
+   
+
+     [33]
+    
+
+
+  The pact between Microsoft and IBM to promote OS/2 began to fall apart in 1990 when
+  
+   Windows 3.0
+  
+  became a marketplace success. Much of Microsoft's further contributions to OS/2 also went into creating a third
+  
+   GUI
+  
+  replacement for DOS,
+  
+   Windows NT
+  
+  .
+ 
+  IBM, which had already been developing the next version of OS/2, carried on development of the platform without Microsoft and sold it as the alternative to DOS and Windows.
+ 
+  As a response to
+  
+   Digital Research
+  
+  's
+  
+   DR DOS
+  
+  6.0, which bundled SuperStor disk compression, Microsoft opened negotiations with
+  
+   Stac Electronics
+  
+  , vendor of the most popular DOS disk compression tool, Stacker. In the
+  
+   due diligence
+  
+  process, Stac engineers had shown Microsoft part of the Stacker source code. Stac was unwilling to meet Microsoft's terms for licensing Stacker and withdrew from the negotiations. Microsoft chose to license Vertisoft's DoubleDisk, using it as the core for its DoubleSpace disk compression.
+  
+
+    [34]
+   
+
+
+  MS-DOS 6.0 and 6.20 were released in 1993, both including the Microsoft DoubleSpace disk compression utility program. Stac successfully sued Microsoft for
+  
+   patent
+  
+  infringement regarding the compression algorithm used in DoubleSpace. This resulted in the 1994 release of MS-DOS 6.21, which had disk-compression removed. Shortly afterwards came version 6.22, with a new version of the disk compression system, DriveSpace, which had a different compression algorithm to avoid the infringing code.
+ 
+  Prior to 1995, Microsoft licensed MS-DOS (and Windows) to computer manufacturers under three types of agreement: per-processor (a fee for each system the company sold), per-system (a fee for each system of a particular model), or per-copy (a fee for each copy of MS-DOS installed). The largest manufacturers used the per-processor arrangement, which had the lowest fee. This arrangement made it expensive for the large manufacturers to migrate to any other operating system, such as DR DOS. In 1991, the U.S. government
+  
+   Federal Trade Commission
+  
+  began investigating Microsoft's licensing procedures, resulting in a 1994 settlement agreement limiting Microsoft to per-copy licensing. Digital Research did not gain by this settlement, and years later its successor in interest,
+  
+   Caldera
+  
+  , sued Microsoft for damages in the
+  
+
+    Caldera v. Microsoft
+   
+
+  lawsuit. It was believed that the settlement ran in the order of $150 million, but was revealed in November 2009 with the release of the Settlement Agreement to be $280 million.
+  
+
+    [35]
+   
+
+
+  Microsoft also used a variety of tactics in MS-DOS and several of their applications and development tools that, while operating perfectly when running on genuine MS-DOS (and PC DOS), would break when run on another vendor's implementation of DOS. Notable examples of this practice included:
+ 
+  With the release of
+  
+   Windows 95
+  
+  (and continuing in the
+  
+   Windows 9x
+  
+  product line through to
+  
+   Windows ME
+  
+  ), an integrated version of MS-DOS was used for
+  
+   bootstrapping
+  
+  , troubleshooting, and backwards-compatibility with old DOS software, particularly games, and no longer released as a standalone product. In Windows 95, the DOS, called MS-DOS 7, can be booted separately, without the Windows GUI; this capability was retained through Windows 98 Second Edition. Windows ME removed the capability to boot its underlying MS-DOS 8.0 alone from a hard disk, but retained the ability to make a DOS boot floppy disk (called an "Emergency Boot Disk") and can be hacked to restore full access to the underlying DOS.
+ 
+  In contrast to the Windows 9x series, the
+  
+   Windows NT
+  
+  -derived 32-bit operating systems developed alongside the 9x series (Windows
+  
+   NT
+  
+  ,
+  
+   2000
+  
+  ,
+  
+   XP
+  
+  and newer) do not contain MS-DOS as part of the operating system, but provide a subset of DOS emulation to run DOS applications and provide DOS-like command prompt windows.
+  
+   64-bit
+  
+  versions of Windows NT line do not provide DOS emulation and cannot run DOS applications natively.
+  
+
+    [36]
+   
+
+
+   Windows XP
+  
+  contains a copy of the
+  
+   Windows ME
+  
+  boot disk, stripped down to bootstrap only. This is accessible only by formatting a floppy as an "MS-DOS startup disk". Files like the driver for the CD-ROM support were deleted from the Windows ME bootdisk and the startup files (
+  
+   AUTOEXEC.BAT
+  
+  and
+  
+   CONFIG.SYS
+  
+  ) no longer had content. This modified disk was the base for creating the MS-DOS image for Windows XP. Some of the deleted files can be recovered with an undelete tool.
+  
+
+    [37]
+   
+
+  With
+  
+   Windows Vista
+  
+  the files on the startup disk are dated 18 April 2005 but are otherwise unchanged, including the string "MS-DOS Version 8 © Copyright 1981–1999 Microsoft Corp" inside
+  
+
+    COMMAND.COM
+   
+
+  . Starting with Windows 10, the ability to create a DOS startup disk has been removed.
+ 
+  The only versions of MS-DOS currently recognized as stand-alone OSs and supported as such by Microsoft are MS-DOS 6.0 and 6.22, both of which remain available for download via their
+  
+   MSDN
+  
+  , volume license, and OEM license partner websites, for customers with valid login credentials. MS-DOS is still used in embedded x86 systems due to its simple architecture and minimal memory and processor requirements, though some current products have switched to the still-maintained open-source alternative
+  
+   FreeDOS
+  
+  .
+ 
+  All versions of
+  
+   Microsoft Windows
+  
+  have had an MS-DOS-like
+  
+   command-line interface
+  
+  (CLI). This could run many DOS and variously Win32, OS/2 1.x and
+  
+   POSIX
+  
+  command line utilities in the same command-line session, allowing piping between commands. The user interface, and the icon up to Windows 2000, followed the native MS-DOS interface.
+ 
+  The
+  
+   16-bit
+  
+  versions of Windows (up to 3.11) ran as a Graphical User Interface (GUI) on top of MS-DOS. With
+  
+   Windows 95
+  
+  , 98, 98 SE and ME, the MS-DOS part was (superficially) integrated, treating both operating systems as a complete package, though the DOS component could actually stand alone. The command line accessed the DOS command line (usually
+  
+   COMMAND.COM
+  
+  ), through a Windows module (WINOLDAP.MOD).
+  
+   [
+   
+
+
+      clarification needed
+     
+
+
+   ]
+  
+
+  A new line of Windows, (Windows NT), boot through a kernel whose sole purpose is to load Windows. One can not run Win32 applications in the loader system in the manner that OS/2, UNIX or Consumer Windows can launch character mode sessions.
+ 
+  The command session permits running of various supported command line utilities from Win32, MS-DOS, OS/2 1.x and POSIX. The emulators for MS-DOS, OS/2 and POSIX use the host's window in the same way that Win16 applications use the Win32 explorer. Using the host's window allows one to pipe output between emulations.
+ 
+  The MS-DOS emulation is done through the
+  
+   NTVDM
+  
+  (NT Virtual DOS Machine). This is a modified SoftPC (a former product similar to VirtualPC), running a modified MS-DOS 5 (NTIO.SYS and NTDOS.SYS). The output is handled by the console DLLs, so that the program at the prompt (
+  
+   CMD.EXE
+  
+  ,
+  
+   4NT.EXE
+  
+  ,
+  
+   TCC.EXE
+  
+  ), can see the output. 64-bit Windows does not have either the DOS emulation, or the DOS commands (EDIT, DEBUG,
+  
+   EDLIN
+  
+  ), that come with 32-bit Windows.
+ 
+  The DOS version returns 5.00 or 5.50, depending on which API function is used to determine it. Utilities from MS-DOS 5.00 run in this emulation without modification. The very early beta programs of NT show MS-DOS 30.00, but programs running in MS-DOS 30.00 would assume that OS/2 was in control.
+ 
+  The OS/2 emulation is handled through OS2SS.EXE and OS2.EXE, and DOSCALLS.DLL. OS2.EXE is a version of the OS/2 shell (CMD.EXE), which passes commands down to the OS2SS.EXE, and input-output to the Windows NT shell. Windows 2000 was the last version of NT to support OS/2. The emulation is OS/2 1.30.
+ 
+  POSIX is emulated through the POSIX shell, but no emulated shell; the commands are handled directly in CMD.EXE.
+ 
+  The Command Prompt is often called the MS-DOS prompt. In part, this was the official name for it in Windows 9x and early versions of Windows NT (NT 3.5 and earlier), and in part because the SoftPC emulation of DOS redirects output into it. Actually only
+  
+   COMMAND.COM
+  
+  and other 16bit commands run in a NTVDM with
+  
+   AUTOEXEC.NT
+  
+  and
+  
+   CONFIG.NT
+  
+  initialisation determined by
+  
+
+    _default.pif
+   
+
+  , optionally permitting the use of
+  
+   Win32 console
+  
+  applications and internal commands with a
+  
+   NTCMDPROMPT
+  
+  directive.
+ 
+
+   Win32 console
+  
+  applications use
+  
+   CMD.EXE
+  
+  as their command prompt shell. This confusion does not exist under OS/2 because there are separate DOS and OS/2 prompts, and running a DOS program under OS/2 will launch a separate DOS window to run the application.
+ 
+  All versions of Windows for
+  
+   Itanium
+  
+  (no longer sold by Microsoft) and
+  
+   x86-64
+  
+  architectures no longer include the NTVDM and can therefore no longer natively run MS-DOS or 16-bit Windows applications. There are alternatives in the form of
+  
+   virtual machine
+  
+  emulators such as Microsoft's own
+  
+   Virtual PC
+  
+  , as well as
+  
+   VMware
+  
+  ,
+  
+   DOSBox
+  
+  , and others.
+ 
+  From 1983 onwards, various companies worked on
+  
+   graphical user interfaces
+  
+  (GUIs) capable of running on PC hardware. However, this required duplicated effort and did not provide much consistency in interface design (even between products from the same company).
+ 
+  Later, in 1985,
+  
+   Microsoft Windows
+  
+  was released as Microsoft's first attempt at providing a consistent user interface (for applications). The early versions of Windows ran on top of MS-DOS. At first Windows met with little success, but this was also true for most other companies' efforts as well, for example
+  
+   GEM
+  
+  . After version 3.0, Windows gained market acceptance.
+ 
+
+   Windows 9x
+  
+  used the DOS boot process to launch into protected mode. Basic features related to the file system, such as long file names, were only available to DOS when running as a subsystem of Windows.
+  
+   Windows NT
+  
+  runs independently of DOS but includes
+  
+   NTVDM
+  
+  , a component for simulating a DOS environment for legacy applications.
+ 
+  MS-DOS compatible systems include:
+ 
+  Microsoft manufactured
+  
+   IBM PC DOS
+  
+  for IBM. It and MS-DOS were identical products that eventually diverged starting with PC DOS version 6.1.
+ 
+
+   Digital Research
+  
+  's DR-DOS is sometimes regarded as a clone of MS-DOS, but it did not follow Microsoft's version numbering scheme. For example, MS-DOS 4, released in July 1988, was followed by DR DOS 5.0 in May 1990. MS-DOS 5.0 came in April 1991, with DR DOS 6.0 being released the following June.
+  
+
+    [38]
+   
+
+
+  These products are collectively referred to as "DOS," even though "Disk Operating System" is a generic term used on other systems unrelated to the x86 and IBM PC. "MS-DOS" can also be a generic reference to DOS on IBM PC compatible computers.
+ 
+  What made the difference in the end was Microsoft's control of the Windows platform and their programming practices which intentionally made Windows appear as if it ran poorly on competing versions of DOS.
+  
+
+    [33]
+   
+
+  Digital Research had to release interim releases to circumvent Windows limitations inserted artificially,
+  
+
+    [33]
+   
+
+  designed specifically to provide Microsoft with an unfair competitive advantage.
+  
+
+    [33]
+   
+
+
+
+   MS-DOS 6 Technical Reference at Microsoft TechNet
+  

@@ -1,0 +1,964 @@
+
+
+
+   Solaris
+  
+  is a
+  
+   Unix
+  
+
+   operating system
+  
+  originally developed by
+  
+   Sun Microsystems
+  
+  . It superseded their earlier
+  
+   SunOS
+  
+  in 1993.
+  
+   Oracle Solaris
+  
+  , so named as of 2010, has been owned by
+  
+   Oracle Corporation
+  
+  since the
+  
+   Sun acquisition by Oracle
+  
+  in January 2010.
+  
+
+    [2]
+   
+
+
+  Solaris is known for its
+  
+   scalability
+  
+  , especially on
+  
+   SPARC
+  
+  systems, and for originating many innovative features such as
+  
+   DTrace
+  
+  ,
+  
+   ZFS
+  
+  and Time Slider.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  Solaris supports SPARC-based and
+  
+   x86
+  
+  -based
+  
+   workstations
+  
+  and
+  
+   servers
+  
+  from Oracle and other vendors, with efforts underway to port to additional platforms. Solaris is registered as compliant with the
+  
+   Single Unix Specification
+  
+  .
+  
+
+    [5]
+   
+
+
+  Historically, Solaris was developed as
+  
+   proprietary software
+  
+  . In June 2005, Sun Microsystems released most of the
+  
+   codebase
+  
+  under the
+  
+   CDDL
+  
+  license, and founded the
+  
+   OpenSolaris
+  
+
+   open source
+  
+  project.
+  
+
+    [6]
+   
+
+  With OpenSolaris, Sun wanted to build a developer and user community around the software. After the acquisition of Sun Microsystems in January 2010, Oracle decided to discontinue the OpenSolaris distribution and the development model.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+  In August 2010, Oracle discontinued providing public updates to the source code of the Solaris kernel, effectively turning Solaris 11 back into a
+  
+   closed source
+  
+
+   proprietary
+  
+  operating system.
+  
+
+    [9]
+   
+
+  Following that, in 2011 the Solaris 11 kernel
+  
+   source code
+  
+
+   leaked
+  
+  to
+  
+   BitTorrent
+  
+  .
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+  However, through the
+  
+   Oracle Technology Network
+  
+  (OTN), industry partners can still gain access to the in-development Solaris source code.
+  
+
+    [8]
+   
+
+  Source code for the open source components of Solaris 11 is available for download from Oracle.
+  
+
+    [12]
+   
+
+
+
+
+  In 1987,
+  
+   AT&T Corporation
+  
+  and Sun announced that they were collaborating on a project to merge the most popular Unix variants on the market at that time:
+  
+   BSD
+  
+  ,
+  
+   System V
+  
+  , and
+  
+   Xenix
+  
+  . This became Unix
+  
+   System V Release 4
+  
+  (SVR4).
+  
+
+    [13]
+   
+
+
+  On September 4, 1991, Sun announced that it would replace its existing BSD-derived Unix,
+  
+   SunOS 4
+  
+  , with one based on SVR4. This was identified internally as
+  
+   SunOS 5
+  
+  , but a new marketing name was introduced at the same time:
+  
+   Solaris 2
+  
+  .
+  
+
+    [14]
+   
+
+  The justification for this new overbrand was that it encompassed not only SunOS, but also the
+  
+   OpenWindows
+  
+
+   graphical user interface
+  
+  and
+  
+   Open Network Computing
+  
+  (ONC) functionality.
+ 
+  Although SunOS 4.1.
+  
+   x
+  
+  micro releases were
+  
+   retroactively named
+  
+
+   Solaris 1
+  
+  by Sun, the Solaris name is used almost exclusively to refer only to the releases based on SVR4-derived SunOS 5.0 and later.
+  
+
+    [15]
+   
+
+
+  For releases based on SunOS 5, the SunOS minor version is included in the Solaris release number. For example, Solaris 2.4 incorporates SunOS 5.4. After Solaris 2.6, the
+  
+   2.
+  
+  was dropped from the release name, so Solaris 7 incorporates SunOS 5.7, and the latest release SunOS 5.11 forms the core of Solaris 11.3.
+ 
+  Although SunSoft stated in its initial Solaris 2 press release their intent to eventually support both SPARC and x86 systems, the first two Solaris 2 releases, 2.0 and 2.1, were SPARC-only. An x86 version of Solaris 2.1 was released in June 1993, about 6 months after the SPARC version, as a
+  
+   desktop
+  
+  and uniprocessor workgroup server operating system. It included the
+  
+   Wabi
+  
+  emulator to support Windows applications.
+  
+
+    [16]
+   
+
+  At the time, Sun also offered the
+  
+   Interactive Unix
+  
+  system that it had acquired from
+  
+   Interactive Systems Corporation
+  
+  .
+  
+
+    [17]
+   
+
+  In 1994, Sun released Solaris 2.4, supporting both SPARC and x86 systems from a unified source code base.
+ 
+  Solaris uses a common
+  
+   code base
+  
+  for the platforms it supports:
+  
+   SPARC
+  
+  and i86pc (which includes both
+  
+   x86
+  
+  and
+  
+   x86-64
+  
+  ).
+  
+
+    [18]
+   
+
+
+  Solaris has a reputation for being well-suited to
+  
+   symmetric multiprocessing
+  
+  , supporting a large number of
+  
+   CPUs
+  
+  .
+  
+
+    [19]
+   
+
+  It has historically been tightly integrated with Sun's SPARC hardware (including support for
+  
+   64-bit
+  
+
+   SPARC
+  
+  applications since Solaris 7), with which it is marketed as a combined package. This has led to more reliable systems, but at a cost premium compared to
+  
+   commodity
+  
+  PC hardware. However, it has supported x86 systems since Solaris 2.1 and 64-bit x86 applications since Solaris 10, allowing Sun to capitalize on the availability of commodity 64-bit CPUs based on the
+  
+   x86-64
+  
+  architecture. Sun has heavily marketed Solaris for use with both its own "x64"
+  
+   workstations
+  
+  and
+  
+   servers
+  
+  based on
+  
+   AMD
+  
+
+   Opteron
+  
+  and
+  
+   Intel
+  
+
+   Xeon
+  
+  processors, as well as x86 systems manufactured by companies such as
+  
+   Dell
+  
+  ,
+  
+   Hewlett-Packard
+  
+  , and
+  
+   IBM
+  
+  . As of 2009, the following vendors support Solaris for their x86 server systems:
+ 
+  As of July 2010, Dell and HP certify and resell Oracle Solaris, Oracle Enterprise Linux and Oracle VM on their respective x86 platforms,
+  
+
+    [24]
+   
+
+  and IBM stopped direct support for Solaris on x64 kit.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Solaris 2.5.1 included support for the
+  
+   PowerPC
+  
+  platform (
+  
+   PowerPC Reference Platform
+  
+  ), but the port was canceled before the Solaris 2.6 release.
+  
+
+    [25]
+   
+
+  In January 2006, a community of developers at
+  
+   Blastwave
+  
+  began work on a PowerPC port which they named
+  
+   Polaris
+  
+  .
+  
+
+    [26]
+   
+
+  In October 2006, an
+  
+   OpenSolaris
+  
+  community project based on the
+  
+   Blastwave
+  
+  efforts and Sun Labs'
+  
+   Project Pulsar
+  
+  ,
+  
+
+    [27]
+   
+
+  which re-integrated the relevant parts from Solaris 2.5.1 into OpenSolaris,
+  
+
+    [25]
+   
+
+  announced its first official source code release.
+  
+
+    [28]
+   
+
+
+  A port of Solaris to the Intel
+  
+   Itanium
+  
+  architecture was announced in 1997 but never brought to market.
+  
+
+    [29]
+   
+
+
+  On November 28, 2007,
+  
+   IBM
+  
+  , Sun, and Sine Nomine Associates demonstrated a preview of
+  
+   OpenSolaris for System z
+  
+  running on an
+  
+   IBM System z
+  
+
+   mainframe
+  
+  under
+  
+   z/VM
+  
+  ,
+  
+
+    [30]
+   
+
+  called
+  
+   Sirius
+  
+  (in analogy to the Polaris project, and also due to the primary developer's Australian nationality:
+  
+   HMS
+   
+    Sirius
+   
+
+  of 1786 was a ship of the
+  
+   First Fleet
+  
+  to
+  
+   Australia
+  
+  ). On October 17, 2008, a prototype release of Sirius was made available
+  
+
+    [31]
+   
+
+  and on November 19 the same year, IBM authorized the use of Sirius on System z
+  
+   Integrated Facility for Linux
+  
+  (IFL) processors.
+  
+
+    [32]
+   
+
+
+  Solaris also supports the
+  
+   Linux
+  
+  platform
+  
+   application binary interface
+  
+  (ABI), allowing Solaris to run native Linux
+  
+   binaries
+  
+  on x86 systems. This feature is called
+  
+   Solaris Containers for Linux Applications
+  
+  (SCLA), based on the
+  
+   branded zones
+  
+  functionality introduced in Solaris 10 8/07.
+  
+
+    [33]
+   
+
+
+  Solaris can be installed from various pre-packaged software groups, ranging from a minimalistic
+  
+   Reduced Network Support
+  
+  to a complete
+  
+   Entire Plus
+   
+    OEM
+   
+
+  . Installation of Solaris is not necessary for an individual to use the system. Additional software, like Apache, MySQL, etc. can be installed as well in a packaged form from
+  
+   sunfreeware
+  
+
+
+    [34]
+   
+
+  and
+  
+   OpenCSW
+  
+  .
+  
+
+    [35]
+   
+
+  Solaris can be installed from physical media or a network for use on a desktop or server, or be used without installing on a desktop or server.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Early releases of Solaris used
+  
+   OpenWindows
+  
+  as the standard desktop environment. In Solaris 2.0 to 2.2, OpenWindows supported both
+  
+   NeWS
+  
+  and
+  
+   X
+  
+  applications, and provided
+  
+   backward compatibility
+  
+  for
+  
+   SunView
+  
+  applications from Sun's older desktop environment. NeWS allowed applications to be built in an
+  
+   object-oriented
+  
+  way using
+  
+   PostScript
+  
+  , a common printing language released in 1982. The
+  
+   X Window System
+  
+  originated from
+  
+   MIT
+  
+  's
+  
+   Project Athena
+  
+  in 1984 and allowed for the display of an application to be disconnected from the machine where the application was running, separated by a network connection. Sun’s original bundled SunView application suite was ported to X.
+ 
+  Sun later dropped support for legacy SunView applications and NeWS with OpenWindows 3.3, which shipped with Solaris 2.3, and switched to
+  
+   X11R5
+  
+  with
+  
+   Display Postscript
+  
+  support. The graphical look and feel remained based upon
+  
+   OPEN LOOK
+  
+  . OpenWindows 3.6.2 was the last release under Solaris 8. The OPEN LOOK Window Manager (
+  
+   olwm
+  
+  ) with other OPEN LOOK specific applications were dropped in Solaris 9, but support libraries were still bundled, providing long term binary backwards compatibility with existing applications. The OPEN LOOK Virtual Window Manager (olvwm) can still be downloaded for Solaris from
+  
+   sunfreeware
+  
+  and works on releases as recent as Solaris 10.
+ 
+  Sun and other Unix vendors created an industry alliance to standardize Unix desktops. As a member of the
+  
+   Common Open Software Environment
+  
+  (COSE) initiative, Sun helped co-develop the
+  
+   Common Desktop Environment
+  
+  (CDE). This was an initiative to create a standard Unix desktop environment. Each vendor contributed different components:
+  
+   Hewlett-Packard
+  
+  contributed the
+  
+   window manager
+  
+  ,
+  
+   IBM
+  
+  provided the
+  
+   file manager
+  
+  , and Sun provided the
+  
+   e-mail
+  
+  and calendar facilities as well as drag-and-drop support (
+  
+   ToolTalk
+  
+  ). This new desktop environment was based upon the
+  
+   Motif
+  
+  look and feel and the old OPEN LOOK desktop environment was considered legacy. CDE unified Unix desktops across multiple
+  
+   open system
+  
+  vendors. CDE was available as an unbundled add-on for Solaris 2.4 and 2.5, and was included in Solaris 2.6 through 10. In 2001, Sun issued a preview release of the open-source desktop environment
+  
+   GNOME
+  
+  1.4, based on the
+  
+   GTK+
+  
+  toolkit, for Solaris 8.
+  
+
+    [36]
+   
+
+  Solaris 9 8/03 introduced GNOME 2.0 as an alternative to CDE. Solaris 10 includes Sun's
+  
+   Java Desktop System
+  
+  (JDS), which is based on GNOME and comes with a large set of applications, including
+  
+   StarOffice
+  
+  , Sun's
+  
+   office suite
+  
+  . Sun describes JDS as a "major component" of Solaris 10.
+  
+
+    [37]
+   
+
+  The Java Desktop System is not included in Solaris 11 which instead ships with a stock version of GNOME.
+  
+
+    [38]
+   
+
+  Likewise, CDE applications are no longer included in Solaris 11, but many libraries remain for binary backwards compatibility.
+ 
+  The open source desktop environments
+  
+   KDE
+  
+  and
+  
+   Xfce
+  
+  , along with numerous other
+  
+   window managers
+  
+  , also compile and run on recent versions of Solaris.
+ 
+  Sun was investing in a new desktop environment called
+  
+   Project Looking Glass
+  
+  since 2003. The project has been inactive since late 2006.
+  
+
+    [39]
+   
+
+
+  For versions up to 2005 (Solaris 9), Solaris was licensed under a license that permitted a customer to buy licenses in bulk, and install the software on any machine up to a maximum number. The key license grant was:
+ 
+  In addition, the license provided a "License to Develop" granting rights to create derivative works, restricted copying to only a single archival copy, disclaimer of warranties, and the like. The license varied only little through 2004.
+ 
+  From 2005–10, Sun began to release the source code for development builds of Solaris under the
+  
+   Common Development and Distribution License
+  
+  (CDDL) via the
+  
+   OpenSolaris
+  
+  project. This code was based on the work being done for the post-Solaris 10 release (code-named "Nevada"; eventually released as Oracle Solaris 11). As the project progressed, it grew to encompass most of the necessary code to compile an entire release, with a few exceptions.
+  
+
+    [40]
+   
+
+
+  When Sun was acquired by
+  
+   Oracle
+  
+  in 2010, the OpenSolaris project was discontinued after the board became unhappy with Oracle's stance on the project.
+  
+
+    [41]
+   
+
+  In March 2010, the previously freely available Solaris 10 was placed under a restrictive license that limited the use, modification and redistribution of the operating system.
+  
+
+    [42]
+   
+
+  The license allowed the user to download the operating system free of charge, through the
+  
+   Oracle Technology Network
+  
+  , and use it for a 90-day trial period. After that trial period had expired the user would then have to purchase a support contract from Oracle to continue using the operating system.
+ 
+  With the release of Solaris 11 in 2011, the license terms changed again. The new license allows Solaris 10 and Solaris 11 to be downloaded free of charge from the Oracle Technology Network and used without a support contract indefinitely however the license only expressly permits the user to use Solaris as a development platform and expressly forbids commercial and "production" use.
+  
+
+    [43]
+   
+
+  Educational use is permitted in some circumstances. From the OTN license:
+ 
+   If You are an educational institution vested with the power to confer official high school, associate, bachelor, master and/or doctorate degrees, or local equivalent, (“Degree(s)”), You may also use the Programs as part of Your educational curriculum for students enrolled in Your Degree program(s) solely as required for the conferral of such Degree (collectively “Educational Use”).
+  
+  When Solaris is used without a support contract it can be upgraded to each new "point release"; however, a support contract is required for access to patches and updates that are released monthly.
+  
+
+    [44]
+   
+
+
+  Notable features of Solaris include
+  
+   DTrace
+  
+  ,
+  
+   Doors
+  
+  ,
+  
+   Service Management Facility
+  
+  ,
+  
+   Solaris Containers
+  
+  ,
+  
+   Solaris Multiplexed I/O
+  
+  ,
+  
+   Solaris Volume Manager
+  
+  ,
+  
+   ZFS
+  
+  , and
+  
+   Solaris Trusted Extensions
+  
+  .
+ 
+  Updates to Solaris versions are periodically issued. In the past, these were named after the month and year of their release, such as "Solaris 10 1/13"; as of Solaris 11, sequential update numbers are appended to the release name with a period, such as "Oracle Solaris 11.3".
+ 
+  In ascending order, the following versions of Solaris have been released:
+ 
+
+
+    [78]
+   
+
+
+
+    [79]
+   
+
+
+
+
+  A more comprehensive summary of some Solaris versions is also available.
+  
+
+    [80]
+   
+
+  Solaris releases are also described in the Solaris 2 FAQ.
+  
+
+    [81]
+   
+
+
+  The underlying Solaris codebase has been under continuous development since work began in the late 1980s on what was eventually released as Solaris 2.0. Each version such as Solaris 10 is based on a snapshot of this development codebase, taken near the time of its release, which is then maintained as a derived project. Updates to that project are built and delivered several times a year until the next official release comes out.
+ 
+  The Solaris version under development by Sun since the release of Solaris 10 in 2005, was
+  
+   codenamed
+  
+
+   Nevada
+  
+  , and is derived from what is now the
+  
+   OpenSolaris
+  
+  codebase.
+ 
+  In 2003, an addition to the Solaris development process was initiated. Under the program name
+  
+   Software Express for Solaris
+  
+  (or just
+  
+   Solaris Express
+  
+  ), a binary release based on the current development basis was made available for download on a monthly basis, allowing anyone to try out new features and test the quality and stability of the OS as it progressed to the release of the next official Solaris version.
+  
+
+    [82]
+   
+
+  A later change to this program introduced a quarterly release model with support available, renamed
+  
+   Solaris Express Developer Edition
+  
+  (SXDE).
+ 
+  In 2007, Sun announced
+  
+   Project Indiana
+  
+  with several goals, including providing an open source binary distribution of the OpenSolaris project, replacing SXDE.
+  
+
+    [83]
+   
+
+  The first release of this distribution was
+  
+   OpenSolaris 2008.05
+  
+  .
+ 
+
+   The
+   
+    Solaris Express Community Edition
+   
+   (SXCE)
+  
+  was intended specifically for OpenSolaris developers.
+  
+
+    [84]
+   
+
+  It was updated every two weeks until it was discontinued in January 2010, with a recommendation that users migrate to the OpenSolaris distribution.
+  
+
+    [85]
+   
+
+  Although the download license seen when downloading the image files indicates its use is limited to personal, educational and evaluation purposes, the license acceptance form displayed when the user actually installs from these images lists additional uses including commercial and production environments.
+ 
+  SXCE releases terminated with build 130 and OpenSolaris releases terminated with build 134 a few weeks later. The next release of OpenSolaris based on build 134 was due in March 2010, but it was never fully released, though the packages were made available on the package repository. Instead, Oracle renamed the binary distribution Solaris 11 Express, changed the license terms and released build 151a as 2010.11 in November 2010.
+ 

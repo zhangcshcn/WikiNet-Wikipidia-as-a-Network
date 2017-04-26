@@ -1,0 +1,287 @@
+
+
+
+   Boot Camp Assistant
+  
+  is a
+  
+   multi boot
+  
+
+   utility
+  
+  included with
+  
+   Apple Inc.
+  
+  's
+  
+   Mac OS X
+  
+  that assists users in installing
+  
+   Microsoft Windows
+  
+
+   operating systems
+  
+  on
+  
+   Intel-based Macintosh
+  
+  computers. The utility guides users through non-destructive
+  
+   disk partitioning
+  
+  (including resizing of an existing
+  
+   HFS+
+  
+  partition, if necessary) of their
+  
+   hard disk drive
+  
+  and installation of Windows
+  
+   device drivers
+  
+  for the Apple hardware. The utility also installs a
+  
+   Windows Control Panel
+  
+
+   applet
+  
+  for selecting the boot operating system.
+ 
+  Initially introduced as an unsupported beta for
+  
+   Mac OS X 10.4 Tiger
+  
+  ,
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  the utility was first included with
+  
+   Mac OS X 10.5 Leopard
+  
+  and has been included in subsequent versions of the operating system ever since. Previous versions of Boot Camp supported
+  
+   Windows XP
+  
+  ,
+  
+   Windows Vista
+  
+  and
+  
+   Windows 7
+  
+  . Boot Camp 4.0 for
+  
+   Mac OS X 10.6 Snow Leopard
+  
+  up to
+  
+   Mac OS X 10.8 Mountain Lion
+  
+  version 10.8.2 only supported Windows 7.
+  
+
+    [3]
+   
+
+  However, with the release of Boot Camp 5.0 for
+  
+   Mac OS X 10.8 Mountain Lion
+  
+  inversion 10.8.3, only
+  
+   64-bit
+  
+  versions of Windows 7 and
+  
+   Windows 8
+  
+  are officially supported.
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+  Boot Camp 6.0 added support for
+  
+   Windows 10
+  
+  . Boot Camp 6.1 (
+  
+   macOS 10.12 Sierra
+  
+  only) will only accept new installations of
+  
+   Windows 10
+  
+  .
+ 
+
+
+  Setting up
+  
+   Windows 10
+  
+  on a Mac requires a USB flash drive and the
+  
+   ISO image
+  
+  of Windows 10 provided by Microsoft. Boot Camp reformats the flash drive as a Mac bootable install disk, and combines Windows 10 with install scripts to load hardware drivers for the targeted Mac computer.
+ 
+  Boot Camp currently supports Windows 10 on a range of Macs dated mid-2012 or newer.
+  
+
+    [6]
+   
+
+
+  By default, Mac will always boot from the last-used startup disk. Holding down the
+  
+   option key
+  
+  (⌥) at startup brings up the
+  
+   boot manager
+  
+  , allowing the user to choose which operating system to start up. When using a non-Apple keyboard, the
+  
+   alt key
+  
+  usually performs the same action. The boot manager can also be launched by holding down the “menu” button on the
+  
+   Apple Remote
+  
+  at startup.
+ 
+  On older Macs, its functionality relies on
+  
+   BIOS
+  
+  emulation through
+  
+   EFI
+  
+  and a partition table information synchronization mechanism between
+  
+   GPT
+  
+  and
+  
+   MBR
+  
+  combined.
+  
+
+    [7]
+   
+
+
+  On newer Macs, Boot Camp keeps the hard disk as a
+  
+   GPT
+  
+  so that Windows is installed and booted in
+  
+   UEFI
+  
+  mode.
+  
+
+    [8]
+   
+
+
+  Apple's Boot Camp system requirements lists the following requirements for
+  
+   Mac OS X 10.7 Lion
+  
+  and
+  
+   Mac OS X 10.8 Mountain Lion
+  
+  :
+  
+
+    [9]
+   
+
+
+  Apple lists the following requirements for
+  
+   Mac OS X 10.5 Leopard
+  
+  and
+  
+   Mac OS X 10.6 Snow Leopard
+  
+  :
+  
+
+    [9]
+   
+
+
+  Officially, the earliest Macintosh models that support Windows 8 are the mid-2011
+  
+   MacBook Air
+  
+  , 13-inch-mid-2011 or 15 and 17-inch-mid-2010
+  
+   MacBook Pro
+  
+  , mid-2011
+  
+   Mac Mini
+  
+  , 21-inch-mid-2011 or 27-inch-mid-2010
+  
+   iMac
+  
+  , and early 2009
+  
+   Mac Pro
+  
+  .
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+  By running the Boot Camp assistant with a compatible version of Microsoft Windows setup disc in the drive and switching to a Windows 8 disc when. Mac OS X reboots the machine to begin installing Windows, Windows 8 can be installed on older unsupported hardware.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  

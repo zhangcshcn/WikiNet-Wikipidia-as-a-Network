@@ -1,0 +1,1349 @@
+
+
+
+   Dell XPS
+  
+  (Xtreme Performance System) is a line of gaming and performance computers manufactured by the American company,
+  
+   Dell
+  
+  .
+ 
+
+
+  The XPS (Xtreme Performance System) name dates back to 1993 when Dell at that time was more focused on corporate business than consumers. Gateway was number one in the high-end consumer market. In early 1993 there was a staff meeting to address how to pursue this emerging market. At this time Dell turned over less than 500 million dollars a year and
+  
+   Michael Dell
+  
+  was involved in most decisions. At this meeting it was decided to launch a new high-end product line to beat Gateway. Vernon Weiss was assigned as product manager to spearhead and manage the new product. In September 1993 the first two versions of the new XPS line were announced. The first generation of the XPS system was available as either a desktop or a tower. This new product line was so far ahead of the competition that it was featured on the cover of the October 1993 issue of
+  
+   PC Computing
+  
+  . For the next 3 years with Vernon Weiss managing the product line, the XPS systems won over 100 magazine reviews and covers, being the first to adopt the latest PC technology available and bring it to the consumers at an attractive price. The XPS mainly competes against computers such as
+  
+   Acer
+  
+  's
+  
+   Aspire
+  
+  ,
+  
+   HP
+  
+  's
+  
+   Pavilion
+  
+  and
+  
+   Envy
+  
+  ,
+  
+   Lenovo
+  
+  's
+  
+   IdeaPad
+  
+  and
+  
+   Toshiba
+  
+  's
+  
+   Satellite
+  
+  .
+ 
+  From 1997 to 2001, as Dell grew into a large corporation, the XPS line lost its position as the leading-edge performance machines and became essentially just a line for fast computers. In 2005 Dell revamped their XPS line as a direct assault on the market share of companies such as
+  
+   Alienware
+  
+  (now owned by Dell) and
+  
+   Falcon Northwest
+  
+  .
+ 
+  In 2005 Dell separated their home desktop systems into two lines,
+  
+   Dimension
+  
+  and XPS. Their home notebooks were also separated into two lines, Inspiron and XPS. While the XPS designation used to mean the hardware was high-end and well suited for gaming, that is no longer the case. For example, the XPS 200 is limited to extremely low-end video cards, while the XPS M140 is only configurable with Intel video, thus making both systems unsuited for gaming or high-end usage.
+ 
+  Starting 2002, Dell considered buying
+  
+   Alienware
+  
+  , but did not take any action until March 22, 2006, when it agreed to purchase the company.
+  
+
+    [1]
+   
+
+  The new subsidiary maintained its autonomy in terms of design and marketing. However, Alienware's access to Dell's
+  
+   supply chain
+  
+  , purchasing power, and
+  
+   economies of scale
+  
+  would lower its operating costs.
+  
+
+    [2]
+   
+
+  Initially, Dell maintained the XPS line, often selling computers with the same specifications as those offered by the
+  
+   Alienware
+  
+  division. Due to corporate restructuring in the spring of 2008, the XPS brand was scaled down and then discontinued.
+  
+
+    [3]
+   
+
+  In 2008 the former XPS line became known as "Studio XPS" and Dell advertised it as a performance computer line while Alienware was being advertised for gaming. On June 2, 2009, The M17x was introduced as the First Alienware/Dell branded system.
+ 
+  Dell XPS Towers were released in July 2016. Three systems were introduced: the XPS Tower, XPS Tower VR, and the XPS Tower Special Edition. All systems are introduced with 6th-generation (
+  
+   Skylake
+  
+  ) i5 and i7 CPUs, at least 8GB of
+  
+   DDR4
+  
+  memory, and are designed with an easy to open chassis for simple expandability. One of the main differences from the 8900 is that now the m.2 connector supports (4) pci-e lanes instead of 1. The VR and Special Edition meet and exceed the minimum recommended specifications for running
+  
+   virtual reality
+  
+  and the Special Edition passed testing for the
+  
+   Oculus Ready
+  
+  and
+  
+   HTC Vive
+  
+  Optimized certification programs.
+  
+
+    [4]
+   
+
+
+  The Dell XPS 8900 was released in October 2015. It is designed for moderate to heavy gaming and high-end workstation performance. It features Intel's 6th-generation (
+  
+   Skylake
+  
+  ) i5 and i7 CPUs on an
+  
+   LGA 1151
+  
+  socket. It also includes an upgrade to higher-bandwidth
+  
+   DDR4
+  
+  memory.
+ 
+  The Dell XPS 8700 is Dell's second most recent product in the XPS line. It is designed for moderate to heavy gaming and high-end workstation performance. It features a
+  
+   Dell 0KWVT8
+  
+  motherboard with a LGA-1150 socket. It comes with a quad-core Intel Core i7 processor and an
+  
+   Nvidia
+  
+  Geforce GTX 660. A special edition is available with an AMD Radeon R9 270.
+ 
+
+   Memory:
+  
+
+
+   Video:
+  
+
+
+   Communications:
+  
+
+
+   Motherboard:
+  
+
+
+   CPU:
+  
+
+  Released on May 2, 2012, the Dell XPS 8500 is the first version in this series to have the third-generation Intel Quad Core i5 and i7 processor added to it. This version of the XPS's motherboard uses the Intel Chipset H77 with socket LGA 1155 and has USB 3.0 ports built into the front. The "Special Edition" version of this desktop, (starting price $999 as of Jan '13), comes standard with such advanced features as an Intel Core i7, Blu-ray drive and a 32 GB Intel SRT SSD mounted on the motherboard to enhance the operational speed of the traditional hard disk.
+ 
+  See Dell's official release notification here.
+  
+
+    [6]
+   
+
+
+
+   Memory:
+  
+
+
+   Video:
+  
+
+
+   Communications:
+  
+
+  Released in 2010, the Dell Studio XPS 8100 was a mid-range, all-purpose PC aimed at home users. It had a Core i5-650 processor, 4GB of DDR3 RAM, 1TB of hard drive space and an
+  
+   NVIDIA GTS 240
+  
+  graphics card as standard.
+ 
+  The Dell XPS One 27" is an all-in-one PC that, hence its name, features a 27-inch screen with a resolution of 2560 pixels wide and a height of 1440 pixels. It is the recipient of CNET's 2012 Editor's Choice Award, and it was also awarded as PCMag's best all-in-one PC of 2012.
+ 
+  CNET editor Rich Brown, who authored the review awarding the XPS One 27" the Editor's Choice Award, noted that it "boasts the highest-display resolution among Windows 8 all-in-ones, and at an aggressive price."
+  
+
+    [8]
+   
+
+
+  On its page discussing PCMag's selections for the best products of the year, it said that the all-in-one "manages to put almost every technology and feature we're looking for in a compact stylish chassis."
+  
+
+    [9]
+   
+
+
+  There are reports from many buyers complaining of a quality control issue on the screen. There are dust particles trapped between the screen and the touch panel. Some buyers even received several exchanges or screens replacements and the issue still remains. Some people may not notice but turning the brightness up will show these spots. They look like dead pixels.
+  
+   http://reviews.dell.com/2341n/xps-one-27-2710-aio/dell-xps-one-27-reviews/reviews.htm?sort=rating&dir=asc
+  
+
+
+
+  The Studio XPS, also referred to as Studio XPS 435MT, was released November 16, 2008. This is a PC with performance somewhat between the XPS 420 and 630. Its processor is the Intel Core i7. The current Studio XPS models, however, are not as gamer-oriented, with only one PCI-E x16 slot and a 475 W power supply. It has RAID0/1 support, however, as well as the capability of up to 24 GB of RAM. Later this model was renamed to the Studio XPS 9000.
+  
+
+    [10]
+   
+
+
+
+
+  Released on November 19, 2007, the Dell XPS One is an all-in-one desktop designed for "minimal fuss and maximum cordless connectivity", and ships with the power cord, and a wireless keyboard with a touchpad and wireless mouse prepared to the system. The XPS One comes in 20-inch (XPS One 20) and 24-inch (XPS One 24) models. The 20-inch model has an Intel Core 2 Duo E4500, while the 24-inch model has an Intel Core 2 Quad Q8200. The 20-inch model has 2 GB of dual-channel
+  
+   DDR2 SDRAM
+  
+  @ 667 MHz, while the 24-inch model has 4 GB of dual-channel DDR2 SDRAM @ 800 MHz. The XPS One 20 has integrated
+  
+   Intel GMA
+  
+  3100 graphics, while the XPS One 24 has integrated Intel GMA X4500HD graphics, and can be customized with an nVidia GeForce 9600M GT graphics card when chosen with PRODUCT (RED). The XPS One 20 has a
+  
+   WSXGA
+  
+  (1680×1050) resolution with 16.7 million colors, a 1000:1 contrast ratio, an 80° viewing angle, and a 5 ms response time. The XPS One 24 has a
+  
+   WUXGA
+  
+  (1900×1200) resolution with 16.7 million colors, a 1200:1 contrast ratio, an 89° viewing angle, and a 6 ms response time. The 20-inch model has integrated High Definition Audio and 10 watt stereo speakers, while the 24-inch model has
+  
+   SoundBlaster Audigy
+  
+  HD software with 25 watt premium JBL speakers with an integrated subwoofer. The XPS One 20 and XPS One 24 were subsequently discontinued by Dell.
+ 
+  The Dell XPS 18 was announced in April 2013. It is an all-in-one computer that also functions as a large tablet. It has a screen size of 18.4 inches.
+  
+
+    [11]
+   
+
+
+  A system that came out circa 1996/97. It contained an
+  
+   Intel
+  
+
+   Pentium II
+  
+  (Klamath) CPU, EDO DRAM, and an i440FX chipset.
+ 
+  A system that came out in 1997. It contained an
+  
+   Intel
+  
+
+   Pentium II
+  
+  (Klamath) CPU,
+  
+   SDRAM
+  
+  , and an i440LX chipset.
+ 
+  A system that came out in 1998. It contained an Intel Pentium II (Deschutes) CPU,
+  
+   SDRAM
+  
+  , and an
+  
+   i440BX
+  
+  chipset.
+ 
+  A system that came out in 1999. It contained an Intel
+  
+   Pentium III
+  
+  CPU,
+  
+   SDRAM
+  
+  , and an
+  
+   i440BX
+  
+  chipset. An "r" suffix was used for
+  
+   Socket 370
+  
+  versions, while no suffix was used for
+  
+   Slot 1
+  
+  versions.
+ 
+  A system that came out in 2000. It contained an Intel Pentium III CPU, 128 MB of
+  
+   RDRAM
+  
+  , an
+  
+   ATi RAGE
+  
+  graphics card, and an
+  
+   i820
+  
+  chipset. An "r" suffix was used for
+  
+   Socket 370
+  
+  versions, while no suffix was used for
+  
+   Slot 1
+  
+  versions. Later models (especially the "R" series) had a built in DVD drive.
+ 
+  Included Pentium 4 processor with Hyper-Threading Technology (3.4 GHz, 800 MHz Bus, Microsoft Windows XP Professional, 400 MHz dual-channel DDR SDRAM (400 MHz), Supports SATA and IDE hard drives, 1 AGP Slot, 4 PCI slots,
+  
+   Sound Blaster Audigy
+  
+  ², and Dell Wireless Keyboard and Mouse. Video Card included was ATI
+  
+   Radeon 9800
+  
+  Pro (AGP x8).
+  
+   [3]
+  
+
+  It was powered by a 460 watt proprietary power supply and featured decorative LEDs on the front of the case that the user could change the colors of in the BIOS.
+ 
+  Used a Pentium 4 HT processor with 512 KB, 1 MB, or 2 MB of L2 Cache. It can support up to 8 GB of DDR2 memory @ 533 MHz or 667 MHz.
+ 
+  This model was available from late 2005 to the end of the third quarter of 2006. It was replaced by the XPS 210, which is nearly identical to its predecessor. The main exception in this case is the upgrade to an Intel Core 2 Duo processor and other minor adjustments.
+ 
+  A small-form-factor case that is 67% smaller than the XPS 410. It does not use full-size PCI slots. The XPS 200 is aimed at being a low-impact machine, meaning it blends in better with the room's features. It is more of a multimedia computer than an actual gaming machine, despite the XPS name. The main difference between the XPS 210 and its predecessor, the XPS 200, is the upgrade to the Intel Core 2 Duo processor line. This makes the XPS 210 faster than the XPS 200.
+ 
+
+
+  This model was available during late 2005 and the first half of 2006. It was replaced by the XPS 410, which is nearly identical with the exception of an optional Intel Core 2 Duo processor and slightly different audio and video card options
+ 
+  The former intermediate model of the XPS series and bigger brother to the Dimension E510. It features a base configuration of an Intel Core 2 Duo processor, and a 2.4 GHz Core 2 Quad is also available as an option. Other base options include the Nvidia GeForce 7300LE, 7200RPM
+  
+   SATA
+  
+  -300 hard drive, and dual-channel DDR2 RAM. The case is nearly identical to that of the Dimension E510, with an additional 3.5-inch
+  
+   drive bay
+  
+  being added. The case is physically taller because of this. The power supply is also slightly more powerful than the Dimension E510 (375 W vs 305 W, respectively). The XPS 410 replaced the XPS 400. It was replaced by the XPS 420. XPS 410 units were also sold as the Dimension 9200, allowing Dell to continue selling remaining units after the XPS 410 was discontinued.
+ 
+  In an odd twist, the Dimension 9200 was the final desktop in the Dimension line, effectively making an XPS unit the last in the Dimension family.
+ 
+  Now discontinued, it features similar components to the XPS 410, but it used different case design and new features. This was Dell's media based computer featuring the Dell Xcelerator (a simple and effective Video Recorder), and an LCD screen in the case, running Windows Vista SideShow. As usual with the 4XX Line of XPS's it did not allow for SLI Graphics.
+ 
+  similar to 420, with DDR3 RAM and without the LCD on the computer chassis.
+ 
+
+
+  The former flagship model of the XPS series that features an Intel dual-core Pentium D 950 processor, dual Nvidia GeForce 7900GTX in
+  
+   SLI
+  
+  mode, 7200 RPM SATA hard drive, and dual-channel DDR2 RAM. This case has not changed significantly over the past several generations, with the large aluminum plate on the front. Discontinued a few days after XPS 700 launch and succeeded by the XPS 700.
+ 
+  A version of the XPS 630 but with AMD Phenom II chips and ATI Graphics.
+ 
+  Now no longer available from Dell as a new system purchase, but is in factory outlet. This desktop at one time filled the gap between the media-oriented XPS 420/430 and the high-end XPS 730x. There is no physical difference(s) between the 630 and the 630i. The marketing concept was to use an "i" to designate systems installed with an Intel chipset, and an "a" for systems with AMD-installed chipsets, but since Intel-based chipsets were the only models ever sold, this designation holds little significance. The 630 features a Dell-modified
+  
+   Nvidia
+  
+
+   nForce
+  
+  650i chipset that supports both
+  
+   SLI
+  
+  and
+  
+   CrossFire
+  
+  configurations, but lacks ESA certification (the only ESA-certified component in the 630i is Dell's "Master Input/Output" (or "MIO") printed circuit board).
+  
+
+    [12]
+   
+
+  The XPS 630 at one time came standard with an
+  
+   Intel Core 2 Quad
+  
+  Q6600 CPU and dual
+  
+   Nvidia GeForce
+  
+  8800GT graphics cards.
+ 
+  There were several issues with the XPS 630 including problems with the chassis fan control, chassis LED lights, and non-shipment of the LightFX 2.0 lightshow control software.
+  
+
+    [13]
+   
+
+  limited
+  
+   PCIe
+  
+  slot configuration (8,8,1,1 unlike OEM Nvidia 650i SLI motherboards which also offer the 16,1,1,1 configuration), constant HDD LED activity, and a reliability issue due to a problem inherent in the Nvidia 650i SLI chipset that can surface when overclocking with 4 or more gigabytes of RAM. The problems resulted in PC PRO revoking their Recommended award for the system.
+  
+
+    [14]
+   
+
+
+  The July 22, 2009 release of a Softex Media Plug-in has provided some of the features originally advertised in LightFX. BIOS updates were issued to patch the constant HDD LED activity. Some 630i owners have bypassed the aforementioned problems by swapping out the Dell-modified 650i motherboard with OEM motherboards such as the EVGA nForce 780i SLI FTW. The motherboard has 8 lanes wired for each PCIe slot, which can restrict performance if using a single high-performance graphics card. Performance is equivalent to other systems with 650i chipset motherboards when using two graphics cards in SLI mode.
+ 
+  Targeted at the gaming community, this model featured the Intel Pentium D Extreme processors in speeds up to 3.7 GHz with dual nVidia GeForce 7900 GTX in
+  
+   SLI
+  
+  mode, a 7200RPM SATA hard drive and
+  
+   dual-channel
+  
+  DDR2 RAM. This desktop was advertised as being overclockable but was not. Dell would later offer a free XPS 720 motherboard upgrade program to all XPS 700 and 710 owners so that these machines could be overclocked with the bios. The aluminum case featured a distinctive "leaning" design. The XPS 700 used significantly larger power supplies (750 watt and 1 kilo-watt)than the other XPS models to accommodate higher-end video cards and overclocked CPUs. Unlike its forerunners, it used a non-standard
+  
+   BTX
+  
+  motherboard, thereby limiting upgradability. It was replaced by the XPS 710 and many customers were offered a free motherboard upgrade to XPS 720 specification following complaints about the system.
+  
+
+    [15]
+   
+
+
+  The formal flagship model of the XPS series that features the new Intel Core 2 Duo and Core 2 Extreme processors, as well as Core 2 Quad processors. Other features include dual nVidia GeForce 7950 GX2 in Quad
+  
+   SLI
+  
+  mode, 7200RPM SATA hard drive,
+  
+   dual-channel
+  
+  DDR2 RAM. The XPS 710 uses significantly larger power supplies than the other XPS models to accommodate higher-end video cards and overclocked CPUs. It was replaced by the XPS 720.
+ 
+  The
+  
+   H2C
+  
+  edition computer has included a dual-stage radiator cooling technology, and a motherboard capable of overclocking its quad core Intel
+  
+   Core 2 Extreme
+  
+  QX6800. The H2C comes standard with dual Nvidia GeForce 8800GTX cards running in SLI at a price of $6,780. The XPS 720 H2C uses slightly higher quality parts than the other XPS classes and is currently one of the most powerful and one of the fastest pre-built systems that an individual can purchase by a significant margin. Hampering its overall performance however, are the locations of the PCIe 16x slots. In an ideal SLI configuration, the 16x slots must be close enou the second 16x is at the far edge of the board. This is now not available in the
+  
+   United Kingdom
+  
+  . In the
+  
+   United States
+  
+  , the XPS 720 H2C is only available through Dell Outlet now, meaning no new computers of this model are being manufactured.
+ 
+  Announced on November 24, 2007, the XPS 720 is the same as the XPS 720 H2C, except it does not have the "dual-stage radiator cooling technology." It comes in two versions, the Red Special Edition, which is the same as the Black normal one, they both come with a 1 kW power supply. This is now not available in the UK. Like the XPS 720 H2C this is only available in the U.S. through Dell Outlet.
+ 
+  The 730 H2C had
+  
+   H2C
+  
+  (a high-performance cooling system) as standard, which was ideal for gaming and overclocking. Its
+  
+   motherboard
+  
+  , the Nvidia nForce 790i Ultra, was capable of overclocking its quad core Intel
+  
+   Core 2 Extreme
+  
+  QX9770 up to 3.64 GHz. Dual channel
+  
+   DDR3
+  
+  SDRAM system memory was available in
+  
+   United States
+  
+  and UK.
+  
+
+    [16]
+   
+
+  There was a choice of colors also at some outlets. The basic model specs of the PC were: Intel Core 2 Extreme Processor QX9650 (3.46 GHz Overclocked), DUAL 1 GB ATI Radeon 3870 X2 Crossfire X Graphics Card, 2 GB Memory, 1 TB 7200rpm Dual HDD. The base price in the UK was
+  
+   £
+  
+  2,499.
+  
+
+    [17]
+   
+
+  The system also came with an improved H2C cooling device, seen on ultra high
+  
+   gaming
+  
+
+   computers
+  
+  . This has since been replaced by the XPS 730x (see above).
+ 
+  Released on November 16, 2008, it is basically an XPS 730 with the new
+  
+   Intel Core i7
+  
+  which also used the new
+  
+   Intel X58
+  
+  chipset Motherboards. The 730X, when configured with the Core i7 975 Extreme Edition, can be factory-overclocked to 3.73 GHz with the
+  
+   H2Ceramic cooling
+  
+  option. The 730X also integrates
+  
+   Alienware
+  
+  's AlienFX and a new theatre lighting system. The internals of the 730X have also been redone for ease of upgrades, although most of the inside remains the same. The 730X supported a Tri-Channel of 6 GB of DDR3. The graphics card support was either a dual or single
+  
+   NVIDIA
+  
+
+   Geforce GTX 285
+  
+  , or a single ATI
+  
+   Radeon HD 4870
+  
+  X2. The 730X operating system also supported
+  
+   64-bit Windows
+  
+  . Dell internally discontinued the XPS 730X in its US online store on or around August 1, 2009 and cancelled any remaining orders after August 15, 2009. It has been mentioned that this was done to focus more attention for customers seeking gaming computers, such as
+  
+   Alienware
+  
+  . The desktop was officially discontinued on September 17, 2009. See the Wikipedia article on the
+  
+   Dell XPS 730x
+  
+  for more details.
+ 
+  Dell returned to develop their XPS performance line. The three new laptops, released in October 2010, have many new features and specifications from the old models. They feature
+  
+   JBL
+  
+  speakers with Waves MaxxAudio 3 technology, and have integrated 3D graphics. The line is the first to be
+  
+   Skype
+  
+  -certified for video chat. They have
+  
+   Intel i5
+  
+  and i7 processors. The X-Fi upgrade offered by Dell is not actually a hardware upgrade but a software-based processing package which "provides premium audio quality, effects and features".
+  
+
+    [18]
+   
+
+
+
+   XPS 17 (L701X):
+  
+  The Dell XPS 17, released in October 2010, is a new desktop replacement laptop in the XPS Laptop line. It is priced at $949 for the base configuration, but can be customized heavily. Options include a processor upgrade up to the new
+  
+   Intel Core i7
+  
+  840-QM, an
+  
+   NVIDIA
+  
+  555 GT 3GB graphics card, up to 16 GB of
+  
+   DDR3
+  
+
+   RAM
+  
+  memory, 1.28 TB Hard Drive space (2x640 GB @ 7200 RPM), a 17.3-inch 1600 X 900 resolution screen, and a
+  
+   Blu-ray Disc
+  
+  drive. It also has an LCD upgrade of 1920 X 1080 (HD) and 3D display kit.
+ 
+
+   XPS 17 (L702X):
+  
+  Same as L701X, except this model contains the second-generation Intel Core i7 processors and capability for Full HD Display and Full HD 3D Display. Also, the discreet graphics have been improved to the newest Nvidia GT550M 1GB graphics card or Nvidia GT555M 3GB graphics card for Full HD 3D Display ; Can be customized with up to 16 GB of DDR3 RAM (8 GB x 2) or 32GB (4 slots @ 8GB) of ram with the 3D model only Model: HMT41GS6MFR8C (Hynix) Issues have been reported with the charging port and the charger falling out with the only slight movements.
+  
+
+    [19]
+   
+
+
+
+   XPS 15 (9530):
+  
+  The Dell XPS 15 Touch Screen laptop (9530, using
+  
+   Haswell
+  
+  ) was first released in October 2013, is a high-end, premium-class and very potent multimedia notebook. It is the fourth generation XPS 15, which has taken many of the design elements of the Ivy Bridge Edition XPS 15 but fixes the cooling/throttling, adds a Haswell CPU and an updated 750M NVIDIA GPU, ditches the optical drive, and on the higher-end SKUs you get an ultra-high resolution 3200x1800 display. Buyers looking for notebooks in this category expect a perfect design, superior build quality, and lots of power, use it as Windows-based alternative to Apple MacBook Pro 15. The XPS 15 ships with Windows 8.1 and carries a one-year on-site warranty. Worth mention is that there are three different models of the new XPS 15 available right now. The base model XPS 15 comes with a 1920x1080 touchscreen display (it's not clear if this is a TN panel or not), 500GB HDD with 32GB SSD cache, dual-core i5-4200H CPU, 8GB RAM, integrated HD 4400 Graphics, and a 61Wh battery for $1500 (or a 3-year warranty for $1750). Stepping up to the $1950 XPS 15 will get you the quad-core i7-4702HQ CPU, 3200x1800 PPS (similar to IPS) touchscreen, 16GB RAM, GT 750M GDDR5 GPU, a 1TB HDD with 32GB SSD cache, and a 61Wh battery. The high end $2350 edition is mostly the same as the $1950 model but it dumps HDD storage completely in favor of a 512GB mSATA SSD and adds a larger 91Wh battery in place of the 2.5" drive.
+ 
+  The 9530 has been criticized for the instability of 802.11ac Wi-Fi.
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+  Currently this model has an issue with respect to an annoying electrical/hissing noise called 'Coil Whine'.
+ 
+
+   XPS 15 (9550):
+  
+  On October 8, 2015, Dell refreshed the XPS 15 (9550) with the
+  
+   Skylake microarchitecture
+  
+  . A 15.6-inch UltraSharp™ InfinityEdge display is included to fit into the body of a relatively small notebook that responds well to standard Windows 8.1 swipes and commands. Edge-to-edge Gorilla Glass NBT covers the screen. The chiclet-keys of backlight keyboard are matte black and feature a slightly concave surface area. This redesigned model offers PCIe SSDs up to 1 TB, up to 32 GB of DDR4 RAM through two SODIMM slots, NVIDIA GeForce GTX 960M with 2GB GDDR5, a 3x3 802.11ac
+  
+   WiFi
+  
+  card, and featuring
+  
+   Thunderbolt
+  
+  3 through Type-C,
+  
+
+    [23]
+   
+
+  though this port is only able to achieve Thunderbolt 2 speeds.
+  
+
+    [24]
+   
+
+
+
+   XPS 15 (9560):
+  
+  A slightly updated model 9560 was released in February 2017. The new model aligned with the previous model 9550 in term of dimension and exterior ports, but inside the CPU and GPU were upgraded to
+  
+   Kaby Lake
+  
+  and GTX 1050, respectively.
+ 
+  The XPS 15 was released in October 2010 and is a 15.6-inch laptop. Its base-price at release is $849 and it can be customized up to the
+  
+   Intel Core i7
+  
+  . It is equipped with a 2010
+  
+   NVIDIA
+  
+  GT 435M or 420M video card, and can be customized with up to 8 GB of
+  
+   DDR3
+  
+  memory. This makes it a good gaming laptop. The base model comes with 500 GB 7200 rpm
+  
+   SATA
+  
+  hard drive. The computer can either have a 640 GB 7200 RPM SATA hard drive, or a 256 GB solid state drive. It also contains a 16x DVD/
+  
+   Blu-ray
+  
+  reader/burner, and a 9-in-1 media card reader. The screen resolution is either 1366 × 768 or 1920 × 1080. The Nvidia graphics card used in Dell 15 (L501x) turns off or on automatically for specific applications demanding dedicated graphics. It has integrated JBL 2.1 Speakers + Waves MaxxAudio enhancement. It is equipped with 2 MP webcam. It has two USB 3.0 ports and one
+  
+   eSATAp
+  
+  port.
+ 
+  The XPS 15z was released in May 2011 and is a 15.6-inch laptop. It is branded as the thinnest 15 inch PC on the market. It is noted for having a very similar design to the current generation Apple Macbook Pro computer, and even sported a silver aluminum casing. Its base-price at release is US$999 (A$1399) and it can be customized up to the dual-core
+  
+   Intel Core i7
+  
+  .
+  
+
+    [25]
+   
+
+  it is equipped with a
+  
+   NVIDIA
+  
+
+   GeForce
+  
+  GT 525M 1 GB video card (Australian version is equipped with 2 GB video RAM), and can be customized up to 8 GB of
+  
+   DDR3
+  
+  memory. The computer can either have a 750 GB 7200
+  
+   RPM
+  
+  hard drive or a 256 GB solid state drive. It also contains a 8x slot-loading CD/DVD reader/burner. The American version has a base screen resolution of 1366 × 768, while the Australian release is 1920×1080 pixels.
+  
+
+    [26]
+   
+
+  On 6 September 2011, Dell upgraded the choices for the optional extra Core i5 and i7 processors. Throughout its production, the XPS 15z was plagued with DCP latency related sound spikes due to faulty network drivers provided by Dell. The solution was to use third party drivers, as discovered by a community of forum users. Another chronic issue was the lower right corner of the LCD going dim at random times. Replacement of the entire LCD assembly would only temporarily solve this problem. Production of the XPS 15z ceased in the first half of 2012, but its design was carried on by the XPS 14z.
+ 
+
+   XPS 14 (L401X):
+  
+  This XPS was released in the summer of 2011 and is a 14-inch HD WLED screen with resolution up to 1366 x 768 (touch screen is optional) bundled in Intel Core i3-360M processor (2.4 GHz, 2Core/4Threads, 3M cache), 4GB 1333 MHz DDR3 SDRAM. Its base-price at release is $999 and comes with i3 360 m . it can be customized up to the intel core i7 740Qm . It is equipped with a 2011 1GB
+  
+   NVIDIA GeForce
+  
+  GT 420M Graphics (for Core-i5 processors) and GT 425M (for Core-i7 processors).it can also be customized with up to 8 GB of
+  
+   DDR3
+  
+  memory. The computer can either have a 500 GB 7200 RPM SATA hard drive, or a 256 GB solid state drive. This laptop has a sleek anodized aluminium LCD back cover. It also had World's first camera with Hi-Definition Video Streaming with
+  
+   Skype
+  
+  (2.0MP, H.264 Camera), JBL 2.0 Speakers with Waves MaxxAudio v3.0 enhancement for a 6-Way audio performance, Biometric - Fast Access Facial Recognition system.
+ 
+
+   XPS 14 (L421X):
+  
+  The XPS 14 was released in the summer of 2012 and is a 14-inch laptop. Its base-price at release is $999 and it can be customized up to the third generation
+  
+   Intel Core i7
+  
+  . It is equipped with a 2012
+  
+   NVIDIA
+  
+  GT 630M (on higher models) or Intel HD graphics 4000 (on the base model), and can be customized with up to 8 GB of
+  
+   DDR3
+  
+  memory. The computer can either have a 500 GB 7200 RPM SATA hard drive, or a 256 GB solid state drive. This laptop is an
+  
+   ultrabook
+  
+  featuring a long battery life (claimed to be 9hours) and a sleek aluminium unibody shell.
+  
+
+    [27]
+   
+
+
+
+   XPS 13 (L321X, Early 2012):
+  
+  The Dell XPS 13 was unveiled at CES 2012. It is the company's first Ultrabook, a term coined by Intel. The XPS 13 features a 13.3-inch screen (1366 x 768 NON Touch Corning Gorilla Glass) and uses flash memory to help with fast booting.
+  
+
+    [28]
+   
+
+  The XPS 13 features certain unique design elements. The edges are rounded and the bottom is made of carbon fibre, with a gentle silicone surface treatment. Note: Intel Chipset is 2nd generation I series.
+  
+
+    [29]
+   
+
+
+  Dell also offers a developer's version of the XPS 13 running
+  
+   Ubuntu
+  
+
+   Linux
+  
+  .
+  
+
+    [30]
+   
+
+
+
+   XPS 13 (L322X, Early 2013):
+  
+  The slightly heavier, revised version of L321X. Difference with the previous version include: 4-8 DDR3L RAM, up to 1600 MHz, Mobile Intel 7 series express chipset QS77 (Panther Point), Intel HD 4000 graphics instead of 3000, two USB 3.0 ports, an upgraded wireless card, and a 13.3-inch HD WLED, HD/FHD TrueLife with Gorilla glass LCD. Note: Intel Chipset is 3rd generation I series.
+  
+
+    [31]
+   
+
+
+
+   XPS 13 (9333, Late 2013):
+  
+  Released in 2013. Includes a 13.3" LED backlit touch screen display with 1920×1080 resolution and Corning Gorilla Glass, Intel Core fourth generation i5-4200U or i7-4500U processor, Windows 8.1 (64-bit), Intel HD Graphics 4400, 4GB or 8GB Dual Channel DDR3 1600 MHz RAM, 128GB or 256GB mSATA SSD, Intel Dual Band Wireless-AC 7260 + Bluetooth wireless, and 55 WHr 6-Cell Battery. Note: Intel Chipset is 4th generation I series. However, Dell has not fixed the issue with this generation - a high pitched noise emitting from the keyboard area to the right.
+  
+
+    [32]
+   
+
+
+
+   XPS 13 (9343, Early 2015):
+  
+  Announced at CES and released in January 2015, the latest XPS 13 comes with the new Intel
+  
+   Broadwell
+  
+  processors and a renovated 3200x1800 touchscreen of 13.3" set in a very thin frame, and claims up to 15 hours of battery life and many other improvements.
+  
+
+    [33]
+   
+
+  Note: Intel Chipset is 5th generation Core i series.
+ 
+
+   XPS 13 (9350, Late 2015):
+  
+  Released in October 2015, the 9350 is similar to the 9343 but with the new Intel
+  
+   Skylake
+  
+  processor (6th generation I series) and a
+  
+   Thunderbolt 3
+  
+  (with
+  
+   USB 3.1
+  
+  Gen 2 support) in lieu of the mini-DisplayPort. There was also another model with Iris 540 graphics released later for better graphics performance
+  
+
+    [34]
+   
+
+
+
+   XPS 13 (9360, Late 2016):
+  
+  Released in October 2016, the 9360 is similar to the 9350 but with the new Intel
+  
+   Kaby Lake
+  
+  processor (7th generation I series) and a
+  
+   Thunderbolt 3
+  
+  (with
+  
+   USB 3.1
+  
+  Gen 2 support) in lieu of the mini-DisplayPort.
+  
+
+    [35]
+   
+
+  The 6th generation XPS 13 Developer Edition was announced on the 59th anniversary of the Sputnik satellite. The XPS 13 Developer Edition comes preloaded with
+  
+   Ubuntu
+  
+  16.04 LTS.
+ 
+
+   XPS 13 (9365, Early 2017):
+  
+  The 9365 is similar to the 9360 but with a flexible hinge allowing it to fold over into tablet mode. The i7 version features a Kaby Lake i7-7Y75 CPU with passive cooling. This CPU is the successor to the Core m7-6Y75 (Skylake Y-series), so the chip does not reach the performance level of other Core i processors due to the lower TDP.
+  
+
+    [36]
+   
+
+
+  The XPS 12 is a
+  
+   convertible laptop
+  
+  . The convertible mirrors the general aesthetic of the Dell XPS 13 ultrabook and other models in the XPS lineup, although the hybrid swaps out its predecessors' aluminum look for a carbon-fiber exterior. The lid and exterior edge are framed by a machined aluminum edge, while the interior consists of a magnesium-alloy palm rest coated in matte black paint. The Dell XPS 12's body was made with a fingerprint-resisting coating. It possesses a hinged, flip-screen LCD. Applying a push to the top of the screen frees the 12.5 inches, 1,920x1,080 resolution, 400-nit brightness display from the magnetic locks that hold it in place., The convertible's 1.7 GHz Core i5-3317U processor sports Intel HD Graphics 4000 integrated graphics, which combine with 4GB of RAM and a 128GB solid-state drive and Core i5 processor, but ups the memory to 8GB and the storage to 256GB. Some models configuration includes the Core i7 processor, 8GB of RAM, and the 256GB SSD.
+ 
+  In July 2013, Dell released its XPS 12 with Intel Haswell (4th Generation) processor. This upgrade came as a boost in the Ultrabook's performance as well as battery life. Dell also added
+  
+   near field communication
+  
+  in this device. This model is available in a few countries only including the United States.
+ 
+  In 2015, Dell released a new XPS 12 with Intel Skylake Core M processors. It loses the complicated hinge system to a fully detachable 2-in-1 Ultrabook. The device has a 4K Ultra HD (3860 x 2160p) display, a kickstand and an 8MP rear camera and a 5MP front camera. The new XPS 12 has an all-metal build from the new XPS 13.
+ 
+  The XPS 10 was an ARM based
+  
+   convertible tablet
+  
+  with a keyboard stand, running Windows RT, similar to the
+  
+   Microsoft Surface
+  
+  .
+  
+
+    [37]
+   
+
+  The tablet was unveiled on August 30, 2012
+  
+
+    [38]
+   
+
+  and discontinued in September 2013.
+  
+
+    [39]
+   
+
+
+
+   Studio XPS 16 (M1640):
+  
+  Released early January 2009, it features a 15.6-inch 720p or a 16.0-inch 1080p 16:9
+  
+   aspect ratio
+  
+  screen. It is equipped with either a 512 MB ATI Radeon HD 3670 or 1024 MB ATI Radeon HD 4670 graphics card, an
+  
+   Intel Core 2 Duo
+  
+  processor, a DVD+/- RW or a Blu-ray ROM combo drive, and
+  
+   Windows Vista
+  
+  or
+  
+   Windows 7
+  
+  . It has an illuminated
+  
+   QWERTY keyboard
+  
+  and leather accents on the lid are optional. Its full body is onyx black and silver.
+ 
+
+   Studio XPS 16 (M1645):
+  
+  Same as above, featuring a quad core
+  
+   Intel Core i7
+  
+  Clarksfield processor on an intel PM55 chipset mainboard and a 1 GB ATI Mobility Radeon HD 4670 or 5730. Some of these XPS systems
+  
+   [
+   
+
+
+      which?
+     
+
+
+   ]
+  
+  were found to have throttling issues when demanding applications like games were run on them. Dell was able to provide a fix for the issue with the help of community input. The fix involved bios updates and a more powerful AC adapter.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Other laptops
+  
+   [
+   
+
+
+      which?
+     
+
+
+   ]
+  
+  were also found to suffer from the same throttling issue.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+
+   Studio XPS 16 (M1647):
+  
+  Same as above, featuring a dual core
+  
+   Intel Core i5
+  
+  or
+  
+   Intel Core i7
+  
+  Clarksfield processor. The M1647 motherboard still uses the Intel PM55 chipset (as the M1645) but overall the motherboard uses less power than its predecessor.
+ 
+  The XPS M1730 was announced on October 5, 2007 as the newest 17-inch XPS laptop computer. Compared to its predecessor, the XPS M1710, the model M1730 was physically redesigned with a completely new chassis available in a grey, white, blue, or red. Like the M1710, the M1730 offered unique user- and software-changeable LED lighting in the touchpad, fan outlets/inlets, as well as the lid and speaker grilles. Also like its predecessor, it featured a 17-inch widescreen. From the components angle, it supported overclockable
+  
+   Intel Core 2 Extreme
+  
+  processors (2.8 GHz to 3.4 GHz overclocked via the X7900 or X9000 Processor), dual NVIDIA GeForce 9800M GTX video cards in SLI, up to two 7200 RPM SATA hard drives available in RAID, and up to 8 GB DDR2 SDRAM . A
+  
+   Blu-ray Disc
+  
+  Drive was an option in some models. New with this latest version was a built in optional
+  
+   AGEIA
+  
+
+   physics card
+  
+  to enable
+  
+   PhysX
+  
+  enhanced titles take advantage of hardware accelerated physics, the option for 64 GB solid state drives, a back lit keyboard including a number pad, and a Logitech gaming LCD display above the keyboard. The model has been discontinued, likely because of
+  
+   Alienware
+  
+  's new M17x laptop, which is now sold at the same price as the XPS M1730.
+ 
+  The M1730 has been criticized for its looks, increase in weight and size compared to previous models, and for having only marginal performance gains in select games. The last complaint is likely due to Nvidia only having recently
+  
+   [
+   
+
+
+      when?
+     
+
+
+   ]
+  
+  released a mobile version of the 8800M video card which Dell added to the list of options following the release of the M1730.
+ 
+  Following the initial release of the M1730, the option to have dual 8800M GTX graphics cards in SLI was made available. This is said to have a 174% power increase (as quoted by Dell) over the dual 8700M GTs in SLI which were previously the highest available option.
+  
+
+    [40]
+   
+
+  More recently
+  
+   [
+   
+
+
+      when?
+     
+
+
+   ]
+  
+  an option to have dual 9800M GT and 9800M GTX graphics cards in SLI has been added to the line.
+ 
+  The 9800M GTX SLI is currently the highest supported graphics card with 1 GB GDDR3 VRAM for the M1730, as opposed to the 9800M GT SLI and 8800M GTX SLI only with 512 MB of available Video Memory and slightly higher amount of stream processors. Thus, performs slightly better than the 9800M GT and 8800M GTX cards. The availability of the 9800M GTX SLI is rare, and may only be purchased in limited Dell direct outlets and on eBay. And in most cases, they are either out of stock, not on sale any longer or selling the previous 9800M GT and 8800M GTX graphics cards.
+ 
+  This 15.4-inch laptop, released on November 28, 2007, features the
+  
+   Santa Rosa platform
+  
+  . The XPS M1530 is almost identical in design to the XPS M1330 except that it has 4 different colors (blue, black, pink and red) and it is a bit thicker and heavier with a 15.4-inch
+  
+   CCFL
+  
+  or LED screen. It can be configured with
+  
+   Intel Core 2 Duo
+  
+  mobile processors up to T7800 (2.6 GHz) / T9500 (2.6 GHz, 6 MB L2 cache)) / X9000 (2.8Ghz), up to 8 GB DDR2 SDRAM at 667 MHz, up to 320 GB 5400 rpm hard drive/500 GB 5400 rpm or with faster 160 GB or 240 GB 7200 rpm and up to 320 GB 7200 rpm hard drive or an optional 128 GB
+  
+   solid-state drive
+  
+  , and can be configured with a 128 MB DDR2 Geforce 8400GS or 256 MB DDR3 8600M GT GPU. Wireless draft-n is also available (
+  
+   802.11n
+  
+  ). The XPS M1530 includes a biometric fingerprint reader and a 2 MP webcam. Another option for this laptop is a glossy 1920×1200 display, even though it is 9 inches smaller than Dell's 24 inch monitor. The system weight starts at 2.62 kg (5.78 lbs)
+  
+
+    [41]
+   
+
+  and is dependent upon configuration. The laptop contains an internal slot for a Dell mobile broadband card.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  XPS M1530 is no longer available for purchase on Dell's website as of early August 2009. Dell became aware that the problem was limited to Nvidia chip production, the BIOS was updated to A12 which improves thermal control but does not prevent it from reoccurring. The problem associated with Nvidia GPU's was the chip material used could not stand high temperatures.
+ 
+  This 13.3-inch high-end laptop, released on June 26, 2007, features the
+  
+   Santa Rosa platform
+  
+  . It features a 13.3-inch screen either with
+  
+   CCFL
+  
+  or
+  
+   WLED
+  
+  . The WLED-backlit version has a 0.3 MP camera, as opposed to the 2 MP camera with the CCFL screen. The XPS 1330 with the WLED screen is thinner and brighter than the previous XPS 1210 version, the thinner WLED screen forcing the optics in the camera to be limited to 0.3 MP. Moreover, XPS 1330 can also feature a biometric fingerprint reader, usually found in business class laptops like the Latitude series. The XPS M1330 also offers the NVIDIA GeForce Go 8400M GS graphics card as an option. Originally, it could only be configured with Intel Core 2 Duo mobile processors up to T7700 (2.4 GHz), but could later be configured with processors up to the Intel Core 2 Duo T9500. The XPS M1330 is also available in the (PRODUCT) RED line along with other Dell computers. There have been several cases involving M1330 laptops to be cosmetically defective in manufacture, such as loose hinge covers and unusually and uneven gaps between plastic parts, as well as customer complaints concerning "CPU whine". The Dell XPS M1330 is noted for its light weight of only 1.8 kg.
+ 
+  XPS M1330 is no longer available for purchase on Dell's USA website as of early August 2009. It has been replaced by the M1340 (Studio XPS 13).
+ 
+  Dell became aware that the problem was limited to Nvidia chip production G84- and G86-GPU's, the BIOS was updated to A12 which improves thermal control but does not prevent it from reoccurring.
+  
+
+    [42]
+   
+
+  The problem associated with Nvidia GPU's was the chip material used could not stand high temperatures. This problem was exacerbated by poor thermal contact between the chip and the heat pipe (the gap is too big). Some people have overcome the graphics chip over-heating problem by fashioning a heat sink using a copper plate and thermal paste to fill the gap between the heat pipe and the graphics chip.
+ 
+  Similar to the Studio XPS 16 but trimmed down into a 13.3-inch 720p 16:10 aspect ratio screen, it has an illuminated
+  
+   QWERTY keyboard
+  
+  and includes leather accents on the lid. Its full body is piano black and silver.
+ 
+  The Studio XPS graphics offerings are currently the integrated Nvidia 9400M G (same as used in
+  
+   MacBook Air
+  
+  and 13-inch
+  
+   MacBooks
+  
+  ) and the more powerful Nvidia GeForce 9500M GE (which is composed of an integrated GeForce 9400M G and discrete GeForce 9200M GS with 256 MB of GDDR3 memory). When configured with the 9500M GE you are able to switch between the 9400M G running standalone and the 9400M G with the 9200M GS in Windows Vista, without logging out and back in like you must with Apple products due to the availability of Hybrid SLI. Although this model is still available in Europe with the 512 MB nVidia GeForce 210M graphics card and the NVIDIA GeForce MCP79MX Chipset.
+ 
+  XPS M1340 is no longer available for purchase on Dell's USA website as of March 2010. No replacement 13-inch Studio XPS has been announced.
+ 
+  The XPS M2010 was announced on May 31, 2006 as a top of the line briefcase-styled mobile desktop with a 20.1-inch widescreen with a
+  
+   WSXGA+
+  
+  resolution and
+  
+   TrueLife
+  
+  . The outside of the case had a leather-like appearance.
+  
+
+    [43]
+   
+
+  The XPS M2010 used an ATI Mobility Radeon X1800 graphics with 256 MB of graphics memory and had support for dual hard drives. The laptop could be customized with an Intel Core 2 Duo T2500, T5600, T7400 or T7600 and 1 GB, 2 GB or 4 GB of DDR2 SDRAM @ 667 MHz (Although machine can take 2x2 GB @ 677 MHz Ram, it will only operate at 3.25 GB @ 500 MHz due to chipset limitation as well as FSB limitation). The laptop expanded to a full desktop set, including a detachable bluetooth keyboard, bluetooth mouse, and radio-frequency
+  
+   Media Center
+  
+  remote. It was praised for the high quality sound system which included 8 separate ¾" speakers below the screen and a 1¾" subwoofer on the bottom of the machine, ported to the right hand side. While the computer could be folded and carried as a briefcase with its built-in carrying handle, at 18.3 lbs
+  
+
+    [44]
+   
+
+  it was generally considered too heavy to be a true
+  
+   desktop replacement
+  
+  .
+ 
+  The XPS M1710 was announced on April 18, 2006 as a higher-end 17-inch
+  
+   WUXGA
+  
+
+   TrueLife
+  
+  widescreen XPS
+  
+   desktop replacement
+  
+  available in black or red. The system was marketed to gamers, sharing a chassis design and many components with the lower end Inspiron E1705/9400 and the higher end Precision M90. The base design featured an Intel
+  
+   Core Duo
+  
+  processor, NVIDIA GeForce Go 7900GS or
+  
+   7900 GTX
+  
+  , 7200 RPM SATA hard drive, DDR2 SDRAM, a magnesium alloy case with user configurable multicolor LED lighting in the touchpad, fans, speakers and lid, access to an "exclusive" XPS-branded segment of DELL's business support division, and was built on the Precision M90's D-Dock motherboard. Later models offered the
+  
+   Core 2 Duo
+  
+  processor, the NVidia 7950GTX, and optional Blu-ray. As the mainboard used the Intel 945 chipset, the XPS M1710 could not address more than 3.25 GByte of RAM though Dell specified "up to 4 GB RAM". This computer was replaced by the XPS M1730. Note that there are severe overheating problems with the graphics card in this model.
+  
+
+    [45]
+   
+
+
+  A high performance ultra-portable (12.1-inch screen) notebook featuring a new case design, Intel Core Duo processor technology, an optional dedicated NVIDIA GeForce 7400 Go video card and an optional integrated web camera (1.3 megapixel). The M1210 also has optional
+  
+   WWAN
+  
+  (wireless wide area networking) features supporting 3G broadband services. With the standard battery, the laptop weights 1.9 kilograms. Unlike other 12-inch notebook computers, the M1210 features a built-in optical drive rather than an external. This model was discontinued as of July 31, 2007.
+ 
+
+   Inspiron XPS Gen 2/XPS M170
+  
+  - This successor to the Inspiron XPS, had replaced the desktop Pentium 4 with a Pentium M processor, which provided almost the same level of performance as the desktop Pentium 4 and reduced the weight from 9.06 lb to 8.6 lb. It featured a 17-inch widescreen display at the same resolution as the first generation. Due to the use of a mobile processor, this laptop was thinner and lighter than most other high performance gaming notebooks of its time. It has a design very similar to the XPS M1710. It was initially given the Nvidia GeForce 256 MB 6800 Ultra Go GPU which was a Dell exclusive at the time. The laptop was rebranded as XPS M170 soon after the GeForce Go 7800 GTX was incorporated. The
+  
+   Inspiron 9300
+  
+  was based on it, being substantially the same laptop with an ATI Mobility Radeon X300 in the base model.
+ 
+
+   XPS M140
+  
+  - The lower end model XPS computer that has a chassis identical to an
+  
+   Dell Inspiron E1405
+  
+  laptop. This model features a choice of several Intel mobile processors, 14.1-inch widescreen and between 512 MB to 2 GB of RAM. This model being more media-oriented than gaming currently does not feature a dedicated graphics card. This model has been replaced by the E1405, a 14.1-inch laptop physically similar the M140. It features the newer Intel Core Duo processors and Intel's 945 chipset. It is no longer classified as an XPS laptop, however.
+ 
+
+   Inspiron XPS
+  
+  - The first XPS laptop, which was a rebranded Inspiron 9100, was a very heavy desktop-replacement laptop starting at 9.06 pounds without power supply (which added an additional 2.5 pounds). This was because it was offered with either a 3.4 GHz desktop Pentium 4 HT "Prescott" processor, or the 3.4 GHz "Gallatin" Pentium 4 Extreme Edition processor at the same clock speed, which gave off tremendous amounts of heat due to their high clock speeds and inefficient microarchitecture, despite a very large copper-based heatsink that spanned the width of the unit with three fans. Other features included a 1920 × 1200 15.4-inch LCD, and subwoofer integrated into the bottom of the battery casing, with the 12-cell battery (the 16-cell battery does not include a subwoofer.) Earlier models came with an ATI Mobility Radeon 9700 with 128 MB of memory, and later models with the Mobility Radeon 9800 with 256 MB of memory. It should be noted that the Mobility Radeon 9800 was based on the R420 core, the same as early ATI Radeon X700 and X800 desktop graphics cards, but with half the pixel pipelines disconnected. A popular modification to the GPU was to bridge two traces in the top right corner of the PCB surrounding the exposed core with a conductive pen to unlock these pipelines. However, this could only be done on cores made before week 43 of 2004. Dell promised graphics card upgradeability, but only delivered the arguably small 9700 to 9800 step for 9700 owners (at a rather steep $399 price tag, including technician to install it), and never delivered the promised upgrade to the 9800 owners. This model also suffers from an annoying whine on the headphone and microphone jacks that are located on the left of the unit. This is because of shared space with the leftmost fan, and the spinning of said fan causes interference. There is no known fix than to otherwise use a USB, FireWire/1394 or PCMCIA-based audio device or card for sound output.
+ 
+  Dell has introduced a handful of "speciality" models which were based upon particular models in the XPS series, but had unique characteristics. These included custom cases and higher-performance parts (processors, video cards, etc.). Some of these models are considerably rare because they were produced in limited quantities and were either extremely expensive or give-away only (as was the case of the XPS X-Men Edition, see below).
+ 
+  The first example of a special edition in Dell's XPS series was the XPS 600 Renegade released in early 2006, which included an Intel Pentium D Extreme Edition 965 processor that was
+  
+   overclocked
+  
+  at the factory from 3.73 GHz to 4.26 GHz. Despite the overclock, Dell honored Intel's warranty for the processor. The case featured an air-brush paint job completed by Mike Lavallee. Most notably, the machine was the first commercially available system to feature a Quad-
+  
+   SLI
+  
+  configuration, with four custom NVIDIA
+  
+   GeForce 7900GTX
+  
+  graphics cards with 512 MB of memory. It also included a Western Digital hard drive spinning at 10,000 RPM. The XPS 600 Renegade had an introduction price of $9,930.
+ 
+  In 2007 Dell announced a special
+  
+   X-Men
+  
+  version XPS desktop system that was going to be given away. The system had a value of around $10,000 and featured a one-of-a-kind quad NVIDIA video cards and Intel Pentium 965 Extreme Edition processor. The case resembled a standard XPS 710 series with X-Men artwork on the side.
+  
+
+    [46]
+   
+
+
+  At
+  
+   CES
+  
+  in 2008, Dell announced a World of Warcraft edition of the M1730 laptop. This version of the M1730 cost around $4,500 and featured an overclockable Intel Extreme Edition Core 2 Duo processor, NVIDIA SLI DX10 graphics cards, PhysX card, with a Full HD 17-inch widescreen. It also came pre-loaded with World of Warcraft and Burning Crusade expansion, as well as other limited edition merchandise including a custom backpack.
+  
+
+    [47]
+   
+
+
+  In March 2008, Dell introduced the XPS RED as a part of the
+  
+   (PRODUCT)
+   
+    RED
+   
+
+  line of products. A portion of the profits made on this special edition are being put towards research for a cure for the AIDS virus. As of July 2011 Dell is still offering Red products.
+  
+
+    [48]
+   
+
+
+
+
+
+  Media related to
+  
+   Dell XPS
+  
+  at Wikimedia Commons
+ 

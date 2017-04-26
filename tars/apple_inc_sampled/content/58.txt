@@ -1,0 +1,4001 @@
+
+
+
+      Tablet computer
+     
+
+
+         1st generation:
+        
+
+        April 3, 2010
+        
+         (
+         
+          2010-04-03
+         
+         )
+        
+        (Wi-Fi)
+        
+
+          [1]
+         
+
+
+
+          [2]
+         
+
+
+        April 30, 2010
+        
+         (
+         
+          2010-04-30
+         
+         )
+        
+        (Wi-Fi + 3G)
+        
+
+          [3]
+         
+
+
+        May 28, 2010
+        
+         (
+         
+          2010-05-28
+         
+         )
+        
+        (International)
+        
+
+         2nd generation:
+        
+
+        March 11, 2011
+        
+         (
+         
+          2011-03-11
+         
+         )
+        
+        (United States)
+        
+        March 25, 2011
+        
+         (
+         
+          2011-03-25
+         
+         )
+        
+        (International)
+        
+
+         3rd generation:
+        
+
+        March 16, 2012
+        
+         (
+         
+          2012-03-16
+         
+         )
+        
+
+
+         4th generation & Mini 1st generation:
+        
+
+        November 2, 2012
+        
+         (
+         
+          2012-11-02
+         
+         )
+        
+
+
+         Air:
+        
+
+        November 1, 2013
+        
+         (
+         
+          2013-11-01
+         
+         )
+        
+
+
+         Mini 2:
+        
+
+        November 12, 2013
+        
+         (
+         
+          2013-11-12
+         
+         )
+        
+
+
+         Air 2 & Mini 3:
+        
+
+        October 22, 2014
+        
+         (
+         
+          2014-10-22
+         
+         )
+        
+
+
+          [4]
+         
+
+
+
+          [5]
+         
+
+
+
+         Mini 4:
+        
+
+        September 9, 2015
+        
+         (
+         
+          2015-09-09
+         
+         )
+        
+
+
+         Pro 12.9-inch:
+        
+
+        November 11, 2015
+        
+         (
+         
+          2015-11-11
+         
+         )
+        
+
+
+
+         1st generation:
+        
+
+         Apple A4
+        
+
+
+         2nd generation:
+        
+
+         Apple A5
+        
+
+
+         3rd generation:
+        
+
+         Apple A5X
+        
+
+
+         4th generation:
+        
+
+         Apple A6X
+        
+
+
+         Air:
+        
+
+         Apple A7
+        
+
+
+         Air 2:
+        
+
+         Apple A8X
+        
+
+
+         Mini 1st generation:
+        
+
+         Apple A5
+        
+
+
+         Mini 2 & 3:
+        
+
+         Apple A7
+        
+
+
+         Mini 4:
+        
+
+         Apple A8
+        
+
+
+
+         1st generation:
+        
+
+        1 GHz
+        
+         ARM
+        
+
+         Cortex-A8
+        
+
+
+          [7]
+         
+
+
+
+          [8]
+         
+
+
+
+         2nd generation:
+        
+
+        1 GHz dual-core
+        
+         ARM Cortex-A9
+        
+
+
+         3rd generation:
+        
+
+        1 GHz dual-core ARM
+        
+         Cortex-A9
+        
+
+
+         4th generation:
+        
+
+        1.4 GHz dual-core
+        
+         Apple A6X
+        
+
+
+         Air:
+        
+
+        1.4 GHz dual-core
+        
+         Apple A7
+        
+
+
+         Air 2:
+        
+
+        1.5 GHz tri-core
+        
+         Apple A8X
+        
+
+
+         Mini 1st generation:
+        
+
+        1 GHz dual-core ARM
+        
+         Cortex-A9
+        
+
+
+         Mini 2 & 3:
+        
+
+        1.3 GHz dual-core
+        
+         Apple A7
+        
+
+
+         Mini 4:
+        
+
+        1.5 GHz dual-core
+        
+         Apple A8
+        
+
+
+
+         1st generation:
+        
+
+        256 MB
+        
+         DDR
+        
+
+         RAM
+        
+
+
+          [9]
+         
+
+
+
+         2nd generation:
+        
+
+        512 MB
+        
+         DDR2
+        
+        RAM
+        
+
+          [10]
+         
+
+
+
+         3rd & 4th generation:
+        
+
+        1 GB LPDDR2 RAM
+        
+
+          [11]
+         
+
+
+
+         Air:
+        
+
+        1 GB LPDDR3 RAM
+        
+
+         Air 2:
+        
+
+        2 GB LPDDR3 RAM
+        
+
+          [12]
+         
+
+
+
+         Mini 1st generation:
+        
+
+        512 MB DDR2 RAM
+        
+
+         Mini 2 & 3:
+        
+
+        1 GB LPDDR3 RAM
+        
+
+         Mini 4:
+        
+
+        2 GB LPDDR3 RAM
+        
+
+         Pro 12.9-inch:
+        
+
+        4 GB LPDDR4 RAM
+        
+
+
+         1st & 2nd generation:
+        
+
+        1024×768
+        
+         px
+        
+        (132
+        
+         PPI
+        
+        ), 9.7 in (250 mm) diagonal,
+        
+         4:3
+        
+        ,
+        
+         LED
+        
+        -backlit
+        
+         IPS LCD
+        
+
+
+          [7]
+         
+
+
+
+         3rd & 4th generation, Air & Air 2:
+        
+
+        2048×1536
+        
+         px
+        
+        (264
+        
+         PPI
+        
+        ), 9.7 in (246 mm) diagonal,
+        
+         4:3
+        
+
+
+         Mini 1st generation:
+        
+
+        1024×768 px (163 PPI), 7.9 in (200 mm) diagonal, 4:3
+        
+
+         Mini 2, 3 & 4:
+        
+
+        2048×1536 px (326 PPI), 7.9 in (200 mm) diagonal, 4:3
+        
+
+         Pro 12.9-inch:
+        
+
+        2732x2048 px (264 PPI), 12.9 in (330 mm) diagonal, 4:3
+        
+
+
+         1st generation:
+        
+
+
+         PowerVR
+        
+
+         SGX535
+        
+
+
+          [14]
+         
+
+
+
+         2nd generation:
+        
+
+        Dual-core
+        
+         PowerVR
+        
+
+         SGX543MP2
+        
+
+
+          [15]
+         
+
+
+
+         3rd generation:
+        
+
+        Quad-core PowerVR
+        
+         SGX543MP4
+        
+
+
+         4th generation:
+        
+
+        Quad-core PowerVR
+        
+         SGX554MP4
+        
+
+
+         Air:
+        
+
+        Quad-core PowerVR
+        
+         G6430
+        
+
+
+         Air 2:
+        
+
+        Octa-core PowerVR GXA6850
+        
+
+          [16]
+         
+
+
+
+         Mini 1st generation:
+        
+
+        Dual-core PowerVR
+        
+         SGX543MP2
+        
+
+
+         Mini 2 & 3:
+        
+
+        Quad-core PowerVR
+        
+         G6430
+        
+
+
+         Mini 4:
+        
+
+        Quad-core PowerVR GX6450
+        
+
+
+         1st generation:
+        
+        None
+        
+
+         2nd generation:
+        
+        VGA Front-facing and
+        
+         720p
+        
+        rear-facing
+        
+
+         3rd generation:
+        
+        VGA Front-facing and 5 megapixels rear-facing
+        
+
+         4th generation, Air, Mini 1st generation, 2 & 3:
+        
+
+         720p
+        
+        Front-facing and 5 megapixels rear-facing
+        
+
+         Air 2, Mini 4, & Pro 12.9-inch:
+        
+
+         720p
+        
+        Front-facing and 8 megapixels rear-facing
+        
+
+
+          Wi-Fi
+         
+         (
+         
+          802.11
+         
+
+          a
+         
+         /
+         
+          b
+         
+         /
+         
+          g
+         
+         /
+         
+          n
+         
+         )
+         
+
+          Air 2, Mini 4 , Pro 12.9-inch & 9.7-inch:
+         
+
+
+          Wi-Fi
+         
+         (
+         
+          802.11
+         
+
+          a
+         
+         /
+         
+          b
+         
+         /
+         
+          g
+         
+         /
+         
+          n
+         
+         /
+         
+          ac
+         
+         )
+        
+
+          1st & 2nd generation:
+         
+
+          Bluetooth 2.1 + EDR
+         
+
+
+          3rd & 4th generation, Air, Air 2, Mini 1st generation, 2 & 3:
+         
+
+
+          Bluetooth 4.0 technology
+         
+
+
+          Mini 4, Pro 12.9-inch & 9.7-inch:
+         
+
+
+          Bluetooth 4.2 technology
+         
+
+
+          1st generation & 2:
+         
+
+
+
+          3rd & 4th generation:
+         
+
+
+        Built-in rechargeable
+        
+         Li-Po battery
+        
+
+
+         1st generation:
+        
+
+         3.75
+         
+          V
+         
+         24.8
+         
+          W·h
+         
+         (6,613
+        
+
+         mA·h
+        
+        )
+        
+
+         2nd generation:
+        
+
+         3.8 V
+        
+
+         25 W·h
+        
+        (6,944 mA·h)
+        
+
+         3rd & 4th generation:
+        
+
+         3.7 V
+        
+
+         43 W·h
+        
+        (11,560 mA·h)
+        
+
+         Air:
+        
+
+         3.73 V
+        
+
+         32.9 W·h
+        
+        (8,820 mA·h)
+        
+
+         Air 2:
+        
+
+         3.76 V
+        
+
+         27.62 W·h
+        
+        (7,340 mA·h)
+        
+
+         Mini 1st generation:
+        
+
+         3.72 V
+        
+
+         16.5 W·h
+        
+        (4,440 mA·h)
+        
+
+         Mini 2 & 3:
+        
+
+         3.75 V
+        
+
+         24.3 W·h
+        
+        (6,471 mA·h)
+        
+
+         Mini 4:
+        
+
+         3.82 V
+        
+
+         19.32 W·h
+        
+        (5,124 mA·h)
+        
+
+         Pro 12.9-inch:
+        
+
+         3.77 V
+        
+
+         38.8 W·h
+        
+        (10,307 mA·h)
+        
+
+
+         1st generation:
+        
+
+        9.56 in (243 mm)
+        
+         (h)
+        
+
+        7.47 in (190 mm)
+        
+         (w)
+        
+
+        0.50 in (13 mm)
+        
+         (d)
+        
+
+
+         2nd generation:
+        
+
+        9.50 in (241 mm)
+        
+         (h)
+        
+
+        7.31 in (186 mm)
+        
+         (w)
+        
+
+        0.34 in (8.6 mm)
+        
+         (d)
+        
+
+
+         3rd & 4th generation:
+        
+
+        9.50 in (241 mm)
+        
+         (h)
+        
+
+        7.31 in (186 mm)
+        
+         (w)
+        
+
+        0.37 in (9.4 mm)
+        
+         (d)
+        
+
+
+         Air:
+        
+
+        9.4 in (240 mm)
+        
+         (h)
+        
+
+        6.6 in (170 mm)
+        
+         (w)
+        
+
+        0.29 in (7.4 mm)
+        
+         (d)
+        
+
+
+         Air 2:
+        
+
+        9.4 in (240 mm)
+        
+         (h)
+        
+
+        6.6 in (170 mm)
+        
+         (w)
+        
+
+        0.24 in (6.1 mm)
+        
+         (d)
+        
+
+
+         Mini 1st generation:
+        
+
+        7.87 in (200 mm)
+        
+         (h)
+        
+
+        5.3 in (130 mm)
+        
+         (w)
+        
+
+        0.28 in (7.1 mm)
+        
+         (d)
+        
+
+
+         Mini 2 & 3:
+        
+
+        7.87 in (200 mm)
+        
+         (h)
+        
+
+        5.3 in (130 mm)
+        
+         (w)
+        
+
+        0.29 in (7.4 mm)
+        
+         (d)
+        
+
+
+         Mini 4:
+        
+
+        8 in (200 mm)
+        
+         (h)
+        
+
+        5.3 in (130 mm)
+        
+         (w)
+        
+
+        0.24 in (6.1 mm)
+        
+         (d)
+        
+
+
+         Pro 12.9-inch:
+        
+
+        12 in (300 mm)
+        
+         (h)
+        
+
+        8.68 in (220 mm)
+        
+         (w)
+        
+
+        0.27 in (6.9 mm)
+        
+         (d)
+        
+
+
+
+         1st generation Wi-Fi:
+        
+
+        1.5 lb (680 g)
+        
+
+         1st generation Wi-Fi + 3G:
+        
+
+        1.6 lb (730 g)
+        
+
+          [7]
+         
+
+
+
+         2nd generation Wi-Fi:
+        
+
+        1.325 lb (601 g)
+        
+
+         2nd generation GSM 3G (AT&T/global):
+        
+
+        1.351 lb (613 g)
+        
+
+         2nd generation CDMA 3G (Verizon):
+        
+
+        1.338 lb (607 g)
+        
+
+         3rd generation Wi-Fi:
+        
+
+        1.44 lb (650 g)
+        
+
+         3rd generation Wi-Fi + 4G (LTE):
+        
+
+        1.46 lb (660 g)
+        
+
+         4th generation Wi-Fi:
+        
+
+        1.44 lb (650 g)
+        
+
+         4th generation Wi-Fi + 4G (LTE):
+        
+
+        1.46 lb (660 g)
+        
+
+         Air Wi-Fi:
+        
+
+        1 lb (450 g)
+        
+
+         Air Wi-Fi + Cellular:
+        
+
+        1.05 lb (480 g)
+        
+
+         Air 2 Wi-Fi:
+        
+
+        0.96 lb (440 g)
+        
+
+         Air 2 Wi-Fi + Cellular:
+        
+
+        0.98 lb (440 g)
+        
+
+         Mini 1st generation Wi-Fi:
+        
+
+        0.68 lb (310 g)
+        
+
+         Mini 1st generation Wi-Fi + 4G (LTE):
+        
+
+        0.69 lb (310 g)
+        
+
+         Mini 2 & 3 Wi-Fi:
+        
+
+        0.73 lb (330 g)
+        
+
+         Mini 2 & 3 Wi-Fi + Cellular:
+        
+
+        0.75 lb (340 g)
+        
+
+         Mini 4 Wi-Fi:
+        
+
+        0.65 lb (290 g)
+        
+
+         Mini 4 Wi-Fi + Cellular:
+        
+
+        0.67 lb (300 g)
+        
+
+         Pro 12.9-inch Wi-Fi:
+        
+
+        1.57 lb (710 g)
+        
+
+         Pro 12.9-inch Wi-Fi + Cellular:
+        
+
+        1.59 lb (720 g)
+        
+
+         Pro 9.7-inch Wi-Fi:
+        
+
+        0.96 lb (440 g)
+        
+
+
+         apple.com/ipad
+        
+
+
+   iPad
+  
+  (
+  
+
+
+     /
+     
+
+       ˈ
+      
+
+       aɪ
+      
+
+       p
+      
+
+       æ
+      
+
+       d
+      
+
+     /
+    
+
+
+
+
+
+
+
+
+        EYE
+       
+
+
+     -pad
+    
+
+
+  ) is a line of
+  
+   tablet computers
+  
+  designed, developed and marketed by
+  
+   Apple Inc.
+  
+  , which run the
+  
+   iOS
+  
+  mobile operating system. The first iPad was released on April 3, 2010; the most recent iPad models are the 9.7-inch
+  
+   iPad Pro
+  
+  released on March 31, 2016 and the
+  
+   iPad Mini 4
+  
+  , released on September 9, 2015. The
+  
+   user interface
+  
+  is built around the device's
+  
+   multi-touch
+  
+  screen, including a
+  
+   virtual keyboard
+  
+  . The iPad includes built-in
+  
+   Wi-Fi
+  
+  and
+  
+   cellular
+  
+  connectivity on select models. As of January 2015, there have been over 250 million iPads sold.
+  
+
+    [6]
+   
+
+  iPad tablets are second most popular, by sales, against
+  
+   Android
+  
+  -based ones, since 2013, when Android tablet sales increased by 127%.
+  
+
+    [17]
+   
+
+
+  An iPad can
+  
+   shoot video
+  
+  ,
+  
+   take photos
+  
+  ,
+  
+   play music
+  
+  , and perform Internet functions such as web-browsing and emailing. Other functions –
+  
+   games
+  
+  ,
+  
+   reference
+  
+  ,
+  
+   GPS navigation
+  
+  ,
+  
+   social networking
+  
+  , etc. –  can be enabled by downloading and installing
+  
+   apps
+  
+  . As of March 2016, the
+  
+   App Store
+  
+  has more than one million apps for the iPad by Apple and third parties.
+ 
+  There have been six
+  
+   versions
+  
+  of the iPad. The
+  
+   first generation
+  
+  established design precedents, such as the 9.7-inch screen size and button placement, that have persisted through all models. The
+  
+   2nd generation iPad
+  
+  (iPad 2) introduced a whole new design which also added a
+  
+   dual-core
+  
+
+   Apple A5
+  
+  processor and VGA front-facing and
+  
+   720p
+  
+  rear-facing cameras designed for
+  
+   FaceTime
+  
+  video calling, and dramatically reduced the thickness of the device. The
+  
+   third generation
+  
+  added a
+  
+   Retina Display
+  
+  , the new
+  
+   Apple A5X
+  
+  processor with a
+  
+   quad-core
+  
+
+   graphics processor
+  
+  , a 5-
+  
+   megapixel
+  
+  camera, HD
+  
+   1080p
+  
+  video recording,
+  
+   voice dictation
+  
+  , and
+  
+   4G
+  
+  (
+  
+   LTE
+  
+  ). The
+  
+   fourth generation
+  
+  added the
+  
+   Apple A6X
+  
+  processor and replaces the
+  
+   30-pin connector
+  
+  with an all-digital
+  
+   Lightning connector
+  
+  . The
+  
+   iPad Air
+  
+  added the
+  
+   Apple A7
+  
+  processor and the
+  
+   Apple M7
+  
+  motion coprocessor, and reduced the thickness for the first time since the iPad 2. The
+  
+   iPad Air 2
+  
+  added the
+  
+   Apple A8X
+  
+  processor, the
+  
+   Apple M8
+  
+
+   motion coprocessor
+  
+  , an 8-megapixel camera, and the
+  
+   Touch ID
+  
+
+   fingerprint sensor
+  
+  , and further reduced the thickness.
+ 
+  There have been four
+  
+   versions
+  
+  of the
+  
+   iPad Mini
+  
+  . The
+  
+   first generation
+  
+  features a reduced screen size of 7.9 inches and features similar internal specifications as the iPad 2 except it uses the
+  
+   Lightning connector
+  
+  . The
+  
+   iPad Mini 2
+  
+  features the
+  
+   Retina Display
+  
+  , the
+  
+   Apple A7
+  
+  processor and the
+  
+   Apple M7
+  
+
+   motion coprocessor
+  
+  , closely matching the internals specifications of the iPad Air. The
+  
+   iPad Mini 3
+  
+  features the
+  
+   Touch ID
+  
+  fingerprint sensor. The
+  
+   iPad Mini 4
+  
+  features the
+  
+   Apple A8
+  
+  and the
+  
+   Apple M8
+  
+  motion coprocessor.
+ 
+
+
+  Apple co-founder
+  
+   Steve Jobs
+  
+  said in a 1983 speech
+  
+
+    [18]
+   
+
+  that the company's
+ 
+   strategy is really simple. What we want to do is we want to put an incredibly great computer in a book that you can carry around with you and learn how to use in 20 minutes ... and we really want to do it with a radio link in it so you don’t have to hook up to anything and you’re in communication with all of these larger databases and other computers.
+  
+  Apple's first tablet computer was the
+  
+   Newton
+  
+
+   MessagePad 100
+  
+  ,
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+  introduced in 1993, powered by an
+  
+   ARM6
+  
+  processor core developed by
+  
+   ARM
+  
+  , a 1990 spinout of
+  
+   Acorn Computers
+  
+  in which Apple invested. Apple also developed a prototype
+  
+   PowerBook Duo
+  
+  based tablet, the
+  
+   PenLite
+  
+  , but decided not to sell it in order to avoid hurting MessagePad sales.
+  
+
+    [21]
+   
+
+  Apple released several more Newton-based PDAs; the final one, the
+  
+   MessagePad 2100
+  
+  , was discontinued in 1998.
+ 
+  Apple re-entered the mobile-computing markets in 2007 with the
+  
+   iPhone
+  
+  . Smaller than the iPad, but featuring a camera and mobile phone, it pioneered the
+  
+   multi-touch
+  
+  finger-sensitive touchscreen interface of Apple's
+  
+   iOS
+  
+  mobile
+  
+   operating system
+  
+  . By late 2009, the iPad's release had been rumored for several years. Such speculation mostly talked about "Apple's tablet"; specific names included
+  
+   iTablet
+  
+  and
+  
+   iSlate
+  
+  .
+  
+
+    [22]
+   
+
+  The iPad was announced on January 27, 2010, by Steve Jobs at an Apple press conference at the
+  
+   Yerba Buena Center for the Arts
+  
+  in San Francisco.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+
+  Jobs later said that Apple had begun developing the iPad before the
+  
+   iPhone
+  
+  .
+  
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+
+   Jonathan Ive
+  
+  in 1991 had created an industrial design for a stylus-based tablet, the Macintosh Folio, as his first project for Apple; by 2004 his studio at the company was participating in the development of a large tablet prototype, which he later described as "very crude, involving projectors". Ive stated that after seeking to produce the tablet first, he came to agree with Jobs that the phone was more important,
+  
+
+    [27]
+   
+
+  as the tablet's innovations would work as well in it.
+  
+
+    [28]
+   
+
+  The iPad's internal codename was K48, which was revealed in the court case surrounding leaking of iPad information before launch.
+  
+
+    [29]
+   
+
+
+  Apple began taking pre-orders for the
+  
+   first-generation
+  
+  iPad on March 12, 2010.
+  
+
+    [2]
+   
+
+  The only major change to the device between its announcement and being available to pre-order was the change of the behavior of the side switch to perform either sound muting or screen rotation locking (user selectable).
+  
+
+    [30]
+   
+
+  The Wi-Fi version of the iPad went on sale in the United States on April 3, 2010.
+  
+
+    [2]
+   
+
+
+
+    [31]
+   
+
+  The Wi-Fi + 3G version was released on April 30.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [3]
+   
+
+  3G service in the United States is provided by
+  
+   AT&T
+  
+  and was initially sold with two prepaid contract-free data plan options: one for unlimited data and the other for 250 MB per month at half the price.
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+  On June 2, 2010, AT&T announced that effective June 7 the unlimited plan would be replaced for new customers with a 2 GB plan at slightly lower cost; existing customers would have the option to keep the unlimited plan.
+  
+
+    [34]
+   
+
+  The plans are activated on the iPad itself and can be cancelled at any time.
+  
+
+    [35]
+   
+
+
+  Initially, the iPad was only available to order at the
+  
+   Apple Store
+  
+  , but has since become available for purchase through retailers including Amazon, Walmart, and network operators. The iPad was launched in countries including Australia, Canada, France, Germany, Japan and the United Kingdom on May 28.
+  
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+  Online pre-orders in those countries began on May 10.
+  
+
+    [3]
+   
+
+  Apple released the iPad in
+  
+   Hong Kong
+  
+  , Ireland, Mexico, New Zealand and
+  
+   Singapore
+  
+  on July 23, 2010.
+  
+
+    [38]
+   
+
+
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+  Israel briefly prohibited importation of the iPad because of concerns that its Wi-Fi might interfere with other devices.
+  
+
+    [41]
+   
+
+  On September 17, 2010, the iPad was officially launched in China.
+  
+
+    [42]
+   
+
+
+  300,000 iPads were sold on their first day of availability.
+  
+
+    [43]
+   
+
+  By May 3, 2010, Apple had sold a million iPads;
+  
+
+    [44]
+   
+
+  this was in half the time it took Apple to sell the same number of first-generation iPhones.
+  
+
+    [45]
+   
+
+  After passing the one million mark they continued selling rapidly reaching 3 million sales after 80 days.
+  
+
+    [46]
+   
+
+  During the October 18, 2010, financial conference call, Steve Jobs announced that Apple had sold more iPads than Macs for the fiscal quarter.
+  
+
+    [47]
+   
+
+  In total, Apple sold more than 15 million first-generation iPads prior to the launch of the iPad 2
+  
+
+    [48]
+   
+
+  –  selling more than all other tablet PCs combined since the iPad's release.
+  
+
+    [49]
+   
+
+  and reaching 75% of tablet PC sales at the end of 2010.
+  
+
+    [50]
+   
+
+
+  Jobs unveiled the
+  
+   iPad 2
+  
+  at a March 2, 2011, press conference.
+  
+
+    [51]
+   
+
+
+
+    [52]
+   
+
+  About 33% thinner than its predecessor and 15% lighter, the iPad 2 has a better processor, a
+  
+   dual core
+  
+
+   Apple A5
+  
+  that Apple says is twice as fast as its predecessor for CPU operations and up to nine times as fast for GPU operations. The iPad 2 includes front and back cameras that support the
+  
+   FaceTime
+  
+
+   videophone
+  
+  application, as well as a three-axis
+  
+   gyroscope
+  
+  . It retained the original's 10‑hour battery life and had a similar pricing scheme.
+ 
+  The successor to the iPad 2 was unveiled on March 7, 2012, by Apple CEO
+  
+   Tim Cook
+  
+  at the
+  
+   Yerba Buena Center for the Arts
+  
+  .
+  
+
+    [53]
+   
+
+
+
+    [54]
+   
+
+
+   The new iPad
+  
+  contained a new
+  
+   dual core
+  
+  A5X processor with quad-core graphics, and a
+  
+   Retina Display
+  
+  with a resolution of 2048 by 1536 pixels,
+  
+
+    [55]
+   
+
+  more than 50 percent more pixels than a standard 1,920 by 1,080
+  
+   high definition TV screen
+  
+  . A brief controversy erupted when it was revealed that the LTE advertised did not work in some countries.
+  
+
+    [56]
+   
+
+
+  On October 23, 2012, Apple announced the
+  
+   fourth generation iPad
+  
+  , which began shipping on November 2, 2012. The new hardware includes an
+  
+   A6X
+  
+  processor, HD FaceTime camera, improved LTE compatibility, and the all-digital
+  
+   Lightning
+  
+  connector. It is available in the same storage increments and pricing structure as the third generation.
+  
+
+    [57]
+   
+
+
+
+    [58]
+   
+
+  Following the announcement of the fourth-generation iPad, the previous generation was discontinued.
+ 
+  Alongside the launch of the 4th generation hardware, Apple announced the
+  
+   iPad Mini
+  
+  . With a screen measuring 7.9 inches, it is aimed at the emerging sector of
+  
+   smaller tablets
+  
+  such as the
+  
+   Kindle Fire
+  
+  and
+  
+   Nexus 7
+  
+  . The hardware of the new iPad Mini is similar to the
+  
+   iPad 2
+  
+  , with a 1024 by 768 pixel resolution screen and a dual core
+  
+   A5
+  
+  processor, but is 53% lighter and 7.2 mm thick. It was released on November 2, 2012, in 16 GB, 32 GB, and 64 GB capacities and WiFi or Wi‑Fi + Cellular versions.
+  
+
+    [58]
+   
+
+
+  On October 22, 2013, Apple introduced the fifth generation of iPad, called the
+  
+   iPad Air
+  
+  , and the second generation of iPad Mini, called
+  
+   iPad Mini 2
+  
+  that comes with a
+  
+   Retina Display
+  
+  . The iPad Air went on sale on November 1, 2013, starting at $499, while the iPad Mini 2 was released on November 12, 2013, starting at $399.
+ 
+  In October 2014, Apple released the
+  
+   iPad Air 2
+  
+  and the
+  
+   iPad Mini 3
+  
+  . The iPad Air 2 is the first iOS device to feature a triple core CPU and 2GB of RAM. As well as being thinner and faster than its predecessor, the iPad Air, it features
+  
+   Touch ID
+  
+  and is available with a gold color option. The iPad Mini 3 is similar than the iPad Mini 2 in design and hardware, but also includes Touch ID and available in gold color.
+ 
+  In September 2015, the
+  
+   iPad Pro
+  
+  was announced, which included a 12.9-inch screen,
+  
+
+    [59]
+   
+
+  and a 9.7-inch version was announced in March 2016, with the addition of 256 GB option for both iPad Pro models.
+  
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+
+  On March 21, 2017,
+  
+   a new generation of iPad
+  
+  was announced. The new hardware includes an
+  
+   A9
+  
+  processor.
+  
+
+    [62]
+   
+
+
+  The iPad's (first two generations)
+  
+   touchscreen
+  
+  display is a 1024 by 768 pixel, 7.75×5.82 in (197×148 mm)
+  
+   liquid-crystal display
+  
+  (diagonal 9.7 in (246.4 mm)), with
+  
+   fingerprint-
+  
+  and scratch-resistant glass. Steve Jobs said a 7-inch screen would be "too small to express the software" and that 10 inches was the minimum for a tablet screen.
+  
+
+    [63]
+   
+
+  Like the iPhone, the iPad is designed to be controlled by bare fingers; normal, non-conductive gloves and
+  
+   styli
+  
+  do not work,
+  
+
+    [64]
+   
+
+  although there are special gloves and
+  
+   capacitive styli
+  
+  designed for this use.
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+
+  The display responds to other sensors: an ambient light sensor to adjust screen brightness and a 3-axis
+  
+   accelerometer
+  
+  to sense iPad orientation and switch between
+  
+   portrait and landscape
+  
+  modes. Unlike the iPhone and iPod Touch's built-in applications, which work in three orientations (portrait, landscape-left and landscape-right), the iPad's built-in applications support
+  
+   screen rotation
+  
+  in all four orientations, including upside-down. Consequently, the device has no intrinsic "native" orientation; only the relative position of the home button changes.
+  
+
+    [67]
+   
+
+
+  There are four physical switches on the iPad, including a home button near the display that returns the user to the main menu, and three plastic physical switches on the sides:
+  
+   wake/sleep
+  
+  and
+  
+   volume up/down
+  
+  , plus a software-controlled switch whose function has changed with software updates. Originally the switch locked the screen to its current orientation, but the iOS 4.2 changed it to a mute switch, with rotation lock now available in an onscreen menu.
+  
+
+    [68]
+   
+
+  In the iOS 4.3 update, released with the iPad 2, a setting was added to allow the user to specify whether the side switch was used for rotation lock or mute.
+  
+
+    [7]
+   
+
+
+  The first generation iPad had no camera; the iPad 2 has a front
+  
+   VGA
+  
+  camera and a rear-facing
+  
+   720p
+  
+  camera, both capable of still images (but these are only taken at a low quality 0.3 megapixels) and 30
+  
+   fps
+  
+  video. The rear-facing camera has a 5×
+  
+   digital zoom
+  
+  for still images only. Both shoot photo and video in a
+  
+   4:3
+  
+  fullscreen aspect ratio, unlike the
+  
+   iPhone 4
+  
+  , which shoots in a
+  
+   16:9
+  
+  widescreen aspect ratio. Unlike the iPhone, the iPad does not support tap to focus, but does allow a tap to set auto exposure.
+  
+
+    [69]
+   
+
+  The cameras allow
+  
+   FaceTime
+  
+  video messaging with iPhone 4, fourth generation iPod Touch, and
+  
+   Snow Leopard
+  
+  ,
+  
+   Lion
+  
+  , and
+  
+   Mountain Lion
+  
+
+   Macs
+  
+  .
+  
+
+    [70]
+   
+
+
+  The iPad has two internal speakers reproducing left and right channel audio located on the bottom-right of the unit. In the original iPad, the speakers push sound through two small sealed channels leading to the three audio ports carved into the device,
+  
+
+    [14]
+   
+
+  while the iPad 2 has its speakers behind a single grill.
+  
+
+    [10]
+   
+
+  A volume switch is on the right side of the unit. A 3.5-mm
+  
+   TRRS connector
+  
+  audio-out jack on the top-left corner of the device provides stereo sound for headphones with or without microphones and/or volume controls. The iPad also contains a microphone that can be used for
+  
+   voice recording
+  
+  .
+ 
+  The built-in
+  
+   Bluetooth 2.1 + EDR
+  
+  interface allows wireless headphones and keyboards to be used with the iPad.
+  
+
+    [71]
+   
+
+  However iOS does not currently support
+  
+   file transfer
+  
+  via Bluetooth.
+  
+
+    [72]
+   
+
+  iPad also features 1024×768 VGA video output for limited applications,
+  
+
+    [73]
+   
+
+  screen capture,
+  
+
+    [74]
+   
+
+  connecting an external display or television through an accessory adapter.
+ 
+  The iPad uses an internal
+  
+   rechargeable
+  
+
+   lithium-ion polymer
+  
+  (LiPo) battery. The batteries are made in
+  
+   Taiwan
+  
+  by Simplo Technology (60%) and Dynapack International Technology.
+  
+
+    [75]
+   
+
+  The iPad is designed to be charged with a high current of 2 amperes using the included 10 W USB power adapter and USB cord with a USB connector at one end and a 30-pin dock connector at the other end. While it can be charged by a standard USB port from a computer, these are limited to 500 milliamperes (0.5 amps). As a result, if the iPad is running while powered by a normal USB computer port, it may charge very slowly, or not at all. High-power USB ports found in newer Apple computers and accessories provide full charging capabilities.
+  
+
+    [76]
+   
+
+
+  Apple claims that the battery for both generations of iPad can provide up to 10 hours of video, 140 hours of audio playback, or one month on standby. Like any rechargeable battery technology, the iPad's battery loses capacity over time, but is not designed to be user-replaceable. In a program similar to the battery-replacement program for the
+  
+   iPod
+  
+  and the original iPhone, Apple will replace an iPad that does not hold an electrical charge with a refurbished iPad for a fee of US$99 plus $6.95 shipping.
+  
+
+    [77]
+   
+
+
+
+    [78]
+   
+
+  As a different unit is supplied, user data is not preserved. The refurbished unit will have a new case.
+  
+
+    [79]
+   
+
+  The warranty on the refurbished unit may vary between jurisdictions.
+ 
+  Independent companies also provide a battery replacement service, returning the original unit with new battery but original case. Alternatively it is possible for a technically competent user to buy and install a new battery. The task does not require soldering, but is technically challenging.
+  
+
+    [80]
+   
+
+
+  The iPad was released with three capacity options for storage: 16, 32, or 64 GB of internal
+  
+   flash memory
+  
+  . On January 29, 2013, Apple announced a 128 GB model of the
+  
+   fourth generation iPad
+  
+  , which was released on February 5.
+  
+
+    [13]
+   
+
+  All data is stored on the internal flash memory, with no option to expand storage. Apple sells a "camera connection kit" with an
+  
+   SD card
+  
+  reader, but it can only be used to transfer photos and videos.
+  
+
+    [81]
+   
+
+  On March 21, 2016, Apple announced a 256 GB model of the
+  
+   iPad Pro
+  
+  , which was released on March 31.
+ 
+  iPad models come in two basic variants: Wi-Fi only and Wi-Fi with cellular support. The cellular variants however do not support circuit-switched voice calls and texts, only data connectivity. The side of the
+  
+   Wi-Fi
+  
+  +
+  
+   3G
+  
+  iPad had a
+  
+   micro-SIM
+  
+  slot (not
+  
+   mini-SIM
+  
+  ). The 3G iPad can be used with any compatible
+  
+   GSM
+  
+  carrier, unlike the iPhone, which is usually sold
+  
+   'locked' to specific carriers
+  
+  .
+  
+
+    [82]
+   
+
+  On the first generations of the iPad in the U.S., data network access via
+  
+   T-Mobile
+  
+  's network was limited to slower
+  
+   EDGE
+  
+  cellular speeds because T-Mobile's 3G Network at the time used different frequencies.
+  
+
+    [83]
+   
+
+
+
+    [84]
+   
+
+
+  The
+  
+   second generation iPad
+  
+  introduced a third tier of models with
+  
+   CDMA
+  
+  support for
+  
+   Verizon Wireless
+  
+  in the United States, available separately from the
+  
+   AT&T
+  
+  capable version.
+  
+
+    [85]
+   
+
+
+  The iPad up to the 4th generation uses a Micro-SIM, while the first generation iPad Mini uses a nano-SIM as introduced with the iPhone 5. The iPad mini is available with two different frequency bands worldwide. Both devices support the same quad-band GSM and quad-band UMTS frequencies, but one variant also supports LTE bands 4 and 17 (principally intended for use on the U.S. AT&T network), while the other adds support for
+  
+   LTE
+  
+  bands 1, 3, 5, 13, 25 and CDMA EV-DO Rev. A and Rev. B.
+ 
+  The 5th generation iPad and 2nd generation iPad mini introduced support for many additional LTE bands worldwide. The iPad Air and Mini with Retina display cellular models come in two variants each, all of which support nano-SIMs, quad-band GSM, penta-band UMTS, and dual-band CDMA EV-DO Rev. A and B. Additionally, one variant of each iPad also supports LTE bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 18, 19, 20, 25 and 26 while the other variant supports LTE bands 1, 2, 3, 5, 7, 8, 18, 19, 20 and
+  
+   TD-LTE
+  
+  bands 38, 39 and 40. Apple's ability to handle many different bands in one device allowed it to offer, for the first time, a single iPad variant which supports all the cellular bands and technologies deployed by all the major North American wireless providers at the time of the device's introduction. Moreover, with T-Mobile USA selling the iPad Air and Mini with Retina display, these models became the first iPads that were made available for purchase directly from all four nationwide U.S. wireless carriers (and, as previously indicated, with all U.S. carriers now selling the same hardware variant of the device).
+ 
+  Apple offers several iPad accessories,
+  
+
+    [86]
+   
+
+  most of which are adapters for the proprietary 30-pin
+  
+   dock connector
+  
+  , the iPad's only port besides the headphone jack.
+  
+
+    [7]
+   
+
+  A dock holds the iPad upright at an angle, and has a dock connector and audio line out port. Each generation of iPad requires a corresponding dock. A dock that included a physical keyboard was only supported for the original iPad,
+  
+
+    [87]
+   
+
+  but all generations are compatible with Bluetooth keyboards that also work with
+  
+   Macs
+  
+  and
+  
+   PCs
+  
+  . The iPad can be charged by a standalone power adapter ("wall charger") also used for iPods and iPhones, and a 10 W charger is included with the iPad.
+ 
+  Apple sells a camera connection kit that consists of two separate adapters for the dock connector, one to
+  
+   USB
+  
+  Type A, the other an
+  
+   SD
+  
+  card reader. Adapter can be used to transfer photos and videos and to plug USB
+  
+   audio card
+  
+  or
+  
+   MIDI keyboard
+  
+  .
+  
+
+    [88]
+   
+
+  A third party sells an adapter that includes USB, SD, and
+  
+   microSD
+  
+  on a single unit.
+  
+
+    [89]
+   
+
+  An adapter to
+  
+   VGA connectors
+  
+  allows the iPad to work with external monitors and projectors. Another adapter mirrors the screen onto
+  
+   HDMI
+  
+  compatible devices in 1080p and works with all apps and rotations. Unlike other adapters, it allows the iPad to charge through another dock connector.
+  
+
+    [90]
+   
+
+  While the HDMI adapter was released with and advertised for the
+  
+   second generation iPad
+  
+  , it also works with the first-generation iPad, the
+  
+   iPhone 4
+  
+  , and the fourth generation iPod Touch.
+  
+
+    [91]
+   
+
+
+  Smart Covers are screen protectors that magnetically attach and align to the face of the iPad 2, 3, or 4. The cover has three folds which allow it to convert into a stand, which is also held together by magnets.
+  
+
+    [92]
+   
+
+  While original iPad owners could purchase a black case that included a similarly folding cover, the Smart Cover is meant to be more minimal, easily detachable, and protects only the screen. Smart Covers have a
+  
+   microfiber
+  
+  bottom that cleans the front of the iPad, which wakes up when the cover is removed. There are five different colors of both polyurethane and leather, with leather being more expensive. Smart Covers are not compatible with the original iPad.
+  
+
+    [93]
+   
+
+  In June 2012, Apple started selling the Smart Case - a case with the combined function of a smart cover and a back protection case which is compatible with the iPad 2, and iPad 3rd & 4th generation devices.
+  
+
+    [94]
+   
+
+
+  Like the iPhone, with which it shares a
+  
+   development environment
+  
+
+
+    [95]
+   
+
+  the iPad only runs its own software, software downloaded from Apple's
+  
+   App Store
+  
+  , and software written by developers who have paid for a developer's license on registered devices.
+  
+
+    [96]
+   
+
+
+   [
+   
+
+
+      not in citation given
+     
+
+
+   ]
+  
+  The iPad runs almost all third-party
+  
+   iPhone applications
+  
+  , displaying them at iPhone size or enlarging them to fill the iPad's screen.
+  
+
+    [97]
+   
+
+  Developers may also create or modify apps to take advantage of the iPad's features,
+  
+
+    [98]
+   
+
+  and there are one million apps optimized for the iPad, as of March 2016.
+  
+
+    [99]
+   
+
+  Application developers use iOS SDK for developing applications for iPad.
+  
+
+    [100]
+   
+
+  The iPad originally shipped with a customized iPad-only version of iPhone OS, dubbed v3.2. On September 1, it was announced the iPad would get iOS 4.2 by November 2010;
+  
+
+    [101]
+   
+
+  to fulfill this Apple released iOS 4.2.1 to the public on November 22.
+  
+
+    [102]
+   
+
+
+  The
+  
+   interface
+  
+  is centred around the home screen, a graphical list of available applications. The home screen can be accessed at any time by a hardware button below the screen, closing an open application in the process.
+  
+
+    [103]
+   
+
+
+  Users can also add and delete icons from the dock, which is the same on every home screen. Each home screen holds up to twenty icons, and the dock holds up to six icons. Users can delete Web Clips and third-party applications at any time, and may select only certain applications for transfer from iTunes. Apple's default programs, however, may not be removed.
+ 
+  Almost all input is given through the touch screen, which understands complex gestures using
+  
+   multi-touch
+  
+  . The iPad's
+  
+   interaction techniques
+  
+  enable the user to move the content up or down by a touch-drag motion of the finger. For example, zooming in and out of web pages and photos is done by placing two fingers on the screen and spreading them farther apart or bringing them closer together, a gesture known as "
+  
+   pinching
+  
+  ".
+ 
+  Scrolling through a long list or menu is achieved by sliding a finger over the display from bottom to top, or vice versa to go back. In either case, the list moves as if it is pasted on the outer surface of a wheel, slowly decelerating as if affected by friction. In this way, the interface simulates the physics of a real object.
+ 
+  Other
+  
+   user-centered
+  
+
+   interactive
+  
+  effects include horizontally sliding sub-selection, the vertically sliding keyboard and bookmarks menu, and widgets that turn around to allow settings to be configured on the other side. Menu bars are found at the top and bottom of the screen when necessary. Their options vary by program, but always follow a consistent style motif. In menu hierarchies, a "back" button in the top-left corner of the screen displays the name of the parent folder.
+ 
+  The layout of the music library is similar to an
+  
+   iPod
+  
+  or current
+  
+   Symbian
+  
+
+   S60
+  
+  phones. The iPad can sort its media library by songs, artists, albums, videos,
+  
+   playlists
+  
+  ,
+  
+   genres
+  
+  , composers,
+  
+   podcasts
+  
+  ,
+  
+   audiobooks
+  
+  , and
+  
+   compilations
+  
+  . Options are always presented alphabetically, except in playlists, which retain their order from
+  
+   iTunes
+  
+  . The iPhone uses a large font that allows users plenty of room to touch their selection.
+ 
+  Users can rotate their device horizontally to
+  
+   landscape mode
+  
+  to access
+  
+   Cover Flow
+  
+  , likewise this feature may be disabled if purposely wishing to view a screen from another angle. Like on iTunes, this feature shows the different album covers in a scroll-through photo library. Scrolling is achieved by swiping a finger across the screen. Alternatively, headset controls can be used to pause, play, skip, and repeat tracks.
+ 
+  The iPad supports
+  
+   gapless playback
+  
+  .
+  
+
+    [104]
+   
+
+  Like the
+  
+   fifth-generation iPods
+  
+  introduced in 2005, the iPad can play
+  
+   digital video
+  
+  , allowing users to watch TV shows and movies in
+  
+   widescreen
+  
+  . Double-tapping switches between widescreen and
+  
+   fullscreen
+  
+  video playback.
+ 
+  The iPad allows users to purchase and download songs from the iTunes Store directly to their iPad. It includes software that allows the user to upload, view, and email photos taken with the
+  
+   camera
+  
+  . The user zooms in and out of photos by sliding two fingers further apart or closer together, much like Safari. The Camera application also lets users view the camera roll, the pictures that have been taken with the iPad's camera. Those pictures are also available in the Photos application, along with any transferred from
+  
+   iPhoto
+  
+  or
+  
+   Aperture
+  
+  on a Mac, or
+  
+   Photoshop
+  
+  on a Windows
+  
+   PC
+  
+  .
+ 
+  The iPad can use Wi-Fi network
+  
+   trilateration
+  
+  from
+  
+   Skyhook Wireless
+  
+  to provide location information to applications such as
+  
+   Google Maps
+  
+  . The 3G model supports
+  
+   A-GPS
+  
+  to allow its position to be calculated with GPS or relative to nearby cellphone towers; it also has a black strip on the back to aid 3G reception.
+  
+
+    [105]
+   
+
+  The iPad has a
+  
+   headphone jack
+  
+  and a proprietary Apple
+  
+   dock connector
+  
+  , but no
+  
+   Ethernet
+  
+  or USB port.
+  
+
+    [7]
+   
+
+  However, the Apple Camera Connection Kit accessory provides two dock connector adapters for importing photos and videos via USB and SD memory cards.
+ 
+  The iPad comes with several applications, including Safari, Mail, Photos, Video, iPod,
+  
+   iTunes
+  
+  , App Store,
+  
+   iBooks
+  
+  ,
+  
+   Maps
+  
+  , Notes, Calendar, and Contacts.
+  
+
+    [106]
+   
+
+  Several are improved versions of applications developed for the iPhone or
+  
+   Mac
+  
+  .
+ 
+  The iPad syncs with iTunes on a Mac or Windows PC.
+  
+
+    [23]
+   
+
+  Apple ported its
+  
+   iWork
+  
+  suite from the Mac to the iPad, and sells pared down versions of
+  
+   Pages
+  
+  ,
+  
+   Numbers
+  
+  , and
+  
+   Keynote
+  
+  apps in the App Store.
+  
+
+    [107]
+   
+
+  Although the iPad is not designed to replace a mobile phone, a user can use a wired headset or the built-in speaker and microphone and place telephone calls over Wi-Fi or 3G using a
+  
+   VoIP
+  
+  application.
+  
+
+    [108]
+   
+
+  As of June 2012, there were about 225,000 iPad specific apps on the App Store.
+  
+
+    [109]
+   
+
+
+  In December 2010, Reuters reported that iPhone and iPad users have lodged a lawsuit against Apple alleging that some applications were passing their information to third party advertisers without consent.
+  
+
+    [110]
+   
+
+
+  The iPad has an optional
+  
+   iBooks
+  
+  application that can be downloaded from the App Store, which displays books and other
+  
+   ePub
+  
+  -format content downloaded from the
+  
+   iBookstore
+  
+  .
+  
+
+    [111]
+   
+
+  For the iPad launch on April 3, 2010, the iBookstore is available only in the United States.
+  
+
+    [2]
+   
+
+
+
+    [23]
+   
+
+  Several major book publishers including Penguin Books, HarperCollins, Simon & Schuster and Macmillan have committed to publishing books for the iPad.
+  
+
+    [112]
+   
+
+  Despite its being a direct competitor to both the
+  
+   Amazon Kindle
+  
+  and
+  
+   Barnes & Noble Nook
+  
+  ,
+  
+
+    [113]
+   
+
+  both
+  
+   Amazon.com
+  
+  and
+  
+   Barnes & Noble
+  
+  have made Kindle and Nook apps available for the iPad.
+  
+
+    [114]
+   
+
+
+
+    [115]
+   
+
+
+  In February 2010,
+  
+   Condé Nast
+  
+  said it would sell iPad subscriptions for several of its magazines by June.
+  
+
+    [116]
+   
+
+
+  In April 2010,
+  
+
+    The New York Times
+   
+
+  announced that it would begin publishing daily on the iPad.
+  
+
+    [117]
+   
+
+  The "Top News" section is available free of charge, and the remainder on payment of a
+  
+   subscription
+  
+  .
+  
+
+    [118]
+   
+
+  Major news organizations, including
+  
+
+    The Wall Street Journal
+   
+
+  , the
+  
+   BBC
+  
+  , and
+  
+   Reuters
+  
+  have released iPad applications.
+  
+   NewsCorp
+  
+  created an iPad-only publication,
+  
+
+    The Daily
+   
+
+  , in February 2011.
+  
+
+    [119]
+   
+
+  It ceased operations in December 2012.
+ 
+
+       (3rd generation)
+      
+
+
+       (4th generation)
+      
+
+
+       16 GB re-released:
+      
+      October 16, 2014
+     
+  The iPad is assembled by
+  
+   Foxconn
+  
+  , which also manufactures Apple's iPod, iPhone and Mac Mini, in its largest plant in
+  
+   Shenzhen
+  
+  , China,
+  
+
+    [152]
+   
+
+
+
+    [153]
+   
+
+  and by
+  
+   Pegatron
+  
+  in
+  
+   Shanghai
+  
+  , China.
+  
+
+    [154]
+   
+
+
+
+    [155]
+   
+
+  In April 2011, Foxconn announced that it would be moving production of the iPad and other Apple products to Brazil where it could begin production before the end of 2011.
+  
+
+    [156]
+   
+
+
+  iSuppli estimated that each first-generation iPad 16 GB Wi-Fi version costs US$259.60 to manufacture, a total that excludes research, development, licensing, royalty and patent costs.
+  
+
+    [157]
+   
+
+  Apple does not disclose the makers of iPad components, but
+  
+   teardown
+  
+  reports and analysis from industry insiders indicate that various parts and their suppliers include:
+ 
+      A1652 (Wi-Fi + Cellular)
+     
+      A1674 or A1675 (Wi-Fi + Cellular)
+     
+
+       Fully laminated
+      
+      display,
+      
+       Antireflective coating
+      
+
+
+       Backside illumination
+      
+      , Face Detection,
+      
+       Exposure control
+      
+      ,
+      
+       Panorama
+      
+      (up to 43
+      
+       MP
+      
+      ),
+      
+       Burst mode
+      
+      , Tap to focus, Photo
+      
+       geotagging
+      
+      ,
+      
+       Timer mode
+      
+      , Video Recording,
+      
+       1080p
+      
+      video recording (30
+      
+       fps
+      
+      ),
+      
+       Slo-mo
+      
+      video support for
+      
+       720p
+      
+      at 120 fps,
+      
+       Time-lapse
+      
+      video,
+      
+       Video image stabilization
+      
+      , 3×
+      
+       digital zoom
+      
+      ,
+      
+       Video geotagging
+      
+
+      Tap to focus, Photo
+      
+       geotagging
+      
+      ,
+      
+       Timer mode
+      
+      , Video Recording,
+      
+       Cinematic video stabilization
+      
+      ,
+      
+       4K
+      
+      video recording (30
+      
+       fps
+      
+      ),
+      
+       1080p
+      
+      HD video recording at 30 fps or 60 fps,
+      
+       Slo-mo
+      
+      video support for
+      
+       1080p
+      
+      at 120 fps and
+      
+       720p
+      
+      at 240 fps,
+      
+       Time-lapse
+      
+      video, 3×
+      
+       digital zoom
+      
+      , Live Photos, True Tone
+      
+       LED
+      
+
+       flash
+      
+      ,
+      
+       Sapphire crystal
+      
+      lens cover, Improved local tone mapping, Improved
+      
+       noise reduction
+      
+      ,
+      
+       Video geotagging
+      
+
+
+       Bluetooth 4.2
+      
+      technology
+     
+
+       UMTS
+      
+      /
+      
+       HSPA
+      
+      /
+      
+       HSPA+
+      
+      /
+      
+       DC-HSDPA
+      
+      (850, 900, 1700/2100, 1900, 2100 MHz);
+      
+       GSM
+      
+      /
+      
+       EDGE
+      
+      (850, 900, 1800, 1900 MHz),
+      
+       CDMA
+      
+
+       EV-DO
+      
+      Rev. A and Rev. B (800, 1900 MHz),
+      
+       LTE
+      
+      (Bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 18, 19, 20, 25, 26, 28, 29, 38, 39, 40, 41), Data only, Includes
+      
+       Apple SIM
+      
+      (
+      
+       U.S.
+      
+      ,
+      
+       UK
+      
+      , and Germany only)
+     
+
+       UMTS
+      
+      /
+      
+       HSPA
+      
+      /
+      
+       HSPA+
+      
+      /
+      
+       DC-HSDPA
+      
+      (850, 900, 1700/2100, 1900, 2100 MHz);
+      
+       GSM
+      
+      /
+      
+       EDGE
+      
+      (850, 900, 1800, 1900 MHz),
+      
+       CDMA
+      
+
+       EV-DO
+      
+      Rev. A and Rev. B (800, 1900 MHz),
+      
+       LTE Advanced
+      
+      (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41), Data only,
+      
+       Embedded Apple SIM
+      
+
+      220.6 mm (8.69 in)
+      
+       (w)
+      
+
+      6.9 mm (0.27 in)
+      
+       (d)
+      
+
+      169.5 mm (6.67 in)
+      
+       (w)
+      
+
+      6.1 mm (0.24 in)
+      
+       (d)
+      
+
+      Wi-Fi + Cellular: 444 g (0.979 lb)
+     
+  The iPad does not employ
+  
+   digital rights management
+  
+  (DRM), but the OS prevents users from copying or transferring certain content outside of Apple's platform without authorization, such as TV shows, movies, and apps. Also, the iPad's development model requires anyone creating an app for the iPad to sign a
+  
+   non-disclosure agreement
+  
+  and pay for a developer subscription. Critics argue Apple's centralized app approval process and control of the platform itself could stifle software innovation. Of particular concern to
+  
+   digital rights
+  
+  advocates is Apple's ability to remotely disable or delete apps on any iPad at any time.
+  
+
+    [173]
+   
+
+
+
+    [174]
+   
+
+
+
+    [175]
+   
+
+
+  Digital rights advocates, including the
+  
+   Free Software Foundation
+  
+  ,
+  
+
+    [176]
+   
+
+
+   Electronic Frontier Foundation
+  
+  ,
+  
+
+    [175]
+   
+
+  and computer engineer and activist
+  
+   Brewster Kahle
+  
+  ,
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  have criticized the iPad for its digital rights restrictions. In April 2010, Paul Sweeting, an analyst with
+  
+   GigaOM
+  
+  , was quoted by
+  
+   National Public Radio
+  
+  as saying, "With the iPad, you have the anti-Internet in your hands. ... It offers [the major media companies] the opportunity to essentially re-create the old business model, wherein they are pushing content to you on their terms rather than you going out and finding content, or a search engine discovering content for you." But Sweeting also thought that the limitations imposed by Apple impart the feeling of a safe neighborhood, saying, "Apple is offering you a gated community where there's a guard at the gate, and there's probably maid service, too."
+  
+   Laura Sydell
+  
+  , the article's author, concludes, "As more consumers have fears about security on the Internet, viruses and malware, they may be happy to opt for Apple's gated community."
+  
+
+    [177]
+   
+
+  The Russian government has switched from iPads to Android devices over security concerns.
+  
+
+    [178]
+   
+
+
+  Like certain iOS devices, the iPad can be "jailbroken", depending on which version of
+  
+   iOS
+  
+  it is running, thus allowing applications and programs that are not authorized by Apple to run on the device.
+  
+
+    [179]
+   
+
+
+
+    [180]
+   
+
+  Once it is jailbroken, users are able to download many applications previously unavailable through the App Store via unofficial installers such as
+  
+   Cydia
+  
+  , as well as illegally
+  
+   pirated
+  
+  applications.
+  
+
+    [180]
+   
+
+  Apple claims jailbreaking "can" void the factory warranty on the device in the United States even though jailbreaking is legal.
+  
+
+    [180]
+   
+
+
+
+    [181]
+   
+
+  The iPad, released in April 2010, was first jailbroken in May 2010 with the
+  
+   Spirit
+  
+  jailbreak for iOS version 3.1.2.
+  
+
+    [182]
+   
+
+  The iPad can be jailbroken on iOS versions 4.3 through 4.3.3 with the web-based tool
+  
+   JailbreakMe
+  
+  3.0 (released in July 2011),
+  
+
+    [183]
+   
+
+  and on iOS versions including 5.0 and 5.0.1 using
+  
+   redsn0w
+  
+
+
+    [184]
+   
+
+  Absinthe 2.0 was released on May 25, 2012 as the first jailbreak method for all iOS 5.1.1 devices except the 32 nm version of the iPad 2.
+  
+
+    [185]
+   
+
+
+  Apple's App Store, which provides iPhone and iPad applications, imposes censorship of content, which has become an issue for book publishers and magazines seeking to use the platform.
+  
+   The Guardian
+  
+  newspaper described the role of Apple as analogous to that of British magazine distributor
+  
+   WH Smith
+  
+  , which for many years imposed content restrictions.
+  
+
+    [186]
+   
+
+
+  Due to the exclusion of pornography from the App Store,
+  
+   YouPorn
+  
+  and others changed their video format from
+  
+   Flash
+  
+  to
+  
+   H.264
+  
+  and
+  
+   HTML5
+  
+  specifically for the iPad.
+  
+
+    [187]
+   
+
+  In an e-mail exchange
+  
+
+    [188]
+   
+
+  with Ryan Tate from
+  
+   Valleywag
+  
+  , Steve Jobs claimed that the iPad offers "freedom from porn", leading to many upset replies including
+  
+   Adbustings
+  
+  in Berlin by artist Johannes P. Osterhoff
+  
+
+    [189]
+   
+
+  and in San Francisco during
+  
+   WWDC10
+  
+  .
+  
+
+    [190]
+   
+
+
+  On May 28, 2010, the iPad was released in Australia, Canada, and Japan, as well as in several larger
+  
+   European
+  
+  countries. Media reaction to the launch was mixed. The media noted the positive response from fans of the device, with thousands of people queued on the first day of sale in a number of these countries.
+  
+
+    [191]
+   
+
+
+
+    [192]
+   
+
+
+  Media reaction to the iPad announcement was mixed.
+  
+   Walter Mossberg
+  
+  wrote, "It's about the software, stupid", meaning hardware features and build are less important to the iPad's success than software and user interface, his first impressions of which were largely positive. Mossberg also called the price "modest" for a device of its capabilities, and praised the ten-hour battery life.
+  
+
+    [193]
+   
+
+  Others, including PC Advisor and the Sydney Morning Herald, wrote that the iPad would also compete with proliferating
+  
+   netbooks
+  
+  , most of which use
+  
+   Microsoft Windows
+  
+  .
+  
+
+    [194]
+   
+
+
+
+    [195]
+   
+
+  The base model's $499 price was lower than pre-release estimates by the tech press,
+  
+   Wall Street
+  
+  analysts, and Apple's competitors, all of whom were expecting a much higher entry price point.
+  
+
+    [196]
+   
+
+
+
+    [197]
+   
+
+
+
+    [198]
+   
+
+
+
+
+    CNET
+   
+
+  also criticized the iPad for its apparent lack of wireless sync which other portable devices such as Microsoft's
+  
+   Zune
+  
+  have had for a number of years. The built-in iTunes app is able to download from the
+  
+   Internet
+  
+  as well.
+  
+
+    [199]
+   
+
+
+  Reviews of the iPad have been generally favorable.
+  
+   Walt Mossberg
+  
+  then, of
+  
+
+    The Wall Street Journal
+   
+
+  called it a "pretty close" laptop killer.
+  
+
+    [200]
+   
+
+
+   David Pogue
+  
+  of
+  
+   The New York Times
+  
+  wrote a "dual" review, one part for technology-minded people, and the other part for non-technology-minded people. In the former section, he notes that a laptop offers more features for a cheaper price than the iPad. In his review for the latter audience, however, he claims that if his readers like the concept of the device and can understand what its intended uses are, then they will enjoy using the device.
+  
+
+    [201]
+   
+
+
+   PC Magazine
+  
+  's Tim Gideon wrote, "you have yourself a winner" that "will undoubtedly be a driving force in shaping the emerging tablet landscape."
+  
+
+    [202]
+   
+
+  Michael Arrington of
+  
+
+    TechCrunch
+   
+
+  said, "the iPad beats even my most optimistic expectations. This is a new category of device. But it also will replace laptops for many people."
+  
+
+    [203]
+   
+
+
+   PC World
+  
+  criticized the iPad's
+  
+   file sharing
+  
+  and printing abilities,
+  
+
+    [204]
+   
+
+  and
+  
+
+    Ars Technica
+   
+
+  said sharing files with a computer is "one of our least favorite parts of the iPad experience."
+  
+
+    [205]
+   
+
+
+  The media also praised the quantity of applications, as well as the bookstore and other media applications.
+  
+
+    [206]
+   
+
+
+
+    [207]
+   
+
+  In contrast they criticized the iPad for being a closed system and mentioned that the iPad faces competition from
+  
+   Android
+  
+  -based tablets,
+  
+
+    [191]
+   
+
+  that outsold iPads in 2013, surpassing iPads in the second quarter of 2013,
+  
+
+    [208]
+   
+
+  and have overtaken iPad's installed base,
+  
+
+    [209]
+   
+
+  and has lost majority of web browsing to Android, by
+  
+   StatCounter
+  
+  estimates, in
+  
+   South America
+  
+  , Africa, most of Asia –  many large countries there and in Eastern Europe.
+  
+
+    [210]
+   
+
+
+   The Independent
+  
+  criticized the iPad for not being as readable in bright light as paper but praised it for being able to store large quantities of books.
+  
+
+    [206]
+   
+
+  After its
+  
+   UK
+  
+  release,
+  
+   The Daily Telegraph
+  
+  said the iPad's lack of
+  
+   Adobe Flash
+  
+  support was "annoying."
+  
+
+    [211]
+   
+
+
+  The iPad was selected by
+  
+
+    Time
+   
+
+  magazine as one of the 50 Best Inventions of the Year 2010,
+  
+
+    [212]
+   
+
+  while
+  
+   Popular Science
+  
+  chose it as the top gadget
+  
+
+    [213]
+   
+
+  behind the overall "Best of What's New 2010" winner
+  
+   Groasis Waterboxx
+  
+  .
+  
+
+    [214]
+   
+
+
+  iPad tablets still have a wide margin globally on second most used Android tablets. The market share, however, differs widely by regions; and the iPad has lost market share globally, every year since 2012 (when StatCounter started tracking tablets separately).
+  
+
+    [215]
+   
+
+
+  According to
+  
+   StatCounter
+  
+  statistics, that tracks web use and gives operating system/platform share based on it, the iPad has lost majority of use in South America to Android,
+  
+
+    [216]
+   
+
+
+
+    [217]
+   
+
+  did also lose majority while gaining back in Asia
+  
+
+    [218]
+   
+
+  and in Africa has lost by a wide margin, where Android is up to 70%.
+  
+
+    [219]
+   
+
+
+  While the iPad is mostly used by consumers, it also has been taken up by business users.
+  
+
+    [220]
+   
+
+  Within 90 days of its release, the iPad managed to penetrate 50% of Fortune 100 companies.
+  
+
+    [221]
+   
+
+  Some companies are adopting iPads in their business offices by distributing or making available iPads to employees. Examples of uses in the workplace include attorneys responding to clients, medical professionals accessing health records during patient exams, and managers approving employee requests.
+  
+
+    [222]
+   
+
+
+
+    [223]
+   
+
+
+
+    [224]
+   
+
+
+  A survey by
+  
+   Frost & Sullivan
+  
+  shows that iPad usage in office workplaces is linked to the goals of increased employee productivity, reduced paperwork, and increased revenue. The research firm estimates that "The mobile-office application market in North America may reach $6.85 billion in 2015, up from an estimated $1.76 billion [in 2010]."
+  
+
+    [225]
+   
+
+
+  Since March 2011, the US
+  
+   Federal Aviation Administration
+  
+  has approved the iPad for in-cockpit use to cut down on the paper consumption in several airlines.
+  
+
+    [226]
+   
+
+  In 2011,
+  
+   Alaska Airlines
+  
+  became the first airline to replace pilots' paper manuals with iPads, weighing 0.68 kg compared to 11 kg for the printed flight manuals. It hopes to have fewer back and muscle injuries.
+  
+
+    [227]
+   
+
+  More than a dozen airlines have followed suit, including United, which has distributed 11,000 iPads to cockpits.
+  
+
+    [228]
+   
+
+  Also, many airlines now offer their inflight magazine as a downloadable application for the iPad.
+  
+
+    [229]
+   
+
+
+
+    [230]
+   
+
+
+
+    [231]
+   
+
+
+  The iPad has several uses in the classroom,
+  
+
+    [232]
+   
+
+  and has been praised as a valuable tool for homeschooling.
+  
+
+    [233]
+   
+
+
+
+    [234]
+   
+
+  Soon after the iPad was released, it was reported that 81% of the top book apps were for children.
+  
+
+    [235]
+   
+
+  The iPad has also been called a revolutionary tool to help children with autism learn how to communicate and socialize more easily.
+  
+
+    [236]
+   
+
+
+  In the healthcare field, iPads and iPhones have been used to help hospitals manage their
+  
+   supply chain
+  
+  . For example, Novation, a healthcare contracting services company, developed VHA PriceLynx (based on the mobile application platform of business intelligence software vendor MicroStrategy), a
+  
+   business intelligence
+  
+  app to help health care organizations manage its purchasing procedures more efficiently and save money for hospitals. Guillermo Ramas of Novation states, "Doctors won't walk around a hospital with a laptop. With an iPad it's perfect to walk around the hospital with as long as they have the information they need."
+  
+
+    [237]
+   
+
+
+  In 2013, Gianna Chien (aged 14) presented to more than 8,000 doctors at the Heart Rhythm Society meeting that Apple iPad 2 can, in some cases, interfere with life-saving heart devices (pace maker) because of the magnets inside.
+  
+
+    [238]
+   
+
+  Apple's webpage has advised pacemaker users to keep iPads at least 6-inches away from the pacemaker.
+ 
+  In the United States, fans attending
+  
+   Super Bowl XLV
+  
+  , the first Super Bowl since the iPad was released, could use an official
+  
+   National Football League
+  
+  (NFL) app to navigate
+  
+   Cowboys Stadium
+  
+  .
+  
+
+    [239]
+   
+
+  In 2011, the
+  
+   Tampa Bay Buccaneers
+  
+  became the first NFL club to discontinue the use of paper copies of playbooks, and instead distributed all players their playbook and videos in electronic format via an
+  
+   iPad 2
+  
+  .
+  
+
+    [240]
+   
+
+
+  The iPad is able to support many music creation applications in addition to the iTunes music playback software. These include sound samplers, guitar and voice effects processors, sequencers for synthesized sounds and sampled loops, virtual synthesizers and drum machines, theremin-style and other touch responsive instruments, drum pads and many more.
+  
+   Gorillaz
+  
+  's 2010 album,
+  
+
+    The Fall
+   
+
+  , was created almost exclusively using the iPad by
+  
+   Damon Albarn
+  
+  while on tour with the band.
+  
+
+    [241]
+   
+
+  The music video for
+  
+   Luna Sea
+  
+  's 2012 single, "
+  
+   Rouge
+  
+  ", was filmed entirely on an iPad.
+  
+
+    [242]
+   
+
+
+  The iPad has also greatly increased
+  
+   social television
+  
+  use. Viewers can use the iPad as a convenient second networked computer (or "
+  
+   second screen
+  
+  ") for communicating with other viewers or with the television provider. Viewers can use a web browser or specialised applications to discuss a program with other viewers, while it is being broadcast, while content providers may use the second screen to interact with viewers in real time. For example, the latter facility allows content providers to conduct real-time polls or to collect comments about the program, that can be displayed as text on the main television screen. Viewer interaction via a second screen is becoming increasingly popular.
+  
+
+    [243]
+   
+

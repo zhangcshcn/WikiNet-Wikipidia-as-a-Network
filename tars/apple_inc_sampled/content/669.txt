@@ -1,0 +1,820 @@
+
+
+
+   Cocoa
+  
+  is
+  
+   Apple
+  
+  's native
+  
+   object-oriented
+  
+
+   application programming interface
+  
+  (API) for their
+  
+   operating system
+  
+
+   macOS
+  
+  .
+ 
+  For
+  
+   iOS
+  
+  ,
+  
+   tvOS
+  
+  , and
+  
+   watchOS
+  
+  , a similar API exists, named
+  
+   Cocoa Touch
+  
+  , which includes
+  
+   gesture recognition
+  
+  ,
+  
+   animation
+  
+  , and a different set of
+  
+   graphical control elements
+  
+  . It is in
+  
+   applications
+  
+  for Apple devices such as
+  
+   iPhone
+  
+  ,
+  
+   iPad
+  
+  ,
+  
+   iPod Touch
+  
+  ,
+  
+   Apple TV
+  
+  , and
+  
+   Apple Watch
+  
+  .
+ 
+  Cocoa consists of the Foundation Kit, Application Kit, and Core Data frameworks, as included by the
+  
+   Cocoa.h
+  
+  header file, and the libraries and frameworks included by those, such as the C standard library and the Objective-C runtime.
+  
+
+    [1]
+   
+
+
+  Cocoa applications are typically developed using the development tools provided by Apple, specifically
+  
+   Xcode
+  
+  (formerly
+  
+   Project Builder
+  
+  ) and
+  
+   Interface Builder
+  
+  , using the languages
+  
+   Objective-C
+  
+  or
+  
+   Swift
+  
+  . However, the Cocoa programming environment can be accessed using other tools, such as
+  
+   Clozure CL
+  
+  ,
+  
+   LispWorks
+  
+  ,
+  
+   Object Pascal
+  
+  ,
+  
+   Python
+  
+  ,
+  
+   Perl
+  
+  ,
+  
+   Ruby
+  
+  , and
+  
+   AppleScript
+  
+  with the aid of
+  
+   bridge mechanisms
+  
+  such as
+  
+   PasCocoa
+  
+  ,
+  
+   PyObjC
+  
+  ,
+  
+   CamelBones
+  
+  ,
+  
+   RubyCocoa
+  
+  , and a
+  
+   D
+  
+  /Objective-C Bridge. A Ruby language implementation named
+  
+   MacRuby
+  
+  , which removes the need for a bridge mechanism, was formerly developed by Apple, while
+  
+   Nu
+  
+  is a
+  
+   Lisp
+  
+  -like language that can be used with Cocoa with no bridge. It is also possible to write Objective-C Cocoa programs in a simple
+  
+   text editor
+  
+  and build it manually with
+  
+   GNU Compiler Collection
+  
+  (GCC) or
+  
+   clang
+  
+  from the command line or from a
+  
+   makefile
+  
+  .
+ 
+  For
+  
+   end-users
+  
+  , Cocoa
+  
+   applications
+  
+  are those written using the Cocoa programming environment. Such applications usually have a distinctive feel, since the Cocoa programming environment automates many aspects of an application to comply with Apple's
+  
+   human interface guidelines
+  
+  .
+ 
+
+
+  Cocoa continues the lineage of several
+  
+   software frameworks
+  
+  (mainly the
+  
+   App Kit
+  
+  and
+  
+   Foundation Kit
+  
+  ) from the
+  
+   NeXTSTEP
+  
+  and
+  
+   OpenStep
+  
+  programming environments developed by
+  
+   NeXT
+  
+  in the 1980s and 1990s. Apple acquired NeXT in December 1996, and subsequently went to work on the
+  
+   Rhapsody
+  
+  operating system that was to be the direct successor of OpenStep. It was to have had an emulation base for
+  
+   classic Mac OS
+  
+  applications, named
+  
+   Blue Box
+  
+  . The OpenStep base of libraries and binary support was termed
+  
+   Yellow Box
+  
+  . Rhapsody evolved into Mac OS X, and the Yellow Box became Cocoa. Thus, Cocoa classes begin with the letters
+  
+   NS
+  
+  , such as NSString or NSArray. These stand for either the NeXT-Sun creation of OpenStep, or for the original proprietary term for the OpenStep framework, NeXTSTEP.
+  
+
+    [2]
+   
+
+
+  Much of the work that went into developing OpenStep was applied to developing macOS, Cocoa being the most visible part. However, differences exist. For example, NeXTSTEP and OpenStep used
+  
+   Display PostScript
+  
+  for on-screen display of text and graphics, while Cocoa depends on Apple's
+  
+   Quartz
+  
+  (which uses the
+  
+   Portable Document Format
+  
+  (PDF) imaging model, but not its underlying technology). Cocoa also has a level of Internet support, including the NSURL and
+  
+   WebKit
+  
+
+   HTML
+  
+  classes, and others, while OpenStep had only rudimentary support for managed network connections via NSFileHandle classes and
+  
+   Berkeley sockets
+  
+  .
+ 
+  The resulting software framework received the name
+  
+   Cocoa
+  
+  for the sake of expediency, because the name had already been trademarked by Apple. For many years before this present use of the name, Apple's
+  
+   Cocoa
+  
+  trademark had originated as the name of a multimedia project design application for children. The application was
+  
+   originally developed
+  
+  at the
+  
+   Apple Advanced Technology Group
+  
+  under the name
+  
+   KidSim
+  
+  , and was then renamed and trademarked as "Cocoa". The name, coined by Peter Jensen who was hired to develop Cocoa for Apple, was intended to evoke "Java for kids", as it ran embedded in web pages.
+  
+
+    [3]
+   
+
+  The trademark, and thus the name "Cocoa", was re-used to avoid the delay which would have occurred while registering a new
+  
+   trademark
+  
+  for this software framework. The original "Cocoa" program was discontinued at Apple in one of the
+  
+   rationalizations
+  
+  that followed
+  
+   Steve Jobs
+  
+  's return to Apple. It was then licensed to a third party and marketed as
+  
+   Stagecast Creator
+  
+  as of 2011
+  
+
+    [update]
+   
+
+  .
+ 
+  One feature of the Cocoa environment is its facility for managing dynamically allocated memory. Cocoa's NSObject class, from which most classes, both vendor and user, are derived, implements a
+  
+   reference counting
+  
+  scheme for memory management. Objects that derive from the NSObject root class respond to a
+  
+   retain
+  
+  and a
+  
+   release
+  
+  message, and keep a retain count. A method titled
+  
+   retainCount
+  
+  exists, but contrary to its name, will usually not return the exact retain count of an object. It is mainly used for system-level purposes. Invoking it manually is not recommended by Apple.
+ 
+  A newly allocated object created with
+  
+   alloc
+  
+  or
+  
+   copy
+  
+  has a retain count of one. Sending that object a
+  
+   retain
+  
+  message increments the retain count, while sending it a
+  
+   release
+  
+  message decrements the retain count. When an object's retain count reaches zero, it is deallocated by a procedure similar to a C++
+  
+   destructor
+  
+  .
+  
+   dealloc
+  
+  is not guaranteed to be invoked.
+ 
+  Starting with Objective-C 2.0, the Objective-C runtime implements an optional
+  
+   garbage collector
+  
+  . In this model, the runtime turns Cocoa
+  
+   reference counting
+  
+  operations such as "retain" and "release" into
+  
+   no-ops
+  
+  . The garbage collector does not exist on the
+  
+   iOS
+  
+  implementation of Objective-C 2.0. Garbage Collection in Objective-C runs on a low-priority background thread, and can halt on Cocoa's user events, with the intention of keeping the user experience responsive.
+ 
+  In 2011, the
+  
+   LLVM
+  
+  compiler introduced ARC (
+  
+   Automatic Reference Counting
+  
+  ), which replaces the conventional garbage collector by performing static analysis of Objective-C source code and inserting retain and release messages as necessary.
+ 
+  Cocoa consists of three
+  
+   Objective-C
+  
+  object libraries called
+  
+
+    frameworks
+   
+
+  . Frameworks are functionally similar to
+  
+   shared libraries
+  
+  , a compiled object that can be dynamically loaded into a program's address space at runtime, but frameworks add associated resources, header files, and documentation. The Cocoa frameworks are implemented as a type of
+  
+   bundle
+  
+  , containing the aforementioned items in standard locations.
+ 
+  A key part of the Cocoa architecture is its comprehensive views model. This is organized along conventional lines for an application framework, but is based on the
+  
+   Portable Document Format
+  
+  (PDF) drawing model provided by
+  
+   Quartz
+  
+  . This allows creating custom drawing content using
+  
+   PostScript
+  
+  -like drawing commands, which also allows automatic printer support and so forth. Since the Cocoa framework manages all the clipping, scrolling, scaling and other chores of drawing graphics, the programmer is freed from implementing basic infrastructure and can concentrate on the unique aspects of an application's content.
+ 
+  The
+  
+   Smalltalk
+  
+  teams at
+  
+   Xerox PARC
+  
+  eventually settled on a design philosophy that led to easy development and high code reuse. Named
+  
+
+    model-view-controller
+   
+
+  (MVC), the concept breaks an application into three sets of interacting object classes.
+ 
+  Cocoa's design is a strict application of MVC principles. Under OpenStep, most of the classes provided were either high-level View classes (in AppKit) or one of a number of relatively low-level model classes like NSString. Compared to similar MVC systems, OpenStep lacked a strong model layer. No stock class represented a "document," for instance. During the transition to Cocoa, the model layer was expanded greatly, introducing a number of pre-rolled classes to provide functionality common to desktop applications.
+ 
+  In Mac OS X 10.3, Apple introduced the NSController family of classes, which provide predefined behavior for the controller layer. These classes are considered part of the
+  
+   Cocoa Bindings
+  
+  system, which also makes extensive use of protocols such as
+  
+   Key-Value Observing
+  
+  and
+  
+   Key-Value Binding
+  
+  . The term 'binding' refers to a relationship between two objects, often between a view and a controller. Bindings allow the developer to focus more on declarative relationships rather than orchestrating fine-grained behavior.
+ 
+  With the arrival of Mac OS X 10.4, Apple extended this foundation further by introducing the
+  
+   Core Data
+  
+  framework, which standardizes change tracking and persistence in the model layer. In effect, the framework greatly simplifies the process of making changes to application data, undoing changes (if necessary), saving data to disk, and reading it back in.
+ 
+  By providing framework support for all three MVC layers, Apple's goal is to reduce the amount of boilerplate or "glue" code that developers have to write, freeing up resources to spend time on application-specific features.
+ 
+  In most object-oriented languages, calls to methods are represented physically by a pointer to the code in memory. This restricts the design of an application since specific
+  
+   command handling
+  
+  classes are needed, usually organized according to the
+  
+   chain-of-responsibility pattern
+  
+  . While Cocoa retains this approach for the most part, Objective-C's
+  
+   late binding
+  
+  opens up more flexibility.
+ 
+  Under Objective-C, methods are represented by a
+  
+   selector
+  
+  , a string describing the method to call. When a message is sent, the selector is sent into the Objective-C runtime, matched against a list of available methods, and the method's
+  
+   implementation
+  
+  is called. Since the selector is text data, this lets it be saved to a file, transmitted over a network or between processes, or manipulated in other ways. The implementation of the method is looked up at runtime, not compile time. There is a small performance penalty for this,
+  
+
+    [5]
+   
+
+  but late binding allows the same selector to reference different implementations.
+ 
+  By a similar token, Cocoa provides a pervasive data manipulation method called
+  
+   key-value coding
+  
+  (KVC).
+  
+
+    [6]
+   
+
+  This allows a piece of data or property of an object to be looked up or changed at runtime by name. The property name acts as a key to the value. In traditional languages, this late binding is impossible. KVC leads to great design flexibility. An object's type need not be known, yet any property of that object can be discovered using KVC. Also, by extending this system using something Cocoa terms
+  
+   key-value observing
+  
+  (KVO), automatic support for
+  
+   undo-redo
+  
+  is provided.
+ 
+  Late static binding is a variant of binding somewhere between static and dynamic binding. The binding of names before the program is run is called static (
+  
+   early
+  
+  ); bindings performed as the program runs are dynamic (
+  
+   late
+  
+  or
+  
+   virtual
+  
+  ).
+ 
+  One of the most useful features of Cocoa is the powerful
+  
+   base objects
+  
+  the system supplies. As an example, consider the Foundation classes
+  
+   NSString
+  
+  and
+  
+   NSAttributedString
+  
+  , which provide
+  
+   Unicode
+  
+
+   strings
+  
+  , and the
+  
+
+    NSText
+   
+
+  system in AppKit, which allows the programmer to place string objects in the GUI.
+ 
+
+   NSText
+  
+  and its related classes are used to display and edit strings. The collection of objects involved permit an application to implement anything from a simple single-line text entry field to a complete multi-page, multi-column text layout schema, with full professional
+  
+   typography
+  
+  features such as
+  
+   kerning
+  
+  ,
+  
+   ligatures
+  
+  , running text around arbitrary
+  
+   shapes
+  
+  ,
+  
+   rotation
+  
+  , full Unicode support and
+  
+   anti-aliased
+  
+
+   glyph
+  
+  rendering. Paragraph layout can be controlled automatically or by the user, using a built-in "
+  
+   ruler
+  
+  " object that can be attached to any text view. Spell checking is automatic, using a single dictionary used by all applications that uses the
+  
+   squiggly underlining
+  
+  convention introduced by
+  
+   Microsoft
+  
+  (actually a dashed red underline in Cocoa). Unlimited undo-redo support is built in. Using only the built-in features, one can write a text editor application in as few as 10 lines of code. With new controller objects, this may fall to zero
+  
+   [
+   
+
+
+      clarification needed
+     
+
+
+   ]
+  
+  . This is in contrast to the
+  
+   TextEdit APIs
+  
+  found in the earlier Mac OS.
+ 
+  When extensions are needed, Cocoa's use of Objective-C makes this a straightforward task. Objective-C includes the concept of "
+  
+   categories
+  
+  ," which allows modifying existing class "in-place". Functionality can be accomplished in a category without any changes to the original classes in the framework, or even access to its source. Under more common frameworks, this same task requires making a new subclass supporting the added features, and then changing all instances of the classes to this new class.
+ 
+  The Cocoa frameworks are written in
+  
+   Objective-C
+  
+  , and hence that is the preferred language for developing Cocoa applications.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Java
+  
+   bindings
+  
+  for the Cocoa frameworks (termed the
+  
+   Java bridge
+  
+  ) were also made available with the aim of replacing Objective-C with a more popular language
+  
+
+    [7]
+   
+
+  but these bindings were unpopular among Cocoa developers and Cocoa's message passing semantics did not translate well to a statically-typed language such as Java.
+  
+
+    [8]
+   
+
+  Cocoa's need for runtime binding means many of Cocoa's key features are not available with Java. In 2005, Apple announced that the Java bridge was to be deprecated, meaning that features added to Cocoa in macOS versions later than 10.4 would not be added to the Cocoa-Java programming interface.
+ 
+  At
+  
+   Apple Worldwide Developers Conference
+  
+  (WWDC) 2014, Apple introduced a new programming language named
+  
+   Swift
+  
+  , which is intended to replace Objective-C.
+  
+
+    [9]
+   
+
+
+  Originally, AppleScript Studio could be used to develop simpler Cocoa applications.
+  
+
+    [10]
+   
+
+  However, as of Snow Leopard, it has been deprecated. It was replaced with AppleScriptObjC, which allows programming in
+  
+   AppleScript
+  
+  , while using Cocoa frameworks.
+  
+
+    [11]
+   
+
+
+  Third-party bindings available for other languages include
+  
+   Clozure CL
+  
+  ,
+  
+   Monobjc
+  
+  and
+  
+   NObjective
+  
+  (
+  
+   C#
+  
+  ),
+  
+   Cocoa#
+  
+  (CLI), Cocodao and
+  
+   D
+  
+  /Objective-C Bridge,
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+   LispWorks
+  
+  ,
+  
+   CamelBones
+  
+  (
+  
+   Perl
+  
+  ),
+  
+   PyObjC
+  
+  (
+  
+   Python
+  
+  ),
+  
+   FPC PasCocoa
+  
+  (
+  
+   Lazarus
+  
+  and
+  
+   Free Pascal
+  
+  ),
+  
+   RubyCocoa
+  
+  (
+  
+   Ruby
+  
+  ).
+  
+
+    [14]
+   
+
+
+   Nu
+  
+  uses the
+  
+   Objective-C
+  
+  object model directly, and thus can use the Cocoa frameworks without needing a binding.
+ 
+  There are also open source implementations of major parts of the Cocoa framework, such as
+  
+   GNUstep
+  
+  and Cocotron,
+  
+
+    [15]
+   
+
+  which allow
+  
+   cross-platform
+  
+  Cocoa application development to target other operating systems, such as
+  
+   Microsoft Windows
+  
+  and
+  
+   Linux
+  
+  .
+ 

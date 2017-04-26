@@ -1,0 +1,386 @@
+
+
+
+   Radeon Pro
+  
+  is
+  
+   AMD
+  
+  's brand of professional oriented
+  
+   GPUs
+  
+  . It replaced AMD's
+  
+   FirePro
+  
+  brand in 2016. Compared to the
+  
+   Radeon
+  
+  brand for mainstream consumer/gamer products, the Radeon Pro brand is intended for use in
+  
+   workstations
+  
+  and the running of
+  
+   computer-aided design
+  
+  (CAD),
+  
+   computer-generated imagery
+  
+  (CGI),
+  
+   digital content creation
+  
+  (DCC),
+  
+   high-performance computing
+  
+  /
+  
+   GPGPU
+  
+  applications, and the creation and running of
+  
+   virtual reality
+  
+  programs and games.
+  
+
+    [1]
+   
+
+
+  The Radeon Pro product line directly competes with
+  
+   Nvidia
+  
+  's
+  
+   Quadro
+  
+  and
+  
+   Tesla
+  
+  lines of professional workstation cards.
+  
+
+    [2]
+   
+
+
+
+
+  The first card to be released under the Radeon Pro name was the dual GPU
+  
+
+    Radeon Pro Duo
+   
+
+  in April 2016. The card features two liquid cooled
+  
+   Fury X
+  
+  cores and was marketed strongly for both the running and creation of virtual reality content with the slogan ″For Gamers Who Create and Creators Who Game".
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  The aesthetics and marketing of the
+  
+   Pro Duo
+  
+  follow that of the rest of the
+  
+   Fury
+  
+  products in the
+  
+
+    300 series
+   
+
+  .
+ 
+  Using AMD Radeon's
+  
+   GCN 1.2 architecture
+  
+  , the
+  
+   Radeon Pro SSG
+  
+  was unveiled in July 2016. SSG stands for
+  
+   S
+  
+  olid
+  
+   S
+  
+  tate
+  
+   G
+  
+  raphics, and the card will couple AMD's
+  
+   Fiji
+  
+  core with
+  
+   Solid-state storage
+  
+  to increase the frame buffer for rendering. This expansion of quick access storage will, therefore, relieve the issue of latency that occurs when a GPU has to retrieve information from a mass storage device via the CPU when a card's limited
+  
+   VRAM
+  
+  is maxed out in heavy workloads.
+  
+
+    [5]
+   
+
+  Users will be able to add up to 1TB of
+  
+   PCIe
+  
+
+   M.2
+  
+
+   NAND flash memory
+  
+  to improve render and scrubbing times.
+  
+
+    [6]
+   
+
+  AMD demonstrated a 5.3 fold increase in performance on
+  
+   8K
+  
+  video scrubbing.
+  
+
+    [7]
+   
+
+  This SSD storage space can be made available to the
+  
+   operating system
+  
+  or controlled entirely by the GPU.
+  
+
+    [8]
+   
+
+  The card is current available as a beta program, with general availability expected in 2017.
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+  The first Radeon Pro cards with the
+  
+   WX
+  
+  prefix to be announced were the
+  
+   WX 7100
+  
+  , the
+  
+   WX 5100
+  
+  and the
+  
+   WX 4100
+  
+  in July 2016.
+  
+
+    [2]
+   
+
+  These Polaris based cards are once again aimed at the traditional professional market and are set to replace the
+  
+   FirePro Wx100 series
+  
+  and
+  
+   FirePro Wx300 series
+  
+  . These cards, along with the Pro SSG, will use the new, non-toxic and energy efficient
+  
+   YInMn Blue
+  
+  , discovered by
+  
+   Mas Subramanian
+  
+  . This unique aesthetic for the Radeon Pro line will distinguish the professional products from the consumer
+  
+   Radeon
+  
+  series.
+  
+
+    [11]
+   
+
+
+  The smallest card, the half-height
+  
+   WX 4100
+  
+  , is marketed for use in
+  
+   small form factor
+  
+
+   workstations
+  
+  .
+  
+
+    [12]
+   
+
+  Designed for real-time content engines and CAD and CAM manufacturing, the
+  
+   WX 5100
+  
+  fits in between the
+  
+   WX 4100
+  
+  and the
+  
+   WX 7100
+  
+  in terms of performance, with the latter once again marketed with emphasis on the application of VR and other media creation, while claiming to be "The Most Affordable Workstation Solution".
+  
+
+    [1]
+   
+
+
+  Mobile Radeon Pro parts were first revealed with the release of the 2016 update to the
+  
+   Apple
+  
+  15"
+  
+   MacBook Pro
+  
+  .
+  
+
+    [13]
+   
+
+  These appear to be
+  
+   Polaris 11
+  
+  derived parts with 10-16
+  
+   4th generation GCN
+  
+
+   compute units
+  
+  , providing between 1 and 1.86
+  
+   TFLOPS
+  
+  of performance.
+  
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+
+  At an AMD event in 2016 Project Loom was announced as a collaboration between AMD and Radiant Images.
+  
+
+    [16]
+   
+
+  The real-time
+  
+   GPU accelerated
+  
+  photo and video stitching program will complement AMD's virtual reality development platform. While traditional photo stitching is not that much of a complex task, Project Loom aims to improve render times when tasked with the heavy workload of stitching together multiple high resolution angles to form a 360 degree VR experience, either to headsets or mobile devices.
+  
+
+    [17]
+   
+
+  Using AMD's Direct GMA protocol, the software allows Radeon Pro graphics cards to work directly with video capture hardware to stitch together a 30 fps, 360 degree 4k resolution video from 24, 1080p cameras at 60 fps.
+  
+
+    [18]
+   
+
+
+  The software is to be competitive with
+  
+   Nvidia's
+  
+  VRWorks 360 Video SDK, and is reportedly set to be made open-source through GPUOpen.
+  
+
+    [19]
+   
+
+
+  The successor to FireRender, Radeon ProRender works with high-end graphics programs as an
+  
+   OpenCL
+  
+  photorealistic offline 3D renderer and raytracing engine.
+  
+
+    [20]
+   
+
+  ProRender aims to compete with programs such as NVIDIA's iRay and other expensive, proprietary solutions. However, AMD is making ProRender free, open source and available for all graphics hardware.
+  
+
+    [17]
+   
+
+
+
+   Radeon Pro WX x100 Series
+  
+
+
+
+
+   Radeon Pro (Mobile) Series
+  

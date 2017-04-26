@@ -1,0 +1,256 @@
+
+
+
+   MacWrite
+  
+  was a
+  
+   WYSIWYG
+  
+
+   word processor
+  
+
+   application
+  
+  released along with the first
+  
+   Apple Macintosh
+  
+  systems in 1984. Together with
+  
+   MacPaint
+  
+  , it was one of the two original "
+  
+   killer applications
+  
+  " that propelled the adoption and popularity of the
+  
+   GUI
+  
+  in general, and the Mac in particular.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  MacWrite was spun off to
+  
+   Claris
+  
+  , who released a major update in 1989 as
+  
+   MacWrite II
+  
+  . A further series of improvements produced 1993's
+  
+   MacWrite Pro
+  
+  , but further improvements were few and far between. By the mid-1990s, MacWrite was no longer a serious contender in the word processing market, and development ended around 1995.
+ 
+
+
+  When the Mac was first being created, it was clear that users would interact with it differently from other personal computers. Typical computers of the era booted into text-only
+  
+   DOS
+  
+  or
+  
+   BASIC
+  
+
+   command line
+  
+  environments, requiring the users to type in commands to run programs. Some of these programs may have presented a
+  
+   graphical user interface
+  
+  of their own, but on the Mac, users would instead be expected to stay in the standard GUI both for launching and running programs. Having an approachable, consistent GUI was an advantage for the Mac platform, but unlike prior personal computers, the Mac was sold with no programming language built-in.
+ 
+  This presented a problem to
+  
+   Apple
+  
+  : the Mac was due to be launched in 1983 (originally), with a new user interface
+  
+   paradigm
+  
+  , but no third-party software would be available for it, nor could users easily write their own. Users would end up with a computer that did nothing. In order to fill this void, several members of the Mac team took it upon themselves to write simple applications to fill these roles until third-party developers published more full-fledged software. The result was MacWrite and MacPaint, which shipped free with every Macintosh from 1984 to 1986.
+ 
+  The MacWrite development team was a company called Encore Systems, founded and led by
+  
+   Randy Wigginton
+  
+  , one of Apple's earliest employees, and included Don Breuner and Ed Ruder (co-founders of Encore Systems and also early Apple employees; Gabreal Franklin later joined Encore Systems as President.) Wigginton, who had left Apple in 1981, maintained a relationship with many Apple employees, many of whom were on the Macintosh development team. He agreed to lead the MacWrite development team on a semi-official basis. Before it was released, MacWrite was known as "Macintosh WP" (Word Processor) and "MacAuthor". Allegedly,
+  
+   Steve Jobs
+  
+  was not convinced of his team's abilities, and secretly started up another project just to be sure; its development was eventually released as
+  
+   WriteNow
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The first versions of MacWrite were rather limited, supporting only the most basic editing features and able to handle just a few pages of text before running into performance problems. (Early versions of MacWrite held the entire document in memory, and early versions of the Macintosh had relatively little free memory.) Nevertheless, it increased user expectations of a word processing program. MacWrite established the conventions for a
+  
+   GUI
+  
+  -based word processor, with such features as a toolbar for selecting paragraph formatting options, font and style menus, and a ruler for tabs, margins, and indents. Similar word processors followed, including the first GUI version of
+  
+   Microsoft Word
+  
+  and WriteNow, which addressed many of MacWrite's limitations while adhering to much the same user interface.
+ 
+  The original Mac could print to a
+  
+   dot matrix
+  
+
+   printer
+  
+  called the
+  
+   ImageWriter
+  
+  , but quality was only adequate. The later
+  
+   LaserWriter
+  
+
+   laser printer
+  
+  allowed dramatically better output, at a price. However, the possibilities of the GUI/MacWrite/LaserWriter combination were obvious and this, in turn, spurred the development of
+  
+   desktop publishing
+  
+  , which became the "killer app" for the Mac and GUIs in general.
+ 
+  MacWrite's inclusion with the Macintosh discouraged developers from creating other word processing software for the computer.
+  
+
+    [1]
+   
+
+  Apple unbundled the software with the introduction of the Macintosh Plus, requiring customers to purchase it for the first time. Strong sales continued, and Apple eventually let MacWrite and MacPaint languish with no development resources assigned to improving them.
+ 
+  Unfortunately this plan backfired. Users flooded Apple with complaints, demanding newer versions that would keep pace with new features in the Mac, while at the same time developers flooded Apple with complaints about there being any
+  
+   possibility
+  
+  of an upgrade.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Apple finally decided the only solution was to spin off the products as a separate company,
+  
+   Claris
+  
+  .
+ 
+  Claris formed in 1987 and re-released the existing versions of the Apple products under their own name. Initially it seemed Claris was as uninterested in developing MacWrite as Apple had been. Several minor upgrades were released to allow MacWrite to run on newer versions of the
+  
+   classic Mac OS
+  
+  , but few other problems were addressed.
+ 
+  Things changed in the later 1980s with the introduction of MacWrite II. The main changes for this release were an updated user interface, a number of new "style" capabilities, and the inclusion of Claris' file translator technology,
+  
+   XTND
+  
+  . MacWrite II was the first really new version of the software, and was based on a word processing engine purchased from
+  
+   Quark, Inc.
+  
+  .
+ 
+  By 1989 Word already dominated the Mac with about 60% market share, but the introduction of MacWrite II changed things dramatically; by 1990 Word had dropped to about 45% of the market, and MacWrite had risen to about 30%. This seemed to demonstrate that it would be worth developing further, but Claris did not respond quickly with updated versions.
+ 
+  Microsoft, on the other hand, did, and soon introduced Word 4.0. MacWrite's share once again started to erode.
+ 
+  In the late 1980s Claris started a massive upgrade series to produce the "Pro" line of products. The main change would be to integrate all of their products with a consistent GUI based on that of
+  
+   FileMaker
+  
+  . This included a common toolbar bar running down the left side of the screen, and a number of standardized tool palettes. In addition, the Pro series also used common international spelling dictionaries and a thesaurus. The result was a suite of products that all looked and worked the same way, and were able to read and write each other's formats.
+ 
+  The resulting
+  
+   MacWrite Pro
+  
+  , released in early 1993, was a major upgrade from previous versions. Reviewers almost universally praised the new release as offering all the required tools while still being very easy to use.
+  
+
+    [2]
+   
+
+  However, development had been slow; one developer claimed it was primarily due to extremely demanding
+  
+   quality assurance
+  
+  requirements.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  By the time MacWrite Pro was released, Word completely dominated the word processor market. Pro did little to address MacWrite's rapidly dwindling market share, which briefly stabilized at about 5% of the market before starting to slide again. Sales were apparently dismal, and it was one of the first products Claris abandoned in the mid-1990s.
+ 
+  The word-processing module of
+  
+   AppleWorks
+  
+  is very similar to MacWrite Pro. While it was written entirely from scratch,
+  
+
+    [3]
+   
+
+  it retained some of the design limitations of MacWrite Pro. However, later versions of AppleWorks are unable to read older MacWrite Pro files.
+ 
+  In a survey of five Macintosh word processors,
+  
+   Compute!'s Apple Applications
+  
+  in 1987 wrote that "once a bold pioneer,
+  
+   MacWrite
+  
+  now seems frozen in time ... it lags behind other word processors in power and responsiveness, and it's clearly unsuited for outlining, layout, and other advanced tasks".
+  
+
+    [1]
+   
+

@@ -1,0 +1,2393 @@
+
+
+
+   Google Maps
+  
+  is a
+  
+   web mapping
+  
+  service developed by
+  
+   Google
+  
+  . It offers
+  
+   satellite imagery
+  
+  , street maps, 360° panoramic views of streets (
+  
+   Street View
+  
+  ), real-time traffic conditions (
+  
+   Google Traffic
+  
+  ), and
+  
+   route planning
+  
+  for traveling by foot, car, bicycle (in
+  
+   beta
+  
+  ), or
+  
+   public transportation
+  
+  .
+ 
+  Google maps began as a
+  
+   C++
+  
+  desktop program designed by
+  
+   Lars
+  
+
+   Jens Eilstrup Rasmussen
+  
+  and
+  
+   Liam Graham
+  
+  at Where 2 Technologies. In October 2004, the company was acquired by Google, which converted it into a web application. After additional acquisitions of a geospatial data visualization company and a realtime traffic analyzer, Google Maps was launched in February 2005.
+  
+
+    [1]
+   
+
+  The service's
+  
+   front end
+  
+  utilizes
+  
+   JavaScript
+  
+  ,
+  
+   XML
+  
+  , and
+  
+   Ajax
+  
+  . Google Maps offers an
+  
+   API
+  
+  that allows maps to be embedded on third-party websites,
+  
+
+    [2]
+   
+
+  and offers a locator for urban businesses and other organizations in numerous countries around the world.
+  
+   Google Map Maker
+  
+  allows users to collaboratively expand and update the service's mapping worldwide.
+ 
+  Google Maps' satellite view is a "top-down" or "birds eye" view; most of the high-resolution imagery of cities is
+  
+   aerial photography
+  
+  taken from aircraft flying at 800 to 1,500 feet (240 to 460 m), while most other imagery is from satellites.
+  
+
+    [3]
+   
+
+  Much of the available satellite imagery is no more than three years old and is updated on a regular basis.
+  
+
+    [4]
+   
+
+  Google Maps uses a close variant of the
+  
+   Mercator projection
+  
+  , and therefore cannot accurately show areas around the poles.
+ 
+  The current redesigned version of the desktop application was made available in 2013, alongside the "classic" (pre-2013) version.
+  
+   Google Maps for mobile
+  
+  was released in September 2008 and features
+  
+   GPS
+  
+
+   turn-by-turn navigation
+  
+  . In August 2013, it was determined to be the world's most popular app for
+  
+   smartphones
+  
+  , with over 54% of global smartphone owners using it at least once.
+  
+
+    [5]
+   
+
+
+  In 2012, Google reported having over 7,100 employees and contractors directly working in mapping.
+  
+
+    [6]
+   
+
+
+
+
+  Google Maps provides a
+  
+   route planner
+  
+  under "Get Directions".
+  
+
+    [7]
+   
+
+  Up to four modes of transportation are available depending on the area: driving,
+  
+   public transit
+  
+  (see the Google Transit section below), walking, and bicycling. In combination with
+  
+   Google Street View
+  
+  , issues such as parking, turning lanes, and one-way streets can be viewed before traveling. Driving directions are covered as follows:
+ 
+  Like many other Google web applications, Google Maps uses
+  
+   JavaScript
+  
+  extensively.
+  
+
+    [8]
+   
+
+  As the user drags the map, the grid squares are downloaded from the server and inserted into the page. When a user searches for a business, the results are downloaded in the background for insertion into the side panel and map; the page is not reloaded. Locations are drawn dynamically by positioning a red
+  
+   pin
+  
+  (composed of several partially transparent
+  
+   PNGs
+  
+  ) on top of the map images. A hidden
+  
+   IFrame
+  
+  with form submission is used because it preserves browser history. The site also uses
+  
+   JSON
+  
+  for data transfer rather than
+  
+   XML
+  
+  , for performance reasons. These techniques both fall under the broad
+  
+   Ajax
+  
+  umbrella. The result is termed a
+  
+   slippy map
+  
+
+
+    [9]
+   
+
+  and is implemented elsewhere in projects such as
+  
+   OpenLayers
+  
+  .
+ 
+  In October 2011, Google announced MapsGL, a
+  
+   WebGL
+  
+  version of Maps with better renderings and smoother transitions.
+  
+
+    [10]
+   
+
+
+  The version of
+  
+   Google Street View
+  
+  for classic Google Maps requires
+  
+   Adobe Flash
+  
+  .
+  
+
+    [11]
+   
+
+
+
+   Google Indoor Maps
+  
+  uses JPG, .PNG, .PDF, .BMP, or .GIF, for
+  
+   floor plan
+  
+  .
+  
+
+    [12]
+   
+
+
+  As Google Maps is coded almost entirely in
+  
+   JavaScript
+  
+  and
+  
+   XML
+  
+  , some end users have reverse-engineered the tool and produced client-side scripts and server-side hooks which allowed a user or website to introduce expanded or customized features into the Google Maps interface.
+ 
+  Using the core engine and the map/satellite images hosted by Google, such tools can introduce custom location icons, location
+  
+   coordinates
+  
+  and
+  
+   metadata
+  
+  , and even custom map image sources into the Google Maps interface. The script-insertion tool
+  
+   Greasemonkey
+  
+  provides a large number of client-side scripts to customize Google Maps data.
+ 
+  Combinations with
+  
+   photo sharing
+  
+  websites, such as
+  
+   Flickr
+  
+  , are used to create "memory maps".
+  
+   [
+   
+
+
+      clarification needed
+     
+
+    What are memory maps?
+   
+   ]
+  
+  Using copies of the
+  
+   Keyhole
+  
+
+   satellite
+  
+  photos, users have taken advantage of image annotation features to provide personal histories and information regarding particular points of the area.
+ 
+  After the success of reverse-engineered mashups such as chicagocrime.org and housingmaps.com, Google launched the
+  
+   Google Maps API
+  
+  in June 2005
+  
+
+    [13]
+   
+
+  to allow developers to integrate Google Maps into their websites. It is a free service, and currently
+  
+
+    [update]
+   
+
+  does not contain ads, but Google states in their terms of use that they reserve the right to display ads in the future.
+  
+
+    [14]
+   
+
+
+  By using the Google Maps
+  
+   API
+  
+  , it is possible to embed Google Maps site into an external website, on to which site specific data can be overlaid.
+  
+
+    [15]
+   
+
+  Although initially only a
+  
+   JavaScript
+  
+  API, the Maps API was expanded to include an API for
+  
+   Adobe Flash
+  
+  applications (but this has been deprecated), a service for retrieving static map images, and
+  
+   web services
+  
+  for performing
+  
+   geocoding
+  
+  , generating driving directions, and obtaining elevation profiles. Over 1,000,000
+  
+
+    [16]
+   
+
+  web sites use the Google Maps API, making it the most heavily used web application development API.
+  
+
+    [17]
+   
+
+
+  The Google Maps API is free for commercial use, provided that the site on which it is being used is publicly accessible and does not charge for access, and is not generating more than 25,000 map accesses a day.
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  Sites that do not meet these requirements can purchase the Google Maps API for Business.
+  
+
+    [20]
+   
+
+
+  The success of the Google Maps API has spawned a number of competing alternatives, including the
+  
+   HERE Maps
+  
+  API,
+  
+   Bing Maps Platform
+  
+  ,
+  
+   Leaflet
+  
+  and
+  
+   OpenLayers
+  
+  via
+  
+   self-hosting
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  . The
+  
+   Yahoo! Maps
+  
+  API is in the process of being shut down.
+  
+
+    [21]
+   
+
+
+  In September 2011, Google announced it would discontinue a number of its products, including Google Maps API for Flash.
+  
+
+    [22]
+   
+
+
+  In October 2005,
+  
+
+    [23]
+   
+
+  Google introduced a
+  
+   Java application
+  
+  called
+  
+   Google Maps for Mobile
+  
+  , intended to run on any Java-based phone or mobile device. Many of the web-based site's features are provided in the application.
+  
+
+    [24]
+   
+
+
+  On November 4, 2009,
+  
+   Google Maps Navigation
+  
+  was released in conjunction with Google Android OS 2.0 Eclair on the
+  
+   Motorola Droid
+  
+  , adding voice commands, traffic reports, and street view support.
+  
+
+    [25]
+   
+
+  The initial release was limited to the United States.
+  
+
+    [26]
+   
+
+  The service was launched in the UK on April 20, 2010 and in large parts of continental western Europe on June 9, 2010.
+  
+
+    [27]
+   
+
+
+  In March 2011 Google Vice President of Location Service,
+  
+   Marissa Mayer
+  
+  , said that Google provided map services to 150 million users.
+  
+
+    [28]
+   
+
+
+  In June 2012, Apple announced that they would replace Google Maps with their
+  
+   own maps service
+  
+  from iOS 6. However, on December 13, 2012, Google announced the availability of Google Maps in the Apple
+  
+   App Store
+  
+  , starting with the iPhone version.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+  Just hours after the
+  
+   Google Maps iOS app
+  
+  was released, it became the top free app in the App Store.
+  
+
+    [31]
+   
+
+
+  It was announced on December 6, 2012 that Google Maps would make its way to the
+  
+   Wii U
+  
+  ,
+  
+   Nintendo
+  
+  's
+  
+   eighth generation
+  
+
+   video game home console
+  
+  .
+  
+
+    [32]
+   
+
+  Accessibility to a variant of
+  
+   Google Street View
+  
+  on the Wii U was released in February 14, 2013 as an initially free downloadable app available via the
+  
+   Nintendo eShop
+  
+  . As of October 31, 2013, the app is no longer available for free.
+  
+
+    [33]
+   
+
+
+  In Google Maps, URL parameters are sometimes data-driven in their limits and the user interface presented by the web may or may not reflect those limits. In particular, the zoom level (denoted by the
+  
+   z
+  
+  parameter) supported varies. In less populated regions, the supported zoom levels might stop at around 18. In earlier versions of the API, specifying these higher values might result in no image being displayed. In Western cities, the supported zoom level generally stops at about 20. In some isolated cases, the data supports up to 23 or greater, as in
+  
+   these elephants
+  
+  or
+  
+   this view of people at a well
+  
+  in
+  
+   Chad
+  
+  , Africa. Different versions of the API and web interfaces may or may not fully support these higher levels.
+ 
+  As of October 2010, the Google map viewer updates its zoom bar to allow the user to zoom all the way when centered over areas that support higher zoom levels. In the classic version, customized (split) Map and Street View views can be saved as parametrized URL links and shared by users. In the 2013 redesigned version, a much smaller overview window becomes interactive upon hovering it and enables a user to change the location and rotate the Street View and save a parametrized view, as well.
+ 
+  Google Maps first started as a
+  
+   C++
+  
+  program designed by two Danish brothers,
+  
+   Lars
+  
+  and
+  
+   Jens Eilstrup Rasmussen
+  
+  , at the Sydney-based company Where 2 Technologies. It was first designed to be separately downloaded by users, but the company later pitched the idea for a purely Web-based product to Google management, changing the method of distribution.
+  
+
+    [34]
+   
+
+  In October 2004, the company was acquired by
+  
+   Google
+  
+  Inc
+  
+
+    [35]
+   
+
+  where it transformed into the web application Google Maps. In the same month, Google acquired
+  
+   Keyhole
+  
+  , a geospatial data visualization company, (with
+  
+   controversial
+  
+  investment from the
+  
+   CIA
+  
+  ), whose marquee application suite, Earth Viewer, emerged as the highly successful
+  
+   Google Earth
+  
+  application in 2005 while other aspects of its core technology were integrated into Google Maps.
+  
+
+    [36]
+   
+
+  In September 2004 Google acquired
+  
+   ZipDash
+  
+  , a company that provided realtime traffic analysis.
+  
+
+    [37]
+   
+
+
+  The application was first announced on the Google Blog on February 8, 2005,
+  
+
+    [38]
+   
+
+  and was located at Google. It originally only supported users of
+  
+   Internet Explorer
+  
+  and
+  
+   Mozilla
+  
+
+   web browsers
+  
+  . Support for
+  
+   Opera
+  
+  and
+  
+   Safari
+  
+  was added on February 25, 2005, however, later browser requirements excluded Opera as a supported browser. It was in beta for six months before becoming part of Google Local on October 6, 2005.
+ 
+  In April 2005, Google created
+  
+   Google Ride Finder
+  
+  using Google Maps. In June 2005, Google released the
+  
+   Google Maps API
+  
+  . In July 2005, Google began Google Maps and Google Local services for Japan, including road maps. On July 22, 2005, Google released "Hybrid View". Together with this change, the satellite image data was converted from
+  
+   plate carrée
+  
+  to
+  
+   Mercator projection
+  
+  , which makes for a less distorted image in the
+  
+   temperate climes
+  
+  latitudes. In July 2005, in honor of the thirty-sixth anniversary of the
+  
+   Apollo Moon landing
+  
+  ,
+  
+   Google Moon
+  
+  was launched. In September 2005, in the aftermath of
+  
+   Hurricane Katrina
+  
+  , Google Maps quickly updated its satellite imagery of
+  
+   New Orleans
+  
+  to allow users to view the extent of the flooding in various parts of that city. (Oddly, in March 2007, imagery showing hurricane damage was replaced with images from before the storm; this replacement was not made on
+  
+   Google Earth
+  
+  , which still uses post-Katrina imagery.)
+  
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+
+  From January 2006, Google Maps featured road maps for the United States, Puerto Rico, Canada, the United Kingdom, Japan, and certain cities in the Republic of Ireland. Coverage of the area around
+  
+   Turin
+  
+  was added in time for the
+  
+   2006 Winter Olympics
+  
+  . On January 23, Google Maps was updated to use the same satellite image database as
+  
+   Google Earth
+  
+  . On March 12,
+  
+   Google Mars
+  
+
+
+    [41]
+   
+
+  was launched, which features a draggable map and satellite imagery of the planet Mars. In April, Google Local was merged into the main Google Maps site. On April 3, version 2 of the Maps API was released.
+  
+
+    [42]
+   
+
+  On June 11, Google added geocoding capabilities to the API, satisfying the most developer-requested feature for this service.
+  
+
+    [43]
+   
+
+  On June 14, Google Maps for Enterprise was officially launched.
+  
+
+    [44]
+   
+
+  As a commercial service, it features intranet and advertisement-free implementations. Also in June, textured 3D building models were added into Google Earth.
+  
+
+    [45]
+   
+
+
+  In July, Google started including Google Maps business listings in the form of Local OneBoxes in the main Google search results.
+  
+
+    [46]
+   
+
+  In December, Google integrated a feature called Plus Box into the main search results.
+  
+
+    [47]
+   
+
+  On December 19 Google added a feature that lets one add multiple destinations to their driving directions.
+  
+
+    [48]
+   
+
+  Beginning in February 2007, buildings and
+  
+   subway
+  
+  stops are displayed in Google Maps "map view" for parts of New York City,
+  
+   Washington, D.C.
+  
+  , London, San Francisco, and some other cities.
+  
+
+    [49]
+   
+
+
+  On January 29, 2007, Local Universal results were upgraded and more data included in the main Google results page.
+  
+
+    [50]
+   
+
+  On February 28,
+  
+   Google Traffic
+  
+  info was officially launched to automatically include real-time
+  
+   traffic flow
+  
+  conditions to the maps of 30 major cities in the United States.
+  
+
+    [51]
+   
+
+  On March 8, the Local Business Center was upgraded.
+  
+
+    [52]
+   
+
+  On May 16, Google rolled out Universal search results, including more Map information on the main Google results page.
+  
+
+    [53]
+   
+
+  On May 18, Google added neighborhood search capabilities.
+  
+
+    [54]
+   
+
+  On May 29, Google driving directions support was added to the Google Maps API.
+  
+
+    [55]
+   
+
+  The same day saw the launch of
+  
+   Street View
+  
+  , which gave a ground-level 360-degree view of streets in the major cities of the United States.
+  
+
+    [56]
+   
+
+
+  On June 19, reviews were allowed to be added directly to businesses on Google Maps.
+  
+
+    [57]
+   
+
+  On June 28, draggable driving directions were introduced.
+  
+
+    [58]
+   
+
+  On July 31, support for the
+  
+   hCard
+  
+
+   microformat
+  
+  was announced.
+  
+
+    [59]
+   
+
+  On August 21, Google announced a simple way to embed Google Maps into other websites.
+  
+
+    [60]
+   
+
+  On September 13, 54 new countries were added to Google Maps in Latin America and Asia.
+  
+
+    [61]
+   
+
+
+  On October 3, Google Transit was integrated to make public transportation routing possible on Google Maps.
+  
+
+    [62]
+   
+
+  On October 27, Google Maps started mapping the
+  
+   geoweb
+  
+  and showing the results in Google Maps.
+  
+
+    [63]
+   
+
+  On October 27, Google Maps added a searchable interface for coupons in the business listings.
+  
+
+    [64]
+   
+
+  November 27 saw the launch of "Terrain" view, showing basic topographic features. The button for "Hybrid" view was removed, and replaced with a "Show labels" checkbox under the "Satellite" button to switch between "Hybrid" and "Satellite" views.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  On January 22, 2008, Google expanded the Local One box from three business listings to ten.
+  
+
+    [65]
+   
+
+  On February 20, Google Maps allowed searches to be refined by User Rating and neighborhoods.
+  
+
+    [66]
+   
+
+  On March 18, Google allowed end users to edit business listings and add new places;
+  
+
+    [67]
+   
+
+  the following day, unlimited category options were added to the Local Business Center.
+  
+
+    [68]
+   
+
+  On April 2, Google added contour lines to the Terrain view.
+  
+
+    [69]
+   
+
+  In April, a button to view recent Saved Locations was added to the right of the search field.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  In May, a "More" button was added alongside the "Map", "Satellite", and "Terrain" buttons, permitting access to geographically related photos on
+  
+   Panoramio
+  
+  and articles on
+  
+   Wikipedia
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  On May 15, Google Maps was ported to Flash and ActionScript 3 as a foundation for richer internet applications.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  On July 22, walking directions were added.
+  
+
+    [70]
+   
+
+  On August 4, Street View expanded to Japan and Australia.
+  
+
+    [70]
+   
+
+  On August 5, the user interface was redesigned.
+  
+
+    [70]
+   
+
+
+  On August 29, Google signed a deal under which
+  
+   Geo Eye
+  
+  would supply them with imagery from a satellite,
+  
+
+    [71]
+   
+
+  and introduced the Map Maker tool, which allows any user to improve the map data seen by all.
+  
+
+    [70]
+   
+
+  On September 19, 2008, a reverse business lookup feature was added.
+  
+
+    [70]
+   
+
+  On September 26, information for the New York City
+  
+   Metropolitan Transit Authority
+  
+  was added.
+  
+
+    [70]
+   
+
+  On October 7, GeoEye-1 took its first image, a bird's-eye view of
+  
+   Kutztown University
+  
+  in Pennsylvania.
+  
+
+    [72]
+   
+
+  On October 26, reverse geocoding was added to the Maps API.
+  
+
+    [70]
+   
+
+  On November 11, Street View expanded to Spain, Italy, and France.
+  
+
+    [70]
+   
+
+  On November 23, AIR support for the Maps API for Flash was added.
+  
+
+    [70]
+   
+
+  On November 14, a new user interface for Street View was introduced.
+  
+
+    [70]
+   
+
+  On November 28, maps, local business information, and local trends for China were introduced.
+  
+
+    [70]
+   
+
+  On December 9, 2008, 2x Street View coverage was introduced.
+  
+
+    [70]
+   
+
+
+  On March 19, 2009 Street View was launched in the United Kingdom and the Netherlands.
+  
+
+    [73]
+   
+
+  In May, a new Google Maps logo was introduced.
+  
+
+    [74]
+   
+
+  In early October, Google replaced
+  
+   Tele Atlas
+  
+  as their primary supplier of geo spatial data in the US version of Maps and use their own data.
+  
+
+    [75]
+   
+
+  Later that month, the railroad design was updated,
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  and maps in several areas were changed to include
+  
+   paper streets
+  
+  and lot lines showing up on the map interface.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  On February 11, 2010, Google Maps Labs was added. On March 11, 2010, Street View in Hong Kong and Macau were launched.
+  
+
+    [76]
+   
+
+  On May 25, 2010, public transportation routing for Denmark was added by integrating with Rejseplanen.dk.
+  
+
+    [77]
+   
+
+  As of December 2010
+  
+
+    [update]
+   
+
+
+   Internet Explorer
+  
+  7.0+,
+  
+   Firefox
+  
+  3.6+,
+  
+   Safari
+  
+  3.1+, and
+  
+   Google Chrome
+  
+  are supported.
+  
+
+    [78]
+   
+
+
+  On April 8, 2011 Google announced that it would begin charging for API usage by commercial sites over a limit.
+  
+
+    [79]
+   
+
+  They also introduced a premium licensed service.
+ 
+  On April 19, 2011, Map Maker was added to the American version of Google Maps, allowing any viewer to edit and add changes to Google Maps. This provides Google with local map updates almost in real time instead waiting for digital map data companies to release more infrequent updates.
+ 
+  On January 31, 2012, Google, due to offering its Maps for free, was found guilty of abusing the dominant position of its Google Maps application and ordered by a court to pay a fine and damages to Bottin Cartographer, a French mapping company.
+  
+
+    [80]
+   
+
+
+  On May 30, 2012, Google Places was replaced by Google+ Local, which now integrates directly with the
+  
+   Google+
+  
+  service to allow users to post photos and reviews of locations directly to its page on the service. Additionally, Google+ Local and Maps also now feature detailed reviews and ratings from
+  
+   Zagat
+  
+  , which was acquired by Google in September 2011.
+  
+
+    [81]
+   
+
+
+  In June 2012, Google started mapping Britain's rivers and canals in partnership with the Canal and River Trust. The company has stated that it will update the program during the year to allow users to plan trips which include locks, bridges and towpaths along the 2,000 miles of river paths in the UK.
+  
+
+    [82]
+   
+
+
+  It was announced on October 11 that Google updated 250,000 miles of roads in the US.
+  
+
+    [83]
+   
+
+
+  In December 2012, the Google Maps application was separately made available in the App Store, after Apple removed it from its default installation of the mobile operating system version
+  
+   iOS 6
+  
+  . In the face of numerous complaints about the newly released
+  
+   Apple Maps
+  
+  application, Apple CEO
+  
+   Tim Cook
+  
+  was forced to make an apology and recommend other similar applications.
+  
+
+    [84]
+   
+
+
+  On January 29, 2013, Google Maps was updated to include a map of
+  
+   North Korea
+  
+  .
+  
+
+    [85]
+   
+
+
+  On March 27, 2013, Google launched Google Maps Engine Lite, a simplified version of its commercial Maps Engine product which is meant to eventually replace the
+  
+   My Maps
+  
+  feature.
+  
+
+    [86]
+   
+
+
+  On April 23, 2013, Street View was launched in
+  
+   Hungary
+  
+  and Lesotho, expanding the coverage of Google Maps' 360-degree mapping imagery to fifty countries. During the same time period, Google also completed the "largest single update of Street View imagery" ever, with photos of over 350,000 miles (560,000 km) of road across fourteen countries.
+  
+
+    [87]
+   
+
+
+  As of May 3, 2013, Google Maps recognizes
+  
+   Palestine
+  
+  as a country, instead of redirecting to the
+  
+   Palestinian territories
+  
+  .
+  
+
+    [88]
+   
+
+
+  Google announced on its Google Maps blog on May 15, 2013 that a new upgraded version of Google Maps is available for use by those registered Google users who request an invitation. The new Google Maps can create a customized map that is specific to the behavior of each user, revealing highlights that are based on the information that is entered, and providing useful local information such as restaurants. A new feature is a carousel that gathers all Google Maps imagery in one location and contains an Earth view that directly integrates the 3D experience from Google Earth into the new maps. The new version is also more closely connected to
+  
+   Google+
+  
+  and the local businesses that are displayed are based on each user's Google+ network. Advertisements in the new Google Maps have been redesigned and short sections of advertisements are placed directly onto the map itself, alongside the business name.
+  
+
+    [89]
+   
+
+
+
+    [90]
+   
+
+
+  In August 2013, Google Maps removed the Wikipedia Layer, which provided links to Wikipedia content about locations shown in Google Maps using
+  
+   Wikipedia geocodes
+  
+  .
+  
+
+    [91]
+   
+
+
+  On February 21, 2014 Google introduced a new Google Maps interface, although it is not the default interface as of December 2014.
+ 
+  On April 12, 2014, Google Maps was updated to reflect the
+  
+   2014 Crimean crisis
+  
+  . Crimea is shown as the
+  
+   Republic of Crimea
+  
+  in Russia and as the
+  
+   Autonomous Republic of Crimea
+  
+  in Ukraine. All other versions show a dotted disputed border.
+  
+
+    [92]
+   
+
+
+  In April 2015, on a map near the Pakistani city of Rawalpindi, imagery of the Android logo urinating on the Apple logo was added via Map Maker and appeared on Google Maps. The vandalism was soon removed and Google publicly apologized.
+  
+
+    [93]
+   
+
+  However, as a result, Google disabled user moderation on Map Maker, and on May 12, disabled editing worldwide until it can devise a new policy for approving edits and avoiding vandalism.
+  
+
+    [94]
+   
+
+
+  On April 29, 2015, users of the classic Google Maps were forwarded to the new Google Maps with the option to revert removed from the interface. The old url schemes also forwarded to the new Google Maps, making it impossible for users to use the classic version. However, on various blogs users have found workarounds to continue using the classic Google Maps.
+  
+
+    [95]
+   
+
+  One blogger also launched a petition directed to Google CEO
+  
+   Larry Page
+  
+  , asking him to give back the option to use the classic Maps, which has received over 17,000 signatures.
+ 
+  On July 14, 2015 the
+  
+   Chinese
+  
+  name for
+  
+   Scarborough Shoal
+  
+  was removed after a petition from the
+  
+   Philippines
+  
+  was posted on
+  
+   Change.org
+  
+  .
+  
+
+    [96]
+   
+
+
+  On June 27, 2016, Google rolled out new satellite imagery worldwide sourced from
+  
+   Landsat 8
+  
+  , comprising over 700 trillion pixels of new data.
+  
+
+    [97]
+   
+
+  In September 2016, Google Maps acquired mapping analytics startup Urban Engines.
+  
+
+    [98]
+   
+
+
+  On February 6, 2017, Google Maps for Android was updated with new UI including improvement of transit times, traffic data, local places and recommendations feature.
+  
+
+    [99]
+   
+
+
+  In honor of the 36th anniversary of the
+  
+   Apollo 11
+  
+  moon landing on July 20, 1969, Google took
+  
+   public domain
+  
+  imagery of the
+  
+   Moon
+  
+  , integrated it into the Google Maps interface, and created a tool called Google Moon.
+  
+
+    [100]
+   
+
+  By default this tool, with a reduced set of features, also displays the points of landing of all
+  
+   Apollo
+  
+  spacecraft to land on the Moon. It also included an
+  
+   Easter egg
+  
+  , displaying a
+  
+   Swiss cheese
+  
+  design at the highest zoom level, which Google has since removed.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  A collaborative project between
+  
+   NASA Ames Research Center
+  
+  and Google called the Planetary Content Project integrates and improves the data that is used for Google Moon.
+  
+
+    [101]
+   
+
+  Google Moon was linked from a special commemorative version of the Google logo displayed at the top of the main Google search page for July 20, 2005 (
+  
+   UTC
+  
+  ).
+  
+
+    [102]
+   
+
+
+  Google Mars provides a visible
+  
+   imagery
+  
+  view, like Google Moon, as well as
+  
+   infrared
+  
+  imagery and shaded relief (
+  
+   elevation
+  
+  ) of the planet
+  
+   Mars
+  
+  . Users can toggle between the elevation, visible, and infrared data, in the same manner as switching between map, satellite, and hybrid modes of Google Maps. In collaboration with
+  
+   NASA
+  
+  scientists at the
+  
+   Mars Space Flight Facility
+  
+  located at
+  
+   Arizona State University
+  
+  , Google has provided the public with data collected from two NASA Mars missions,
+  
+   Mars Global Surveyor
+  
+  and
+  
+   2001 Mars Odyssey
+  
+  .
+  
+
+    [103]
+   
+
+
+  Now, with
+  
+   Google Earth
+  
+  5 it is possible to access new improved Google Mars data at a much higher resolution, as well as being able to view the terrain in 3D, and viewing panoramas from various Mars landers in a similar way to Google Street View.
+ 
+  On August 27, 2007, Google introduced Google Sky, an online space mapping tool that allows users to pan through a map of the visible universe, using photographs taken by the
+  
+   Hubble Space Telescope
+  
+  .
+ 
+  Google launched an experimental Google Maps-based tool called
+  
+   Ride Finder
+  
+  , tapping into in-car
+  
+   GPS
+  
+  units for a selection of participating taxi and limousine services. The tool displays the current location of all supported vehicles of the participating services in major US cities, including Chicago and San Francisco, on a Google Maps street map. As of 2009
+  
+
+    [update]
+   
+
+  the tool seems to be discontinued.
+ 
+  In 2007, Google Maps began offering traffic data in real-time, using a colored map overlay to display the speed of vehicles on particular roads.
+  
+
+    [51]
+   
+
+
+   Crowdsourcing
+  
+  is used to obtain the GPS-determined locations of a large number of cellphone users, from which live traffic maps are produced.
+  
+
+    [104]
+   
+
+
+  In December 2005, Google launched
+  
+   public transport route planner
+  
+  Google Transit on
+  
+   Google Labs
+  
+  , a 20% project of Chris Harrelson and Avichal Garg.
+  
+
+    [105]
+   
+
+  Google Transit launched initially with support for
+  
+   Portland, Oregon
+  
+  , and now includes hundreds of cities in the United States, Canada, Europe, Africa and Australasia. The service calculates route, transit time and cost, and can compare the trip to one using a car. In October 2007 Google Transit graduated from Google Labs and became fully integrated into Google Maps.
+  
+
+    [106]
+   
+
+  Google has provided real-time transit updates for selected locations since 2011.
+  
+
+    [107]
+   
+
+
+
+    [108]
+   
+
+  Google created the
+  
+   General Transit Feed Specification
+  
+  (formerly 'Google Transit Feed Specification') as a simple way of exchanging transit information. GTFSs are needed for information to be provided on Maps.
+ 
+  The coverage of Google Transit is publicly available. It is spread worldwide, in hundreds of cities and sometimes in entire countries such as China, Great Britain, Japan and Switzerland. Information is also available for most major cities in the United States and in Canada. In other areas, Google Transit only provides routing for some agencies or modes, for example in Paris. In others only the Transit map Layer is available, but no routing, for example in Vienna because local providers refuse to provide GTFS data.
+  
+
+    [109]
+   
+
+
+
+    [110]
+   
+
+
+  On March 10, 2010, Google added the possibility to search for biking directions on Google Maps. Optimal routes are calculated from traffic, elevation change, bike paths, bike lanes, and preferred roads for biking. An optional layer also shows different types of biking paths, from bike-only trails to preferred roads. This service is available in the US
+  
+
+    [111]
+   
+
+
+
+    [112]
+   
+
+  and Canada,
+  
+
+    [113]
+   
+
+  and is in
+  
+   beta testing
+  
+  in some other countries such as Singapore. In May 2013, Google Maps' biking direction added 6 more European countries:
+  
+   France
+  
+  ,
+  
+   Ireland
+  
+  ,
+  
+   Germany
+  
+  ,
+  
+   Liechtenstein
+  
+  ,
+  
+   Luxembourg
+  
+  and
+  
+   Poland
+  
+  .
+  
+
+    [114]
+   
+
+
+  In April 2007, My Maps was a new feature added to Google's local search maps. My Maps lets users and businesses create their own map by positioning markers, polylines and polygons onto a map. The interface is a straightforward overlay on the map. A set of eighty-four pre-designed markers is available, ranging from bars and restaurants to webcam and earthquake symbols. Poly line and Polygon color, width and opacity are selectable. Maps modified using My Maps can be saved for later viewing and made public or marked as unlisted, in which case a user will need the saved URL with a 42-character unique ID.
+ 
+  Each element added to a My Map has an editable tag. This tag can contain text, rich text or HTML. Embeddable video and other content can be included within the HTML tag.
+ 
+  Upon the launch of My Maps there was no facility to embed the created maps into a webpage or blog. A few independent websites have now produced tools to let users embed maps and add further functionality to their maps.
+  
+
+    [115]
+   
+
+  This has been resolved with version 2.78.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  On May 25, 2007, Google released
+  
+   Google Street View
+  
+  , a new feature of Google Maps which provides 360° panoramic street-level views of various locations. On the date of release, the feature only included five cities in the US. It has since expanded to thousands of locations around the world. In July 2009, Google began mapping college campuses and surrounding paths and trails.
+ 
+  Street View garnered much controversy after its release because of privacy concerns about the uncensored nature of the panoramic photographs.
+  
+
+    [116]
+   
+
+
+
+    [117]
+   
+
+  Since then, Google has begun blurring faces and license plates through automatic and
+  
+   face detection
+  
+  .
+  
+
+    [118]
+   
+
+
+
+    [119]
+   
+
+  A side effect of this is that many unrelated objects, such as traffic signs, road information, and street advertising, have often been blurred.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  In late 2014, Google launched Google Underwater Street View, including 2,300 kilometres (1,400 mi) of the Australian
+  
+   Great Barrier Reef
+  
+  in 3D. The images are taken by special cameras which turn 360 degrees and shoot in every 3 seconds.
+  
+
+    [120]
+   
+
+
+  In December 2009, Google released Aerial View, consisting of angled aerial imagery, offering a "
+  
+   bird's eye view
+  
+  " of cities. The first cities available were
+  
+   San Jose
+  
+  and
+  
+   San Diego
+  
+  . This feature was available only to developers via the Google Maps
+  
+   API
+  
+  .
+  
+
+    [121]
+   
+
+  In February 2010 it was introduced as an experimental feature in Google Maps Labs.
+  
+
+    [122]
+   
+
+
+  In July 2010, Aerial View was made available in Google Maps in select cities in the United States and worldwide.
+  
+
+    [123]
+   
+
+
+  Google Latitude was a feature from Google that lets users share their physical locations with other people. This service was based on Google Maps, specifically on mobile devices. There was an iGoogle widget for Desktops and Laptops as well.
+  
+
+    [124]
+   
+
+  Some concerns were expressed about the privacy issues raised by the use of the service. On August 9, 2013, this service was discontinued.
+  
+
+    [125]
+   
+
+
+  Google retired its Flu Vaccine Finder in April 2012, but worked closely with
+  
+   HealthMap
+  
+  to launch HealthMap Flu Vaccine Finder.
+  
+
+    [126]
+   
+
+
+
+   Monopoly City Streets
+  
+  was a live worldwide version of the game
+  
+   Monopoly
+  
+  using Google Maps as the game board. It was created by Google and
+  
+   Hasbro
+  
+  . The game has since ended.
+  
+
+    [127]
+   
+
+
+  In March 2011, indoor maps were added to Google Maps for Android, giving users the ability to navigate themselves within buildings such as airports, museums, shopping malls,
+  
+   big-box stores
+  
+  , universities, transit stations, and other public spaces (including underground facilities). In July 2013, a revised version of Google Maps added support for
+  
+   Apple iOS
+  
+  devices, including iPads and iPhones.
+  
+
+    [128]
+   
+
+  Google encourages owners of public facilities to submit floor plans of their buildings in order to add them to the service.
+  
+
+    [129]
+   
+
+  Map users can view different floors of a building or subway station by clicking on a level selector that is displayed near any structures which are mapped on multiple levels.
+ 
+  Originally called Google Business Photos, initially offered in April 2010 to select cities around the United States,
+  
+
+    [130]
+   
+
+  Google Business View has expanded to 27 different countries,
+  
+
+    [131]
+   
+
+  including over 180 cities in the United States. The program is run by Google but the photography is taken by specially certified photographers (called Google Trusted Photographers). The regions currently being served are the US, Canada, Spain, Italy, the UK, France, Netherlands, Sweden, Denmark, Switzerland, Ireland, Australia, Germany, Russia, Japan, Taiwan, Singapore, Hong Kong, Bulgaria, Czech Republic, Poland, Belgium, Indonesia, South Korea, Malaysia, India and New Zealand. Photographers can take up to 200 panoramas per business location.
+  
+
+    [132]
+   
+
+  Google has
+  
+   set up a website
+  
+  where interested businesses can get more information.
+ 
+  Previous versions of Google Maps (now called "classic maps") had a feature called 'My Places', allowing users to create maps with many locations saved as markers or 'pins'. These maps were used to reference places frequently visited or planned to be visited, planning or recording trip itineraries, etc. For example, a person could create a map of their favorite restaurants and share it with friends. Users could customize the look of markers, add comments to each marker, create routes, etc. These maps could easily be shared and were accessible from any browser when signed in, and from the mobile app for android. Multiple users could also collaborate on editing maps, and formerly maps could be made public to search by other users.
+ 
+  In 2013 Google started phasing out the 'My Places' features, including 'my maps'. My Places is not included in the 'New Google Maps' for browsers, or in the Android app since version 7 launched in July 2013. Currently users can revert to 'Classic Maps' from web browsers to access, edit, and download their maps, this will not be possible once the option to revert to classic maps is removed. Google initially stated that the feature would be returned to future versions of the mobile app when version 7 was launched.
+  
+
+    [133]
+   
+
+  However, since then there have been no indications that google plans to do so, and as of version 7.7 in March 2014, the feature has not been added. Many users have complained about the lack of this feature, with no response from Google.
+  
+
+    [134]
+   
+
+  Some users have downloaded prior versions of the Google Maps app, before version 7, which still support 'My Maps', though the feature can be unreliable.
+  
+
+    [135]
+   
+
+
+  Currently users can download their maps as .kml files which can be used by
+  
+   Google Earth
+  
+  and third-party apps, and also import the maps into
+  
+   Google Maps Engine
+  
+  .
+ 
+  Google 'My Maps' allow user to
+  
+   download and print high resolution maps
+  
+  .
+ 
+  Google Maps interface links through the "Wikipedia layer" to the
+  
+   geo-tags
+  
+  placed in
+  
+   English Wikipedia
+  
+  articles, but does not support non-English ones, reducing its usefulness in non-English languages and in non-English speaking territories. It also links to photos with
+  
+   GPS
+  
+  tags from
+  
+   Panoramio
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+
+   Isochrone maps
+  
+  can be generated using the Google Maps
+  
+   API
+  
+  .
+  
+
+    [136]
+   
+
+
+  The Google Maps terms and conditions
+  
+
+    [137]
+   
+
+  state that usage of material from Google Maps is regulated by Google Terms of Service
+  
+
+    [138]
+   
+
+  and some additional restrictions. Google has either purchased local map data from established companies, or has entered into lease agreements to use copyrighted map data. The owner of the copyright is listed at the bottom of zoomed maps. For example, street maps in Japan are leased from
+  
+   Zenrin
+  
+  . Street maps in China are leased from
+  
+   AutoNavi
+  
+  .
+  
+
+    [139]
+   
+
+  Russian street maps are leased from Geocentre Consulting and
+  
+   Tele Atlas
+  
+  . Data for
+  
+   North Korea
+  
+  is sourced from the companion project
+  
+   Google Map Maker
+  
+  .
+ 
+  In areas where
+  
+   Google Map Maker
+  
+  is available, for example, much of Asia, Africa, Latin America and Europe as well as the United States and Canada, anyone who logs into their Google account can directly improve the map by fixing incorrect driving directions, adding biking trails, or adding a missing building or road. General map errors in Australia, Austria, Belgium, Denmark, France, Liechtenstein, Netherlands, New Zealand, Norway, South Africa, Switzerland, and the United States can be reported using the Report a Problem link in Google Maps and will be updated by Google.
+  
+
+    [140]
+   
+
+  For areas where Google uses
+  
+   Tele Atlas
+  
+  data, map errors can be reported using Tele Atlas map insight.
+  
+
+    [141]
+   
+
+
+  If imagery is missing, outdated, misaligned, or generally incorrect, one can notify Google through their contact request form.
+  
+
+    [142]
+   
+
+
+  Google Maps has difficulty processing ZIP code data when dealing with cross-boundary situations. For example, users are unable to obtain a route from Hong Kong to Shenzhen via Shatoujiao, because Google Maps does not display and plan the road map of two overlapping places.
+  
+
+    [143]
+   
+
+
+  Sometimes the names of geographical locations are inaccurate. An example of this type of error could be found in Google Maps
+  
+   Laona, Wisconsin
+  
+  . In this instance Google Maps identified one of the town's two major lakes as "Dawson Lake";
+  
+
+    [144]
+   
+
+  the
+  
+   USGS
+  
+  , State of
+  
+   Wisconsin
+  
+  , and local government maps all identify that map feature as "Scattered Rice Lake".
+  
+
+    [145]
+   
+
+  Another example was
+  
+   Samoa
+  
+  , labeled with "Western Samoa", accurate only as recently as 1997.
+ 
+  In 2011, Google Maps mislabeled the entire length of
+  
+   US Route 30
+  
+  from
+  
+   Astoria, Oregon
+  
+  to
+  
+   Atlantic City, New Jersey
+  
+  as being concurrent with
+  
+   Quebec Route 366
+  
+  .
+  
+
+    [146]
+   
+
+
+  In 2009, Google Maps labelled a street in
+  
+   Padova
+  
+  ,
+  
+   Italy
+  
+  as "Via Mussolini", suggesting it was named after the dictator
+  
+   Benito Mussolini
+  
+  . In fact, the street is called IV novembre.
+  
+
+    [147]
+   
+
+
+  Users are allowed to suggest corrections using the "Send feedback" button. These suggestions are reviewed, and either accepted or declined; the user is informed when this decision occurs.
+ 
+  Google collates business listings from multiple on-line and off-line sources. To reduce duplication in the index, Google's algorithm combines listings automatically based on address, phone number, or geocode,
+  
+
+    [148]
+   
+
+  but sometimes information for separate businesses will be inadvertently merged with each other, resulting in listings inaccurately incorporating elements from multiple businesses.
+  
+
+    [149]
+   
+
+
+  Google has also recruited volunteers to check and correct ground truth data.
+  
+
+    [150]
+   
+
+
+  Google Maps can easily be manipulated by businesses which aren't physically located in the area they record a listing.
+  
+
+    [151]
+   
+
+  There are cases of people abusing Google Places to overtake their competition where they place a number of unverified listings on online directory sites knowing the information will roll across to Google (duplicate sites). The people that update these listings do not use a registered business name. Keywords and location details are placed on their Google Places business title which overtake credible business listings. In Australia in particular, genuine companies and businesses are noticing a trend of fake business listings in a variety of industries.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Street map overlays, in some areas, may not match up precisely with the corresponding satellite images. The street data may be entirely erroneous, or simply out of date: "The biggest challenge is the currency of data, the authenticity of data," said Google Earth representative
+  
+   Brian McClendon
+  
+  . As a result, in March 2008 Google added a feature to edit the locations of houses and businesses.
+  
+
+    [152]
+   
+
+
+
+    [153]
+   
+
+
+  Restrictions have been placed on Google Maps through the apparent censoring of locations deemed potential security threats. In some cases the area of redaction is for specific buildings, but in other cases, such as Washington, D.C.,
+  
+
+    [154]
+   
+
+  the restriction is to use outdated imagery. These locations are fully listed on
+  
+   Satellite map images with missing or unclear data
+  
+  .
+ 
+  Due to
+  
+   restrictions on geographic data in China
+  
+  , Google Maps must partner with a Chinese digital map provider in order to legally show China map data. Since 2006, this partner has been
+  
+   AutoNavi
+  
+  .
+  
+
+    [139]
+   
+
+
+  Within China, the State Council mandates that all maps of China use the
+  
+   GCJ-02 coordinate system
+  
+  , which is offset from the
+  
+   WGS-84
+  
+  system used in most of the world. google.
+  
+   cn
+  
+  /maps (formerly Google Ditu) uses the GCJ-02 system for both its street maps
+  
+
+    [155]
+   
+
+  and satellite imagery.
+  
+
+    [156]
+   
+
+  google.
+  
+   com
+  
+  /maps also uses GCJ-02 data for the street map, but uses WGS-84 coordinates for satellite imagery,
+  
+
+    [157]
+   
+
+  causing the so-called
+  
+   China GPS shift problem
+  
+  .
+ 
+  Frontier alignments also present some differences between google.
+  
+   cn
+  
+  /maps and google.
+  
+   com
+  
+  /maps. On the latter, sections of the Chinese border with India and Pakistan are shown with dotted lines, indicating areas or frontiers in dispute. However, google.
+  
+   cn
+  
+  shows the Chinese frontier strictly according to Chinese claims with no dotted lines indicating the border with India and Pakistan. For example, the
+  
+   South Tibet
+  
+  region claimed by China but administered by India as a large part of
+  
+   Arunachal Pradesh
+  
+  is shown inside the Chinese frontier by google.
+  
+   cn
+  
+  , with Indian highways ending abruptly at the Chinese claim line. Google.
+  
+   cn
+  
+  also shows Taiwan and the
+  
+   South China Sea Islands
+  
+  as part of China. As of May 2009
+  
+
+    [update]
+   
+
+  , Google Ditu's street map coverage of Taiwan also omits major state organs, such as the Presidential Palace, the
+  
+   five Yuans
+  
+  , and the Supreme Court.
+  
+   [
+   
+
+
+      needs update
+     
+
+
+   ]
+  
+
+  Feature-wise, google.
+  
+   cn
+  
+  /maps does not feature My Maps. On the other hand, while google.
+  
+   cn
+  
+  displays virtually all text in Chinese, google.
+  
+   com
+  
+  /maps displays most text (user-selectable real text as well as those on map) in English. This behavior of displaying English text is not consistent but intermittent – sometimes it is in English, sometimes it is in Chinese. The criteria for choosing which language is displayed are not known publicly.
+ 
+  In 2005 the Australian Nuclear Science and Technology Organization (ANSTO) complained about the potential for terrorists to use the satellite images in planning attacks, with specific reference to the
+  
+   Lucas Heights nuclear reactor
+  
+  ; however, the Australian Federal government did not support the organization's concern. At the time of the ANSTO complaint, Google had colored over some areas for security (mostly in the US), such as the rooftop of the
+  
+   White House
+  
+  and several other
+  
+   Washington, D.C.
+  
+  , US buildings.
+  
+
+    [158]
+   
+
+
+
+    [159]
+   
+
+
+
+    [160]
+   
+
+
+  In October 2010,
+  
+   Nicaraguan
+  
+  military commander
+  
+   Edén Pastora
+  
+  stationed Nicaraguan troops on the
+  
+   Isla Calero
+  
+  (in the delta of the
+  
+   San Juan River
+  
+  ), justifying his action on the border delineation given by Google Maps.
+  
+   Bing Maps
+  
+  depicts the island to be on the Costa Rican side of the border. Google has since updated its data which it found to be incorrect.
+  
+
+    [161]
+   
+
+
+  On January 27, 2014, documents leaked by
+  
+   Edward Snowden
+  
+  revealed that the
+  
+   NSA
+  
+  and the
+  
+   GCHQ
+  
+  intercepted Google Maps queries made on smartphones, and used them to locate the users making these queries. One leaked document, dating to 2008, stated that "[i]t effectively means that anyone using Google Maps on a smartphone is working in support of a GCHQ system."
+  
+
+    [162]
+   
+
+
+  Google Maps is based on a close variant of the
+  
+   Mercator projection
+  
+  .
+  
+
+    [163]
+   
+
+
+
+   How Google Builds Its Maps—and What It Means for the Future of Everything
+  

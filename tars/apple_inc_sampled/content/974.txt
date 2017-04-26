@@ -1,0 +1,185 @@
+
+
+  In
+  
+   Apple computer's
+  
+
+   macOS
+  
+  operating system,
+  
+   Quartz
+  
+  is the
+  
+   Quartz 2D
+  
+  and
+  
+   Quartz Compositor
+  
+  part of the Core Graphics framework. Quartz includes both a 2D renderer in Core Graphics and the composition engine that sends instructions to the graphics card. Because of this vertical nature,
+  
+   Quartz
+  
+  is often synonymous with
+  
+   Core Graphics
+  
+  .
+  
+
+    [1]
+   
+
+
+  In a general sense,
+  
+   Quartz
+  
+  or
+  
+   Quartz technologies
+  
+  can refer to almost every part of the
+  
+   macOS
+  
+  graphics model from the rendering layer down to the compositor including Core Image and Core Video.
+  
+
+    [2]
+   
+
+  Other Apple graphics technologies that use the "Quartz" prefix include:
+ 
+
+
+
+   Quartz 2D
+  
+  is the primary two-dimensional (2D) text and graphics rendering library: It directly supports
+  
+   Aqua
+  
+  by displaying
+  
+   two-dimensional graphics
+  
+  to create the user interface, including on-the-fly
+  
+   rendering
+  
+  and
+  
+   anti-aliasing
+  
+  . Quartz can render text with
+  
+   sub-pixel precision
+  
+  ; graphics are limited to more traditional anti-aliasing, which is the default mode of operation but can be turned off.
+  
+
+    [3]
+   
+
+  In
+  
+   Mac OS X Tiger
+  
+  , Apple introduced Quartz 2D Extreme, which allows Quartz 2D to use supported
+  
+   GPUs
+  
+  for rendering. In
+  
+   Mac OS X
+  
+  10.4, Quartz 2D Extreme is not enabled by default, because it may lead to video redraw issues or
+  
+   kernel panics
+  
+  .
+  
+
+    [4]
+   
+
+  As of
+  
+   Mac OS X v10.5
+  
+  Quartz 2D Extreme has been renamed to QuartzGL. However, it still remains disabled by default, as there are some situations where it can degrade performance, or experience visual glitches; it is a per-application setting which can be turned on if the developer wishes.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The
+  
+   Quartz Compositor
+  
+  is the
+  
+   compositing
+  
+  engine used by
+  
+   macOS
+  
+  . In
+  
+   Mac OS X Jaguar
+  
+  and later, the Quartz Compositor can use the graphics accelerator (GPU) to vastly improve composition performance. This technology is known as Quartz Extreme and is enabled automatically on systems with supported graphics cards.
+  
+
+    [1]
+   
+
+
+  It is widely stated that Quartz "uses
+  
+   PDF
+  
+  " internally (notably by Apple in their 2000
+  
+   Macworld
+  
+  presentation and Quartz's early developer documentation
+  
+
+    [5]
+   
+
+  ), often by people making comparisons with the
+  
+   Display PostScript
+  
+  technology used in
+  
+   NeXTSTEP
+  
+  and
+  
+   OPENSTEP
+  
+  (of which
+  
+   macOS
+  
+  is a descendant). Quartz's internal imaging model correlates well with the PDF object graph, making it easy to output PDF to multiple devices.
+  
+
+    [6]
+   
+

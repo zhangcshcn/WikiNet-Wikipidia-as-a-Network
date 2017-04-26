@@ -1,0 +1,505 @@
+
+
+
+   Windows Embedded Compact
+  
+  ,
+  
+
+    [6]
+   
+
+  formerly
+  
+   Windows Embedded CE
+  
+  and
+  
+   Windows CE
+  
+  , is an
+  
+   operating system
+  
+  subfamily developed by
+  
+   Microsoft
+  
+  as part of its
+  
+   Windows Embedded
+  
+  family of products. Unlike
+  
+   Windows Embedded Standard
+  
+  , which is based on
+  
+   Windows NT
+  
+  , Windows Embedded Compact uses a different
+  
+   hybrid kernel
+  
+  .
+  
+
+    [7]
+   
+
+  Microsoft licenses Windows CE to
+  
+   original equipment manufacturers
+  
+  (OEMs), who can modify and create their own user interfaces and experiences, with Windows CE providing the technical foundation to do so.
+ 
+  The current version of Windows Embedded Compact supports
+  
+   x86
+  
+  and
+  
+   ARM
+  
+  processors with
+  
+   board support package
+  
+  (BSP) directly.
+  
+
+    [8]
+   
+
+  The
+  
+   MIPS
+  
+  and
+  
+   SHx
+  
+  architectures had support prior to version 7.0.
+ 
+
+
+  Windows CE is optimized for devices that have minimal memory; a Windows CE kernel may run with one megabyte of
+  
+   memory
+  
+  .
+  
+
+    [9]
+   
+
+  Devices are often configured without
+  
+   disk storage
+  
+  , and may be configured as a "closed" system that does not allow for end-user extension (for instance, it can be burned into
+  
+   ROM
+  
+  ). Windows CE conforms to the definition of a
+  
+   real-time operating system
+  
+  , with a deterministic interrupt latency. From Version 3 and onward, the system supports 256 priority levels
+  
+
+    [10]
+   
+
+  and uses
+  
+   priority inheritance
+  
+  for dealing with
+  
+   priority inversion
+  
+  . The fundamental unit of execution is the
+  
+   thread
+  
+  . This helps to simplify the interface and improve execution time.
+ 
+  The first version –  known during development under the
+  
+   code name
+  
+  "Pegasus" –  featured a Windows-like
+  
+   GUI
+  
+  and a number of Microsoft's popular apps, all trimmed down for smaller storage, memory, and speed of the palmtops of the day. Since then, Windows CE has evolved into a component-based, embedded, real-time operating system. It is no longer targeted solely at hand-held computers.
+  
+
+    [11]
+   
+
+  Many platforms have been based on the core Windows CE operating system, including Microsoft's
+  
+   AutoPC
+  
+  ,
+  
+   Pocket PC 2000
+  
+  ,
+  
+   Pocket PC 2002
+  
+  ,
+  
+   Windows Mobile 2003
+  
+  ,
+  
+   Windows Mobile 2003 SE
+  
+  ,
+  
+   Windows Mobile 5
+  
+  ,
+  
+   Windows Mobile 6
+  
+  ,
+  
+   Smartphone 2002
+  
+  ,
+  
+   Smartphone 2003
+  
+  ,
+  
+   Portable Media Center
+  
+  ,
+  
+   Zune
+  
+  ,
+  
+   Windows Phone
+  
+  and many industrial devices and embedded systems. Windows CE even powered select games for the
+  
+   Dreamcast
+  
+  , was the operating system of the
+  
+   Gizmondo
+  
+  handheld, and can partially run on modified
+  
+   Xbox
+  
+  game consoles.
+ 
+  A distinctive feature of Windows CE compared to other Microsoft operating systems is that large parts of it are offered in source code form. First, source code was offered to several vendors, so they could adjust it to their hardware. Then products like Platform Builder (an integrated environment for Windows CE OS image creation and integration, or customized operating system designs based on CE) offered several components in source code form to the general public. However, a number of core components that do not need adaptation to specific hardware environments (other than the CPU family) are still distributed in binary only form.
+ 
+  Windows Embedded Compact was formerly known as Windows CE. According to Microsoft, "CE" is not an explicit acronym for anything, although it implies a number of notions that Windows developers had in mind, such as "compact", "connectable", "compatible", "companion" and "efficient".
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+  The name changed once in 2006, with the release of
+  
+   Windows Embedded CE 6.0
+  
+  , and again in 2011, with the release of
+  
+   Windows Embedded Compact 7
+  
+  .
+ 
+  Windows CE was originally announced by Microsoft at the
+  
+   COMDEX
+  
+  expo in 1996 and was demonstrated on stage by
+  
+   Bill Gates
+  
+  and John McGill. Microsoft had been testing Pegasus in early 1995 and released a strict reference platform to several hardware partners. The devices had to have the following minimum hardware specifications:
+ 
+  Devices of the time mainly had 480x240 pixel displays with the exception of the Hewlett Packard 'Palmtop PC' which had a 640x240 display. Each window took over the full display. Navigation was done by tapping or double tapping on an item. A contextual menu was also available by the user pressing the ALT key and tapping on the screen. Windows CE 1.0 did not include a cascading Start menu unlike Windows 95 and Windows NT 4.0 did. Microsoft released the Windows CE 1.0 Power Toys that included a cascading menu icon that appeared in the system tray. Also bundled were several other utilities, most notable were a sound applet for the system tray, enabling the user to quickly mute or unmute their device or adjust the volume and a 'pocket' version of Paint.
+ 
+  The release of Windows CE 2.0 was well received. Microsoft learned its lessons from consumer feedback of Windows CE 1.0 and made many improvements to the operating system. The Start menu was a cascading menu, identical to those found on Windows 95 and Windows NT 4.0. Color screens were also supported and manufacturers raced to release the first color H/PC. The first to market however, was Hewlett Packard with the HP 620LX. Windows CE 2.0 also supported a broader range of CPU architectures. Programs could be also installed directly in the OS by double clicking on CAB files. Due to the nature of the ROMs that contained the operating system, users were not able to flash their devices with the newer operating system. Instead manufacturers released upgrade ROMs that users had to physically install in their devices, after removing the previous version. This would usually wipe the data on the device and present the user with the setup wizard upon first boot.
+ 
+
+   Microsoft Visual Studio
+  
+  2012, 2013, and 2015 support apps and
+  
+   Platform Builder
+  
+  development for Windows Embedded Compact 2013.
+  
+
+    [14]
+   
+
+
+  Microsoft Visual Studio 2008 and earlier support projects for older releases of Windows CE/Windows Mobile, producing executable programs and platform images either as an emulator or attached by cable to an actual mobile device. A mobile device is not necessary to develop a CE program. The
+  
+   .NET Compact Framework
+  
+  supports a subset of the
+  
+   .NET Framework
+  
+  with projects in
+  
+   C#
+  
+  , and
+  
+   Visual Basic .NET
+  
+  , but not
+  
+   Managed C++
+  
+  . "Managed" apps employing the .NET Compact Framework also require devices with significantly larger memories (8
+  
+   MB
+  
+  or more) while unmanaged apps can still run successfully on smaller devices. In Visual Studio 2010, the Windows Phone Developer Tools are used as an extension, allowing Windows Phone 7 apps to be designed and tested within Visual Studio.
+ 
+
+   Free Pascal
+  
+  introduced the Windows CE port in Version 2.2.0, targeting ARM and x86 architectures. Later, the Windows CE header files were translated for use with
+  
+   Lazarus
+  
+  , a
+  
+   rapid application development
+  
+  (RAD) software package based on Free Pascal. Windows CE apps are designed and coded in the Lazarus
+  
+   integrated development environment
+  
+  (IDE) and compiled with an appropriate
+  
+   cross compiler
+  
+  .
+  
+
+    [15]
+   
+
+
+  This
+  
+   programming tool
+  
+  is used for building the platform (
+  
+   BSP
+  
+  +
+  
+   Kernel
+  
+  ),
+  
+   device drivers
+  
+  (shared source or custom made) and also the apps. This is a one step environment to get the system up and running. One can also use Platform Builder to export an
+  
+   SDK
+  
+  (software development kit) for the target
+  
+   microprocessor
+  
+  (
+  
+   SuperH
+  
+  , x86, MIPS, ARM etc.) to be used with another associated tool set named below.
+ 
+  The
+  
+   Embedded
+  
+
+   Visual C++
+  
+  (eVC) –  a
+  
+   tool
+  
+  for development of embedded apps for Windows CE. It can be used standalone using the
+  
+   SDK
+  
+  exported from Platform Builder or using the Platform Builder's Platform Manager connectivity setup.
+ 
+
+   CodeGear
+  
+
+   Delphi Prism
+  
+  –  runs in Visual Studio, also supports the .NET Compact Framework and thus can be used to develop
+  
+   mobile apps
+  
+  . It employs the
+  
+   Oxygene
+  
+  compiler created by
+  
+   RemObjects Software
+  
+  , which targets .NET, the .NET Compact Framework, and
+  
+   Mono
+  
+  . Its command-line compiler is available free of charge.
+ 
+
+   Basic4ppc
+  
+  –  a
+  
+   programming language
+  
+  similar to
+  
+   Visual Basic
+  
+  –  targets the
+  
+   .NET Compact Framework
+  
+  and supports Windows CE and Windows Mobile devices.
+ 
+
+   GLBasic
+  
+  –  a very easy to learn and use BASIC dialect that compiles for many platforms, including Windows CE and Windows Mobile. It can be extended by writing inline C/C++ code.
+ 
+
+   LabVIEW
+  
+  –  a graphical programming language, supporting many platforms, including Windows CE.
+ 
+
+   AutoHotkey
+  
+  –  a port of the open source macro-creation and automation software utility available for Windows CE. It allows the construction of macros and simple
+  
+   GUI
+  
+  apps developed by systems analyst Jonathan Maxian Timkang.
+  
+
+    [16]
+   
+
+
+  Often Windows CE,
+  
+   Windows Mobile
+  
+  , and
+  
+   Pocket PC
+  
+  are used interchangeably, in part due to their common origin. This practice is not entirely accurate. Windows CE is a modular/componentized operating system that serves as the foundation of several classes of devices. Some of these modules provide subsets of other components' features (e.g. varying levels of windowing support;
+  
+   DCOM
+  
+  vs
+  
+   COM
+  
+  ), others which are separate (
+  
+   Bitmap
+  
+  or
+  
+   TrueType
+  
+  font support), and others which add additional features to another component. One can buy a kit (the Platform Builder) which contains all these components and the tools with which to develop a custom platform. Apps such as
+  
+   Excel Mobile
+  
+  (formerly Pocket Excel) are not part of this kit. The older Handheld PC version of Pocket Word and several other older apps are included as samples, however.
+ 
+  Windows Mobile is best described as a subset of platforms based on a Windows CE underpinning. Currently, Pocket PC (now called Windows Mobile Classic), SmartPhone (Windows Mobile Standard), and Pocket PC Phone Edition (Windows Mobile Professional) are the three main platforms under the Windows Mobile umbrella. Each platform uses different components of Windows CE, plus supplemental features and apps suited for their respective devices.
+ 
+  Pocket PC and Windows Mobile are Microsoft-defined custom platforms for general PDA use, consisting of a Microsoft-defined set of minimum profiles (Professional Edition, Premium Edition) of software and hardware that is supported. The rules for manufacturing a Pocket PC device are stricter than those for producing a custom Windows CE-based platform. The defining characteristics of the Pocket PC are the
+  
+   touchscreen
+  
+  as the primary
+  
+   human interface device
+  
+  and its extremely portable size.
+ 
+  CE v3.0 is the basis for Pocket PC 2002. A successor to CE v3.0 is CE.net.
+  
+
+    [17]
+   
+
+  "PocketPC [is] a separate layer of code on top of the core Windows CE OS... Pocket PC is based on Windows CE, but it's a different offering." And licensees of Pocket PC are forbidden to modify the WinCE part.
+  
+
+    [18]
+   
+
+
+  The SmartPhone platform is a feature-rich OS and interface for cellular phone handsets. SmartPhone offers productivity features to business users, such as email, and multimedia abilities for consumers. The SmartPhone interface relies heavily on joystick navigation and PhonePad input. Devices running SmartPhone do not include a touchscreen interface. SmartPhone devices generally resemble other cellular handset form factors, whereas most Phone Edition devices use a PDA form factor with a larger display.
+ 
+     1.01 version (1.0a) –  added
+     
+      Japanese
+     
+     language support.
+    
+     2.11 version (Palm-Size PC 1.1) –  changed screen resolution to
+     
+      QVGA
+     
+     , added
+     
+      handwriting recognition
+     
+     . 2.11 version (Palm-Size PC 1.2) –  based on Windows CE H/PC 2.11 kernel, removed
+     
+      Pocket Office
+     
+     .
+    
+     HandeldPC 2.11 version (HandheldPC Professional) –  added small versions of
+     
+      Microsoft Access
+     
+     , improved
+     
+      MS Office
+     
+     documents formats support.
+    

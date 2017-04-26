@@ -1,0 +1,406 @@
+
+
+
+   FaceTime
+  
+  is a proprietary
+  
+   videotelephony
+  
+  product developed by
+  
+   Apple Inc.
+  
+  FaceTime Audio is an audio-only version.
+ 
+  FaceTime is available on supported mobile devices that run on
+  
+   iOS
+  
+  and Macintosh computers that run
+  
+
+    Mac OS X
+   
+
+  10.6.6 onwards. The video version of FaceTime supports any iOS device with a forward-facing camera and any
+  
+   Macintosh
+  
+  computer equipped with a
+  
+   FaceTime Camera
+  
+  , formerly known as an
+  
+
+    iSight
+   
+   Camera
+  
+  . FaceTime Audio is available on any
+  
+   iOS device
+  
+  that supports
+  
+   iOS 7
+  
+  or newer, and any
+  
+   Macintosh
+  
+  with a forward-facing camera running
+  
+
+    Mac OS X
+   
+
+  10.9.2 and later.
+ 
+  Apple CEO
+  
+   Steve Jobs
+  
+  announced FaceTime on June 7, 2010, in conjunction with the
+  
+   iPhone 4
+  
+  , in a
+  
+   keynote speech
+  
+  at the
+  
+   2010 Apple Worldwide Developers Conference
+  
+  . Support for the fourth generation
+  
+   iPod Touch
+  
+  (the first model of iPod Touch equipped with cameras) was announced in conjunction with this device's release on September 8, 2010.
+ 
+  Apple bought the "FaceTime" name from FaceTime Communications, who changed their name to
+  
+   Actiance
+  
+  , Inc.
+  
+
+    [1]
+   
+
+
+  FaceTime for
+  
+   Mac OS X
+  
+  was announced on October 20, 2010 at the "Back to the Mac" Media event on the Apple Campus.
+ 
+  On February 24, 2011, FaceTime left beta and was listed in the
+  
+   Mac App Store
+  
+  for
+  
+   $
+  
+  0.99. Apple claims that it intended to provide the application free of charge, however, a provision of the
+  
+   Sarbanes–Oxley Act
+  
+  (2002) bars companies from providing an unadvertised new feature of an already-sold product without enduring "onerous accounting measures."
+  
+
+    [2]
+   
+
+  The free beta is still available for download from the Apple servers.
+  
+
+    [3]
+   
+
+  FaceTime is included for free in OS X from
+  
+
+    Mac OS X Lion
+   
+
+  (10.7) onwards and iOS.
+  
+
+    [4]
+   
+
+
+  On March 2, 2011, FaceTime support was announced for the newly introduced
+  
+   iPad 2
+  
+  , which gained forward- and rear-facing cameras.
+ 
+
+   AT&T
+  
+  allowed customers to use FaceTime as long as they were
+  
+   tiered
+  
+  , but blocked the application from working for customers with unlimited data plans. They were brought before the Federal Communications Commission (FCC) for
+  
+   net neutrality
+  
+  violations.
+  
+
+    [5]
+   
+
+
+  On May 2011, it was found that FaceTime would work seamlessly over 3G on all iPhone, iPad and iPod Touch models that supported it. Even though FaceTime worked only over 3G at that time, it now supports 4G LTE calls on networks all over the world, availability being limited to operators' GSM plans.
+  
+
+    [6]
+   
+
+
+
+
+  FaceTime works by connecting an
+  
+   iPhone 4
+  
+  or later, a fourth generation
+  
+   iPod Touch
+  
+  or later, an
+  
+   iPad 2
+  
+  or later, or a computer with
+  
+   OS X
+  
+  , to another supported device. FaceTime is currently incompatible with non-Apple devices or any other video calling services. Mac models introduced in 2011 introduced high-definition video FaceTime, which devices use automatically when both ends have a FaceTime HD camera.
+ 
+  Unlike Mac OS X's
+  
+   iChat
+  
+  , FaceTime does not support group conferencing. The application is a one-on-one video chat—only two people can talk at once. If a second user calls and the user answers, the video chat with the previous user ends and a new video session begins with the second caller. In iPhone, if a phone call is pending and the user attempts to answer, the video call ends and the phone call begins with the next user.
+ 
+  Unlike
+  
+   Skype
+  
+  , a multi-person video chatting application, FaceTime specializes in one-to-one video chatting.
+ 
+  In particular, when FaceTiming with someone and you receive messages, emails, or other notifications, when you look at them the FaceTime chat will be paused.
+ 
+  On the iPhone, a user can activate FaceTime during a phone call by pressing the FaceTime button, or initiated FaceTime from their call history or the Contacts application. iOS 7 and newer also provide a separate FaceTime app, as there always has been on Apple's non-telephony devices: iPad, iPod Touch, and Mac.
+ 
+  Until the release of iOS 6, FaceTime required a WiFi connection to work. From iOS 6 onwards, FaceTime for the iPhone and iPad has supported FaceTime calls over cellular networks (
+  
+   3G
+  
+  or
+  
+   LTE
+  
+  ) provided the carrier enabled it, which by mid-2013 virtually all carriers worldwide have allowed. FaceTime Audio uses about three
+  
+   megabytes
+  
+  of data for every five minutes of conversation, with FaceTime Video using significantly more.
+  
+
+    [7]
+   
+
+  Cellular talk time/minutes are not used after switching from a voice call to a FaceTime call.
+ 
+  FaceTime calls can be placed from supported devices to any phone number or email address that is registered to the FaceTime service. A single email address can be registered to multiple devices and a call placed to that address rings all devices simultaneously.
+ 
+  On iPad, iPod Touch, and Mac, only persons who have already been added as contacts using the FaceTime or Contacts app can be called because there is no dialer.
+ 
+  The FaceTime protocol is based on numerous open industry standards
+  
+
+    [8]
+   
+
+  although it is not interoperable with other videotelephony systems:
+ 
+  Upon the launch of the iPhone 4, Jobs stated that Apple would immediately start working with standards bodies to make the FaceTime protocol an "open industry standard". While the protocols are open standards, Apple's FaceTime service requires a client-side certificate.
+  
+
+    [9]
+   
+
+
+  FaceTime calls are protected by end-to-end encryption so that only the sender and receiver can access them. Apple cannot decrypt this data.
+  
+
+    [10]
+   
+
+
+  Compared to most
+  
+   SIP
+  
+  implementations, Facetime adds techniques that enhance performance at the cost of breaking interoperability:
+  
+
+    [11]
+   
+
+  port multiplexing,
+  
+   SDP
+  
+  minimization and SDP compression.
+ 
+  A new audio-only version of FaceTime, named FaceTime Audio, was announced during the annual
+  
+   Apple Worldwide Developers Conference
+  
+  (WWDC) keynote speech on June 10, 2013, and released with
+  
+   iOS 7
+  
+  on September 18, 2013. As an audio-only version of FaceTime, it effectively makes the protocol into a
+  
+   voice over Internet Protocol
+  
+  (VoIP), that competes with other mainstream providers in the field, including
+  
+   Skype
+  
+  (
+  
+   Microsoft
+  
+  ).
+ 
+  Based on the same
+  
+   AAC-LD
+  
+  audio protocol, the service provides high quality audio. The iOS 7 betas limited FaceTime Audio to calls placed on a Wi-Fi network (the same original limitation of the video version of FaceTime), but the final release has removed that restriction to allow it to work over 3G and LTE data connections, as is the case with most carriers and plans with regard to FaceTime with video. Like the video version, FaceTime Audio is currently only available between Apple devices. The feature is not available to run on the
+  
+   iPod Touch
+  
+  4th generation as the device does not support iOS 7 or later. FaceTime streaming over cellular data is unavailable for the
+  
+   iPhone 4
+  
+  and the
+  
+   iPad 2
+  
+  as they only support 3G signals.
+  
+
+    [12]
+   
+
+
+  As of October 2016
+  
+
+    [update]
+   
+
+  , FaceTime is not enabled on devices bought in the
+  
+   United Arab Emirates
+  
+  ,
+  
+   Saudi Arabia
+  
+  and
+  
+   Pakistan
+  
+  ,
+  
+
+    [13]
+   
+
+  possibly due to regulations in these countries that restrict IP-based communications. In addition, on devices bought in
+  
+   China
+  
+  only FaceTime Audio is disabled, while FaceTime Video is available.
+  
+
+    [14]
+   
+
+  Devices bought outside these countries support both video and audio versions of FaceTime.
+  
+
+    [15]
+   
+
+  Although
+  
+   Egypt
+  
+  ,
+  
+   Jordan
+  
+  ,
+  
+   Qatar
+  
+  and
+  
+   Kuwait
+  
+  originally disabled FaceTime on the iPhone 4, they later re-enabled the feature through a carrier update for existing phone owners and made it pre-enabled on any newly purchased iPhone.
+ 
+  As of April 16, 2014, FaceTime ceased working on earlier versions of iOS which had previously supported it (iOS 4, 5 & 6). This was because the client-side certificate used to authenticate a genuine Apple device with FaceTime servers (amongst other uses
+  
+
+    [16]
+   
+
+  ) expired on that date. Apple chose not to release an update to this certificate for all devices for which a newer major iOS version (with a new, valid certificate) was available. Apple did release a minor update, to the certificate only, for all
+  
+   OS X
+  
+  versions which could run FaceTime, and also for earlier versions of iOS, but only for the small number of devices which could run FaceTime but which could not run a newer major version of iOS. The result of this policy was that almost all iOS users had to update the iOS version on their devices if they wished to continue using FaceTime.
+  
+
+    [17]
+   
+
+  (This limitation applied even to users of
+  
+   jailbroken
+  
+  devices since, even with a legally jailbroken device, it would have been not only difficult but also illegal to extract and install Apple's new certificate, without Apple's permission, in order to work around this issue.
+  
+
+    [18]
+   
+
+  )
+ 
+  On November 4, 2014, FaceTime scored 5 out of 7 points on the
+  
+   Electronic Frontier Foundation
+  
+  's secure messaging scorecard. It lost points because users can't verify contacts' identities and because the code is not open to independent review.
+  
+
+    [19]
+   
+

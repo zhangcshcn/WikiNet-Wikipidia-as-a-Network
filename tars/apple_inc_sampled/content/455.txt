@@ -1,0 +1,1179 @@
+
+
+
+   NetBSD
+  
+  is a
+  
+   free and open source
+  
+
+   Unix-like
+  
+
+   operating system
+  
+  that descends from
+  
+   Berkeley Software Distribution
+  
+  (BSD), a
+  
+   Research Unix
+  
+  derivative developed at the
+  
+   University of California, Berkeley
+  
+  . It was the second open-source BSD descendant formally released after it forked from the
+  
+   386BSD
+  
+
+
+    [2]
+   
+
+  branch of the BSD source-code
+  
+
+    [3]
+   
+
+  repository. It continues to be actively developed and is available for many platforms, including large-scale server systems, desktop systems, and handheld devices,
+  
+
+    [3]
+   
+
+  and is often used in
+  
+   embedded systems
+  
+  .
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+  The NetBSD project focuses on code clarity, careful design, and portability across many
+  
+   computer architectures
+  
+  . NetBSD's source code is openly available and
+  
+   permissively licensed
+  
+  .
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+
+  NetBSD was originally derived from the 4.4BSD release of the Berkeley Software Distribution from the
+  
+   Computer Systems Research Group
+  
+  of the
+  
+   University of California, Berkeley
+  
+  , via their Net/2
+  
+   source code
+  
+  release and the
+  
+   386BSD
+  
+  project.
+  
+
+    [3]
+   
+
+  The NetBSD project began as a result of frustration within the 386BSD developer community with the pace and direction of the operating system's development.
+  
+
+    [8]
+   
+
+  The four founders of the NetBSD project, Chris Demetriou,
+  
+   Theo de Raadt
+  
+  , Adam Glass, and Charles Hannum, felt that a more open development model would benefit the project: one centered on portable, clean, correct code. They aimed to produce a unified, multi-platform, production-quality, BSD-based operating system. The name "NetBSD" was suggested by de Raadt
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  , based on the importance and
+  
+   growth of networks
+  
+  such as the
+  
+   Internet
+  
+  at that time, and the distributed, collaborative nature of its development.
+ 
+  The NetBSD source code repository was established on 21 March 1993 and the first official release, NetBSD 0.8, was made in April, 1993.
+  
+
+    [9]
+   
+
+  This was derived from 386BSD 0.1 plus the version 0.2.2 unofficial patchkit, with several programs from the Net/2 release missing from 386BSD re-integrated, and various other improvements.
+  
+
+    [9]
+   
+
+  The first multi-platform release, NetBSD 1.0, was made in October 1994. Also in 1994, for disputed reasons, one of the founders, Theo de Raadt, was removed from the project. He later founded a new project,
+  
+   OpenBSD
+  
+  , from a forked version of NetBSD 1.0 near the end of 1995.
+  
+
+    [10]
+   
+
+  In 1998, NetBSD 1.3 introduced the
+  
+   pkgsrc
+  
+  packages collection.
+  
+
+    [11]
+   
+
+
+  Until 2004, NetBSD 1.x releases were made at roughly annual intervals, with minor "patch" releases in between. From release 2.0 onwards, NetBSD uses
+  
+   semantic versioning
+  
+  , and each major NetBSD release corresponds to an incremented major version number, i.e. the major releases following 2.0 are 3.0, 4.0 and so on. The previous minor releases are now divided into two categories:
+  
+   x.y
+  
+  "stable" maintenance releases and
+  
+   x.y.z
+  
+  releases containing only security and critical fixes.
+  
+
+    [12]
+   
+
+
+  As the project's motto (
+  
+   "Of course it runs NetBSD"
+  
+  ) suggests, NetBSD has been ported to a large number of
+  
+   32-
+  
+  and
+  
+   64-bit
+  
+
+   architectures
+  
+  . These range from
+  
+   VAX
+  
+
+   minicomputers
+  
+  to
+  
+   Pocket PC
+  
+
+   PDAs
+  
+  . As of 2009, NetBSD supports 57 hardware platforms (across 15 different
+  
+   processor architectures
+  
+  ). The kernel and
+  
+   userland
+  
+  for these platforms are all built from a central unified source-code tree managed by
+  
+   CVS
+  
+  . Currently, unlike other kernels such as
+  
+   μClinux
+  
+  , the NetBSD kernel requires the presence of an
+  
+   MMU
+  
+  in any given target architecture.
+ 
+  NetBSD's portability is aided by the use of
+  
+   hardware abstraction layer
+  
+  interfaces for low-level hardware access such as
+  
+   bus
+  
+  input/output or
+  
+   DMA
+  
+  . Using this portability layer,
+  
+   device drivers
+  
+  can be split into "machine-independent" and "machine-dependent" components. This makes a single driver easily usable on several platforms by hiding hardware access details, and reduces the work to port it to a new system.
+  
+
+    [13]
+   
+
+
+  This permits a particular device driver for a
+  
+   PCI
+  
+  card to work without modifications, whether it's in a PCI slot on an
+  
+   IA-32
+  
+  ,
+  
+   Alpha
+  
+  ,
+  
+   PowerPC
+  
+  ,
+  
+   SPARC
+  
+  , or other architecture with a PCI bus. Also, a single driver for a specific device can operate via several different buses, like
+  
+   ISA
+  
+  , PCI, or
+  
+   PC card
+  
+  .
+ 
+  In comparison,
+  
+   Linux
+  
+  device driver code often must be reworked for each new architecture. As a consequence, in porting efforts by NetBSD and Linux developers, NetBSD has taken much less time to port to new hardware.
+  
+
+    [14]
+   
+
+
+   [
+   
+
+
+      better source needed
+     
+
+
+   ]
+  
+
+  This
+  
+   platform independence
+  
+  aids the development of
+  
+   embedded systems
+  
+  , particularly since NetBSD 1.6, when the entire toolchain of
+  
+   compilers
+  
+  ,
+  
+   assemblers
+  
+  ,
+  
+   linkers
+  
+  , and other tools fully support
+  
+   cross-compiling
+  
+  .
+ 
+  In 2005, as a demonstration of NetBSD's portability and suitability for embedded applications, Technologic Systems, a vendor of embedded systems hardware, designed and demonstrated a NetBSD-powered kitchen
+  
+   toaster
+  
+  .
+  
+
+    [15]
+   
+
+
+  Commercial ports to embedded platforms, including the
+  
+   AMD Geode
+  
+  LX800,
+  
+   Freescale
+  
+
+   PowerQUICC
+  
+  processors, Marvell Orion,
+  
+   AMCC
+  
+
+   405
+  
+  family of PowerPC processors,
+  
+   Intel
+  
+
+   XScale
+  
+  IOP and IXP series, were available from and supported by Wasabi Systems.
+ 
+  The NetBSD cross-compiling framework (also known as "build.sh"
+  
+
+    [16]
+   
+
+  ) lets a developer build a complete NetBSD system for an architecture from a more powerful system of different architecture (
+  
+   cross-compiling
+  
+  ), including on a different operating system (the framework supports most
+  
+   POSIX
+  
+  -compliant systems). Several embedded systems using NetBSD have required no additional software development other than toolchain and target rehost.
+  
+
+    [14]
+   
+
+
+  NetBSD features
+  
+
+    pkgsrc
+   
+
+  (short for "package source"), a framework for building and managing third-party
+  
+   application software
+  
+  packages. The pkgsrc collection consists of more than 12000 packages as of October 2012
+  
+
+    [update]
+   
+
+  .
+  
+
+    [17]
+   
+
+  Building and installing packages such as
+  
+   KDE
+  
+  ,
+  
+   GNOME
+  
+  , the
+  
+   Apache HTTP Server
+  
+  or
+  
+   Perl
+  
+  is performed through the use of a system of
+  
+   makefiles
+  
+  . This can automatically fetch the source code, unpack, patch, configure, build and install the package such that it can be removed again later. An alternative to compiling from source is to use a precompiled binary package. In either case, any prerequisites/dependencies will be installed automatically by the package system, without need for manual intervention.
+ 
+  pkgsrc supports not only NetBSD, but also several other BSD variants like
+  
+   FreeBSD
+  
+  and
+  
+   Darwin
+  
+  /
+  
+   Mac OS X
+  
+  , and other
+  
+   Unix-like
+  
+  operating systems such as
+  
+   Linux
+  
+  ,
+  
+   Solaris
+  
+  ,
+  
+   IRIX
+  
+  , and others, as well as
+  
+   Interix
+  
+  .
+  
+   pkgsrc
+  
+  was previously adopted as the official package management system for
+  
+   DragonFly BSD
+  
+  .
+  
+
+    [18]
+   
+
+
+  NetBSD has supported
+  
+   SMP
+  
+  since the NetBSD 2.0 release in 2004,
+  
+
+    [19]
+   
+
+  which was initially implemented using the
+  
+   giant lock
+  
+  approach. During the development cycle of the NetBSD 5 release, major work was done to improve SMP support; most of the kernel subsystems were modified to be
+  
+   MP safe
+  
+  and use the
+  
+   fine-grained locking
+  
+  approach. New
+  
+   synchronization primitives
+  
+  were implemented and
+  
+   scheduler activations
+  
+  was replaced with a
+  
+   1:1 threading model
+  
+  in February 2007.
+  
+
+    [20]
+   
+
+  A scalable M2 thread scheduler was implemented, though the old 4.4BSD scheduler still remains the default but was modified to scale with SMP. Threaded
+  
+   software interrupts
+  
+  were implemented to improve synchronization. The
+  
+   virtual memory
+  
+  system,
+  
+   memory allocator
+  
+  and
+  
+   trap handling
+  
+  were made MP safe. The file system framework, including the
+  
+   VFS
+  
+  and major
+  
+   file systems
+  
+  were modified to be MP safe. Since April, 2008 the only subsystems running with a giant lock are the
+  
+   network protocols
+  
+  and most
+  
+   device drivers
+  
+  .
+ 
+  NetBSD provides various features in the security area.
+  
+
+    [21]
+   
+
+  The Kernel Authorization framework
+  
+
+    [22]
+   
+
+  (or Kauth) is a subsystem managing all authorization requests inside the kernel, and used as system-wide security policy. It allows external modules to plug-in the authorization process. NetBSD also incorporates exploit mitigation features,
+  
+
+    [23]
+   
+
+
+   ASLR
+  
+  , restricted mprotect() and Segvguard from the
+  
+   PaX
+  
+  project, and
+  
+   GCC
+  
+
+   Stack Smashing Protection
+  
+  (SSP, or also known as ProPolice, enabled by default since NetBSD 6.0) compiler extensions.
+  
+   Verified Executables
+  
+  (or Veriexec) is an in-kernel file integrity subsystem in NetBSD. It allows the user to set digital fingerprints (hashes) of files, and take a number of different actions if files do not match their fingerprints. For example, one can allow
+  
+   Perl
+  
+  to run only scripts that match their fingerprints.
+  
+
+    [24]
+   
+
+  The cryptographic device driver (CGD) allows using disks or partitions (including CDs and DVDs) for encrypted storage.
+  
+
+    [25]
+   
+
+
+  The
+  
+   Xen
+  
+
+   virtual-machine monitor
+  
+  has been supported in NetBSD since release 3.0. The use of Xen requires a special pre-kernel boot environment that loads a Xen-specialized kernel as the "host OS" (Dom0). Any number of "guest OSes" (DomU) virtualized computers, with or without specific Xen/DomU support, can be run in parallel with the appropriate hardware resources.
+ 
+  The need for a third-party boot manager, such as GRUB, was eliminated with NetBSD 5's Xen-compatible boot manager.
+  
+
+    [26]
+   
+
+  NetBSD 6 as a Dom0 has been benchmarked comparably to Linux, with better performance than Linux in some tests.
+  
+
+    [27]
+   
+
+
+  User-space
+  
+   virtualization
+  
+  such as
+  
+   VirtualBox
+  
+  and
+  
+   QEMU
+  
+  are also supported on NetBSD.
+ 
+  NetBSD 5.0 introduced the
+  
+   rump kernel
+  
+  , an architecture to run drivers in user-space by emulating kernel-space calls. This anykernel architecture allows adding support of NetBSD drivers to other kernel architectures, ranging from
+  
+   exokernels
+  
+  to
+  
+   monolithic kernels
+  
+  .
+  
+
+    [28]
+   
+
+
+  NetBSD includes many enterprise features like
+  
+   iSCSI
+  
+  , a
+  
+   journaling filesystem
+  
+  ,
+  
+   logical volume management
+  
+  and the
+  
+   ZFS
+  
+  filesystem.
+ 
+  The WAPBL journaling filesystem, an extension of the BSD FFS filesystem, was contributed by Wasabi Systems in 2008.
+  
+
+    [29]
+   
+
+
+  The NetBSD Logical Volume Manager is based on a BSD reimplementation of a device-mapper driver and a port of the Linux
+  
+   Logical Volume Manager
+  
+  tools. It was mostly written during the
+  
+   Google Summer of Code
+  
+  2008.
+  
+
+    [30]
+   
+
+
+  The
+  
+   ZFS
+  
+  filesystem developed by
+  
+   Sun Microsystems
+  
+  was imported into the NetBSD base system in 2009. Currently, the NetBSD ZFS port is based on ZFS version 22.
+ 
+  The
+  
+   CHFS
+  
+
+   Flash memory
+  
+  filesystem was imported into NetBSD in November 2011. CHFS is a file system developed at the Department of Software Engineering,
+  
+   University of Szeged
+  
+  ,
+  
+   Hungary
+  
+  , and is the first open source Flash-specific file system written for NetBSD.
+ 
+  At the source code level, NetBSD is very nearly entirely compliant with
+  
+   POSIX
+  
+  .1 (IEEE 1003.1-1990) standard and mostly compliant with POSIX.2 (IEEE 1003.2-1992).
+ 
+  NetBSD provides
+  
+   system call
+  
+  -level binary compatibility on the appropriate processor architectures with its previous releases, but also with several other
+  
+   UNIX
+  
+  -derived and UNIX-like operating systems, including
+  
+   illumos
+  
+  /
+  
+   Solaris
+  
+  ,
+  
+   Linux
+  
+  , other BSD variants like
+  
+   FreeBSD
+  
+  , Apple's
+  
+   Darwin
+  
+  /
+  
+   OS X
+  
+
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  and
+  
+   SunOS
+  
+  4. This allows NetBSD users to run many applications that are only distributed in binary form for other operating systems, usually with no significant loss of performance.
+  
+
+    [31]
+   
+
+
+  A variety of "foreign" disk
+  
+   filesystem
+  
+  formats are also supported in NetBSD, including
+  
+   FAT
+  
+  ,
+  
+   NTFS
+  
+  , Linux
+  
+   ext2fs
+  
+  ,
+  
+   OS X
+  
+
+   UFS
+  
+  ,
+  
+   RISC OS
+  
+  FileCore/ADFS,
+  
+   AmigaOS
+  
+
+   Fast File System
+  
+  ,
+  
+   IRIX
+  
+
+   EFS
+  
+  and many more through
+  
+   FUSE
+  
+  .
+ 
+  Kernel-space scripting with the
+  
+   Lua programming language
+  
+  is a relatively new feature in NetBSD; it is available as of NetBSD 7.0.
+  
+
+    [32]
+   
+
+  The Lua language (i.e., its interpreter and standard libraries) was initially ported to the NetBSD kernel during Google Summer of Code 2010 and has undergone several improvements since then. There are two main differences between user and kernel space Lua: kernel Lua does not support
+  
+   floating-point numbers
+  
+  ; as such, only Lua integers are available. It also does not have full support to user space libraries that rely on the operating system (e.g.,
+  
+   io
+  
+  and
+  
+   os
+  
+  ).
+ 
+  All of the NetBSD kernel and most of the core userland source code is released under the terms of the
+  
+   BSD License
+  
+  (two, three, and four-clause variants). This essentially allows everyone to use, modify, redistribute or sell it as they wish, as long as they do not remove the copyright notice and license text (the four-clause variants also include terms relating to publicity material). Thus, the development of products based on NetBSD is possible without having to make modifications to the source code public. In contrast, the
+  
+   GPL
+  
+  , which does not apply to NetBSD, stipulates that changes to source code of a product must be released to the product recipient when products derived from those changes are released.
+ 
+  On 20 June 2008, the NetBSD Foundation announced a transition to the two clause BSD license, citing concerns with UCB support of clause 3 and industry applicability of clause 4.
+  
+
+    [33]
+   
+
+
+  NetBSD also includes the
+  
+   GNU
+  
+  development tools and other packages, which are covered by the GPL and other open source licenses. As with other
+  
+   BSD
+  
+  projects, NetBSD separates those in its base source tree to make it easier to remove code that is under more restrictive licenses.
+  
+
+    [34]
+   
+
+  As for packages, the installed software licenses may be controlled by modifying the list of allowed licenses in the pkgsrc configuration file (
+  
+   mk.conf
+  
+  ).
+ 
+  The following table lists major NetBSD releases and their notable features in reverse chronological order. Minor and patch releases are not included.
+ 
+  The NetBSD "flag" logo, designed by Grant Bissett, was introduced in 2004 and is an abstraction of their older logo,
+  
+
+    [52]
+   
+
+  designed by Shawn Mueller in 1994. Mueller's version was based on the famous
+  
+   World War II
+  
+  photograph
+  
+   Raising the Flag on Iwo Jima
+  
+  , which some perceived as culturally insensitive and inappropriate for an international project.
+  
+
+    [53]
+   
+
+
+  The NetBSD Foundation is the legal entity that owns the intellectual property and trademarks associated with NetBSD,
+  
+
+    [54]
+   
+
+  and on 22 January 2004, became a
+  
+   501(c)3
+  
+  tax-exempt non-profit organization. The members of the foundation are developers who have CVS commit access.
+  
+
+    [55]
+   
+
+  The NetBSD Foundation has a Board of Directors, elected by the voting of members for two years.
+  
+
+    [56]
+   
+
+
+  NetBSD's clean design, high performance, scalability, and support for many architectures has led to its use in embedded devices and servers, especially in networking applications.
+  
+
+    [57]
+   
+
+
+  A commercial
+  
+   real-time operating system
+  
+  ,
+  
+   QNX
+  
+  , uses a network stack based on NetBSD code,
+  
+
+    [58]
+   
+
+
+
+    [59]
+   
+
+  and provides various drivers ported from NetBSD.
+  
+
+    [57]
+   
+
+
+
+   Dell Force10
+  
+  uses NetBSD as the underlying operating system that powers FTOS (the Force10 Operating System), which is used in high scalability switch/routers.
+  
+
+    [60]
+   
+
+  Force10 also made a donation to the NetBSD Foundation in 2007 to help further research and the open development community.
+  
+
+    [61]
+   
+
+
+
+   Wasabi Systems
+  
+  provides a commercial Wasabi Certified BSD product based on NetBSD with proprietary enterprise features and extensions, which are focused on embedded, server and storage applications.
+  
+
+    [62]
+   
+
+
+  NetBSD was used in
+  
+   NASA
+  
+  's
+  
+   SAMS-II Project
+  
+  of measuring the microgravity environment on the
+  
+   International Space Station
+  
+  ,
+  
+
+    [63]
+   
+
+
+   [
+   
+
+
+      better source needed
+     
+
+
+   ]
+  
+  and for investigations of
+  
+   TCP
+  
+  for use in
+  
+   satellite
+  
+  networks.
+  
+
+    [64]
+   
+
+
+  In 2004,
+  
+   SUNET
+  
+  used NetBSD to set the
+  
+   Internet2
+  
+  Land Speed Record. NetBSD was chosen "due to the scalability of the TCP code".
+  
+
+    [65]
+   
+
+
+  NetBSD is also used in
+  
+   Apple's
+  
+
+   AirPort Extreme
+  
+  and
+  
+   Time Capsule
+  
+  products,
+  
+
+    [66]
+   
+
+
+
+    [67]
+   
+
+  instead of their own
+  
+   OS X
+  
+  (most of whose Unix-level userland code is derived from FreeBSD code but some is derived from NetBSD code
+  
+
+    [68]
+   
+
+
+
+    [69]
+   
+
+  ).
+ 
+  The operating system of the
+  
+   T-Mobile Sidekick
+  
+  LX 2009
+  
+   smartphone
+  
+  is based on NetBSD.
+  
+
+    [70]
+   
+
+
+  The
+  
+   Minix
+  
+  operating system uses a mostly NetBSD userland as well as its
+  
+   pkgsrc
+  
+  packages infrastructure since version 3.2.
+  
+
+    [71]
+   
+
+
+  Hosting for the project is provided primarily by the
+  
+   Internet Systems Consortium
+  
+  Inc,
+  
+   Columbia University
+  
+  , and
+  
+   Western Washington University
+  
+  . Mirrors for the project are spread around the world and provided by volunteers and supporters of the project.
+ 
+      Use of
+      
+       chmod
+      
+
+      Use of
+      
+       mount
+      
+
+
+       fstab
+      
+      , mount options rw,noauto
+     
+
+       fstab
+      
+      , mount options rw,auto
+     
+

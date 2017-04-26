@@ -1,0 +1,727 @@
+
+
+  The
+  
+   iPhone 5C
+  
+  (marketed with a stylized lowercase 'c' as
+  
+   iPhone 5c
+  
+  ) is a
+  
+   smartphone
+  
+  that was designed and marketed by
+  
+   Apple Inc.
+  
+  The device was part of the
+  
+   iPhone
+  
+  series and was unveiled on September 10, 2013,
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  and released on September 20, 2013,
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+  along with its higher-end counterpart, the
+  
+   iPhone 5S
+  
+  .
+ 
+  The iPhone 5C is a variant of the
+  
+   iPhone 5
+  
+  , with similar hardware specifications but a hard-coated
+  
+   polycarbonate
+  
+  shell instead of the aluminium of the original iPhone 5. The iPhone 5C was available in several color options, and shipped with
+  
+   iOS 7
+  
+  . The iPhone 5C was sold at a discounted price point in comparison to the 5S: unlike Apple's prior practice of lowering the price of the previous model upon release of a new version, the iPhone 5 was explicitly discontinued and replaced by the 5C. On September 9, 2014, the 16 and 32 GB iPhone 5C models were replaced by the 8 GB model with the announcement of the
+  
+   iPhone 6
+  
+  and iPhone 6 Plus. On September 9, 2015, the 8 GB version was discontinued upon the announcement of the
+  
+   iPhone 6S
+  
+  .
+ 
+
+
+  Apple announced the iPhone 5C, along with the iPhone 5S during a media event at its
+  
+   Cupertino
+  
+  headquarters on September 10, 2013. Thus, the
+  
+   iPhone 5S
+  
+  became the new flagship of the iPhone range, while the iPhone 5C was designed as a mid-range model, and the
+  
+   iPhone 4S
+  
+  continued production becoming the entry-level model of the series. The iPhone 5S 16 GB retailed in the US for $199 on contract or $649 off-contract, the iPhone 5C 16 GB retailed for $99 on contract or $549 off-contract, and the iPhone 4S 8 GB had dropped to $0 on contract or $449 off-contract.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+  Unlike past iPhone releases, where the previous generation model continued to be produced but sold at a lower price alongside the newest model, the iPhone 5 was discontinued when the iPhone 5S was released. It was thought that continuing to offer the original iPhone 5 at a lower price would have cut into Apple's profit margins, thus substituting the aluminum body for a polycarbonate case (resulting in the iPhone 5C) to reduce costs. Also, it was believed that Apple's accustomed strategy of maintaining sales of older iPhone iterations – while still successful – would not have sparked as much demand as a "new" iPhone would, hence Apple's efforts to brand the 5C as a new product.
+  
+
+    [9]
+   
+
+
+  The iPhone 5C was rumored to be the long-awaited "inexpensive iPhone" or "cheap iPhone". However, it competed with other mid-range devices which slotted right below flagship phones, like the
+  
+   HTC One Mini
+  
+  and
+  
+   Moto X
+  
+  .
+  
+
+    [10]
+   
+
+  Given Apple's premium pricing tendencies, the iPhone 5C was initially sold at prices similar to other high-end flagship smartphones released early in 2013 (and receiving discounts after being on the market for six months) such as the
+  
+   Samsung Galaxy S4
+  
+  and
+  
+   HTC One
+  
+  .
+  
+
+    [11]
+   
+
+  Like previous iPhones, it did not compete in the
+  
+   feature phone
+  
+  segment nor the unsubsidized/prepaid category.
+  
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+  On March 18, 2014, an 8 GB version of the device was released in UK, France, Germany, Italy, Australia, Sweden and China.
+  
+
+    [12]
+   
+
+  On September 9, 2014, Apple discontinued the iPhone 4S as part of its annual refresh of the iPhone lineup – in which time the
+  
+   iPhone 6
+  
+  and iPhone 6 Plus were introduced – thus making the iPhone 5C the entry-level model complimentary when a two-year contract is signed with a US carrier or $349 off-contract. The 16 & 32 GB versions of the iPhone 5C were also discontinued globally, replaced by the 8 GB model. However, some carriers in the US like AT&T kept the 16 GB and 32 GB models instead of having the 8 GB model, thus the 16 GB model was $0 (on-contract) and the 32 GB was priced between $50–$100 (on-contract).
+  
+
+    [13]
+   
+
+  The 8 GB iPhone 5C succeeded the discontinued iPhone 4S as Apple's entry-level smartphone.
+ 
+  On September 9, 2015, with the announcement of the
+  
+   iPhone 6S
+  
+  and iPhone 6S Plus, the 8 GB iPhone 5C was discontinued, being replaced by the 16 and 32 GB iPhone 5S as Apple's entry-level smartphone.
+ 
+  The phone has been redesigned using polycarbonate housing, which is strengthened by a steel band. However, due to the material of design changes, the phone weighs 132 grams, which is 20 grams heavier than both the 5 and the 5S, but still lighter than older iPhone models. The design of the iPhone 5C is also considerably thicker but closely similar to the design of the
+  
+   iPod Touch (5th generation)
+  
+  models, which is also available in a variety of colors, but in a different coating finish. Other minor changes include a different camera assembly and the design of the mute/ringer switch. This iPhone received positive reviews for its design claiming that it was the most durable iPhone ever. Unlike subsequent models, the iPhone 5C is offered in five colours (blue, green, yellow, pink and white).
+ 
+  The
+  
+   iPhone 5C
+  
+  features
+  
+   iOS
+  
+  , Apple's
+  
+   mobile operating system
+  
+  .
+  
+
+    [14]
+   
+
+  The
+  
+   user interface
+  
+  of iOS is based on the concept of
+  
+   direct manipulation
+  
+  , using
+  
+   multi-touch gestures
+  
+  . Interlock control elements consist of sliders, switches, and buttons.
+  
+
+    [15]
+   
+
+  Interaction with the OS includes gestures such as
+  
+   swipe
+  
+  ,
+  
+   tap
+  
+  ,
+  
+   pinch
+  
+  , and
+  
+   reverse pinch
+  
+  , all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal
+  
+   accelerometers
+  
+  are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it vertically (one common result is switching from portrait to landscape mode).
+  
+
+    [15]
+   
+
+
+  The iPhone 5C was supplied with iOS 7, released on September 20, 2013.
+  
+
+    [16]
+   
+
+
+   Jonathan Ive
+  
+  , the designer of iOS 7's new elements, described the update as "bringing order to complexity", highlighting features such as refined typography, new icons, translucency, layering, physics, and gyroscope-driven
+  
+   parallaxing
+  
+  as some of the major changes to the design.
+  
+
+    [17]
+   
+
+  The design of both iOS 7 and
+  
+   OS X Mavericks
+  
+  (version 10.9) noticeably depart from
+  
+   skeuomorphic
+  
+  elements such as green felt in
+  
+   Game Center
+  
+  , wood in
+  
+   Newsstand
+  
+  , and leather in
+  
+   Calendar
+  
+  , in favor of flatter graphic design.
+  
+
+    [17]
+   
+
+
+  The phone can act as a
+  
+   hotspot
+  
+  , sharing its Internet connection over
+  
+   Wi-Fi
+  
+  ,
+  
+   Bluetooth
+  
+  , or
+  
+   USB
+  
+  , and also accesses the
+  
+   App Store
+  
+  , an online
+  
+   application
+  
+
+   distribution
+  
+  platform for iOS developed and maintained by Apple. The service allows users to browse and download
+  
+   applications
+  
+  from the
+  
+   iTunes Store
+  
+  that were developed with
+  
+   Xcode
+  
+  and the
+  
+   iOS SDK
+  
+  and were published through Apple.
+  
+
+    [18]
+   
+
+
+  iOS 7 adds AirDrop, an ad-hoc Wi-Fi sharing platform. Users can share files with an iPhone 5 onwards, the
+  
+   iPod Touch
+  
+  (5th generation),
+  
+   iPad (4th generation)
+  
+  , or
+  
+   iPad Mini
+  
+  .
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+  The operating system also adds Control Center, which gives iOS users access to commonly used controls and apps. By swiping up from any screen–including the Lock screen–users can do such things as switch to
+  
+   Airplane mode
+  
+  , turn Wi-Fi on or off, adjust the display brightness and similar basic functions of the device. It also includes a new integrated flashlight function to operate the reverse camera's flash
+  
+   LED
+  
+  as a
+  
+   flashlight
+  
+  .
+  
+
+    [21]
+   
+
+
+  The
+  
+   iPhone 5C
+  
+  functions as a media player, and includes
+  
+   Apple Maps
+  
+  and
+  
+   Passbook
+  
+  . The mapping application includes
+  
+   turn-by-turn navigation
+  
+  spoken directions, 3D views in some major cities and real-time traffic.
+  
+
+    [22]
+   
+
+  Users can rotate their device horizontally to
+  
+   landscape mode
+  
+  to access a collage of album covers.
+ 
+  The 5C includes
+  
+   Siri
+  
+  , an
+  
+   intelligent personal assistant
+  
+  and
+  
+   knowledge navigator
+  
+  . The application uses a
+  
+   natural language user interface
+  
+  to answer questions, make recommendations, and perform actions by delegating requests to a set of
+  
+   Web services
+  
+  . Apple claims that the software adapts to the user's individual preferences over time and personalizes results.
+  
+
+    [23]
+   
+
+  iOS 7 adds new male and female voices, new system setting functionalities, a redesign to match the rest of the operating system, and integration with Twitter, Wikipedia, Bing, and Photos.
+  
+
+    [24]
+   
+
+  The highest operating system it supports currently is iOS 8.4 which Apple released on June 30, 2015 featuring the new Music app and Apple Music. On June 8, 2015, it was announced at WWDC that the iPhone 5C would support iOS 9 as well. In WWDC 2016 it was confirmed that it will be getting iOS 10. Apple announced in April 2017 that the newest iOS 10.3.2 would no longer support 32-bit iPhones, such as the iPhone 5c.
+  
+
+    [25]
+   
+
+
+  Facebook comes integrated through Apple's native apps. Facebook features can be directly accessed from within native apps such as Calendar which can sync Facebook events, or use Facebook's
+  
+   like button
+  
+  from within the
+  
+   Apple App Store
+  
+  .
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+
+   iTunes Radio
+  
+  , an
+  
+   internet radio
+  
+  service, is also included on the iPhone 5C. It is a free,
+  
+   ad-supported
+  
+  service available to all iTunes users, featuring
+  
+   Siri
+  
+  integration on iOS. Users are able to skip tracks, customize stations, and purchase the station's songs from the
+  
+   iTunes Store
+  
+  . Users can also search through their history of previous songs.
+  
+
+    [28]
+   
+
+
+  The iPhone 5C uses most of the same hardware as the iPhone 5, with some minor changes.
+ 
+  The iPhone 5C uses a
+  
+   system on chip
+  
+  (SoC), called the
+  
+   Apple A6
+  
+  , the same chip that powered the iPhone 5.
+  
+
+    [29]
+   
+
+  The SoC comprises a 1.3
+  
+   GHz
+  
+
+   dual-core
+  
+
+   processor
+  
+  , 1
+  
+   GB
+  
+  of
+  
+   RAM
+  
+  and a tri-core PowerVR SGX543MP3 running at 266
+  
+   MHz
+  
+  .
+  
+
+    [30]
+   
+
+
+
+    [31]
+   
+
+
+  The iPhone 5C has new LTE antennas that now cover more LTE bands than any other smartphone according to Apple.
+  
+
+    [32]
+   
+
+  The device is made up of a unibody hard-coated polycarbonate body with a steel-reinforced frame, which also acts as an antenna. The iPhone 5C is available in multiple bright colors for the back — blue, green, pink, yellow, and white, with a black glass front.
+  
+
+    [33]
+   
+
+  It features a 4-inch Retina, multi-touch display, which has a 640×1136 pixel resolution. Storage capacities available are fixed at 8, 16, or 32
+  
+   GB
+  
+  ; plug-in
+  
+   memory card
+  
+  are not supported.
+ 
+  The iPhone 5C retains the 8
+  
+   MP
+  
+  back camera similar to the iPhone 5 but with a different camera assembly. The front camera, which is accessible through the
+  
+   FaceTime
+  
+  and camera app has a lower resolution, at 1.2 megapixels. The rechargeable
+  
+   lithium-ion battery
+  
+  with a charge capacity of 1510mAh
+  
+
+    [2]
+   
+
+  is slightly improved upon iPhone 5's 1440mAh battery. It is integrated and cannot be replaced by the user. It is rated at ≤225 hours of standby time and ≤8 hours of talk time.
+  
+
+    [34]
+   
+
+
+  The iPhone 5C lacks the major new features introduced in the iPhone 5S. It does not have the iPhone 5S's
+  
+   Touch ID
+  
+  fingerprint scanner. It also does not have the 64-bit
+  
+   A7
+  
+  SoC with the M7 motion co-processor. However the iPhone 5C does support snapping still photos while video recording and 3x digital zooming.
+ 
+  The iPhone 5c uses a Nano SIM card, same as the iPhone 5s and the iPhone 5.
+ 
+  During the iPhone's media event, Apple announced a case for the iPhone 5C that is available in six colors: black, white, pink, yellow, blue, and green. Holes are cut out of the case to show the color of the iPhone's back through the case, making for an almost two-tone looking device. The cases and phone colors make for thirty different color combinations.
+  
+
+    [35]
+   
+
+  The inside of the case is lined with soft microfiber, with the outside being made of silicone. This is the first time Apple released a case for an iPhone since the iPhone 4 with the
+  
+   iPhone 4 Bumpers
+  
+  . The iPhone 5C is the only iPhone newer than the iPhone 5 that does not fit with the
+  
+   Apple Leather Case
+  
+  .
+ 
+  Apple also released a previously announced dock for the iPhone 5C,
+  
+
+    [36]
+   
+
+  the first time Apple has made a dock since the iPhone 4. It has received overwhelmingly negative reviews on Apple's online store due to the fact that cases are not compatible with it.
+ 
+  The iPhone 5C received mostly positive reviews. While the phone itself was regarded as solid, the polycarbonate shell was considered a downgrade lacking a 'premium' look and feel, compared to the aluminum bodies of the
+  
+   iPhone 5
+  
+  and
+  
+   iPhone 5S
+  
+  .
+  
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+
+
+    [39]
+   
+
+
+  Most reviewers generally noted that the iPhone 5S offered more features (thanks to its 64-bit
+  
+   A7
+  
+  SoC with the M7 motion co-processor) and storage space for a relatively small additional upfront cost ($650 USD versus $550 USD in March 2014) over the iPhone 5C, during the time that both phones were sold side by side. The 8 GB version of the iPhone 5C, released in 2014, was described as "unusable" as only 4.9GB is available to the user after installing iOS 8.
+  
+
+    [12]
+   
+
+
+
+    [40]
+   
+
+  At the same time, the iPhone 5C was too expensive to compete with smartphones designed for developing markets such as the
+  
+   Nexus 5
+  
+  and
+  
+   Moto G
+  
+  .
+  
+
+    [41]
+   
+
+
+  The iPhone 5S and 5C sold over nine million units in the first three days, which set a record for first weekend smartphone sales,
+  
+
+    [42]
+   
+
+  with the 5S selling three times more units than iPhone 5C. After the first day of release, 1% of all iPhone in the US were iPhone 5S, while 0.3% were iPhone 5C.
+  
+
+    [43]
+   
+
+
+  Commentators viewed iPhone 5C as a flop because of
+  
+   supply chain
+  
+  cuts signifying a decline in demand in October 2013.
+  
+
+    [44]
+   
+
+  Apple CEO
+  
+   Tim Cook
+  
+  admitted that the company overstocked the iPhone 5C while having shortages of the iPhone 5S, as a result of failing to anticipate the sales ratio between both phones.
+  
+
+    [41]
+   
+
+  Six months after the release of the iPhone 5C, on March 25, 2014, Apple announced that sales of the iPhone line has crossed 500 million units, but did not break out how many of these units were the iPhone 5C.
+  
+
+    [45]
+   
+
+  iPhone 5C was among the top three best selling phones in the US for three months after its launch.
+  
+
+    [46]
+   
+
+
+

@@ -22,7 +22,7 @@ class knowledgeGraph():
         self.mostRelatedPath()
 
     def sim(self):
-        # doing the tfidf and cosine similarity
+        ### Doing the tfidf and cosine similarity
         flist = os.listdir(self.pagePath + '/' + self.contentPath)
         self.tfidf = TfidfVectorizer(input=u'content', strip_accents='ascii', stop_words='english')
         text_dict = {int(f.strip('.txt')): file('%s/%s/%s' %(self.pagePath, self.contentPath, f)).read() for f in flist}
@@ -34,7 +34,7 @@ class knowledgeGraph():
 
 
     def buildGraph(self):
-        # building the weighted graph
+        ### building the weighted graph
         self.urlGraph, self.url2idx = pkl.load(file('%s/urlgi.pkl' % (self.pagePath)))
         self.idx2url = {self.url2idx[url]: url for url in self.url2idx}
         self.graph = {}
@@ -51,6 +51,7 @@ class knowledgeGraph():
         # np.save(file('%s/graph.npy' % (self.pagePath), 'w'), self.cosCoef)
 
     def mostRelatedPath(self):
+        ### Computing the all-pair most related path and storing the route information. 
         self.distance = np.copy(self.cosCoef)
         N = len(self.distance)
         self.route = np.ones(self.distance.shape, dtype=int) * -1
@@ -70,6 +71,10 @@ class knowledgeGraph():
         return self.distance, self.route
 
     def matchQuery(self, query):
+        ### Use tf-idf to match a query with a document. 
+        ### First match the query with the document titles (generated from the url).
+        ### If no title is matched, then match the query with document content. 
+        ### If no document is matched again, then return a default page.  
         titleVec = self.tfidfTitle.transform([query])
         tmp = (self.tfsTitle * titleVec.T).toarray()
         titleID = np.argmax(tmp)
@@ -89,6 +94,8 @@ class knowledgeGraph():
         return descendantID, ancestorID
 
     def searchRoute(self, doc1, doc2):
+        ### Return turn a list of files on the most related path 
+        ### from doc1 to doc2 excluding doc2
         if doc1 == doc2:
             return []
         elif self.route[doc1, doc2] == -1:

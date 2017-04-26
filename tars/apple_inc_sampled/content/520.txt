@@ -1,0 +1,529 @@
+
+
+
+   Retina Display
+  
+  (marketed by Apple with a lowercase 'D' as
+  
+   Retina display
+  
+  ) is a brand name used by
+  
+   Apple
+  
+  for screens that have a higher
+  
+   pixel density
+  
+  than their previous models.
+  
+
+    [1]
+   
+
+  Apple has applied to register the term "Retina" as a
+  
+   trademark
+  
+  in regard to computers and mobile devices with the
+  
+   United States Patent and Trademark Office
+  
+  ,
+  
+   Canadian Intellectual Property Office
+  
+  , and in Jamaica.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  On November 27, 2012 the US Patent and Trademark office approved Apple's application and "Retina" is now a registered trademark for computer equipment.
+ 
+  When an Apple product has a Retina Display, each user interface widget is doubled in width and height to compensate for the smaller pixels. Apple calls this mode
+  
+   HiDPI mode
+  
+  . The goal of Retina Displays is to make the display of text and images extremely crisp, so pixels are not visible to the naked eye.
+  
+
+    [4]
+   
+
+  This allows displays to rival the smooth curves and sharpness of printed text and immediacy of photographic prints.
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+  These better quality displays have been gradually released over a number of years, and the term is now used for nearly all of Apple products containing a screen, including
+  
+   Apple Watch
+  
+  ,
+  
+   iPhone
+  
+  ,
+  
+   iPod Touch
+  
+  ,
+  
+   iPad
+  
+  ,
+  
+   MacBook
+  
+  ,
+  
+   MacBook Pro
+  
+  , and
+  
+   iMac
+  
+  .
+  
+
+    [8]
+   
+
+  Apple uses slightly different versions of the term for these models, including
+  
+   Retina HD Display
+  
+  for the
+  
+   iPhone 6 series
+  
+  ,
+  
+
+    [9]
+   
+
+  and
+  
+   Retina
+   
+    4K
+   
+   /
+   
+    5K
+   
+   Display
+  
+  for iMac.
+  
+
+    [10]
+   
+
+
+  Apple's Retina Displays are not an absolute standard but vary depending on the size of the display on the device, and how close the user would typically be viewing the screen. Where users view the screen at a closer distance to their eyes, as on smaller devices with smaller displays, the displays have more PPI (Pixels Per Inch), while larger devices with larger displays where the user views the screen further away use fewer PPI. Later device versions have had additional improvement, either counted by an increase in the screen size (the iPhone 6 Plus) and/or by PPI (the iPhone 6 Plus, and iMac with Retina 4K/5K Display), thus Apple using the name "Retina HD Display" or "Retina 4K/5K Display".
+ 
+
+
+  When introducing the
+  
+   iPhone 4
+  
+  ,
+  
+   Steve Jobs
+  
+  said the number of pixels needed for a Retina Display is about 300 PPI for a device held 10 to 12 inches from the eye.
+  
+
+    [1]
+   
+
+  One way of expressing this as a unit is pixels-per-degree (PPD) which takes into account both the screen resolution and the distance from which the device is viewed. Based on Jobs' predicted number of 300, the threshold for a Retina Display starts at the PPD value of 57 PPD. 57 PPD means that a tall
+  
+   skinny triangle
+  
+  with a height equal to the viewing distance and a top angle of one degree will have a base on the device's screen that covers 57 pixels. Any display's viewing quality (from phone displays to huge projectors) can be described with this size-independent universal parameter. Note that the PPD parameter is not an intrinsic parameter of the display itself, unlike absolute pixel resolution (e.g. 1920×1080 pixels) or relative pixel density (e.g. 401 PPI), but is dependent on the distance between the display and the eye of the person (or lens of the device) viewing the display; moving the eye closer to the display reduces the PPD, and moving away from it increases the PPD in proportion to the distance. It can be calculated by the formula
+ 
+  where
+  
+
+
+
+
+
+
+         d
+        
+
+
+
+       {\displaystyle d}
+      
+
+
+
+
+
+  is the distance to the screen and
+  
+
+
+
+
+
+
+         r
+        
+
+
+
+       {\displaystyle r}
+      
+
+
+
+
+
+  is the resolution of the screen in pixels per unit length.
+ 
+  In practice, thus far Apple has converted a device's display to Retina by doubling the number of pixels in each direction, quadrupling the total resolution. This increase creates a sharper interface at the same physical dimensions. The sole exception to this has been the iPhone 6 Plus, which renders its display at triple the number of pixels in each direction, before down-sampling to a 1080p resolution.
+ 
+  The displays are manufactured worldwide by different suppliers. Currently, the iPad's display comes from
+  
+   Samsung
+  
+  ,
+  
+
+    [11]
+   
+
+  while the MacBook Pro, iPhone, and iPod Touch displays are made by
+  
+   LG
+  
+
+
+    [12]
+   
+
+  and
+  
+   Japan Display
+  
+  Inc.
+  
+
+    [13]
+   
+
+  There was a shift of display technology from
+  
+   twisted nematic
+  
+  (TN)
+  
+   liquid-crystal displays
+  
+  (LCDs) to
+  
+   in-plane switching (IPS)
+  
+  LCDs starting with the
+  
+   iPhone
+  
+  4 models in June 2010.
+ 
+  Apple markets the following devices as having a Retina Display, Retina HD Display, or Retina 4K/5K Display:
+ 
+  As of 2016
+  
+
+    [update]
+   
+
+  , Apple has not implemented a Retina display in its entry-level laptop line, the
+  
+   MacBook Air
+  
+  . Higher resolution Retina screens are standard on the
+  
+   3rd-generation MacBook Pro
+  
+  and
+  
+   new MacBook
+  
+  , released in 2013 and 2015, respectively.
+  
+
+    [19]
+   
+
+
+   4th-generation MacBook Pro
+  
+  , released in 2016, retain the same Retina display of the previous generation.
+ 
+  Reviews of Apple devices with retina displays have generally been positive on technical grounds, with comments describing it as a considerable improvement on earlier screens and praising Apple for driving third-party application support for high-resolution displays more effectively than on Windows.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+  While high-dpi displays such as IBM's
+  
+   T220 and T221
+  
+  had been sold in the past, they had seen little take-up due to their cost of around $8400.
+  
+
+    [23]
+   
+
+
+  Reviewing the iPhone 4 in 2010, writer
+  
+   Joshua Topolsky
+  
+  commented:
+  
+
+    [24]
+   
+
+
+   "to our eyes, there has never been a more detailed, clear, or viewable screen on any mobile device. Not only are the colors and blacks deep and rich, but you simply cannot see pixels on the screen. Okay, if you take some macro camera shots or get right up in there you can make them out [but] webpages that would be line after line of pixelated content when zoomed out on a 3GS are completely readable on the iPhone 4, though the text is beyond microscopic."
+  
+  Former Microsoft employee Bill Hill, an expert on font rendering, offered similar comments:
+  
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+
+   That much resolution is stunning. To see it on a mainstream device like the iPad—rather than a $13,000 exotic monitor—is truly amazing, and something I've been waiting more than a decade to see. It will set a bar for future resolution that every other manufacturer of devices and PCs will have to jump.
+  
+  Writer
+  
+   John Gruber
+  
+  suggested that the arrival of retina displays on computers would trigger a need to redesign interfaces and designs for the new displays:
+ 
+   The sort of rich, data-dense information design espoused by
+   
+    Edward Tufte
+   
+   can now not only be made on the computer screen but also enjoyed on one. Regarding font choices, you not only need not choose a font optimized for rendering on screen, but should not. Fonts optimized for screen rendering look cheap on the retina MacBook Pro—sometimes downright cheesy—in the same way they do when printed in a glossy magazine.
+   
+
+     [27]
+    
+
+
+  Raymond Soneira, president of DisplayMate Technologies, has challenged Apple's claim. He says that the physiology of the human
+  
+   retina
+  
+  is such that there must be at least 477 pixels per inch in a pixelated display for the pixels to become imperceptible to the human eye at a distance of 12 inches (305 mm).
+  
+
+    [28]
+   
+
+  The astronomer and science blogger
+  
+   Phil Plait
+  
+  notes, however, that, "if you have [better than
+  
+   20/20
+  
+  ] eyesight, then at one foot away the iPhone 4S's pixels are resolved. The picture will look pixelated. If you have average eyesight [20/20 vision], the picture will look just fine... So in my opinion, what Jobs said was fine. Soneira, while technically correct, was being picky."
+  
+
+    [29]
+   
+
+  Shortly after Soneira's challenge, the Boys of Tech podcast published their own analysis
+  
+
+    [30]
+   
+
+  and concluded that Soneira's claim was invalid and that Jobs' claim was correct. This was primarily because Soneira misinterpreted the manner in which the acuity of the human eye can be tested. The retinal neuroscientist Bryan Jones offers a similar analysis of more detail and comes to a similar conclusion: "I'd find Apple’s claims stand up to what the human eye can perceive."
+  
+
+    [31]
+   
+
+
+  Apple fan website
+  
+   CultOfMac
+  
+  stated that the resolution the human eye can discern at 12 inches is 900 PPI, concluding "Apple’s Retina Displays are only about 33% of the way there."
+  
+
+    [32]
+   
+
+  On the topic of 20/20 vision, they said "most research suggests that normal vision is actually much better than 20/20. In fact, people with normal vision usually won't see their eyesight degrade to 20/20 until they are 60 or 70 years of age"
+  
+
+    [32]
+   
+
+  (confirmed by vision testing experts Precision Vision).
+  
+
+    [33]
+   
+
+
+   CultOfMac
+  
+  also noted that people do not always view displays at a constant distance, and will sometimes move closer, at which point the display could no longer be classed as Retina.
+  
+
+    [32]
+   
+
+
+  Rival Android smartphones released in 2011 such as the
+  
+   Samsung Galaxy S II
+  
+  did lag behind the 300 ppi mark due to their 800 × 400 or qHD (960 × 540) resolutions, but by 2012 phones such as the
+  
+   Samsung Galaxy S III
+  
+  and
+  
+   HTC One X
+  
+  achieved it with HD (720p) displays around 5-inches, and by 2013 the 300+ ppimark was found on midrange phones such as the
+  
+   Moto G
+  
+  .
+  
+
+    [34]
+   
+
+  From 2013-14, many flagship devices such as the
+  
+   Samsung Galaxy S4
+  
+  and
+  
+   HTC One (M8)
+  
+  had 1080p (FHD) screens around 5-inches for a 400+ PPI which surpassed the Retina density on the
+  
+   iPhone 5
+  
+  . The latest major redesign of the iPhone, the
+  
+   iPhone 6
+  
+  , has a 1334 × 750 resolution on a 4.7-inch screen, while rivals such as the
+  
+   Samsung Galaxy S6
+  
+  have a QHD display of 2560 x 1440 resolution, close to four times the number of pixels found in the iPhone 6, giving the S6 a 577 PPI that is almost twice that of the iPhone 6's 326 PPI.
+  
+   [1]
+  
+  The larger
+  
+   iPhone 6 Plus
+  
+  features a "Retina HD Display", which is a 5.5-inch 1080p screen with 401 PPI, which barely meets or lags behind Android
+  
+   phablet
+  
+  rivals such as the
+  
+   OnePlus One
+  
+  and
+  
+   Samsung Galaxy Note 4
+  
+  . Aside from resolution, all generations of iPhone Retina displays receive high ratings for other aspects such as brightness and color accuracy, compared to those of contemporary smartphones, while some Android devices such as the
+  
+   LG G3
+  
+  have sacrificed screen quality and battery life for high resolution.
+  
+   Ars Technica
+  
+  suggested the "superfluousness of so many flagship phone features—the move from 720p to 1080p to 1440p and beyond...things are all nice to have, but you’d be hard-pressed to argue that any of them are essential".
+  
+
+    [34]
+   
+
+  Furthermore, developers can better optimize content for iOS due to Apple's few screen sizes in contrast to Android's wide display format variations.
+  
+   [2]
+  
+
+  Many Windows
+  
+   Ultrabook
+  
+  rivals have offered 1080p (FHD) screens standard since 2012 and often QHD or QHD+ as optional upgrade displays, while Apple (as of 2016) still has not implemented a Retina display in its entry-level laptop line, the
+  
+   MacBook Air
+  
+  . However, higher resolution Retina screens are standard on the
+  
+   3rd-generation MacBook Pro
+  
+  and
+  
+   new MacBook
+  
+  , released in 2013 and 2015, respectively.
+  
+   [3]
+  

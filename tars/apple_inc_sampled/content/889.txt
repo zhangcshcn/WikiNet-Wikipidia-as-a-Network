@@ -1,0 +1,639 @@
+
+
+
+   Waze
+  
+  (
+  
+
+
+     /
+     
+
+       w
+      
+
+       eɪ
+      
+
+       z
+      
+
+     /
+    
+
+
+  ), (formerly FreeMap Israel) is a
+  
+   GPS
+  
+  -based geographical navigation
+  
+   application program
+  
+  that was first developed and popularized by the
+  
+   Israeli
+  
+  company Waze Mobile. It works on
+  
+   smartphones
+  
+  and
+  
+   tablets
+  
+  with GPS support and provides
+  
+   turn-by-turn
+  
+  information and user-submitted travel times and route details, downloading location-dependent information over
+  
+   mobile networks
+  
+  . Waze Mobile was founded in
+  
+   Israel
+  
+  by Ehud Shabtai, Amir Shinar and Uri Levine, funded by 2 Israeli
+  
+   venture capital
+  
+  firms, Magma and Vertex and an early-stage American
+  
+   venture capital
+  
+  firm Bluerun Ventures, and eventually acquired by
+  
+   Google
+  
+  in 2013.
+ 
+  Waze won the Best Overall App award at the 2013
+  
+   Mobile World Congress
+  
+  , beating
+  
+   Dropbox
+  
+  ,
+  
+   Flipboard
+  
+  and others.
+  
+
+    [1]
+   
+
+  On June 11, 2013,
+  
+   Google
+  
+  completed the acquisition of Waze for a reported
+  
+   US$
+  
+  1.3 billion.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+  As part of the deal signed, each of Waze's 100 employees was to receive an average of about $1.2 million, which represents the largest payout to employees in the history of Israeli high tech.
+  
+
+    [4]
+   
+
+
+  Waze supports
+  
+   Android
+  
+  and
+  
+   iPhone
+  
+  , whereas
+  
+   Symbian
+  
+  ,
+  
+   BlackBerry 10
+  
+  (except BlackBerry Q10),
+  
+
+    [5]
+   
+
+
+   Windows Phone 8
+  
+
+
+    [6]
+   
+
+  and
+  
+   Windows Mobile
+  
+  from version 5
+  
+
+    [7]
+   
+
+  were deprecated. In July 2013 Waze said they planned to support both iPhone and Android, and would consider supporting new platforms. As older platforms (Symbian, WM, BlackBerry) do not support either a full native UI or other
+  
+   application programming interfaces
+  
+  they rely on, they could not support them, although existing versions would continue to work.
+  
+
+    [8]
+   
+
+
+
+
+  In 2006, a community project was founded and developed by Ehud Shabtai – "FreeMap Israel". The project aimed to create, with the crowd sourcing assistance of community users, a free digital database of the
+  
+   map of Israel
+  
+  in
+  
+   Hebrew
+  
+  , and to ensure its free content, update and distribution, as convenient as possible.
+  
+
+    [9]
+   
+
+  In 2008, Ehud Shabtai who owned the project, decided to form a company as part of the commercializing efforts and declared in the web site: “We have a new name and address. From now on, we are called Waze”.
+  
+
+    [10]
+   
+
+  The company name was changed to Waze Mobile Ltd in 2009.
+ 
+  In December 2011, Waze employed 80 people, composed of 70 at
+  
+   Ra'anana, Israel
+  
+  and 10 in
+  
+   Palo Alto, California
+  
+  .
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+  In 2010, the company raised $25 million in the second round of funding.
+  
+
+    [15]
+   
+
+
+  In 2011, the company, which planned to monetize through
+  
+   location-based advertising
+  
+  and to expand into Asia, raised an additional $30 million in financing.
+  
+
+    [16]
+   
+
+
+  According to rumors,
+  
+   Facebook
+  
+  and other companies were interested in purchasing Waze, but did not reach an agreement.
+  
+
+    [17]
+   
+
+
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  In June 2013,
+  
+   Google
+  
+  bought Waze for $1.1 billion, adding social data to its mapping business.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+  In June 2013, the United States
+  
+   Federal Trade Commission
+  
+  started considering whether Google's purchase of Waze might violate
+  
+   competition law
+  
+
+
+    [22]
+   
+
+  – Waze was one of very few competitors in the mobile mapping sector to Google's own
+  
+   Google Maps
+  
+  . In 2013 the FTC decided that it would not challenge Google's acquisition of Waze.
+  
+
+    [23]
+   
+
+  The UK
+  
+   Office of Fair Trading
+  
+  and the Israel Antitrust Authority also investigated it and allowed the acquisition.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+
+  Waze differs from traditional
+  
+   GPS navigation software
+  
+  in that it is community-driven, gathering complementary map data and traffic information from its users.
+  
+
+    [27]
+   
+
+  Like other GPS software it learns from users' driving times to provide routing and real-time traffic updates. It is free to download and use. People can report accidents, traffic jams, speed and police traps, and from the online map editor, can update roads, landmarks, house numbers, etc. Waze also identifies the cheapest fuel station near a user or along their route, provided Waze has enabled fuel prices for that country. As of January 2012
+  
+
+    [update]
+   
+
+  , the app had been downloaded 12 million times worldwide.
+  
+
+    [16]
+   
+
+
+
+    [28]
+   
+
+  In July 2012 Waze announced that it had reached 20 million users, half of them recruited in the previous six months.
+  
+
+    [29]
+   
+
+  According to Yahoo! there were nearly 50 million Waze users as of June 2013.
+  
+
+    [30]
+   
+
+
+  Waze can be used anywhere in the world but requires enough users to provide data to make it useful. Currently only 13 countries have a full base map, the others are incompletely mapped, requiring users to record roads and edit maps. As of 2013
+  
+
+    [update]
+   
+
+  Waze has a complete base map for the United States, Canada, United Kingdom, France, Germany, Italy, Netherlands, Belgium, Israel (claimed to be the best map for that country
+  
+
+    [31]
+   
+
+  ), South Africa,
+  
+
+    [32]
+   
+
+  Colombia, Ecuador, Chile and Panama, but the company has plans to complete maps for other countries in Europe and elsewhere.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+  In addition to turn-by-turn voice navigation, real-time traffic, and other location-specific alerts, Waze simultaneously sends anonymous information, including users' speed and location, back to its database to improve the service as a whole. This
+  
+   crowdsourcing
+  
+  allows the Waze community to report navigation and mapping errors and traffic accidents simply by running the app while driving.
+  
+   [
+   
+
+
+      clarification needed
+     
+
+
+   ]
+  
+  Waze uses gaming conventions to engage users and encourage them to provide more information, allowing them to "drive over" icons of cupcakes and other things to earn points. Waze also offers points for traffic or road hazard reports, which can be used to change the user's avatar, and to increase their status in the community.
+  
+
+    [35]
+   
+
+
+  In 2011 Waze Mobile updated the software to display real-time, community-curated points of interest, including local events such as street fairs and protests.
+  
+
+    [36]
+   
+
+
+  In June 2012 Waze launched an update to provide real-time fuel prices. As with all Waze real-time updates, prices are submitted by users, however this feature is not available in all countries.
+  
+
+    [37]
+   
+
+
+  Since November 2012, in monetizing its app, Waze offers resellers and advertisers a web interface to advertise based on location, where a small icon appears when a phone is at a particular location, prompting the user to engage.
+  
+
+    [38]
+   
+
+  It also offers to TV news stations a web interface to broadcast current traffic reports and alerts directly from the Waze app; the service had been used by 25 TV U.S. news stations by June 2013.
+  
+
+    [39]
+   
+
+  It has also been used in
+  
+   Rio de Janeiro
+  
+  inside
+  
+   Centro de Operações Rio
+  
+  (Rio's Operations Center) since July 24, 2013,
+  
+
+    [40]
+   
+
+  as well as in
+  
+   New York
+  
+  and
+  
+   New Jersey
+  
+  since 2012.
+ 
+  In June 2013, Waze introduced a global localization project that enables future road closures and real-time traffic updates during major events in a given country, for example
+  
+   Tour de France
+  
+  .
+  
+
+    [41]
+   
+
+
+  Some road-safety advocates have voiced concern over the prospect of more drivers using Waze, which they say has the potential to distract them with a flurry of icons and notifications and put them at greater risk of an accident.
+  
+
+    [42]
+   
+
+
+  In March 2014, a successful attempt was made by students from
+  
+   Technion-Israel Institute of Technology
+  
+  to fake a traffic jam.
+  
+
+    [43]
+   
+
+
+  In December 2014, in a letter sent to Google,
+  
+   Los Angeles Police Department
+  
+  Chief
+  
+   Charlie Beck
+  
+  complained about the police locator feature, claiming it could be "misused by those with criminal intent to endanger police officers and the community". It was alleged that Ismaaiyl Brinsley, who
+  
+   shot and killed two NYPD officers
+  
+  that month in retaliation for the police killings of
+  
+   Eric Garner
+  
+  and
+  
+   Michael Brown
+  
+  , had used the Waze app prior to the murders and had posted a screenshot from the app on his Instagram account hours before the shootings.
+  
+
+    [44]
+   
+
+  Users are able to mark the presence of an officer with a small icon and indicate if the officer is visible or hidden. The LAPD, among other police agencies, pressured Google to disable the feature on the application. Google states that knowing the whereabouts of an officer promotes safer driving.
+  
+
+    [45]
+   
+
+
+
+    [46]
+   
+
+
+  Waze invented and initiated the CCP (Connected Citizens Program), a free data sharing program which is used by over 200 governments, departments of transportation and municipalities for traffic analysis, road planning and emergency work force dispatching.
+  
+
+    [47]
+   
+
+  Waze both contributes to government and also collects government data to do so. Another example is use by the city of Rio de Janeiro for planning, collecting data from both Waze and
+  
+   moovit
+  
+  .
+  
+
+    [48]
+   
+
+
+  The Waze v2.x software was distributed under
+  
+   GNU General Public License v2
+  
+  , which did not extend to map data.
+  
+
+    [49]
+   
+
+  FreeMap
+  
+
+    [50]
+   
+
+  data was not published under open content licenses even before the shift to Waze project. Ehud Shabtai who initiated and developed Freemap and Waze continuously insisted to crowdsource data without using external sources or projects like
+  
+   OpenStreetMap
+  
+  that would restrict commercialization of the Waze map data.
+  
+
+    [51]
+   
+
+  Starting with Waze v3 the application was rewritten and as such switched to a proprietary license.
+  
+
+    [52]
+   
+
+  The last
+  
+   open source
+  
+  client version for the iPhone and Android is 2.4.0.0, and for Windows Mobile 2.0.
+  
+
+    [53]
+   
+
+
+
+    [54]
+   
+
+
+  A
+  
+   class action
+  
+  suit was filed in March 2014 by accountant
+  
+   Roey Gorodish
+  
+  against Waze, claiming
+  
+   intellectual property
+  
+  violation for the use of open-source FreeMap map and code from the open-source RoadMap software,
+  
+
+    [55]
+   
+
+  a project that
+  
+   Ehud Shabtai
+  
+  had contributed for the
+  
+   Windows
+  
+
+   PocketPC
+  
+  version in 2006.
+  
+
+    [56]
+   
+
+
+
+    [57]
+   
+
+
+
+    [58]
+   
+
+  The lawsuit was dismissed on 5th March 2017 with a clear cut decision that there was no basis for a class action suit in this case.
+ 

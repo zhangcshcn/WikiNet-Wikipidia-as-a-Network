@@ -1,0 +1,1549 @@
+
+
+
+   AmigaOS
+  
+  is a family of proprietary native
+  
+   operating systems
+  
+  of the
+  
+   Amiga
+  
+  and
+  
+   AmigaOne
+  
+  personal computers. It was developed first by
+  
+   Commodore International
+  
+  and introduced with the launch of the first Amiga, the
+  
+   Amiga 1000
+  
+  , in 1985. Early versions of AmigaOS required the Motorola
+  
+   68000 series
+  
+  of
+  
+   16-bit
+  
+  and
+  
+   32-bit
+  
+  microprocessors. Later versions were developed by
+  
+   Haage & Partner
+  
+  (AmigaOS 3.5 and 3.9) and then
+  
+   Hyperion Entertainment
+  
+  (AmigaOS 4.0-4.1). A
+  
+   PowerPC
+  
+  microprocessor is required for the most recent release,
+  
+   AmigaOS 4
+  
+  .
+ 
+  AmigaOS is a single-user operating system based on a
+  
+   preemptive multitasking
+  
+
+   kernel
+  
+  , called
+  
+   Exec
+  
+  . It includes an abstraction of the Amiga's hardware, a disk operating system called AmigaDOS, a
+  
+   windowing system
+  
+
+   API
+  
+  called
+  
+
+    Intuition
+   
+
+  and a desktop
+  
+   file manager
+  
+  called
+  
+
+    Workbench
+   
+
+  .
+ 
+  The Amiga intellectual property is fragmented between
+  
+   Amiga Inc.
+  
+  , Cloanto, and
+  
+   Hyperion Entertainment
+  
+  . The copyrights for works created up to 1993 are owned by Cloanto.
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  In 2001, Amiga Inc. contracted AmigaOS 4 development to Hyperion Entertainment and, in 2009 they granted Hyperion an exclusive, perpetual, worldwide license to AmigaOS 3.1 in order to develop and market AmigaOS 4 and subsequent versions.
+  
+
+    [3]
+   
+
+
+  On December 29, 2015, the AmigaOS 3.1
+  
+   source code
+  
+
+   leaked
+  
+  to the web; this was confirmed by the rights holder,
+  
+   Hyperion Entertainment
+  
+  .
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+
+
+  AmigaOS is a single-user operating system based on a
+  
+   preemptive multitasking
+  
+
+   kernel
+  
+  , called
+  
+   Exec
+  
+  . AmigaOS provides an abstraction of the Amiga's hardware, a disk operating system called AmigaDOS, a
+  
+   windowing system
+  
+
+   API
+  
+  called
+  
+
+    Intuition
+   
+
+  and a desktop
+  
+   file manager
+  
+  called
+  
+
+    Workbench
+   
+
+  . A
+  
+   command-line interface
+  
+  (CLI), called AmigaShell, is also integrated into the system, though it also is entirely window-based. The CLI and Workbench components share the same privileges. Notably, AmigaOS lacks any built-in
+  
+   memory protection
+  
+  .
+ 
+  AmigaOS is formed from two parts, namely, a firmware component called
+  
+
+    Kickstart
+   
+
+  and a software portion usually referred to as
+  
+   Workbench
+  
+  . Up until AmigaOS 3.1, matching versions of Kickstart and Workbench were typically released together. However, since AmigaOS 3.5, the first release after Commodore's demise, only the software component has been updated and the role of Kickstart has been diminished somewhat. Firmware updates may still be applied by
+  
+   patching
+  
+  at system boot.
+ 
+
+   Kickstart
+  
+  is the
+  
+   bootstrap
+  
+  firmware, usually stored in
+  
+   ROM
+  
+  . Kickstart contains the code needed to boot standard Amiga hardware and many of the core components of AmigaOS. The function of Kickstart is comparable to the
+  
+   BIOS
+  
+  plus the main
+  
+   operating system
+  
+  kernel in
+  
+   IBM PC compatibles
+  
+  . However, Kickstart provides more functionality available at boot time than would typically be expected on PC, for example, the full windowing environment.
+ 
+  Kickstart contains many core parts of the Amiga's operating system, such as
+  
+
+    Exec
+   
+
+  ,
+  
+
+    Intuition
+   
+
+  , the core of
+  
+   AmigaDOS
+  
+  and functionality to initialize
+  
+   Autoconfig
+  
+  -compliant expansion hardware. Later versions of the Kickstart contained drivers for
+  
+   IDE
+  
+  and
+  
+   SCSI
+  
+  controllers,
+  
+   PC card
+  
+  ports and other built-in hardware.
+ 
+  Upon start-up or reset the Kickstart performs a number of diagnostic and system checks and then initializes the Amiga chipset and some core OS components. It will then examine connected boot devices and attempt to boot from the one with the highest boot priority. If no boot device is present a screen will be displayed asking the user to insert a boot disk, typically a floppy disk.
+ 
+  At start-up Kickstart attempts to boot from a bootable device (typically, a floppy disk or hard disk drive). In the case of a floppy, the system reads the first two sectors of the disk (the
+  
+   bootblock
+  
+  ), and executes any boot instructions stored there. Normally this code passes control back to the OS (invoking AmigaDOS and the GUI) and using the disk as the system boot volume. Any such disk, regardless of the other contents of the disk, was referred to as a "Boot disk" or "bootable disk". A bootblock could be added to a blank disk by use of the
+  
+   install
+  
+  command. Some entertainment software contained custom bootblocks. This allowed an application, game or
+  
+   demo
+  
+  to take control of memory and resources, effectively disabling AmigaOS.
+ 
+  The bootblock became an obvious target for
+  
+   virus
+  
+  writers. Some games or demos that used a custom bootblock would not work if infected with a bootblock virus, as the code of the virus replaced the original. The first such virus was the
+  
+   SCA virus
+  
+  .
+  
+   Anti-virus
+  
+  attempts included custom bootblocks. These amended bootblock advertised the presence of the virus checker while checking the system for tell-tale signs of memory-resident viruses and then passed control back to the system. Unfortunately these could not be used on disks that already relied on a custom bootblock, but did alert users to potential trouble. Several of them also replicated themselves across other disks, becoming little more than viruses in their own right.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+   The Macintosh should have had multitasking. I can't stress enough what a big contribution it makes to the elegant design of system software. The Amiga has an excellent multitasking system, and I think it will have twice the product life of the Macintosh because of it.
+  
+   — Adam Brooks Webber, the programmer responsible for porting
+   
+    TrueBASIC
+   
+   to the Amiga and Macintosh,
+   
+    Byte
+   
+   Sept. 1986
+  
+
+   Exec
+  
+  is the
+  
+   multi-tasking
+  
+
+   kernel
+  
+  of AmigaOS. Exec provides functionality for multi-tasking, memory allocation,
+  
+   interrupt
+  
+  handling and handling of
+  
+   dynamic shared libraries
+  
+  . It acts as a
+  
+   scheduler
+  
+  for tasks running on the system, providing pre-emptive multitasking with prioritized
+  
+   round-robin scheduling
+  
+  . Exec also provides access to other libraries and high-level
+  
+   inter-process communication
+  
+  via
+  
+   message passing
+  
+  . Other comparable microkernels have had performance problems because of the need to copy messages between address spaces. Since the Amiga has only one address space, Exec message passing is quite efficient.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+   AmigaDOS
+  
+  provides the
+  
+   disk operating system
+  
+  portion of the AmigaOS. This includes
+  
+   file systems
+  
+  , file and directory manipulation, the
+  
+   command-line interface
+  
+  , file redirection, console windows, and so on. Its interfaces offer facilities such as
+  
+   command redirection
+  
+  ,
+  
+   piping
+  
+  ,
+  
+   scripting
+  
+  with
+  
+   structured programming
+  
+  primitives, and a system of global and local
+  
+   variables
+  
+  .
+ 
+  In AmigaOS 1.x, the AmigaDOS portion was based on
+  
+   TRIPOS
+  
+  , which is written in
+  
+   BCPL
+  
+  . Interfacing with it from other languages proved a difficult and error-prone task, and the port of TRIPOS was not very efficient.
+ 
+  From AmigaOS 2.x onwards, AmigaDOS was rewritten in
+  
+   C
+  
+  and
+  
+   Assembler
+  
+  , retaining full 1.x BCPL program compatibility, and it incorporated parts of the third-party
+  
+   AmigaDOS Resource Project
+  
+  ,
+  
+
+    [8]
+   
+
+  which had already written replacements for many of the BCPL utilities and interfaces.
+ 
+  ARP also provided one of the first standardized
+  
+   file requesters
+  
+  for the Amiga, and introduced the use of more friendly UNIX-style wildcard (
+  
+   globbing
+  
+  ) functions in command-line parameters. Other innovations were an improvement in the range of date formats accepted by commands and the facility to make a command resident, so that it only needs to be loaded into memory once and remains in memory to reduce the cost of loading in subsequent uses.
+ 
+  In
+  
+   AmigaOS 4.0
+  
+  , the DOS abandoned the BCPL legacy completely and, starting from
+  
+   AmigaOS 4.1
+  
+  , it has been rewritten with full
+  
+   64-bit
+  
+  support.
+ 
+
+   File extensions
+  
+  are often used in AmigaOS, but they are not mandatory and they are not handled specially by the DOS, being instead just a conventional part of the file names. Executable programs are recognized using a
+  
+   magic number
+  
+  .
+ 
+  The native Amiga
+  
+   windowing system
+  
+  is called
+  
+   Intuition
+  
+  , which handles input from the keyboard and mouse and rendering of screens, windows and basic widgets. However, until AmigaOS 2.0 there was no standardized
+  
+   look and feel
+  
+  , and often application developers had to write their own non-standard widgets (both buttons and menus), with Intuition providing minimal support.
+ 
+  An unusual feature of AmigaOS is the use of multiple screens. These screens are conceptually similar to
+  
+   X Window System
+  
+  virtual desktops or workspaces, but can be generated dynamically by application programs. Each screen may have a different resolution and color depth. AmigaOS 2.0 also added support for
+  
+   public screens
+  
+  . Instead of the Workbench screen being the only shareable screen, applications could create their own named screens to share with other applications. A public-screen-aware application could request a specific public screen by its name with the
+  
+   LockPubScreen()
+  
+  system call and, if such a screen was found, the resulting handle could be passed to the
+  
+   OpenWindowTagList()
+  
+  system call, and the application would open its window on the specified public screen. This allowed developers to even write applications that allowed the user to specify in which screen they would open their windows.
+  
+
+    [9]
+   
+
+
+  A gadget in the top-right corner of the screen allows screens to be cycled. Screens can be overlaid by dragging each up or down by their title bars. As the OS stores all screens in memory simultaneously, redrawing is instantaneous. On early Amigas this functionality is provided by the custom chipset, but since AmigaOS4 a new hardware-assisted technique has been adopted and the screens are draggable in any direction. It is possible to drag and drop icons between screens.
+ 
+  Each screen has its own
+  
+   RastPort
+  
+  handle, just as windows do. This allows applications to draw graphics directly onto the screen instead of being limited to their own window.
+ 
+  Intuition provided some basic
+  
+   widgets
+  
+  . With AmigaOS 2.0 Intuition was enhanced with GadTools and the
+  
+   BOOPSI
+  
+  object-oriented widget system (AmigaOS 2.0 an later), which both provided standard widget sets, and the
+  
+   Amiga User Interface Style Guide
+  
+  , which explained how applications should be laid out for consistency. Later AmigaOS provided an enhanced widget set through
+  
+   ReAction
+  
+  (AmigaOS 3.5 and later).
+  
+   Stefan Stuntz
+  
+  created a popular third-party widget library (based on
+  
+   BOOPSI
+  
+  ) called
+  
+   Magic User Interface
+  
+  (MUI) which became the official widget toolkit in
+  
+   MorphOS
+  
+  , while
+  
+   AROS
+  
+  implements an MUI clone called
+  
+   Zune
+  
+  .
+ 
+
+   Workbench
+  
+  is the native graphical
+  
+   file manager
+  
+  and desktop environment of AmigaOS. Though the term Workbench was originally used to refer to the entire operating system, with the release of AmigaOS 3.1 the operating system was renamed AmigaOS and subsequently Workbench refers to the desktop manager only. As the name suggests, the
+  
+   metaphor
+  
+  of a
+  
+   workbench
+  
+  is used, rather than that of a desktop; directories are depicted as
+  
+   drawers
+  
+  , executable files are
+  
+   tools
+  
+  , data files are
+  
+   projects
+  
+  and GUI widgets are
+  
+   gadgets
+  
+  . In many other aspects the interface resembles
+  
+   Mac OS
+  
+  , with the main desktop showing icons of inserted disks and hard drive partitions, and a single menu bar at the top of every screen. Unlike the Macintosh mouse available at the time, the standard Amiga mouse has two buttons – the right mouse button operates the pull-down menus, with a "release to select" mechanism. Underlying Workbench is the
+  
+
+    Intuition
+   
+
+  windowing system, which handles screens, windows, gadgets and input from the keyboard and mouse. The Workbench environment is not actually required to launch applications and, in practice, many software titles, particularly games, boot directly from Kickstart, using a custom
+  
+
+    bootblock
+   
+
+  , in order to retain full access to memory and resources.
+ 
+  Until the release of version 3, AmigaOS only natively supported the
+  
+   native Amiga graphics chipset
+  
+  , via
+  
+   graphics.library
+  
+  , which provides an API for
+  
+   geometric primitives
+  
+  ,
+  
+   raster graphic
+  
+  operations and handling of sprites. As this API could be bypassed, some developers chose to avoid OS functionality for rendering and directly program the underlying hardware for gains in efficiency.
+ 
+  Third-party graphics cards were initially supported via proprietary unofficial solutions. A later solution where AmigaOS could directly support any graphics system, was termed
+  
+
+    retargetable graphics
+   
+
+  (RTG).
+  
+
+    [10]
+   
+
+  With AmigaOS 3.5, some RTG systems were bundled with the OS, allowing the use of common hardware cards other than the native Amiga chipsets. The main RTG systems are
+  
+   CyberGraphX
+  
+  ,
+  
+   Picasso 96
+  
+  and
+  
+   EGS
+  
+  . Some vector graphic libraries, like
+  
+   Cairo
+  
+  and
+  
+   Anti-Grain Geometry
+  
+  , are also available. Modern systems can use cross-platform
+  
+   SDL
+  
+  (simple DirectMedia Layer) engine for games and other multimedia programs.
+ 
+  The Amiga did not have any inbuilt
+  
+   3D graphics
+  
+  capability, and so had no standard 3D graphics
+  
+   API
+  
+  . Later, graphics card manufacturers and third-party developers provided their own standards, which included
+  
+   MiniGL
+  
+  ,
+  
+   Warp3D
+  
+  , Storm
+  
+   Mesa
+  
+  (
+  
+   agl.library
+  
+  ) and
+  
+   CyberGL
+  
+  .
+ 
+  The Amiga was launched at a time when there was little support for 3D graphics libraries to enhance desktop GUIs and computer rendering capabilities. However, the Amiga became one of the first widespread 3D development platforms.
+  
+   VideoScape 3D
+  
+  was one of the earliest 3D rendering and animation systems, and Silver/
+  
+   TurboSilver
+  
+  was one of the first ray-tracing 3D programs. Then Amiga boasted many influential applications in 3D software, such as
+  
+   Imagine
+  
+  , maxon's
+  
+   Cinema 4D
+  
+  ,
+  
+   Realsoft 3D
+  
+  ,
+  
+   VistaPro
+  
+  ,
+  
+   Aladdin 4D
+  
+  and NewTek's
+  
+   Lightwave
+  
+  (used to render movies and television shows like
+  
+
+    Babylon 5
+   
+
+  ).
+ 
+  Likewise, while the Amiga is well known for its ability to easily
+  
+   genlock
+  
+  with video, it has no built-in
+  
+   video capture
+  
+  interface. The Amiga supported a vast number of third-party interfaces for video capture from American and European manufacturers. There were internal and external hardware solutions, called frame-grabbers, for capturing individual or sequences of video frames, including:
+  
+   Newtronic
+  
+  Videon,
+  
+   Newtek
+  
+  DigiView,
+  
+
+    [11]
+   
+
+  Graffiti external
+  
+   24-bit
+  
+
+   framebuffer
+  
+  , the
+  
+   Digilab
+  
+  , the
+  
+   Videocruncher
+  
+  ,
+  
+   Firecracker 24
+  
+  , Vidi Amiga 12, Vidi Amiga 24-bit and 24RT (Real Time), Newtek
+  
+   Video Toaster
+  
+  ,
+  
+   GVP
+  
+
+   Impact Vision IV24
+  
+  ,
+  
+   MacroSystem
+  
+
+   VLab Motion
+  
+  and
+  
+   VLab PAR
+  
+  , DPS
+  
+   PAR
+  
+  (Personal Animation Recorder),
+  
+   VHI (Video Hardware Interface)
+  
+  by IOSPIRIT GmbH,
+  
+   DVE-10
+  
+  , etc. Some solutions were hardware plug-ins for Amiga graphics cards like the
+  
+   Merlin XCalibur
+  
+  module, or the DV module built for the Amiga clone
+  
+   Draco
+  
+  from the German firm Macrosystem. Modern
+  
+   PCI
+  
+  bus TV expansion cards and their capture interfaces are supported through
+  
+   tv.library
+  
+  by Elbox Computer and
+  
+   tvcard.library
+  
+  by Guido Mersmann.
+ 
+  Following modern trends in evolution of graphical interfaces,
+  
+   AmigaOS 4.1
+  
+  uses the 3D hardware-accelerated
+  
+   Porter-Duff
+  
+  image composition engine.
+ 
+  Prior to version 3.5, AmigaOS only officially supported the Amiga's native
+  
+   sound chip
+  
+  , via
+  
+   audio.device
+  
+  . This facilitates playback of sound samples on four
+  
+   DMA
+  
+  -driven 8-bit
+  
+   PCM
+  
+  sound channels. The only supported hardware sample format is signed linear 8-bit
+  
+   two's complement
+  
+  .
+ 
+  Support for third-party audio cards was vendor-dependent, until the creation and adoption of
+  
+   AHI
+  
+
+
+    [12]
+   
+
+  as a de facto standard. AHI offers improved functionality, such as seamless audio playback from a user-selected audio device, standardized functionality for audio recording and efficient software mixing routines for combining multiple sound channels, thus overcoming the four-channel hardware limit of the original Amiga chipset. AHI can be installed separately on AmigaOS v2.0 and later.
+  
+
+    [13]
+   
+
+
+  AmigaOS itself did not support
+  
+   MIDI
+  
+  until version 3.1, when Roger Dannenberg's
+  
+   camd.library
+  
+  was adapted as the standard MIDI API. Commodore's version of camd.library also included a built-in driver for the serial port. The later open source version of camd.library by Kjetil Matheussen did not provide a built-in driver for the serial port, but provided an external driver instead.
+ 
+  AmigaOS was one of the first operating systems to feature
+  
+   speech synthesis
+  
+  with software developed by Softvoice, Inc., which allowed text-to-speech conversion of
+  
+   American English
+  
+  .
+  
+
+    [14]
+   
+
+  This had three main components:
+  
+   narrator.device
+  
+  , which modulates the
+  
+   phonemes
+  
+  used in
+  
+   American English
+  
+  ,
+  
+   translator.library
+  
+  , which translates English text to American English phonemes using a set of rules, and a high-level
+  
+   SPEAK:
+  
+  handler, which allows command-line users to redirect text output to speech. A utility called
+  
+   Say
+  
+  was included with the OS, which allowed text-to-speech synthesis with some control of voice and speech parameters. A demo was also included with
+  
+   AmigaBASIC
+  
+  programming examples. Speech synthesis was occasionally used in third-party programs, particularly educational software. For example, the word processors Prowrite and Excellence! could read out documents using the synthesizer. These speech synthesis components remained largely unchanged in later OS releases and Commodore eventually removed speech synthesis support from AmigaOS 2.1 onward because of licensing restrictions.
+  
+
+    [15]
+   
+
+
+  Despite the American English limitation of the
+  
+   narrator.device'
+  
+  s phonemes, Francesco Devitt developed an unofficial version with multilingual speech synthesis. This made use of an enhanced version of the
+  
+   translator.library
+  
+  which could translate a number of languages into phonemes, given a set of rules for each language.
+  
+
+    [16]
+   
+
+
+  The AmigaOS has a dynamically sized
+  
+   RAM disk
+  
+  , which resizes itself automatically to accommodate its contents. Starting with AmigaOS 2.x, operating system configuration files were loaded into the RAM disk on boot, greatly speeding operating system usage. Other files could be copied to the RAM disk like any standard device for quick modification and retrieval. Also beginning in AmigaOS 2.x, the RAM disk supported file-change notification, which was mostly used to monitor configuration files for changes.
+ 
+  Starting with AmigaOS 1.3,
+  
+
+    [17]
+   
+
+  there is also a fixed-capacity recoverable RAM disk, which functions as a standard RAM disk but can maintain its contents on soft restart. It is commonly called the
+  
+   RAD disk
+  
+  after its default device name, and it can be used as a boot disk (with boot sector). Previously, a recoverable RAM disk, commonly called the
+  
+   ASDG RRD
+  
+  or
+  
+   VD0
+  
+  , was introduced in 1987;
+  
+
+    [18]
+   
+
+  at first, it was locked to ASDG expansion memory products. Later, the ASDG RRD was added to the
+  
+   Fred Fish
+  
+  series of freeware, shareware, and public domain software (disks 58
+  
+
+    [19]
+   
+
+  and 241
+  
+
+    [20]
+   
+
+  ).
+ 
+  The AmigaOS has support for the
+  
+   Rexx
+  
+  language, called ARexx (short for "Amiga Rexx"), and is a script language which allows for full OS scripting, similar to
+  
+   AppleScript
+  
+  ; intra-application scripting, similar to
+  
+   VBA
+  
+  in
+  
+   Microsoft Office
+  
+  ; as well as inter-program communication. Having a single scripting language for any application on the operating system is beneficial to users, instead of having to learn a new language for each application.
+ 
+  Programs can listen on an "ARexx port" for string messages. These messages can then be interpreted by the program in a similar fashion to a user pushing buttons. For example, an ARexx script run in an e-mail program could save the currently displayed email, invoke an external program which could extract and process information, and then invoke a viewer program. This allows applications to control other applications by sending data back and forth directly with memory handles, instead of saving files to disk and then reloading them.
+ 
+
+   John C. Dvorak
+  
+  stated in 1996:
+ 
+    I've had an Amiga for maybe a decade. It's the single most reliable piece of equipment I've ever owned. It's amazing! You can easily understand why so many fanatics are out there wondering why they are alone in their love of the thing. The Amiga continues to inspire a vibrant — albeit cultlike — community, not unlike that which you have with Linux, the Unix clone."
+    
+
+      [21]
+     
+
+
+  AmigaOS provides a
+  
+   modular
+  
+  set of system functions through
+  
+   dynamically-loaded shared libraries
+  
+  , either stored as a file on disk with a "
+  
+   .library
+  
+  " filename extension, or stored in the Kickstart firmware. All library functions are accessed via an indirect
+  
+   jump table
+  
+  , which is a negative offset to the library base pointer. That way, every library function can be
+  
+   patched
+  
+  or
+  
+   hooked
+  
+  at run-time, even if the library is stored in ROM. The core library of AmigaOS is the
+  
+   exec.library
+  
+  (
+  
+   Exec
+  
+  ), which provides an interface to functions of the Amiga's
+  
+   microkernel
+  
+  .
+ 
+
+   Device drivers
+  
+  are also libraries, but they implement a standardized interface. Applications do not usually call devices directly as libraries, but use the
+  
+   exec.library
+  
+  I/O functions to indirectly access them. Like libraries, devices are either files on disk (with the "
+  
+   .device
+  
+  " extension), or stored in the Kickstart ROM.
+ 
+  The higher-level part of device and resource management is controlled by
+  
+   handlers
+  
+  , which are not libraries, but
+  
+   tasks
+  
+  , and communicate by passing messages. One type of handler is a
+  
+   filesystem
+  
+  handler. The AmigaOS can make use of any filesystem for which a handler has been written, a possibility that has been exploited by programs like
+  
+   CrossDOS
+  
+  and by a few "alternative" file systems to the standard
+  
+   OFS
+  
+  and
+  
+   FFS
+  
+  . These file systems allow one to add new features like
+  
+   journaling
+  
+  or
+  
+   file privileges
+  
+  , which are not found in the standard operating system. Handlers typically expose a
+  
+   device name
+  
+  to the
+  
+   DOS
+  
+  , which can be used to access the peripheral (if any) associated with the handler. As an example of these concepts is the
+  
+   SPEAK: handler
+  
+  which could have text redirected to spoken speech, through the speech synthesis system.
+ 
+  Device names are
+  
+   case insensitive
+  
+  (uppercase by convention) strings followed by a
+  
+   colon
+  
+  . After the colon a
+  
+   specifier
+  
+  can be added, which gives the handler additional information about
+  
+   what
+  
+  is being accessed and
+  
+   how
+  
+  . In the case of filesystem, the specifier usually consists of a
+  
+   path
+  
+  to a file in the filesystem; for other handlers, specifiers usually set characteristics of the desired input/output channel (for the
+  
+   SER:
+  
+  serial port driver, for example, the specifier will contain
+  
+   bit rate
+  
+  ,
+  
+   start and stop bits
+  
+  , etc.). Filesystems expose
+  
+   drive names
+  
+  as their device names. For example,
+  
+   DF0:
+  
+  by default refers to the first floppy drive in the system. On many systems
+  
+   DH0:
+  
+  is used to refer to the first hard drive. Filesystems also expose
+  
+   volume names
+  
+  , following the same syntax as device names: these identify the specific medium in the file system-managed drive. If
+  
+   DF0:
+  
+  contains a disk named "Workbench", then
+  
+   Workbench:
+  
+  will be a volume name that can be used to access files in
+  
+   DF0:
+  
+  . If one wanted to access a file named "Bar" located in directory "Foo" of the disk with name "Work" in drive
+  
+   DF0:
+  
+  , one could write "
+  
+   DF0:Foo/Bar
+  
+  " or "
+  
+   Work:Foo/Bar
+  
+  ". However, these are not completely equivalent, since when the latter form is used, the system knows that the wanted volume
+  
+   is
+  
+  "Work" and not just any volume in
+  
+   DF0:
+  
+  . Therefore, whenever a requested file on "Work" is being accessed without volume "Work" being present in any drive, it will say something to the effect of:
+  
+   Please insert volume Work in any drive
+  
+  .
+ 
+
+   Programs
+  
+  often need to access files without knowing their physical location (either the drive or the volume): they only know the "logical path" of the file, i.e. whether the file is a library, a documentation file, a translation of the program's messages, and so on. This is solved in AmigaOS by the use of
+  
+   assigns
+  
+  . An assign follows, again, the same syntax as a device name; however, it already points to a directory inside the filesystem. The place an assign points to can be changed at any time by the user (this behavior is similar to, but nevertheless distinct from, the
+  
+   subst
+  
+  command in
+  
+   MS-DOS
+  
+  , for example). Assigns were also convenient because one logical assign could point to more than one different physical location at the same time, thereby allowing an
+  
+   assign
+  
+  ′s contents to expand logically, while still maintaining a separate physical organization. Standard assigns that are generally present in an AmigaOS system include:
+ 
+
+   AmigaOS 4
+  
+  introduced new system for allocating RAM and defragmenting it "on the fly" during system inactivities. It is based on
+  
+   slab allocation method
+  
+  and there is also present a
+  
+   memory pager
+  
+  that arbitrates paging memory and allows the swapping of large portions of physical RAM on mass storage devices as a sort of
+  
+   virtual memory
+  
+  .
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+  Co-operative
+  
+   paging
+  
+  was finally implemented in
+  
+   AmigaOS 4.1
+  
+  .
+ 
+  Since the introduction of AmigaOS in 1985 there have been four major versions and several minor revisions. Up until release 3.1 of the Amiga's operating system, Commodore used
+  
+   Workbench
+  
+  to refer to the entire Amiga operating system. As a consequence Workbench was commonly used to refer to both the operating system and the file manager component. For end users Workbench was often synonymous with AmigaOS. From version 3.5 the OS was renamed "AmigaOS" and pre-3.5 versions were also retroactively referred to as "AmigaOS" (rather than Workbench). Subsequently, "Workbench" refers to the native graphical file manager only.
+ 
+  From its inception, Workbench offered a highly customizable interface. The user could change the aspect of program icons replacing it with newer ones with different color combinations. Users could also take a "snapshot" of icons and windows so the icons will remain on the desktop at coordinates chosen by user and windows will open at the desired size.
+ 
+  AmigaOS 1.0 was released with the first Amiga, the
+  
+   Amiga 1000
+  
+  , in 1985. The 1.x versions of AmigaOS by default used a garish blue and orange color scheme, designed to give high contrast on even the worst of television screens (the colors can be changed by the user). Versions 1.1 consists mostly of bug fixes and, like version 1.0, was distributed for the Amiga 1000 only.
+ 
+  The display was highly customizable for the era. The user was free to create and modify system and user icons, which could be of arbitrary size and design and can have two image states to produce a pseudo-animated effect when selected. Users could customize four display colors and choose from two resolutions:
+  
+   640×200
+  
+  or
+  
+   640×400
+  
+  (interlaced) on
+  
+   NTSC
+  
+  , or
+  
+   640×256
+  
+  or
+  
+   640×512
+  
+  on
+  
+   PAL
+  
+  systems. In later revisions, the TV or monitor overscan could be adjusted.
+ 
+  Several features were deprecated in later versions. For example, the gauge meter showing the free space on a file system was replaced with a percentage in AmigaOS 2.0. Under Workbench 1.x, right-clicking on icons opens a display of the files' metadata
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  ; whereas from Workbench 2.0 onwards, right-clicking activates pull-down menus only. The default "busy" pointer (a comic balloon showing "Zzz...") was replaced with a stopwatch in later versions.
+ 
+  AmigaOS 2.0 was released with the launch of the
+  
+   Amiga 3000
+  
+  in 1990. Until AmigaOS 2.0 there was no unified
+  
+   look and feel
+  
+  design standard and application developers had to write their own widgets (both buttons and menus) if they wished to enhance the already-meager selection of standard basic widgets provided by Intuition. With AmigaOS 2.0
+  
+   gadtools.library
+  
+  was created, which provided standard widget sets. The
+  
+   Amiga User Interface Style Guide
+  
+  , was published which explained how applications should be laid out for consistency. Intuition was improved with
+  
+   BOOPSI
+  
+  (Basic Object Oriented Programming system for Intuition) which enhanced the system with an
+  
+   object-oriented
+  
+  interface to define a system of classes in which every class individuate a single widget or describes an interface event. It can be used to program object oriented interfaces into Amiga at any level.
+ 
+  AmigaOS 2.0 also added support for
+  
+   public screens
+  
+  . Instead of the AmigaOS screen being the only shareable screen, applications could create their own named screens to share with other applications.
+ 
+  AmigaOS 2.0 introduced
+  
+
+    AmigaGuide
+   
+
+  , a simple text-only
+  
+   hypertext
+  
+  markup scheme and browser, for providing online help inside applications. It also introduced
+  
+   Installer
+  
+  , a standard software installation program, driven by a
+  
+   LISP
+  
+  -like scripting language.
+ 
+  AmigaOS 2.0 rectified the problem of applications
+  
+   hooking
+  
+  directly into the input-events stream to capture keyboard and mouse movements, sometimes locking up the whole system. AmigaOS 2.0 provided
+  
+   Commodities
+  
+  , a standard interface for modifying or scanning input events. This included a standard method for specifying global "hotkey" key-sequences, and a
+  
+   Commodities Exchange
+  
+  registry for the user to see which commodities were running.
+ 
+  AmigaOS 2.1 introduced multi-lingual locale support through
+  
+   locale.library
+  
+  and for the first time AmigaOS was translated to different languages.
+  
+
+    [15]
+   
+
+
+  Version 3.0 was originally shipped with the Amiga 1200 and Amiga 4000 computers. Version 3.0 added datatypes support which allowed any application that supported datatypes to load any file format supported by datatypes. Workbench could load any background image in any format if the required datatype was installed. A tiny application called Multiview was included that could open and display any supported file. Its capabilities were directly related to the datatypes installed in Devs:Datatypes. The established AmigaGuide hypertext system gained more usability by using document links pointing to media files, for example pictures or sounds, all recognized by the datatypes.
+ 
+  Around six years after AmigaOS 3.1 was released, following Commodore's demise,
+  
+   Haage & Partner
+  
+  were granted a license to update AmigaOS, which was released in 1999 as a software-only update for existing systems.
+ 
+  The AmigaOS
+  
+   look and feel
+  
+  , though still largely based on the earlier 3.1 release was revised somewhat, with an improved user interface based on ReAction, improved icon rendering and official support for
+  
+   true color
+  
+
+   backdrops
+  
+  . These releases included support for existing third-party GUI enhancements, such as
+  
+   NewIcons
+  
+  , by integrating these patches into the system. The 3.5 and 3.9 releases included a new set of 256 color icons and a choice of desktop wallpaper. These replaced the default all-metal gray 4/8 color scheme used on AmigaOS from release 2.0 to 3.1.
+ 
+  The 3.9 release of AmigaOS was again developed by Haage&Partner and released in 2000. The main improvements were the introduction of a program start bar called AmiDock, revised user interfaces for system settings and improved utility programs.
+ 
+  This new AmigaOS, called AmigaOS 4.0 has been rewritten to become fully
+  
+   PowerPC
+  
+  compatible. It was initially developed on Cyberstorm PPC, as making it independent of the old Amiga chipsets wasn't trivial.
+  
+
+    [24]
+   
+
+  Since the
+  
+   fourth Developer Pre-Release Update
+  
+  a new technique is adopted and the screens are draggable in any direction.
+  
+
+    [25]
+   
+
+
+   Drag and drop
+  
+  of Workbench icons between different screens is possible too.
+ 
+  Also in AmigaOS 4.0 were new version of Amidock,
+  
+   TrueType
+  
+  /
+  
+   OpenType
+  
+  fonts and movie player with
+  
+   DivX
+  
+  and
+  
+   MPEG-4
+  
+  support.
+ 
+  In AmigaOS 4.1, a new Start-up preferences feature was added which replaced WBStartup drawer. Additional enhancements were a new icon set to complement higher screen resolutions, new window themes including drop shadows, AmiDock with true transparency, scalable icons and AmigaOS with auto-update feature.
+  
+
+    [26]
+   
+
+
+
+   AROS Research Operating System
+  
+  (AROS) implements the AmigaOS API in a portable open-source operating system. Although not binary-compatible with AmigaOS (unless running on 68k), users have reported it to be highly source-code-compatible.
+ 
+
+   MorphOS
+  
+  is a PowerPC native operating system which also runs on some Amiga hardware. It implements AmigaOS API and provides binary compatibility with "OS-friendly" AmigaOS applications (that is, those applications which do not access any native, legacy Amiga hardware directly just as AmigaOS 4.x unless it's executed on real Amiga models).
+ 
+
+   pOS
+  
+  was a multiplatform closed-source operating system with source code-level compatibility with existing Amiga software.
+  
+
+    [27]
+   
+
+
+
+   BeOS
+  
+  features also a centralized datatype structure similar to Mac OS Easy Open after old Amiga developers requested Be to adopt Amiga datatype service. It allows the entire OS to recognize all kinds of files (text, music, videos, documents, etc.) with standard
+  
+   file descriptors
+  
+  . The datatype system provides the entire system and any productivity tools with standard loaders and savers for these files, without the need to embed multiple file-loading capabilities into any single program.
+  
+
+    [28]
+   
+
+
+
+   AtheOS
+  
+  was inspired by AmigaOS, and originally intended to be a clone of AmigaOS.
+  
+
+    [29]
+   
+
+
+   Syllable
+  
+  is a fork of AtheOS, and includes some AmigaOS- and
+  
+   BeOS
+  
+  -like qualities.
+ 
+  Finally, the operating system of the
+  
+   3DO Interactive Multiplayer
+  
+  bore a very strong resemblance to AmigaOS and was developed by
+  
+   RJ Mical
+  
+  ,
+  
+
+    [30]
+   
+
+  the creator of the Amiga's
+  
+   Intuition
+  
+  user interface.
+  
+
+    [31]
+   
+

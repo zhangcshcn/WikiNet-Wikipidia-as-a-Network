@@ -1,0 +1,507 @@
+
+
+
+   Google Nexus
+  
+  is a line of
+  
+   consumer electronic
+  
+  devices that run the
+  
+   Android
+  
+
+   operating system
+  
+  .
+  
+   Google
+  
+  manages the design, development, marketing, and support of these devices, but some development and all manufacturing are carried out by partnering with
+  
+   original equipment manufacturers
+  
+  (OEMs). As of August 2016
+  
+
+    [update]
+   
+
+  , the devices currently available in the line are two smartphones, the
+  
+   Nexus 6P
+  
+  (made with
+  
+   Huawei
+  
+  ) and
+  
+   Nexus 5X
+  
+  (made with
+  
+   LG
+  
+  ). The line has also included tablets and streaming media players, though neither type of device is currently available. The most recent tablet was the
+  
+   Nexus 9
+  
+  (made with
+  
+   HTC
+  
+  ), and the most recent streaming media player the
+  
+   Nexus Player
+  
+  (made with
+  
+   Asus
+  
+  ).
+ 
+  Devices in the Nexus line
+  
+
+    [2]
+   
+
+  are considered Google's
+  
+   flagship
+  
+  Android products. They contain little to no manufacturer or
+  
+   wireless carrier
+  
+  modifications to Android (such as custom
+  
+   user interfaces
+  
+
+
+    [3]
+   
+
+  ), although devices sold through carriers may be
+  
+   SIM locked
+  
+  and may bear some extra branding.
+  
+   Nexus 6
+  
+  devices sold through
+  
+   AT&T
+  
+  , for example, are SIM locked and feature a custom boot splash screen and a logo on the back of the device, despite having otherwise identical hardware to the unlocked variant.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  The
+  
+   Verizon
+  
+
+   Galaxy Nexus
+  
+  featured a Verizon logo on the back and received software updates at a slower pace than the unlocked variant, though it featured different hardware to accommodate Verizon's
+  
+   CDMA
+  
+  network. All Nexus devices feature an unlockable
+  
+   bootloader
+  
+
+
+    [4]
+   
+
+  to allow further development and end-user modification.
+  
+
+    [5]
+   
+
+  Nexus devices are often among the first Android devices to receive updates to the operating system.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+  With the expansion of the
+  
+   Google Pixel
+  
+  product line in late 2016, Google stated that they "don’t want to close a door completely, but there is no plan right now to do more Nexus devices."
+  
+
+    [9]
+   
+
+
+
+
+  The Nexus One was manufactured by
+  
+   HTC
+  
+  and released in January 2010 as the first Nexus phone. It was released with
+  
+   Android 2.1 Eclair
+  
+  , and was updated in May 2010 to be the first phone with
+  
+   Android 2.2 Froyo
+  
+  . It was further updated to
+  
+   Android 2.3 Gingerbread
+  
+  . It was announced that Google would cease support for the Nexus One, whose
+  
+   graphics processing unit
+  
+  (GPU) is poor at rendering the new 2D acceleration engine of the UI in
+  
+   Android 4.0 Ice Cream Sandwich
+  
+  . The Nexus S and newer models have hardware designed to handle the new rendering. It was the only Nexus device to have card storage expandability (
+  
+   SD
+  
+  ).
+ 
+  The Nexus S, manufactured by
+  
+   Samsung
+  
+  , was released in December 2010 to coincide with the release of Android 2.3 Gingerbread. In December 2011 it was updated to Android 4.0 Ice Cream Sandwich, with most variations later being updatable to Android 4.1 Jelly Bean in July 2012.
+  
+
+    [10]
+   
+
+  The device's support was ended after 4.1 Jelly Bean and no longer receives updates from Google.
+ 
+  The Galaxy Nexus, manufactured by Samsung, was released in November 2011 (GSM version, US version released on December 15, 2011) to coincide with the release of
+  
+   Android 4.0 Ice Cream Sandwich
+  
+  . The device support was ended after 4.3 Jelly Bean and no longer receives updates from Google. This device is known in
+  
+   Brazil
+  
+  as Galaxy X due to a trademark on the "Nexus" brand.
+  
+
+    [11]
+   
+
+  It is also the last Nexus device to have a removable battery.
+ 
+  The Nexus 4 smartphone, also known as the LG Nexus 4 or LG Mako, was released in November 2012 and manufactured by
+  
+   LG
+  
+  . It was the first Android device that used
+  
+   Android's 4.2 Jelly Bean
+  
+  update version. Nexus 4 is the first Nexus device to have
+  
+   wireless charging
+  
+  capabilities. It was updated to Android 4.3 in June 2013 and to Android 4.4 in November 2013. It can run Android 5.1 as of April 2015.
+  
+
+    [12]
+   
+
+  The Nexus 4 has the following characteristics:
+ 
+  The Nexus 5 smartphone, again manufactured by
+  
+   LG
+  
+  , was scheduled for sale on October 31, 2013 for US $349 at the Google Play store. It was the first device to run
+  
+   Android 4.4 KitKat
+  
+  . The Nexus 5 will not receive an official Android 7.0 Nougat update,
+  
+
+    [13]
+   
+
+  meaning that
+  
+   Android 6.0.1 Marshmallow
+  
+  is the last officially supported Android version for the device. The Nexus 5 has the following characteristics:
+  
+
+    [14]
+   
+
+
+  The Nexus 6 is a smartphone developed by
+  
+   Motorola Mobility
+  
+  , originally running
+  
+   Android 5.0 Lollipop
+  
+  (upgradeable to Android 7.1.1 Nougat
+  
+
+    [15]
+   
+
+  ). It was first announced on October 15, 2014 along with the Nexus 9 and the Nexus Player.
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+  The Nexus 5X is a smartphone developed by
+  
+   LG Electronics
+  
+  , running
+  
+   Android 6.0 Marshmallow
+  
+  . It was first announced on September 29, 2015 along with the Nexus 6P.
+  
+
+    [18]
+   
+
+
+  The Nexus 6P is a smartphone developed by
+  
+   Huawei
+  
+  , running
+  
+   Android 6.0 Marshmallow
+  
+  . It was first announced on September 29, 2015 along with the Nexus 5X.
+  
+
+    [20]
+   
+
+
+  On June 27, 2012, at its
+  
+   I/O 2012
+  
+  keynote presentation, Google introduced the Nexus 7, a 7-inch
+  
+   tablet computer
+  
+  developed with and manufactured by
+  
+   Asus
+  
+  . Released in July 2012, it was the first device to run Android 4.1 Jelly Bean. The latest Android version supported by Google for the device is Android 5.1.1 Lollipop.
+ 
+  On July 24, 2013, at Google's "Breakfast with Sundar Pichai" press conference, Pichai introduced the second generation Nexus 7, again co-developed with
+  
+   Asus
+  
+  . Keeping with Google Nexus tradition, it was simultaneously released with the latest
+  
+   OS
+  
+  version,
+  
+   Android 4.3 Jelly Bean
+  
+  . It was made available on July 26, 2013 at select retailers and on the
+  
+   Google Play
+  
+  store in the United States.
+  
+
+    [21]
+   
+
+  On November 20, 2013, it was available from the Google Play stores in Hong Kong and India. On the same day, the Nexus Wireless Charger was made available in the United States and Canada.
+  
+
+    [22]
+   
+
+  In December 2015, Google released Android 6.0.1 Marshmallow for the device.
+  
+
+    [23]
+   
+
+  The Nexus 7 (2013) will not receive an official Android 7.0 Nougat update,
+  
+
+    [13]
+   
+
+  meaning that Android 6.0.1 Marshmallow is the last officially supported Android version for the tablet.
+ 
+  The Nexus 10, a 10-inch tablet manufactured by
+  
+   Samsung
+  
+  , was revealed in late October 2012 by the
+  
+   Exif
+  
+  data of photos taken by Google executive,
+  
+   Vic Gundotra
+  
+  ,
+  
+
+    [24]
+   
+
+  along with the leaks of its manual and a comprehensive series of photos. The leaked photos revealed a design similar to the
+  
+   Samsung Galaxy Note 10.1
+  
+  , with a 10.1-inch 2560×1600 display, 16 or 32 GB of storage, Android 4.2, and a dual-core 1.7 GHz
+  
+   Exynos
+  
+  5 processor. The Nexus 10 was expected to be unveiled officially during a Google press event on October 29, 2012, but the event was postponed due to
+  
+   Hurricane Sandy
+  
+  .
+  
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+  The Nexus 10 would not receive any official updates beyond Android 5.1.1.
+ 
+  The Nexus 9 is a 9-inch tablet running Android 5.0, developed in collaboration between Google and HTC. It was first announced on October 15, 2014 along with the Nexus 6 and the Nexus Player.
+  
+
+    [16]
+   
+
+
+
+
+  The Nexus Q was a
+  
+   digital media player
+  
+  that ran Android and integrated with Google Play, to sell at US$299 in the United States.
+ 
+  After complaints about a lack of features for the price, the Nexus Q was shelved indefinitely; Google said it needed time to make the product "even better".
+  
+
+    [27]
+   
+
+  The Nexus Q was unofficially replaced by the
+  
+   Chromecast
+  
+  , and further by the
+  
+   Nexus Player
+  
+  .
+ 
+  The Nexus Player is a streaming media player created in collaboration between Google and ASUS. It is the first device running
+  
+   Android TV
+  
+  . It was first announced on October 15, 2014 along with the Nexus 6 and the Nexus 9.
+  
+
+    [16]
+   
+
+  On May 24, 2016, Google discontinued sales of the Nexus Player,
+  
+
+    [28]
+   
+
+  however the device is still receiving official software updates.
+  
+
+    [29]
+   
+
+
+  Upon the announcement of the first Nexus device, the Nexus One, the estate of
+  
+   science fiction
+  
+  author
+  
+   Philip K. Dick
+  
+  claimed that the Nexus One name capitalized on
+  
+   intellectual property
+  
+  from Dick's 1968 novel
+  
+
+    Do Androids Dream of Electric Sheep?
+   
+
+  and that the choice of name was a direct reference to the Nexus-6 series of
+  
+   androids
+  
+  in the novel.
+  
+
+    [31]
+   
+

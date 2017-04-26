@@ -1,0 +1,274 @@
+
+
+  The
+  
+   Apple M7
+  
+  (codename Oscar),
+  
+   M8
+  
+  ,
+  
+   M9, and M10
+  
+  are motion
+  
+   coprocessors
+  
+  used by
+  
+   Apple Inc.
+  
+  in their mobile devices. Their function is to collect sensor data from integrated
+  
+   accelerometers
+  
+  ,
+  
+   gyroscopes
+  
+  and
+  
+   compasses
+  
+  and offload the collecting and processing of sensor data from the main
+  
+   central processing unit
+  
+  (CPU). The M7 was introduced in September 2013 with the
+  
+   iPhone 5S
+  
+
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+  and the updated version, M8 was introduced in September 2014 with the
+  
+   iPhone 6
+  
+  and also processes data from the
+  
+   barometer
+  
+  that is included in the
+  
+   iPhone 6
+  
+  and
+  
+   iPad Air 2
+  
+  .
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+  September 2015 brought the M9 motion coprocessor embedded within the
+  
+   A9
+  
+  chip found in the
+  
+   iPhone 6S
+  
+  ,
+  
+   iPhone 6S Plus
+  
+  ,
+  
+   iPhone SE
+  
+
+
+    [8]
+   
+
+  and within the
+  
+   A9X
+  
+  chip found in the
+  
+   iPad Pro
+  
+  .
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+  Apple announced the latest addition to its motion coprocessors, the M10, September 2016, found in the
+  
+   iPhone 7
+  
+  and
+  
+   iPhone 7 Plus
+  
+  .
+  
+
+    [11]
+   
+
+
+  Chipworks found that the M7 most likely is a
+  
+   NXP
+  
+
+   LPC1800
+  
+  based
+  
+   microcontroller
+  
+  called
+  
+   LPC18A1
+  
+  . It uses an
+  
+   ARM Cortex-M3
+  
+  core with a customised packaging and naming scheme indicating that it is for an Apple customized part.
+  
+
+    [1]
+   
+
+
+   iFixit
+  
+  have identified the M8 in the iPhone 6 to be an NXP device with a very similar name, the
+  
+   LPC18B1
+  
+  .
+  
+
+    [3]
+   
+
+
+
+    [12]
+   
+
+
+
+
+  The Apple
+  
+   M7
+  
+  , M8, M9, and M10 coprocessors collect, process, and store sensor data even if the device is asleep, and applications can retrieve data when the device is powered up again. This reduces power draw of the device and saves battery life.
+  
+
+    [13]
+   
+
+  In addition to servicing the
+  
+   accelerometer
+  
+  ,
+  
+   gyroscope
+  
+  ,
+  
+   compass
+  
+  , and
+  
+   barometer
+  
+  , the M9 coprocessor can recognize
+  
+   Siri
+  
+  voice commands from the built in
+  
+   microphones
+  
+  of the device.
+  
+
+    [14]
+   
+
+
+  The M-series motion coprocessors are accessible to applications through the
+  
+   Core Motion
+  
+
+   API
+  
+  introduced in
+  
+   iOS 7
+  
+  , so they do, for example, allow fitness apps that track physical activity and access data from the M processors without constantly engaging the main application processor. They enable applications to be aware of what type of movement the user is experiencing, such as driving, walking, running, or sleeping.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+  Another application could be the ability to do indoor tracking and mapping.
+  
+
+    [18]
+   
+
+  In
+  
+   iOS 10
+  
+  , the motion coprocessor is used for raise to wake functionality.
+ 
+      The LPC18A1, also known as the Apple M7. Manufactured week 29 in 2013.
+     
+      The size difference between the A7 and the smaller LPC18A1.
+     
+      The LPC18B1, also known as the Apple M8. Manufactured week 28 in 2014.
+     
+      The size difference between the A8 and the smaller LPC18B1.
+     
+      The Apple A9 which has the on die M9 coprocessor
+     
+      The Apple A9X which has the on die M9 coprocessor
+     
+      Apple A10 Fusion with on die M10 coprocessor
+     

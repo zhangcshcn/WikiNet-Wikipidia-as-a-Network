@@ -1,0 +1,1572 @@
+
+
+
+   Eric Emerson Schmidt
+  
+  (born April 27, 1955) is an American
+  
+   software engineer
+  
+  , a businessman, and the
+  
+   Executive Chairman
+  
+  of
+  
+   Alphabet, Inc.
+  
+
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+  In 2016,
+  
+
+    Forbes
+   
+
+  ranked Schmidt as the 100th-richest person in the world, with an estimated wealth of US$11.6 billion.
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+
+  As an intern at
+  
+   Bell Labs
+  
+  , Schmidt did a complete re-write of
+  
+   Lex
+  
+  , a software program to generate
+  
+   lexical analysers
+  
+  for the
+  
+   UNIX
+  
+
+   computer operating system
+  
+  . From 1997 to 2001, he was Chief Executive Officer (CEO) of
+  
+   Novell
+  
+  .
+  
+
+    [7]
+   
+
+
+  From 2001 to 2011, Schmidt served as the CEO of
+  
+   Google
+  
+  . He has served on various other boards in academia and industry, including the Boards of Trustees for
+  
+   Carnegie Mellon University
+  
+  , Pennsylvania, and
+  
+   Princeton University
+  
+  , New Jersey.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+
+
+  Eric Emerson Schmidt was born in
+  
+   Falls Church
+  
+  , Virginia, and grew up in Falls Church and
+  
+   Blacksburg, Virginia
+  
+  .
+  
+
+    [3]
+   
+
+
+
+    [6]
+   
+
+
+
+    [4]
+   
+
+
+
+    [2]
+   
+
+  He was one of three sons of Eleanor, who had a master's degree in psychology, and Wilson Emerson Schmidt, a professor of
+  
+   international economics
+  
+  at
+  
+   Virginia Tech
+  
+  and
+  
+   Johns Hopkins University
+  
+  , who worked at the
+  
+   U.S. Treasury Department
+  
+  during the
+  
+   Nixon Administration
+  
+  .
+  
+
+    [3]
+   
+
+
+
+    [6]
+   
+
+
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+
+  Schmidt graduated from
+  
+   Yorktown High School
+  
+  in the Yorktown neighborhood of
+  
+   Arlington County, Virginia
+  
+  , in 1972, after earning eight
+  
+   varsity letter
+  
+  awards in long-distance running.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+  He then attended
+  
+   Princeton University
+  
+  , where he started as an architecture major but then switched and earned a B.S. degree in
+  
+   electrical engineering
+  
+  in 1976.
+  
+
+    [11]
+   
+
+
+
+    [15]
+   
+
+  From 1976 to 1980, Schmidt stayed at the
+  
+   International House Berkeley
+  
+  , where he met his future wife,
+  
+   Wendy Boyle
+  
+  . In 1979, at the
+  
+   University of California, Berkeley
+  
+  , Schmidt then earned an M.S. degree for designing and implementing a
+  
+   network
+  
+  (
+  
+   Berknet
+  
+  ) linking the campus computer center with the CS and
+  
+   EECS
+  
+  departments.
+  
+
+    [16]
+   
+
+  There, he also earned a Ph.D. degree in 1982 in EECS, with a dissertation about the problems of managing distributed software development and tools for solving these problems.
+  
+
+    [17]
+   
+
+
+  Early in his career, Schmidt held a series of technical positions with
+  
+   IT
+  
+  companies including Byzromotti Design,
+  
+   Bell Labs
+  
+  (in research and development),
+  
+
+    [6]
+   
+
+
+   Zilog
+  
+  , and
+  
+   Xerox
+  
+  ’s
+  
+   Palo Alto Research Center
+  
+  (
+  
+   PARC
+  
+  ).
+ 
+  During his summers at Bell Labs, he and
+  
+   Mike Lesk
+  
+  wrote
+  
+   Lex
+  
+  ,
+  
+
+    [11]
+   
+
+
+
+    [18]
+   
+
+  a program that generates
+  
+   lexical-analyzers
+  
+  from
+  
+   regular-expression
+  
+  descriptions. It is an important tool for
+  
+   compiler
+  
+  construction.
+ 
+  In 1983, Schmidt joined
+  
+   Sun Microsystems
+  
+  as its first software manager.
+  
+
+    [6]
+   
+
+  He rose to become director of
+  
+   software engineering
+  
+  , vice president and general manager of the software products division, vice president of the general systems group, and president of Sun Technology Enterprises.
+  
+
+    [19]
+   
+
+
+  During his time at Sun, he was the target of two notable
+  
+   April Fool's Day
+  
+  pranks.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+  In the first, his office was taken apart and rebuilt on a platform in the middle of a pond, complete with a working phone. The next year, a working
+  
+   Volkswagen Beetle
+  
+  was taken apart and re-assembled in his office.
+ 
+  In April 1997, Schmidt became the CEO and chairman of the board of
+  
+   Novell
+  
+  . He presided over a period of decline at Novell where its IPX protocol was being replaced by open TCP/IP products, while at the same time Microsoft was shipping free TCP/IP stacks in Windows 95, making Novell much less profitable. In 2001, he departed after the acquisition of
+  
+   Cambridge Technology Partners
+  
+  .
+  
+
+    [7]
+   
+
+
+  Google founders
+  
+   Larry Page
+  
+  and
+  
+   Sergey Brin
+  
+  interviewed Schmidt. Impressed by him,
+  
+
+    [23]
+   
+
+  they recruited Schmidt to run their company in 2001 under the guidance of
+  
+   venture capitalists
+  
+
+   John Doerr
+  
+  and
+  
+   Michael Moritz
+  
+  .
+ 
+  In March 2001, Schmidt joined Google's
+  
+   board of directors
+  
+  as chairman, and became the company's CEO in August 2001. At Google, Schmidt shared responsibility for Google's daily operations with founders Page and Brin. Prior to the Google
+  
+   initial public offering
+  
+  , Schmidt had responsibilities typically assigned to the CEO of a public company and focused on the management of the vice presidents and the sales organization.
+  
+
+    [24]
+   
+
+  According to Google, Schmidt's job responsibilities included "building the corporate infrastructure needed to maintain Google's rapid growth as a company and on ensuring that quality remains high while the product development cycle times are kept to a minimum."
+  
+
+    [25]
+   
+
+
+  Upon being hired at Google, Eric Schmidt was paid a salary of $250,000 and an annual performance bonus. He was granted 14,331,703 shares of Class B common stock at $0.30 per share and 426,892 shares of Series C preferred stock at purchase price of $2.34.
+  
+
+    [26]
+   
+
+
+  In 2004, Schmidt and the Google founders agreed to a base
+  
+   salary of US $1
+  
+  (which continued through 2010) with other compensation of $557,465 in 2006,
+  
+
+    [27]
+   
+
+  $508,763 in 2008, and $243,661 in 2009. He did not receive any additional stock or options in 2009 or 2010.
+  
+
+    [28]
+   
+
+
+
+    [29]
+   
+
+  Most of his compensation was for "personal security" and charters of private aircraft.
+  
+
+    [29]
+   
+
+
+  In 2007,
+  
+
+    PC World
+   
+
+  ranked Schmidt as the first on its list of the 50 most important people on the Web, along with Google co-founders Page and Brin.
+  
+
+    [30]
+   
+
+
+  Schmidt is one of a few people
+  
+   [
+   
+
+
+      who?
+     
+
+
+   ]
+  
+  who became billionaires (in United States dollars) based on stock options received as employees in corporations of which they were neither the founders nor relatives of the founders.
+  
+
+    [31]
+   
+
+
+   [
+   
+
+
+      not in citation given
+     
+
+
+   ]
+  
+
+  In its 2011 'World's Billionaires' list,
+  
+
+    Forbes
+   
+
+  ranked Schmidt as the 136th-richest person in the world, with an estimated wealth of $7 billion.
+  
+
+    [32]
+   
+
+  Google gave him a $100 million equity award in 2011 when he stepped down as CEO.
+  
+
+    [33]
+   
+
+
+  On 20 January 2011, Google announced that Schmidt would step down as the CEO of Google but continue as the executive chairman of the company and act as an adviser to co-founders Page and Brin.
+ 
+  On 4 April 2011, Page replaced Schmidt as the CEO.
+  
+
+    [34]
+   
+
+
+  While working at Google, Schmidt was involved in activities
+  
+
+    [35]
+   
+
+  that later became the subject of the
+  
+   High-Tech Employee Antitrust Litigation
+  
+  case that resulted in a settlement of $415 million paid by
+  
+   Adobe
+  
+  ,
+  
+   Apple
+  
+  , Google and
+  
+   Intel
+  
+  to employees. In one incident, after receiving a complaint from
+  
+   Steve Jobs
+  
+  of Apple, Schmidt sent an email to Google's HR people saying; "I believe we have a policy of no recruiting from Apple and this is a direct inbound request. Can you get this stopped and let me know why this is happening? I will need to send a response back to Apple quickly so please let me know as soon as you can. Thanks Eric". Schmidt's email led to a recruiter for Google being "terminated within the hour" for not having adhered to the illegal scheme. Under Schmidt, there was a "Do Not Call list" of companies Google would avoid recruiting from.
+  
+
+    [36]
+   
+
+  According to a court filing, another email exchange shows Google's human resources director asking Schmidt about sharing its no-cold call agreements with competitors. Schmidt responded that he preferred it be shared "verbally, since I don't want to create a paper trail over which we can be sued later?"
+  
+
+    [35]
+   
+
+
+  On 28 August 2006, Schmidt was elected to
+  
+   Apple Inc.
+  
+  's board of directors.
+  
+
+    [37]
+   
+
+
+  On 3 August 2009, it was announced that Schmidt would resign from the board of directors at Apple due to conflicts of interest amid the growing competition between Google and Apple.
+ 
+  Schmidt sat on the boards of trustees for both
+  
+   Carnegie Mellon University
+  
+  and
+  
+   Princeton University
+  
+  .
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+  He taught at
+  
+   Stanford Graduate School of Business
+  
+  in the 2000s.
+  
+
+    [38]
+   
+
+
+
+    [39]
+   
+
+  Schmidt serves on the boards of the
+  
+   Institute for Advanced Study
+  
+  in Princeton, the
+  
+   Khan Academy
+  
+  , and
+  
+   The Economist
+  
+  .
+  
+
+    [40]
+   
+
+
+
+    [41]
+   
+
+
+
+   New America
+  
+  is a non-profit public-policy institute and think tank, founded in 1999. Schmidt succeeded founding chairman
+  
+   James Fallows
+  
+  in 2008.
+  
+
+    [42]
+   
+
+
+  Founded in 2010 by Schmidt and Dror Berman, Innovation Endeavors is an early-stage
+  
+   venture capital
+  
+  . The fund, based in
+  
+   Palo Alto, California
+  
+  , invested companies such as
+  
+   Mashape
+  
+  ,
+  
+   Uber (company)
+  
+  ,
+  
+   Quixey
+  
+  ,
+  
+   Gogobot
+  
+  ,
+  
+   BillGuard
+  
+  , and
+  
+   Formlabs
+  
+  .
+  
+
+    [43]
+   
+
+
+
+    [44]
+   
+
+
+  Schmidt was an informal advisor and major donor to
+  
+   Barack Obama
+  
+  's
+  
+   2008 presidential campaign
+  
+  , and began campaigning the week of October 19, 2008, on behalf of the candidate.
+  
+
+    [45]
+   
+
+  He was mentioned as a possible candidate for the
+  
+   Chief Technology Officer
+  
+  position, which Obama created in his administration,
+  
+
+    [46]
+   
+
+  and Obama considered him for
+  
+   Commerce Secretary
+  
+  .
+  
+
+    [47]
+   
+
+  After Obama won in 2008, Schmidt became a member of
+  
+   President Obama's transition advisory board
+  
+  and has since become a member of the
+  
+   United States President's Council of Advisors on Science and Technology
+  
+  (PCAST).
+  
+
+    [48]
+   
+
+  Schmidt has served on Google’s
+  
+   government relations
+  
+  team.
+ 
+  Schmidt has proposed that the easiest way to solve all of the domestic problems of the United States at once is by a stimulus program that rewards
+  
+   renewable energy
+  
+  and, over time, attempts to replace
+  
+   fossil fuels
+  
+  with renewable energy.
+  
+
+    [49]
+   
+
+
+
+   Ash Carter
+  
+  appointed Schmidt as chairman of the
+  
+   DoD Innovation Advisory Board
+  
+  announced March 2, 2016. It will be modeled like the
+  
+   Defense Business Board
+  
+  and will facilitate the
+  
+   Pentagon
+  
+  at becoming more innovative and adaptive.
+  
+
+    [50]
+   
+
+
+  Schmidt is an investor in
+  
+   The Groundwork
+  
+  , a start-up company associated with
+  
+   Hillary Clinton
+  
+  's
+  
+   2016 presidential campaign
+  
+  .
+  
+
+    [51]
+   
+
+
+
+    [52]
+   
+
+  For example, it charged the campaign $177,000 in the second quarter of 2015.
+  
+
+    [51]
+   
+
+  By May 2016, the campaign had spent $500,000 on it.
+  
+
+    [52]
+   
+
+
+  Schmidt is an investor in
+  
+   Timshel
+  
+  , another start up company associated with
+  
+   Hillary Clinton
+  
+  's
+  
+   2016 presidential campaign
+  
+  .
+  
+
+    [53]
+   
+
+  Timshel is the parent company of The Groundwork.
+  
+
+    [54]
+   
+
+
+  The
+  
+   Schmidt Family Foundation
+  
+  was established in 2006 by
+  
+   Wendy Schmidt
+  
+  and Eric Schmidt to address issues of sustainability and the responsible use of natural resources.
+  
+
+    [55]
+   
+
+
+  Schmidt and his wife established the Eric & Wendy Schmidt Data Science for Social Good Fellowship, a
+  
+   University of Chicago
+  
+
+   summer school
+  
+  program for aspiring data scientists.
+ 
+
+   The Schmidt Family Foundation
+  
+  's subsidiaries include ReMain Nantucket and the Marine Science and Technology Foundation; its main charitable program is the 11th Hour Project. The Foundation has also awarded grants to the
+  
+   Natural Resources Defense Council
+  
+  and the Energy Foundation.
+  
+
+    [56]
+   
+
+  The Foundation is the main funder of the
+  
+   Schmidt Ocean Institute
+  
+  , supporting the acquisition and operation of its
+  
+   research vessels
+  
+  .
+ 
+  The Schmidts, working with Heart Howerton, a San Francisco architectural firm that specializes in large-scale land use, have inaugurated several projects on the island of
+  
+   Nantucket
+  
+  that seek to sustain the unique character of the island and to minimize the impact of seasonal visitation on the island's core community.
+ 
+  Ms. Schmidt offered the prize purse of the
+  
+   Wendy Schmidt Oil Cleanup X CHALLENGE
+  
+  , a challenge
+  
+   award
+  
+  for the efficient capturing of
+  
+   crude oil
+  
+  from
+  
+   seawater
+  
+  motivated by the
+  
+   Deepwater Horizon oil spill
+  
+  .
+  
+
+    [57]
+   
+
+
+  In 2009, Eric and Wendy Schmidt endowed the Schmidt Transformative Technology Fund at
+  
+   Princeton University
+  
+  with $25 million. The Fund’s purpose is to support cutting edge research and technology in the natural sciences and engineering, encouraging collaboration across disciplines.
+  
+
+    [58]
+   
+
+
+
+    [59]
+   
+
+
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+  It awarded $1.2 million in grants in 2010 and $1.7 million in grants in 2012.
+  
+
+    [62]
+   
+
+
+
+    [63]
+   
+
+
+  Schmidt has claimed that
+  
+   Google's use of artificial distinctions
+  
+  to avoid paying billions of pounds in
+  
+   Corporation tax
+  
+  owed by its UK operations
+  
+
+    [64]
+   
+
+  is "capitalism"
+  
+
+    [65]
+   
+
+  and that he was "very proud of it".
+  
+
+    [66]
+   
+
+
+  On 16 May 2013
+  
+   Margaret Hodge MP
+  
+  , the chair of the
+  
+   United Kingdom
+  
+
+   Public Accounts Committee
+  
+  accused Google of being "calculated and unethical" over its use of artificial distinctions to avoid paying billions of pounds in
+  
+   Corporation tax
+  
+  owed by its UK operations.
+  
+
+    [64]
+   
+
+  Google was accused by the committee, which represents the interests of all UK taxpayers, of being "
+  
+   evil
+  
+  " for not paying its "fair amount of tax".
+  
+
+    [67]
+   
+
+
+  In 2015, the UK Government introduced a new law intended to penalise Google and other large
+  
+   multinational
+  
+  corporations' artificial tax avoidance.
+  
+
+    [68]
+   
+
+  Google is accused of avoiding paying tens of billions of dollars of tax through a convoluted scheme of inter-company licensing agreements and transfers to tax havens.
+  
+
+    [69]
+   
+
+  Schmidt was also criticised for his inaccurate use of the term 'capitalism' to describe billions of dollars being transferred into tax havens where no economic activity was actually taking place.
+  
+
+    [67]
+   
+
+
+  Publicly Schmidt stated that, as paraphrased by
+  
+
+    CNN
+   
+
+  /
+  
+
+    Money
+   
+
+  , "there has to be a trade-off between privacy concerns and functionality."
+  
+
+    [70]
+   
+
+  His explanations referenced "
+  
+   Don't Be Evil
+  
+  ".
+  
+
+    [70]
+   
+
+
+  During an interview aired on December 3, 2009, on the CNBC documentary "Inside the Mind of Google," Schmidt was asked, "People are treating Google like their most trusted friend. Should they be?" He replied: "I think judgment matters. If you have something that you don't want anyone to know, maybe you shouldn't be doing it in the first place. But if you really need that kind of privacy, the reality is that search engines, including Google, do retain this information for some time. And it's important, for example, that we are all subject in the United States to the
+  
+   Patriot Act
+  
+  . It is possible that information could be made available to the authorities."
+  
+
+    [71]
+   
+
+
+
+    [72]
+   
+
+
+  At the
+  
+   Techonomy
+  
+  conference on August 4, 2010, Schmidt expressed that technology is good. And he said that the only way to manage the challenges is "much greater transparency and no anonymity." Schmidt also stated that in an era of asymmetric threats, "true anonymity is too dangerous."
+  
+
+    [73]
+   
+
+  However, at the 2013
+  
+   Hay Festival
+  
+  , Schmidt expressed concern that sharing of personal information was too rampant and could have a negative effect, particularly on teenagers, stating that "we have never had a generation with a full photographic, digital record of what they did", declaring that "We have a point at which we [Google] forget information we know about you because it is the right thing to do. There are situations in life that it's better that they don't exist."
+  
+
+    [74]
+   
+
+
+  In 2013 Schmidt stated that the government surveillance in the United States was the "nature of our society" and that he was not going to "pass judgment on that".
+  
+
+    [75]
+   
+
+  However, on the revelation that the NSA has been secretly spying on Google's data centers worldwide, he called the practice "outrageous" and criticized the NSA's collection of Americans phone records.
+  
+
+    [76]
+   
+
+
+  In 2005
+  
+   Google
+  
+  blacklisted
+  
+   CNET
+  
+  reporters from talking to Google employees for one year, until July 2006, after CNET published personal information on Schmidt, including his political donations, hobbies, salary, and neighborhood, that had been obtained through Google searches.
+  
+
+    [70]
+   
+
+
+  In August 2010, Schmidt clarified his company's views on
+  
+   network neutrality
+  
+  : "I want to be clear what we mean by Net neutrality: What we mean is if you have one data type like video, you don't discriminate against one person's video in favor of another. But it's okay to discriminate across different types. So you could prioritize voice over video. And there is general agreement with
+  
+   Verizon
+  
+  and Google on that issue."
+  
+
+    [77]
+   
+
+
+  In January 2013, Schmidt and
+  
+   Jared Cohen
+  
+  , director of
+  
+   Google Ideas
+  
+  visited
+  
+   North Korea
+  
+  along with former
+  
+   New Mexico
+  
+  governor
+  
+   Bill Richardson
+  
+  .
+  
+
+    [78]
+   
+
+  The trip was highly publicized and controversial due to the ongoing tension between North Korea and the United States.
+  
+
+    [79]
+   
+
+
+   Tumblr
+  
+  , a
+  
+   Yahoo!
+  
+  -owned social-blogging site, featured a page titled, "Eric Schmidt looking at things", and included photographs of Schmidt looking intently at computer screens and other scenes in North Korea.
+  
+
+    [80]
+   
+
+  On August 10, 2013, North Korea announced an indigenous smartphone, named
+  
+   Arirang
+  
+  , that may be using the Google Android operating system.
+  
+
+    [81]
+   
+
+
+  In March 2013, Schmidt visited
+  
+   Burma
+  
+  , which had been ruled by a
+  
+   military junta
+  
+  for decades and is transitioning to a democracy. During his visit, Schmidt spoke in favor of free and open Internet use in the country, and was scheduled to meet with the country’s president.
+  
+
+    [82]
+   
+
+
+
+    [83]
+   
+
+
+
+    [84]
+   
+
+
+  In 2013, Schmidt and
+  
+   Jared Cohen
+  
+  , director of the
+  
+   Google Ideas
+  
+  think tank, published
+  
+   The New Digital Age: Reshaping the Future of People, Nations and Business
+  
+  , which discusses the geopolitical implications of increasingly widespread Internet use and access to information. The book was inspired by an essay in
+  
+   Foreign Affairs
+  
+  magazine the two co-wrote in 2010.
+  
+
+    [85]
+   
+
+
+
+    [86]
+   
+
+
+
+    [87]
+   
+
+  He also wrote the preface to
+  
+   The Startup Game: Inside the Partnership between Venture Capitalists and Entrepreneurs
+  
+  , by William H. Draper, III.
+  
+
+    [88]
+   
+
+
+  In 2014, Schmidt co-authored the New York Times best-selling book
+  
+
+    How Google Works
+   
+
+
+
+    [89]
+   
+
+  with
+  
+   Jonathan Rosenberg
+  
+  , former Senior Vice President of Products at
+  
+   Google
+  
+  and current advisor to
+  
+   Google
+  
+  CEO
+  
+   Larry Page
+  
+  , and Alan Eagle.
+  
+
+    [90]
+   
+
+  The book is a collection of the business management lessons learned over the course of Schmidt and Rosenberg's time leading Google.
+  
+
+    [91]
+   
+
+  In his book, Eric Schmidt argues that successful companies in the technology-driven internet age, should attract smart and creative employees and then create an environment where they can thrive. He argues that the traditional business rules that make a company successful have changed. The book states that companies should maximize freedom and speed, and decision-making should not lie in the hands of the few. It also emphasizes that individuals and small teams can have a massive impact on innovation.
+  
+
+    [92]
+   
+
+
+  Dating back to early 1990s and dubbed "Schmidts Law" by George Gilder when Schmidt predicted that the network will become the computer.
+  
+
+    [93]
+   
+
+
+
+    [94]
+   
+
+
+
+    [95]
+   
+
+
+  Schmidts Law states: "When the network becomes as fast as the
+  
+   backplane
+  
+  of your computer, the computer hollows out, its components dispersing across the Web, its value migrating to search and sort functions."
+  
+
+    [96]
+   
+
+
+  Schmidt was on the list of ARTnews's 200 top art collectors in 2008.
+  
+
+    [97]
+   
+
+
+  He is a member of the
+  
+   Bilderberg Group
+  
+  and has attended the annual Bilderberg conferences every year since 2011.
+  
+
+    [98]
+   
+
+
+
+    [99]
+   
+
+
+
+    [100]
+   
+
+
+
+    [101]
+   
+
+  He also has a listed membership with the
+  
+   Trilateral Commission
+  
+  .
+  
+
+    [102]
+   
+
+  He is a member of the International Advisory Board at the
+  
+   Blavatnik School of Government
+  
+  , University of Oxford.
+  
+
+    [103]
+   
+
+
+  With his wife, Wendy, he formed the
+  
+   Schmidt Ocean Institute
+  
+  which supports oceanographic research by operating
+  
+   RV
+   
+    Falkor
+   
+
+  .
+  
+
+    [104]
+   
+
+
+  Schmidt is an active member of the
+  
+   Berggruen Institute
+  
+  's 21st Century Council.
+  
+
+    [105]
+   
+
+
+
+    [106]
+   
+
+
+  In 2014, he had a cameo appearance in the film
+  
+
+    Dumb and Dumber To
+   
+
+  , starring
+  
+   Jim Carrey
+  
+  and
+  
+   Jeff Daniels
+  
+  . He also had a cameo appearance in the
+  
+   HBO
+  
+  show
+  
+   Silicon Valley
+  
+  .
+  
+
+    [107]
+   
+
+
+  In June 1980, Schmidt married
+  
+   Wendy Susan Boyle
+  
+  (born in
+  
+   Short Hills
+  
+  , New Jersey, in 1955). They lived in
+  
+   Atherton
+  
+  , California, in the 1990s.
+  
+
+    [108]
+   
+
+  They have two daughters, Sophie and Allison.
+  
+
+    [6]
+   
+
+
+
+    [109]
+   
+
+  The two separated in 2011.
+  
+
+    [6]
+   
+
+
+
+    [110]
+   
+
+
+
+    [111]
+   
+
+
+  In January 2013, Schmidt visited
+  
+   North Korea
+  
+  with his daughter Sophie,
+  
+
+    [112]
+   
+
+
+   Jared Cohen
+  
+  , and former
+  
+   New Mexico
+  
+  governor
+  
+   Bill Richardson
+  
+  .
+  
+
+    [113]
+   
+
+
+
+    [114]
+   
+
