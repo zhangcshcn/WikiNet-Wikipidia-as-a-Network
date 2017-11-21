@@ -1,0 +1,2064 @@
+
+
+
+   Kinect
+  
+  (codenamed
+  
+   Project Natal
+  
+  during development) is a line of
+  
+   motion sensing
+  
+
+   input devices
+  
+  by
+  
+   Microsoft
+  
+  for
+  
+   Xbox 360
+  
+  and
+  
+   Xbox One
+  
+
+   video game consoles
+  
+  and
+  
+   Windows
+  
+
+   PCs
+  
+  . Based around a
+  
+   webcam
+  
+  -style add-on
+  
+   peripheral
+  
+  , it enables users to control and interact with their console/computer without the need for a
+  
+   game controller
+  
+  , through a
+  
+   natural user interface
+  
+  using gestures and
+  
+   spoken commands
+  
+  .
+  
+
+    [10]
+   
+
+
+  The first-generation Kinect was first introduced in November 2010 in an attempt to broaden Xbox 360's audience beyond its typical gamer base.
+  
+
+    [11]
+   
+
+  A version for Windows was released on February 1, 2012.
+  
+
+    [6]
+   
+
+  A newer version, Kinect 2.0, was released with the Xbox One platform starting in 2013.
+  
+
+    [12]
+   
+
+
+  Microsoft released the first Beta of the Kinect
+  
+   software development kit
+  
+  for Windows 7 on June 16, 2011.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+  This SDK was meant to allow developers to write Kinecting apps in
+  
+   C++/CLI
+  
+  ,
+  
+   C#
+  
+  , or
+  
+   Visual Basic .NET
+  
+  .
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+
+
+  Kinect was first announced on June 1, 2009 at
+  
+   E3 2009
+  
+  under the code name "Project Natal".
+  
+
+    [18]
+   
+
+  Three demos were shown to showcase Kinect when it was revealed at Microsoft's E3 2009 Media Briefing:
+  
+   Ricochet
+  
+  ,
+  
+   Paint Party
+  
+  and
+  
+
+    Milo & Kate
+   
+
+  .
+  
+
+    [19]
+   
+
+  A demo based on
+  
+
+    Burnout Paradise
+   
+
+  was also shown outside of Microsoft's media briefing.
+  
+
+    [20]
+   
+
+  The skeletal mapping technology shown at E3 2009 was capable of simultaneously tracking four people,
+  
+
+    [21]
+   
+
+
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+  with a feature extraction of 48
+  
+   skeletal
+  
+  points on a human body at 30 Hz.
+  
+
+    [25]
+   
+
+
+
+    [24]
+   
+
+
+  It was rumored that the launch of Project Natal would be accompanied with the release of a new Xbox 360 console (as either a new
+  
+   retail configuration
+  
+  ,
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+  a significant design revision
+  
+
+    [28]
+   
+
+  and/or a modest
+  
+   hardware
+  
+  upgrade
+  
+
+    [29]
+   
+
+  ). Microsoft dismissed the reports in public and repeatedly emphasized that Project Natal would be fully compatible with all Xbox 360 consoles. Microsoft indicated that the company considers it to be a significant initiative, as fundamental to Xbox brand as
+  
+   Xbox Live
+  
+  ,
+  
+
+    [30]
+   
+
+  and with a launch akin to that of a new Xbox console platform.
+  
+
+    [31]
+   
+
+  Kinect was even referred to as a "new Xbox" by Microsoft
+  
+   CEO
+  
+
+   Steve Ballmer
+  
+  at a speech for Executives' Club of Chicago.
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+  When asked if the introduction will extend the time before the next-generation console platform is launched (historically about 5 years between platforms),
+  
+
+    [34]
+   
+
+  Microsoft corporate
+  
+   vice president
+  
+  Shane Kim reaffirmed that the company believes that the life cycle of Xbox 360 will last through 2015 (10 years).
+  
+
+    [22]
+   
+
+
+  During Kinect's development, project team members experimentally adapted numerous games to Kinect-based control schemes to help evaluate usability. Among these games were
+  
+
+    Beautiful Katamari
+   
+
+  and
+  
+
+    Space Invaders Extreme
+   
+
+  , which were demonstrated at
+  
+   Tokyo Game Show
+  
+  in September 2009.
+  
+
+    [35]
+   
+
+  According to creative director Kudo Tsunoda, adding Kinect-based control to pre-existing games would involve significant code alterations, making it unlikely for Kinect features to be added through software updates.
+  
+
+    [36]
+   
+
+
+  Although the sensor unit was originally planned to contain a microprocessor that would perform operations such as the system's skeletal mapping, it was revealed in January 2010 that the sensor would no longer feature a dedicated processor. Instead, processing would be handled by one of the
+  
+   processor cores
+  
+  of Xbox 360's
+  
+   Xenon
+  
+  CPU.
+  
+
+    [37]
+   
+
+  According to Alex Kipman, Kinect system consumes about 10-15% of Xbox 360's computing resources.
+  
+
+    [38]
+   
+
+  However, in November, Alex Kipman made a statement that "the new motion control tech now only uses a single-digit percentage of Xbox 360's processing power, down from the previously stated 10 to 15 percent."
+  
+
+    [39]
+   
+
+  A number of observers commented that the computational load required for Kinect makes the addition of Kinect functionality to pre-existing games through software updates even less likely, with concepts specific to Kinect more likely to be the focus for developers using the platform.
+  
+
+    [37]
+   
+
+
+  On March 25, 2010, Microsoft sent out a
+  
+   save the date
+  
+  flier for an event called the "World Premiere 'Project Natal' for Xbox 360 Experience" at
+  
+   E3 2010
+  
+  . The event took place on the evening of Sunday, June 13, 2010 at
+  
+   Galen Center
+  
+
+
+    [40]
+   
+
+  and featured a performance by
+  
+   Cirque du Soleil
+  
+  . It was announced that the system would officially be called Kinect, a
+  
+   portmanteau
+  
+  of the words "kinetic" and "connect", which describe key aspects of the initiative.
+  
+
+    [41]
+   
+
+  Microsoft also announced that the North American launch date for Kinect will be November 4, 2010.
+  
+
+    [42]
+   
+
+  Despite previous statements dismissing speculation of a new Xbox 360 to accompany the launch of the new control system, Microsoft announced at
+  
+   E3
+  
+  2010 that it was introducing a redesigned Xbox 360, complete with a connector port ready for Kinect. In addition, on July 20, 2010, Microsoft announced a Kinect bundle with a redesigned Xbox 360, to be available with Kinect launch.
+  
+
+    [43]
+   
+
+
+  On June 16, 2011, Microsoft announced its official release of its SDK for non-commercial use.
+  
+
+    [44]
+   
+
+  On July 21, 2011, Microsoft announced that the first ever white Kinect sensor would be available as part of "Xbox 360 Limited Edition Kinect Star Wars Bundle", which also includes custom a
+  
+   Star Wars
+  
+  -themed console and controller, and copies of
+  
+   Kinect Adventures
+  
+  and
+  
+   Star Wars Kinect
+  
+  .
+  
+
+    [45]
+   
+
+  Previously, all Kinect sensors had been glossy black.
+ 
+  On October 31, 2011, Microsoft announced launching of the commercial version of
+  
+   Kinect for Windows program
+  
+  with release of SDK to companies. David Dennis, Product Manager at Microsoft, said, "There are hundreds of organizations we are working with to help them determine what's possible with the tech".
+  
+
+    [46]
+   
+
+
+  On February 1, 2012, Microsoft released the commercial version of Kinect for Windows SDK and told that more than 300 companies from over 25 countries are working on Kinect-ready apps.
+  
+
+    [47]
+   
+
+
+  The tabloid the New York Post claimed Microsoft had a $500 million budget for advertising the launch of Kinect.
+  
+
+    [48]
+   
+
+  While this claim was widely re-reported,
+  
+
+    [49]
+   
+
+
+
+    [50]
+   
+
+
+
+    [51]
+   
+
+  an examination of the
+  
+   10-Q
+  
+  from Microsoft reveals a 20% year-over-year increase ($85 million) for sales and marketing the quarter Kinect was launched for all of the Entertainment and Devices division, making the total sales and marketing spend $425 million for the entire division.
+  
+
+    [52]
+   
+
+  The marketing campaign
+  
+   You Are the Controller
+  
+  , aiming to reach new audiences, included advertisements on
+  
+   Kellogg's
+  
+  cereal boxes and
+  
+   Pepsi
+  
+  bottles, commercials during shows such as
+  
+
+    Dancing with the Stars
+   
+
+  and
+  
+
+    Glee
+   
+
+  as well as print ads in various magazines such as
+  
+
+    People
+   
+
+  and
+  
+
+    InStyle
+   
+
+  .
+  
+
+    [53]
+   
+
+
+  On October 19, Microsoft advertised Kinect on
+  
+   The Oprah Winfrey Show
+  
+  by giving free Xbox 360 consoles and Kinect sensors to the people in the audience.
+  
+
+    [54]
+   
+
+  Two weeks later, Kinect bundles with Xbox 360 consoles were also given away to the audience of
+  
+   Late Night with Jimmy Fallon
+  
+  .
+  
+
+    [55]
+   
+
+  On October 23, Microsoft held a pre-launch party for Kinect in Beverly Hills. The party was hosted by
+  
+   Ashley Tisdale
+  
+  and was attended by soccer star
+  
+   David Beckham
+  
+  and his three sons, Cruz, Brooklyn, and Romeo. Guests were treated to sessions with
+  
+   Dance Central
+  
+  and
+  
+   Kinect Adventures
+  
+  , followed by Tisdale having a Kinect voice chat with
+  
+   Nick Cannon
+  
+  .
+  
+
+    [56]
+   
+
+  Between November 1 and 28,
+  
+   Burger King
+  
+  gave away a free Kinect bundle "every 15 minutes".
+  
+
+    [57]
+   
+
+
+  A major event was organized on November 3 in
+  
+   Times Square
+  
+  , where singer
+  
+   Ne-Yo
+  
+  performed with hundreds of dancers in anticipation of Kinect's midnight launch.
+  
+
+    [58]
+   
+
+
+  Kinect was launched in North America on November 4, 2010,
+  
+
+    [1]
+   
+
+  in Europe on November 10, 2010,
+  
+
+    [2]
+   
+
+  in Australia, New Zealand and Singapore on November 18, 2010,
+  
+
+    [4]
+   
+
+
+
+    [59]
+   
+
+
+
+    [60]
+   
+
+  and in Japan on November 20, 2010.
+  
+
+    [61]
+   
+
+  Purchase options for the sensor peripheral include a bundle with the game
+  
+
+    Kinect Adventures
+   
+
+  and console bundles with either a 4 GB
+  
+
+    [43]
+   
+
+
+
+    [62]
+   
+
+
+
+    [63]
+   
+
+  or 250 GB
+  
+
+    [64]
+   
+
+  Xbox 360 console and
+  
+   Kinect Adventures
+  
+  .
+  
+
+    [43]
+   
+
+
+
+    [62]
+   
+
+
+
+    [63]
+   
+
+
+
+    [64]
+   
+
+
+  Kinect V1 was a combination of
+  
+   Microsoft
+  
+  built software and hardware. Kinect V1 hardware included a
+  
+   range chipset
+  
+  technology by
+  
+   Israeli
+  
+  developer
+  
+   PrimeSense
+  
+  , which developed a system consisting of an
+  
+   infrared
+  
+  projector and camera and a special
+  
+   microchip
+  
+  that generates a grid from which the location of a nearby object in 3 dimensions can be ascertained.
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+
+
+    [67]
+   
+
+  This
+  
+   3D scanner
+  
+  system called
+  
+   Light Coding
+  
+
+
+    [68]
+   
+
+  employs a variant of image-based 3D reconstruction.
+  
+
+    [69]
+   
+
+
+
+    [70]
+   
+
+
+  The Kinect sensor
+  
+
+    [10]
+   
+
+  is a horizontal bar connected to a small base with a motorized pivot and is designed to be positioned lengthwise above or below the video display. The device features an "
+  
+   RGB
+  
+  camera,
+  
+   depth sensor
+  
+  and
+  
+   multi-array microphone
+  
+  running proprietary software",
+  
+
+    [71]
+   
+
+  which provide full-body 3D
+  
+   motion capture
+  
+  ,
+  
+   facial recognition
+  
+  and
+  
+   voice recognition
+  
+  capabilities. At launch, voice recognition was only made available in Japan, United Kingdom, Canada and United States. Mainland Europe received the feature later in spring 2011.
+  
+
+    [72]
+   
+
+  Currently voice recognition is supported in
+  
+   Australia
+  
+  ,
+  
+   Canada
+  
+  ,
+  
+   France
+  
+  ,
+  
+   Germany
+  
+  ,
+  
+   Ireland
+  
+  ,
+  
+   Italy
+  
+  ,
+  
+   Japan
+  
+  ,
+  
+   Mexico
+  
+  ,
+  
+   New Zealand
+  
+  ,
+  
+   United Kingdom
+  
+  and
+  
+   United States
+  
+  . Kinect sensor's microphone array enables Xbox 360 to conduct
+  
+   acoustic source localization
+  
+  and
+  
+   ambient noise suppression
+  
+  , allowing for things such as headset-free party chat over
+  
+   Xbox Live
+  
+  .
+  
+
+    [10]
+   
+
+
+  The depth sensor consists of an
+  
+   infrared
+  
+
+   laser
+  
+  projector combined with a monochrome
+  
+   CMOS sensor
+  
+  , which captures video data in 3D under any
+  
+   ambient light
+  
+  conditions.
+  
+
+    [10]
+   
+
+
+
+    [21]
+   
+
+  The sensing range of the depth sensor is adjustable, and Kinect software is capable of automatically calibrating the sensor based on gameplay and the player's physical environment, accommodating for the presence of furniture or other obstacles.
+  
+
+    [25]
+   
+
+
+  Described by Microsoft personnel as the primary innovation of Kinect,
+  
+
+    [22]
+   
+
+
+
+    [73]
+   
+
+
+
+    [74]
+   
+
+  the software technology enables advanced
+  
+   gesture recognition
+  
+  , facial recognition and voice recognition.
+  
+
+    [23]
+   
+
+  According to information supplied to retailers, Kinect is capable of simultaneously tracking up to six people, including two active players for
+  
+   motion analysis
+  
+  with a
+  
+   feature extraction
+  
+  of 20 joints per player.
+  
+
+    [75]
+   
+
+  However, PrimeSense has stated that the number of people the device can "see" (but not process as players) is only limited by how many will fit in the field-of-view of the camera.
+  
+
+    [76]
+   
+
+
+  Reverse engineering
+  
+
+    [77]
+   
+
+  has determined that the Kinect's various sensors output video at a
+  
+   frame rate
+  
+  of ~9
+  
+   Hz
+  
+  to 30
+  
+   Hz
+  
+  depending on resolution. The default RGB video stream uses 8-bit VGA resolution (640 × 480
+  
+   pixels
+  
+  ) with a
+  
+   Bayer color filter
+  
+  , but the hardware is capable of resolutions up to 1280x1024 (at a lower frame rate) and other colour formats such as
+  
+   UYVY
+  
+  . The monochrome depth sensing video stream is in VGA resolution (640 × 480 pixels) with
+  
+   11-bit depth
+  
+  , which provides 2,048 levels of sensitivity. The Kinect can also stream the view from its IR camera directly (i.e.: before it has been converted into a depth map) as 640x480 video, or 1280x1024 at a lower frame rate. The Kinect sensor has a practical
+  
+   ranging
+  
+  limit of 1.2–3.5 m (3.9–11.5 ft) distance when used with the Xbox software. The area required to play Kinect is roughly 6 m
+  
+   2
+  
+  , although the sensor can maintain tracking through an extended range of approximately 0.7–6 m (2.3–19.7 ft). The sensor has an
+  
+   angular field of view
+  
+  of 57
+  
+   °
+  
+  horizontally and 43° vertically, while the motorized pivot is capable of
+  
+   tilting
+  
+  the sensor up to 27° either up or down. The horizontal field of the Kinect sensor at the minimum viewing distance of ~0.8 m (2.6 ft) is therefore ~87 cm (34 in), and the vertical field is ~63 cm (25 in), resulting in a resolution of just over 1.3 mm (0.051 in) per pixel. The microphone array features four microphone capsules
+  
+
+    [78]
+   
+
+  and operates with each channel processing 16-
+  
+   bit
+  
+  audio at a
+  
+   sampling rate
+  
+  of 16
+  
+   kHz
+  
+  .
+  
+
+    [75]
+   
+
+
+  Because the Kinect sensor's motorized tilt mechanism requires more power than the Xbox 360's
+  
+   USB
+  
+  ports can supply,
+  
+
+    [79]
+   
+
+  the device makes use of a proprietary connector combining USB communication with additional power. Redesigned
+  
+   Xbox 360 S
+  
+  models include a special AUX port for accommodating the connector,
+  
+
+    [80]
+   
+
+  while older models require a special power supply cable (included with the sensor)
+  
+
+    [78]
+   
+
+  that splits the connection into separate USB and power connections; power is supplied from the
+  
+   mains
+  
+  by way of an AC adapter.
+  
+
+    [79]
+   
+
+
+  Kinect V2 was released with Xbox One on November 22, 2013.
+  
+
+    [81]
+   
+
+  The hardware included a
+  
+   time-of-flight
+  
+  sensor developed by Microsoft, replacing the older technology from
+  
+   PrimeSense
+  
+  .
+  
+
+    [82]
+   
+
+
+
+   Xbox One
+  
+  consoles ship with an updated version of Kinect; the new Kinect uses a wide-angle
+  
+   time-of-flight camera
+  
+  , and processes 2 gigabits of data per second to read its environment. The new Kinect has greater accuracy with three times the fidelity over its predecessor and can track without visible light by using an active
+  
+   IR
+  
+  sensor. It has a 60% wider field of vision that can detect a user up to 3 feet from the sensor, compared to six feet for the original Kinect, and can track up to 6 skeletons at once. It can also detect a player's
+  
+   heart rate
+  
+  , facial expression, the position and orientation of 25 individual joints (including thumbs), the weight put on each limb, speed of player movements, and track gestures performed with a standard controller. The color camera captures 1080p video that can be displayed in the same resolution as the viewing screen, allowing for a broad range of scenarios. In addition to improving video communications and video analytics applications, this provides a stable input on which to build interactive applications. Kinect's microphone is used to provide voice commands for actions such as navigation, starting games, and waking the console from
+  
+   sleep mode
+  
+  .
+  
+
+    [83]
+   
+
+
+
+    [84]
+   
+
+
+  All Xbox One consoles were initially shipped with the Kinect sensor included—a holdover from a previously-announced, but retracted mandate requiring Kinect to be plugged into the console at all times for it to function.
+  
+
+    [85]
+   
+
+  In June 2014, bundles without Kinect were made available,
+  
+
+    [86]
+   
+
+  along with an updated Xbox One SDK allowing game developers to explicitly disable Kinect skeletal tracking, freeing up system resources that were previously reserved for Kinect even if it was disabled or unplugged.
+  
+
+    [86]
+   
+
+
+
+    [87]
+   
+
+
+  A standalone Kinect for Xbox One, bundled with a digital copy of
+  
+
+    Dance Central Spotlight
+   
+
+  , was released on October 7, 2014.
+  
+
+    [88]
+   
+
+
+  On February 21, 2011 Microsoft announced that it would release a non-commercial Kinect
+  
+   software development kit
+  
+  (
+  
+   SDK
+  
+  ) for Windows in spring 2011, and the first beta was released for Windows 7 on June 16, 2011.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+  Beta 2 was released on the 1 year anniversary of Kinect for Xbox 360, on November 3, 2011.
+  
+
+    [89]
+   
+
+  Version 1.0 was released at the same time as the officially supported Windows hardware on February 1, 2012.
+  
+
+    [90]
+   
+
+
+  The SDK includes
+  
+   Windows 7
+  
+  compatible
+  
+   PC
+  
+  drivers for Kinect device. It provides Kinect capabilities to developers to build applications with
+  
+   C++
+  
+  ,
+  
+   C#
+  
+  , or
+  
+   Visual Basic
+  
+  by using
+  
+   Microsoft Visual Studio 2010
+  
+  and includes following features:
+ 
+  In March 2012, Craig Eisler, the general manager of Kinect for Windows, said that almost 350 companies are working with Microsoft on custom Kinect applications for Windows.
+  
+
+    [92]
+   
+
+
+  In March 2012, Microsoft announced that next version of Kinect for Windows SDK would be available in May 2012. Kinect for Windows 1.5 was released on May 21, 2012. It adds new features, support for many new languages and debut in 19 more countries.
+  
+
+    [93]
+   
+
+
+
+    [94]
+   
+
+
+  Kinect for Windows SDK for the first-generation sensor was updated a few more times, with version 1.6 released October 8, 2012,
+  
+
+    [98]
+   
+
+  version 1.7 released March 18, 2013,
+  
+
+    [99]
+   
+
+  and version 1.8 released September 17, 2013.
+  
+
+    [100]
+   
+
+
+  The second-generation Kinect for Windows, based on the same core technology as Kinect for Xbox One, including a new sensor, was first released in 2014.
+ 
+  Requiring at least 190 MB of available storage space,
+  
+
+    [101]
+   
+
+  Kinect system software allows users to operate Xbox 360 Dashboard console user interface through voice commands and hand gestures. Techniques such as voice recognition and facial recognition are employed to automatically identify users. Among the applications for Kinect is Video Kinect, which enables
+  
+   voice chat
+  
+  or
+  
+   video chat
+  
+  with other Xbox 360 users or users of
+  
+   Windows Live Messenger
+  
+  . The application can use Kinect's tracking functionality and Kinect sensor's motorized pivot to keep users in frame even as they move around. Other applications with Kinect support include
+  
+   ESPN
+  
+  ,
+  
+   Zune Marketplace
+  
+  ,
+  
+
+    [101]
+   
+
+
+   Netflix
+  
+  ,
+  
+   Hulu Plus
+  
+
+
+    [102]
+   
+
+  and
+  
+   Last.fm
+  
+  .
+  
+
+    [103]
+   
+
+  Microsoft later confirmed that all forthcoming applications would be required to have Kinect functionality for certification.
+  
+
+    [104]
+   
+
+
+  Xbox 360 games that require Kinect are packaged in special purple cases (as opposed to the green cases used by all other Xbox 360 games), and contain a prominent "Requires Kinect Sensor" logo on their front cover. Games that include features utilizing Kinect, but do not require it for standard gameplay, contain a "Better with Kinect Sensor" branding on their front covers.
+  
+
+    [105]
+   
+
+
+  Kinect launched on November 4, 2010 with 17 titles.
+  
+
+    [106]
+   
+
+  Third-party publishers of available and announced Kinect games include, among others,
+  
+   Ubisoft
+  
+  ,
+  
+   Electronic Arts
+  
+  ,
+  
+   LucasArts
+  
+  ,
+  
+   THQ
+  
+  ,
+  
+   Activision
+  
+  ,
+  
+   Konami
+  
+  ,
+  
+   Sega
+  
+  ,
+  
+   Capcom
+  
+  ,
+  
+   Namco Bandai
+  
+  and
+  
+   MTV Games
+  
+  . Along with retail games, there are also select
+  
+   Xbox Live Arcade
+  
+  titles which require the peripheral.
+ 
+  At
+  
+   E3 2011
+  
+  , Microsoft announced
+  
+   Kinect Fun Labs
+  
+  : a collection of various gadgets and minigames that are accessible from Xbox 360 Dashboard. These gadgets includes
+  
+   Build A Buddy
+  
+  ,
+  
+   Air Band
+  
+  ,
+  
+   Kinect Googly Eyes
+  
+  ,
+  
+   Kinect Me
+  
+  ,
+  
+   Bobblehead
+  
+  ,
+  
+   Kinect Sparkler
+  
+  ,
+  
+   Junk Fu
+  
+
+
+    [107]
+   
+
+  and
+  
+   Avatar Kinect
+  
+  .
+  
+
+    [108]
+   
+
+
+
+    [109]
+   
+
+
+
+    [110]
+   
+
+
+  In November 2010, Adafruit Industries offered a bounty for an open-source driver for Kinect. Microsoft initially voiced its disapproval of the bounty, stating that it "does not condone the modification of its products" and that it had "built in numerous hardware and software safeguards designed to reduce the chances of product tampering".
+  
+
+    [111]
+   
+
+  This reaction, however, was caused by a misunderstanding within Microsoft,
+  
+
+    [112]
+   
+
+  and the company later clarified its position, claiming that while it does not condone hacking of either the physical device or the console, the USB connection was left open by design.
+ 
+  On November 10, Adafruit announced
+  
+   Héctor Martín
+  
+  as the winner,
+  
+
+    [114]
+   
+
+
+
+    [115]
+   
+
+  who had produced a
+  
+   Linux
+  
+  driver that allows the use of both the RGB camera and depth sensitivity functions of the device.
+  
+
+    [116]
+   
+
+
+
+    [117]
+   
+
+  It was later revealed that
+  
+   Johnny Lee
+  
+  , a core member of Microsoft's Kinect development team, had secretly approached Adafruit with the idea of a driver development contest and had personally financed it.
+  
+
+    [118]
+   
+
+
+  In December 2010,
+  
+   PrimeSense
+  
+  , whose depth sensing chips were used in the Kinect v1 hardware, released their own open source drivers along with motion tracking middleware called
+  
+   NITE
+  
+  .
+  
+
+    [119]
+   
+
+  PrimeSense later announced that it had teamed up with
+  
+   Asus
+  
+  to develop a PC-compatible device similar to Kinect for Chinese markets, called the Wavi Xtion. The product was released in October 2011.
+  
+
+    [120]
+   
+
+
+
+    [121]
+   
+
+
+
+   OpenNI
+  
+  is an open-source software framework that is able to read sensor data from Kinect, among other natural user interface sensors.
+ 
+  Numerous developers are researching possible applications of Kinect that go beyond the system's intended purpose of playing games. For example, Philipp Robbel of
+  
+   MIT
+  
+  combined Kinect with
+  
+   iRobot Create
+  
+  to map a room in 3D and have the robot respond to human gestures,
+  
+
+    [122]
+   
+
+  while an MIT Media Lab team is working on a JavaScript extension for
+  
+   Google Chrome
+  
+  called depthJS that allows users to control the browser with hand gestures.
+  
+
+    [123]
+   
+
+  Other programmers, including Robot Locomotion Group at MIT, are using the drivers to develop a motion-controller user interface similar to the one envisioned in
+  
+
+    Minority Report
+   
+
+  .
+  
+
+    [124]
+   
+
+  The developers of
+  
+   MRPT
+  
+  have integrated open source drivers into their libraries and provided examples of live 3D rendering and basic 3D visual
+  
+   SLAM
+  
+  .
+  
+
+    [125]
+   
+
+  Another team has shown an application that allows Kinect users to play a virtual piano by tapping their fingers on an empty desk.
+  
+
+    [126]
+   
+
+
+   Oliver Kreylos
+  
+  , a researcher at
+  
+   University of California, Davis
+  
+  , adopted the technology to improve live 3-dimensional
+  
+   videoconferencing
+  
+  , which
+  
+   NASA
+  
+  has shown interest in.
+  
+
+    [127]
+   
+
+
+  Alexandre Alahi from
+  
+   EPFL
+  
+  presented a video surveillance system that combines multiple Kinect devices to track groups of people even in complete darkness.
+  
+
+    [128]
+   
+
+  Companies So touch and Evoluce have developed presentation software for Kinect that can be controlled by hand gestures; among its features is a multi-touch zoom mode.
+  
+
+    [129]
+   
+
+  In December 2010, the free public beta of
+  
+   HTPC
+  
+  software
+  
+   KinEmote
+  
+  was launched; it allows navigation of
+  
+   Boxee
+  
+  and
+  
+   XBMC
+  
+  menus using a Kinect sensor.
+  
+
+    [130]
+   
+
+  Soroush Falahati wrote an application that can be used to create
+  
+   stereoscopic
+  
+  3D images with a Kinect sensor.
+  
+
+    [131]
+   
+
+
+  For a limited time in May 2011, a
+  
+   Topshop
+  
+  store in Moscow set up a Kinect kiosk that could overlay a collection of dresses onto the live video feed of customers. Through automatic tracking, position and rotation of the virtual dress were updated even as customers turned around to see the back of the outfit.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Kinect also shows compelling potential for use in medicine. Researchers at the
+  
+   University of Minnesota
+  
+  have used Kinect to measure a range of disorder symptoms in children, creating new ways of objective evaluation to detect such conditions as autism, attention-deficit disorder and obsessive-compulsive disorder.
+  
+
+    [132]
+   
+
+  Several groups have reported using Kinect for intraoperative, review of medical imaging, allowing the surgeon to access the information without contamination.
+  
+
+    [133]
+   
+
+
+
+    [134]
+   
+
+  This technique is already in use at
+  
+   Sunnybrook Health Sciences Centre
+  
+  in
+  
+   Toronto
+  
+  , where doctors use it to guide imaging during cancer surgery.
+  
+
+    [135]
+   
+
+  At least one company, GestSure Technologies, is pursuing the commercialization of such a system.
+  
+
+    [136]
+   
+
+
+
+   NASA
+  
+  's
+  
+   Jet Propulsion Laboratory
+  
+  (JPL) signed up for the Kinect for Windows Developer program in November 2013 to use the new Kinect to manipulate a robotic arm in combination with an
+  
+   Oculus Rift
+  
+
+   virtual reality
+  
+  headset, creating "the most immersive interface" the unit had built to date.
+  
+
+    [137]
+   
+
+
+  Another application of Kinect is for multi-touch displays. A Seattle-based company that graduated from Microsoft's Kinect Accelerator, Ubi Interactive, developed software for the Kinect to work with projectors to allow touchscreen-like capabilities on various surfaces.
+  
+
+    [138]
+   
+
+
+  Kinect is used with a number of
+  
+   ROS
+  
+  robots via OpenNI.
+  
+
+    [139]
+   
+
+
+  Upon its release, the Kinect garnered positive opinions from reviewers and critics.
+  
+   IGN
+  
+  gave the device 7.5 out of 10, saying that "Kinect can be a tremendous amount of fun for casual players, and the creative, controller-free concept is undeniably appealing", though adding that for "$149.99, a motion-tracking camera add-on for Xbox 360 is a tough sell, especially considering that the entry level variation of Xbox 360 itself is only $199.99".
+  
+
+    [142]
+   
+
+
+
+    Game Informer
+   
+
+  rated Kinect 8 out of 10, praising the technology but noting that the experience takes a while to get used to and that the spatial requirement may pose a barrier.
+  
+
+    [141]
+   
+
+
+
+    Computer and Video Games
+   
+
+  called the device a technological gem and applauded the gesture and voice controls, while criticizing the launch lineup and Kinect Hub.
+  
+
+    [140]
+   
+
+
+
+   CNET
+  
+  's review pointed out how Kinect keeps players active with its full-body motion sensing but criticized the learning curve, the additional power supply needed for older Xbox 360 consoles and the space requirements.
+  
+
+    [143]
+   
+
+
+   Engadget
+  
+  , too, listed the large space requirements as a negative, along with Kinect's launch lineup and the slowness of the hand gesture UI. The review praised the system's powerful technology and the potential of its yoga and dance games.
+  
+
+    [144]
+   
+
+
+   Kotaku
+  
+  considered the device revolutionary upon first use but noted that games were sometimes unable to recognize gestures or had slow responses, concluding that Kinect is "not must-own yet, more like must-eventually own."
+  
+
+    [151]
+   
+
+
+   TechRadar
+  
+  praised the voice control and saw a great deal of potential in the device whose lag and space requirements were identified as issues.
+  
+
+    [146]
+   
+
+
+   Gizmodo
+  
+  also noted Kinect's potential and expressed curiosity in how more mainstream titles would utilize the technology.
+  
+
+    [152]
+   
+
+
+
+    Ars Technica
+   
+   's
+  
+  review expressed concern that the core feature of Kinect, its lack of a controller, would hamper development of games beyond those that have either stationary players or control the player's movement automatically.
+  
+
+    [153]
+   
+
+
+  The mainstream press also reviewed Kinect.
+  
+
+    USA Today
+   
+
+  compared it to the futuristic control scheme seen in
+  
+
+    Minority Report
+   
+
+  , stating that "playing games feels great" and giving the device 3.5 out of 4 stars.
+  
+
+    [145]
+   
+
+
+   David Pogue
+  
+  from
+  
+
+    The New York Times
+   
+
+  predicted players will feel a "crazy, magical, omigosh rush the first time you try the Kinect." Despite calling the motion tracking less precise than
+  
+   Wii
+  
+  's implementation, Pogue concluded that "Kinect’s astonishing technology creates a completely new activity that’s social, age-spanning and even athletic."
+  
+
+    [154]
+   
+
+
+
+    The Globe and Mail
+   
+
+  titled Kinect as setting a "new standard for motion control." The slight input lag between making a physical movement and Kinect registering it was not considered a major issue with most games, and the review called Kinect "a good and innovative product," rating it 3.5 out of 4 stars.
+  
+
+    [155]
+   
+
+
+  Although featuring improved performance over the original Kinect, its successor has been subject to mixed responses. In its Xbox One review,
+  
+
+    Engadget
+   
+
+  praised Xbox One's Kinect functionality, such as face recognition login and improved motion tracking, but that whilst "magical", "every false positive or unrecognized [voice] command had us reaching for the controller."
+  
+
+    [156]
+   
+
+  The Kinect's inability to understand some accents in English was criticized.
+  
+
+    [157]
+   
+
+  Writing for
+  
+
+    Time
+   
+
+  , Matt Peckham described the device as being "chunky" in appearance, but that the facial recognition login feature was "creepy but equally sci-fi-future cool", and that the new voice recognition system was a "powerful, addictive way to navigate the console, and save for a few exceptions that seem to be smoothing out with use". However, its accuracy was found to be affected by background noise, and Peckham further noted that launching games using voice recognition required that the full title of the game be given rather than an abbreviated name that the console "ought to semantically understand", such as
+  
+
+    Forza Motorsport 5
+   
+
+  rather than "Forza 5".
+  
+
+    [158]
+   
+
+
+  Prior to Xbox One's launch,
+  
+   privacy
+  
+  concerns were raised over the new Kinect; critics showed concerns the device could be used for
+  
+   surveillance
+  
+  , stemming from the originally announced requirements that Xbox One's Kinect be plugged in at all times, plus the initial
+  
+   always-on DRM
+  
+  system that required the console to be connected to the internet to ensure continued functionality. Privacy advocates contended that the increased amount of data which could be collected with the new Kinect (such as a person's eye movements, heart rate, and mood) could be used for
+  
+   targeted advertising
+  
+  . Reports also surfaced regarding recent Microsoft
+  
+   patents
+  
+  involving Kinect, such as a DRM system based on detecting the number of viewers in a room, and tracking viewing habits by awarding
+  
+   achievements
+  
+  for watching television programs and
+  
+   advertising
+  
+  . While Microsoft stated that its
+  
+   privacy policy
+  
+  "prohibit[s] the collection, storage, or use of Kinect data for the purpose of advertising", critics did not rule out the possibility that these policies could be changed prior to the release of the console. Concerns were also raised that the device could also record conversations, as its microphone remains active at all times. In response to the criticism, a Microsoft spokesperson stated that users are "in control of when Kinect sensing is On, Off or Paused", will be provided with key privacy information and settings during the console's initial setup, and that user-generated content such as photos and videos "will not leave your Xbox One without your explicit permission."
+  
+
+    [159]
+   
+
+
+
+    [160]
+   
+
+
+
+    [161]
+   
+
+
+
+    [162]
+   
+
+  Microsoft ultimately decided to reverse its decision to require Kinect usage on Xbox One, but the console still shipped with the device upon its launch in November 2013.
+  
+
+    [85]
+   
+
+
+  24 million units of Kinect had been shipped by February 2013.
+  
+
+    [8]
+   
+
+  Having sold 8 million units in its first 60 days on the market, Kinect has claimed the
+  
+   Guinness World Record
+  
+  of being the "fastest selling consumer electronics device".
+  
+
+    [163]
+   
+
+
+
+    [164]
+   
+
+
+
+    [165]
+   
+
+
+
+    [166]
+   
+
+  According to Wedbush analyst Michael Pachter, Kinect bundles accounted for about half of all Xbox 360 console sales in December 2010 and for more than two-thirds in February 2011.
+  
+
+    [167]
+   
+
+
+
+    [168]
+   
+
+  More than 750,000 Kinect units were sold during the week of Black Friday 2011.
+  
+
+    [169]
+   
+
+
+
+    [170]
+   
+
+
+  Kinect competes with several
+  
+   motion controllers
+  
+  on other home consoles, such as
+  
+   Wii Remote Plus
+  
+  for
+  
+   Wii
+  
+  and
+  
+   Wii U
+  
+  ,
+  
+   PlayStation Move
+  
+  /
+  
+   PlayStation Eye
+  
+  for
+  
+   PlayStation 3
+  
+  , and
+  
+   PlayStation Camera
+  
+  for
+  
+   PlayStation 4
+  
+  .
+ 

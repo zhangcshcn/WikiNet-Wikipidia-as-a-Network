@@ -1,0 +1,1003 @@
+
+
+
+   PowerVR
+  
+  is a division of
+  
+   Imagination Technologies
+  
+  (formerly VideoLogic) that develops hardware and software for 2D and
+  
+   3D rendering
+  
+  , and for
+  
+   video encoding
+  
+  ,
+  
+   decoding
+  
+  , associated
+  
+   image processing
+  
+  and
+  
+   DirectX
+  
+  ,
+  
+   OpenGL ES
+  
+  ,
+  
+   OpenVG
+  
+  , and
+  
+   OpenCL
+  
+  acceleration.
+ 
+  The PowerVR product line was originally introduced to compete in the desktop PC market for
+  
+   3D hardware accelerators
+  
+  with a product with a better
+  
+   price/performance ratio
+  
+  than existing products like those from
+  
+   3dfx Interactive
+  
+  . Rapid changes in that market, notably with the introduction of
+  
+   OpenGL
+  
+  and
+  
+   Direct3D
+  
+  , led to rapid consolidation. PowerVR introduced new versions with
+  
+   low-power electronics
+  
+  that were aimed at the
+  
+   laptop computer
+  
+  market. Over time, this developed into a series of designs that could be incorporated into
+  
+   system-on-a-chip
+  
+  architectures suitable for
+  
+   handheld device
+  
+  use.
+ 
+  PowerVR accelerators are not manufactured by PowerVR, but instead their
+  
+   integrated circuit
+  
+  designs and
+  
+   patents
+  
+  are licensed to other companies, such as
+  
+   Texas Instruments
+  
+  ,
+  
+   Intel
+  
+  ,
+  
+   NEC
+  
+  ,
+  
+   BlackBerry
+  
+  ,
+  
+   Renesas
+  
+  ,
+  
+   Samsung
+  
+  ,
+  
+   STMicroelectronics
+  
+  ,
+  
+   Freescale
+  
+  ,
+  
+   Apple
+  
+  ,
+  
+   NXP Semiconductors (formerly Philips Semiconductors)
+  
+  , and many others.
+ 
+
+
+  The PowerVR chipset uses a method of 3D rendering known as
+  
+
+    tile-based deferred rendering
+   
+
+  (often abbreviated as TBDR) which is tile-based rendering combined with PowerVR's proprietary method of Hidden Surface Removal (HSR) and Hierarchical Scheduling Technology (HST). As the polygon generating program feeds triangles to the PowerVR (driver), it stores them in memory in a
+  
+   triangle strip
+  
+  or an indexed format. Unlike other architectures, polygon rendering is (usually) not performed until all polygon information has been collated for the current
+  
+   frame
+  
+  . Furthermore, the expensive operations of texturing and shading of pixels (or fragments) is delayed, whenever possible, until the visible surface at a pixel is determined — hence rendering is deferred.
+ 
+  In order to render, the display is split into rectangular sections in a grid pattern. Each section is known as a tile. Associated with each tile is a list of the triangles that visibly overlap that tile. Each tile is rendered in turn to produce the final image.
+ 
+  Tiles are rendered using a process similar to
+  
+   ray-casting
+  
+  . Rays are numerically simulated as if cast onto the triangles associated with the tile and a pixel is rendered from the triangle closest to the camera. The PowerVR hardware typically calculates the depths associated with each polygon for one tile row in 1 cycle.
+  
+   [
+   
+
+
+      dubious
+     
+
+
+     –
+     
+      discuss
+     
+
+
+   ]
+  
+
+  This method has the advantage that, unlike a more traditional early Z rejection based hierarchical systems, no calculations need to be made to determine what a polygon looks like in an area where it is obscured by other geometry. It also allows for correct rendering of partially transparent polygons, independent of the order in which they are processed by the polygon producing application. (This capability was only implemented in Series 2 including Dreamcast and one MBX variant. It is generally not included for lack of API support and cost reasons.) More importantly, as the rendering is limited to one tile at a time, the whole tile can be in fast on-chip memory, which is flushed to video memory before processing the next tile. Under normal circumstances, each tile is visited just once per frame.
+ 
+  PowerVR is a pioneer of tile based deferred rendering. Microsoft also conceptualised the idea with their abandoned
+  
+   Talisman
+  
+  project. Gigapixel, a company that developed IP for tile-based deferred 3D graphics, was purchased by
+  
+   3dfx
+  
+  , which in turn was subsequently purchased by
+  
+   Nvidia
+  
+  . Nvidia now uses a form of tile rendering in the Maxwell and Pascal microarchitectures.
+  
+
+    [1]
+   
+
+
+
+   ARM
+  
+  began developing another major tile based deferred rendering architecture known as
+  
+   Mali
+  
+  after their acquisition of
+  
+   Falanx
+  
+  .
+ 
+  Intel uses a similar concept in their integrated graphics solutions. However, their method, coined
+  
+   zone rendering
+  
+  , does not perform full
+  
+   hidden surface removal
+  
+  (HSR) and deferred texturing, therefore wasting fillrate and texture bandwidth on pixels that are not visible in the final image.
+ 
+  Recent advances in hierarchical Z-buffering have effectively incorporated ideas previously only used in deferred rendering, including the idea of being able to split a scene into tiles and of potentially being able to accept or reject tile sized pieces of polygon.
+ 
+  Today, the PowerVR software and hardware suite has ASICs for
+  
+   video encoding
+  
+  ,
+  
+   decoding
+  
+  and associated
+  
+   image processing
+  
+  . It also has virtualisation, and
+  
+   DirectX
+  
+  ,
+  
+   OpenGL ES
+  
+  ,
+  
+   OpenVG
+  
+  , and
+  
+   OpenCL
+  
+  acceleration.
+  
+
+    [2]
+   
+
+  Newest PowerVR Wizard GPUs have
+  
+   fixed-function
+  
+
+   Ray Tracing
+  
+  Unit (RTU) hardware and support hybrid rendering.
+  
+
+    [3]
+   
+
+
+  PowerVR's initial products were available as the
+  
+   OEM
+  
+  graphics on some
+  
+   Compaq
+  
+  models,
+  
+
+    [4]
+   
+
+  as an add-on card for other OEMs,
+  
+
+    [5]
+   
+
+  the retail VideoLogic Apocalypse 3D
+  
+
+    [6]
+   
+
+  card and the retail Matrox M3D
+  
+
+    [7]
+   
+
+  card.
+ 
+  The second generation
+  
+   PowerVR2
+  
+  ("PowerVR Series2", chip codename "CLX2") chip found a market in the
+  
+   Dreamcast
+  
+  console between 1998 and 2001. As part of an internal competition at
+  
+   Sega
+  
+  to design the successor to the
+  
+   Saturn
+  
+  , the PowerVR2 was licensed to NEC and was chosen ahead of a rival design based on the
+  
+   3dfx
+  
+
+   Voodoo 2
+  
+  . The PowerVR2 was peered with the
+  
+   Hitachi SH-4
+  
+  in the Dreamcast, with the SH-4 as the
+  
+   T&L
+  
+  geometry engine and the PowerVR2 as the rendering engine.
+  
+
+    [8]
+   
+
+  The PowerVR2 also powered the
+  
+   Sega Naomi
+  
+  , the upgraded
+  
+   arcade system board
+  
+  counterpart of the Dreamcast. The quality and performance of the PowerVR was a major step ahead of contemporary PC graphics cards such as the
+  
+   RIVA TNT
+  
+  ,
+  
+   Voodoo Banshee
+  
+  and
+  
+   Savage3D
+  
+  . However, the success of the Dreamcast meant that the PC variant, sold as Neon 250, appeared a year late to the market, in late 1999, and was by that time no better than the
+  
+   RIVA TNT2
+  
+  or
+  
+   Voodoo3
+  
+  , though it managed to remain competitive.
+  
+
+    [9]
+   
+
+
+  In 2001,
+  
+   STMicroelectronics
+  
+  adopted the third generation
+  
+   PowerVR3
+  
+  for their STG4000
+  
+   KYRO
+  
+  and STG 4500
+  
+   KYRO II
+  
+  (displayed) chips. The STM PowerVR3 KYRO II, released in 2001, was able to rival the more expensive ATI
+  
+   Radeon
+  
+  DDR and NVIDIA
+  
+   GeForce 2
+  
+  GTS on high in graphic benchmarks of the time, despite not having hardware
+  
+   transform and lighting
+  
+  (T&L). As games were increasingly optimized for hardware T&L, the KYRO II lost its performance advantage.
+ 
+  STM's STG5000 chip, based upon the
+  
+   PowerVR4
+  
+  , did include hardware
+  
+   T&L
+  
+  but never came to commercial fruition. It and the KYRO 3 (2D/3D AIB) were shelved due to STMicro closing its graphics division.
+ 
+
+
+  PowerVR achieved great success in the mobile graphics market with its low power
+  
+   PowerVR MBX
+  
+  . MBX, and its SGX successors, are licensed by seven of the top ten semiconductor manufacturers including
+  
+   Intel
+  
+  ,
+  
+   Texas Instruments
+  
+  ,
+  
+   Samsung
+  
+  ,
+  
+   NEC
+  
+  ,
+  
+   NXP Semiconductors
+  
+  ,
+  
+   Freescale
+  
+  ,
+  
+   Renesas
+  
+  and
+  
+   Sunplus
+  
+  . The chips are in use in many high-end cellphones including the original
+  
+   iPhone
+  
+  ,
+  
+   Nokia N95
+  
+  ,
+  
+   Sony Ericsson P1
+  
+  and
+  
+   Motorola RIZR Z8
+  
+  , as well as some
+  
+   iPods
+  
+  .
+ 
+  There are two variants: MBX and MBX Lite. Both have the same feature set. MBX is optimized for speed and MBX Lite is optimized for low power consumption. MBX can be paired up with an FPU, Lite FPU, VGP Lite and VGP.
+ 
+  PowerVR's VXD is used in Apple
+  
+   iPhone
+  
+  , and their PDP series is used in some
+  
+   HDTVs
+  
+  , including the Sony
+  
+   BRAVIA
+  
+  .
+ 
+  PowerVR's Series5 SGX series features
+  
+   pixel
+  
+  ,
+  
+   vertex
+  
+  , and
+  
+   geometry shader
+  
+  hardware, supporting
+  
+   OpenGL ES
+  
+  2.0 and
+  
+   DirectX
+  
+  10.1 with Shader Model 4.1.
+ 
+  The SGX GPU core is included in several popular
+  
+   systems-on-chip
+  
+  (SoC) used in many portable devices. Apple uses the
+  
+   A4
+  
+  (manufactured by Samsung) in their
+  
+   iPhone 4
+  
+  ,
+  
+   iPad
+  
+  ,
+  
+   iPod touch
+  
+  , and
+  
+   Apple TV
+  
+  , and uses the
+  
+   Apple S1
+  
+  in the
+  
+   Apple Watch
+  
+  .
+  
+   Texas Instruments
+  
+  '
+  
+   OMAP
+  
+  3 and 4 series SoC's are used in the
+  
+   Amazon's Kindle Fire HD 8.9"
+  
+  ,
+  
+   Barnes and Noble's Nook HD(+)
+  
+  ,
+  
+   BlackBerry PlayBook
+  
+  ,
+  
+   Nokia N9
+  
+  ,
+  
+   Nokia N900
+  
+  ,
+  
+   Sony Ericsson Vivaz
+  
+  ,
+  
+   Motorola Droid/Milestone
+  
+  ,
+  
+   Motorola Defy
+  
+  , Motorola RAZR D1/D3, Droid Bionic,
+  
+   Archos 70
+  
+  ,
+  
+   Palm Pre
+  
+  ,
+  
+   Samsung Galaxy SL
+  
+  ,
+  
+   Galaxy Nexus
+  
+  ,
+  
+   Open Pandora
+  
+  , and others. Samsung produces the
+  
+
+    Hummingbird
+   
+
+  SoC and uses it in their
+  
+   Samsung Galaxy S
+  
+  ,
+  
+   Galaxy Tab
+  
+  ,
+  
+   Samsung Wave S8500
+  
+
+   Samsung Wave II S8530
+  
+  and Samsung Wave III S860 devices. Hummingbird is also in
+  
+   Meizu M9
+  
+  smartphone.
+ 
+
+   Intel
+  
+  uses the SGX540 in its Medfield platform.
+  
+
+    [10]
+   
+
+
+  PowerVR Series5XT SGX chips are multi-core variants of the SGX series with some updates. It is included in the
+  
+   PlayStation Vita
+  
+  portable gaming device with the MP4+ Model of the PowerVR SGX543, the only intended difference, aside from the + indicating features customized for Sony, is the cores, where MP4 denotes 4 cores (quad-core) whereas the MP8 denotes 8 cores (octo-core). The
+  
+   Allwinner A31
+  
+  (quad-core mobile application processor) features the dual-core SGX544 MP2. The
+  
+   Apple
+  
+
+   iPad 2
+  
+  and
+  
+   iPhone 4S
+  
+  with the
+  
+   A5
+  
+  SoC also feature a dual-core SGX543MP2. The
+  
+   iPad (3rd generation)
+  
+
+   A5X
+  
+  SoC features the quad-core SGX543MP4.
+  
+
+    [11]
+   
+
+  The
+  
+   iPhone 5
+  
+
+   A6
+  
+  SoC features the tri-core SGX543MP3. The
+  
+   iPad (4th generation)
+  
+
+   A6X
+  
+  SoC features the quad-core SGX554MP4. The
+  
+   Exynos
+  
+  variant of the
+  
+   Samsung Galaxy S4
+  
+  sports the tri-core SGX544MP3 clocked at 533 MHz.
+ 
+  These GPU can be used in either single-core or multi-core configurations.
+  
+
+    [12]
+   
+
+
+  Introduced in 2014, the PowerVR GX5300 GPU
+  
+
+    [13]
+   
+
+  is based on the SGX architecture and is the world’s smallest Android-capable graphics core, with substantial improvements in efficiency, providing an ideal low-power solution for entry-level smartphones, wearables, IoT and other small footprint embedded applications, including enterprise devices such as printers.
+ 
+  PowerVR Series6 GPUs
+  
+
+    [14]
+   
+
+  are based on an evolution of the SGX architecture codenamed
+  
+   Rogue
+  
+  .
+  
+   ST-Ericsson
+  
+  (now defunct) announced that its
+  
+   Nova
+  
+  application processors would include Imagination’s next-generation PowerVR Series6 architecture.
+  
+
+    [15]
+   
+
+  MediaTek announced the quad-core MT8135
+  
+   system on a chip
+  
+  (SoC) (two ARM
+  
+   Cortex-A15
+  
+  and two ARM
+  
+   Cortex-A7
+  
+  cores) for tablets.
+  
+
+    [16]
+   
+
+  Renesas announced its R-Car H2 SoC includes the G6400.
+  
+
+    [17]
+   
+
+
+   Allwinner Technology
+  
+  A80 SoC, (4 Cortex-A15 and 4 Cortex-A7) that is available in the Onda V989 tablet, features a PowerVR G6230 GPU.
+  
+
+    [18]
+   
+
+  The
+  
+   Apple A7
+  
+  SoC integrates a
+  
+   graphics processing unit
+  
+  (GPU) which
+  
+   AnandTech
+  
+  believes to be a PowerVR G6430 in a four cluster configuration.
+  
+
+    [19]
+   
+
+
+  PowerVR Series 6 GPUs have 2 TMUs/cluster.
+  
+
+    [20]
+   
+
+
+  PowerVR Series6XE GPUs
+  
+
+    [21]
+   
+
+  are based around Series6 and designed as entry-level chips aimed at offering roughly the same fillrate compared to the Series5XT series. They however feature refreshed API support such as Vulkan, OpenGL ES 3.1, OpenCL 1.2 and DirectX 9.3 (9.3 L3).
+  
+
+    [22]
+   
+
+  Rockchip and Realtek have used Series6XE GPUs in their SoCs.
+ 
+  PowerVR Series 6XE GPUs were announced on January 6, 2014.
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+  PowerVR Series6XT GPUs
+  
+
+    [24]
+   
+
+  aims at reducing power consumption further through die area and performance optimization providing a boost of up to 50% compared to Series6 GPUs. Those chips sport PVR3C triple compression system-level optimizations and Ultra HD deep color.
+  
+
+    [25]
+   
+
+  The Apple
+  
+   iPhone 6
+  
+  ,
+  
+   iPhone 6 Plus
+  
+  and
+  
+   iPod Touch (6th generation)
+  
+  with the
+  
+   A8
+  
+  SoC feature the quad-core GX6450.
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+  The MediaTek MT8173 and Renesas R-Car H3 SoCs use Series6XT GPUs.
+  
+
+    [28]
+   
+
+
+  PowerVR Series 6XT GPUs were unveiled on January 6, 2014.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+     1.0
+    
+  PowerVR Series7XE GPUs are available in half cluster and single cluster configurations, enabling the latest games and apps on devices which require high quality UIs at optimum price points.
+ 
+  PowerVR Series 7XE GPUs were announced on 10 November 2014.
+  
+
+    [31]
+   
+
+  When announced, the 7XE series contained the smallest
+  
+   Android Extension Pack
+  
+  compliant GPU.
+ 
+  PowerVR Series7XT GPUs
+  
+
+    [32]
+   
+
+  are available in configurations ranging from two to 16 clusters, offering dramatically scalable performance from 100 GFLOPS to 1.5 TFLOPS. Use in The Apple iPhone 6s and iPhone 6s Plus model year 2015-2016.
+ 
+  PowerVR Series 7XT GPUs were unveiled on 10 November 2014.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+  PowerVR Series7XT Plus GPUs are an evolution of the Series7XT family and add specific features designed to accelerate computer vision on mobile and embedded devices, including new INT16 and INT8 data paths that boost performance by up to 4x for OpenVX kernels.
+  
+
+    [35]
+   
+
+  Further improvements in shared virtual memory also enable OpenCL 2.0 support.
+ 
+  PowerVR Series 7XT Plus GPUs were announced on International CES, Las Vegas – 6 January 2016.
+ 
+  Series7XT Plus achieve up to 4x performance increase for vision applications.
+ 
+  The GPUs are designed to offer improved in-system efficiency, improved power efficiency and reduced bandwidth for vision and computational photography in consumer devices, mid-range and mainstream smartphones, tablets and automotive systems such as advanced driver assistance systems (ADAS), infotainment, computer vision and advanced processing for instrument clusters.
+ 
+  The new GPUs include new feature set enhancements with a focus on next-generation compute:
+ 
+  Up to 4x higher performance for OpenVX/vision algorithms compared to the previous generation through improved integer (INT) performance (2x INT16; 4x INT8) Bandwidth and latency improvements through shared virtual memory (SVM) in OpenCL 2.0 Dynamic parallelism for more efficient execution and control through support for device enqueue in OpenCL 2.0
+ 
+  PowerVR Series8XE GPUs support OpenGL ES 3.2 and Vulkan 1.x and are available in 4 pixel/clock and 2 pixel/clock configurations, enabling the latest games and apps and further driving down the cost of high quality UIs on cost sensitive devices.
+ 
+  PowerVR Series 8XE were announced February 22, 2016 at the Mobile World Congress 2016. There are an iteration of the Rogue microarchitecture and target entry-level SoC GPU market. New GPUs improve the performance/mm2 for the smallest silicon footprint and power profile, while also incorporating hardware virtualization and multi-domain security.
+  
+
+    [36]
+   
+
+  Newer model were later release in January 2017, with a new low end and high end part.
+  
+
+    [37]
+   
+
+
+  PowerVR Series 8XE Plus were announced January 2017. There are an iteration of the Rogue microarchitecture and target the mid range SoC GPU market, targeting 1080p.
+  
+
+    [37]
+   
+
+  The 8XE Plus remains focused on die size and performance per unit
+ 
+  Announced on 8 March 2017, Furian is the first new PowerVR architecture since Rogue was introduced five years earlier.
+  
+
+    [38]
+   
+
+
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+
+  PowerVR Series 8XT were announced March 8, 2017. It's the first series GPU's based on the new Furian architecture. According to Imagination, GFLOPS/mm2 is improved 35% and Fill rate/mm
+  
+   2
+  
+  is improved 80% compared to the 7XT Plus series on the same node. Specific designs aren't announced as of March 2017.
+ 
+  The PowerVR
+  
+   GPU
+  
+  variants can be found in the following systems on chips (
+  
+   SOC
+  
+  ):
+ 
+
+      iPad mini 3
+     
+     )
+    
+
+      iPod Touch 6th Gen.
+     
+     )
+    

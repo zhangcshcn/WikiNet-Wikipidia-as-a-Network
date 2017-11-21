@@ -1,0 +1,1168 @@
+
+
+
+   Xcode
+  
+  is an
+  
+   integrated development environment
+  
+  for
+  
+   macOS
+  
+  containing a suite of
+  
+   software development
+  
+  tools developed by
+  
+   Apple
+  
+  for developing software for macOS,
+  
+   iOS
+  
+  ,
+  
+   watchOS
+  
+  and
+  
+   tvOS
+  
+  . First released in 2003, the latest stable release is version 8 and is available via the
+  
+   Mac App Store
+  
+  free of charge for
+  
+   OS X El Capitan
+  
+  and
+  
+   macOS Sierra
+  
+  users.
+  
+
+    [2]
+   
+
+
+   Registered developers
+  
+  can download
+  
+   preview releases
+  
+  and prior versions of the suite through the
+  
+   Apple Developer
+  
+  website.
+  
+
+    [3]
+   
+
+  However, Apple recently made a beta version of version 8.0 of the software available to those of the public with Apple Developer accounts.
+  
+
+    [4]
+   
+
+
+
+
+  Xcode supports
+  
+   source code
+  
+  for the
+  
+   programming languages
+  
+
+   C
+  
+  ,
+  
+   C++
+  
+  ,
+  
+   Objective-C
+  
+  ,
+  
+   Objective-C++
+  
+  ,
+  
+   Java
+  
+  ,
+  
+   AppleScript
+  
+  ,
+  
+   Python
+  
+  ,
+  
+   Ruby
+  
+  ,
+  
+   ResEdit
+  
+  (Rez), and
+  
+   Swift
+  
+  , with a variety of programming models, including but not limited to
+  
+   Cocoa
+  
+  ,
+  
+   Carbon
+  
+  , and Java. Third parties have added support for
+  
+   GNU Pascal
+  
+  ,
+  
+
+    [5]
+   
+
+
+   Free Pascal
+  
+  ,
+  
+
+    [6]
+   
+
+
+   Ada
+  
+  ,
+  
+
+    [7]
+   
+
+
+   C#
+  
+  ,
+  
+
+    [8]
+   
+
+
+   Perl
+  
+  ,
+  
+
+    [9]
+   
+
+  and
+  
+   D
+  
+  .
+ 
+  Thanks to the
+  
+   Mach-O
+  
+  executable format, which allows
+  
+
+    fat binary
+   
+
+  files, containing code for multiple architectures, Xcode can build
+  
+   universal binary
+  
+  files, which allow software to run on both
+  
+   PowerPC
+  
+  and
+  
+   Intel
+  
+  -based (
+  
+   x86
+  
+  )
+  
+   platforms
+  
+  and that can include both
+  
+   32-bit
+  
+  and
+  
+   64-bit
+  
+  code for both architectures. Using the
+  
+   iOS SDK
+  
+  , Xcode can also be used to compile and debug applications for
+  
+   iOS
+  
+  that run on
+  
+   ARM architecture
+  
+  processors.
+ 
+  Xcode includes the GUI tool
+  
+   Instruments
+  
+  , which runs atop a dynamic tracing framework,
+  
+   DTrace
+  
+  , created by
+  
+   Sun Microsystems
+  
+  and released as part of
+  
+   OpenSolaris
+  
+  .
+ 
+  The main application of the suite is the
+  
+   integrated development environment
+  
+  (IDE), also named Xcode. The Xcode suite includes most of Apple's developer documentation, and built-in
+  
+   Interface Builder
+  
+  , an application used to construct
+  
+   graphical user interfaces
+  
+  .
+ 
+  Up to Xcode 4.1, the Xcode suite included a modified version of the
+  
+   GNU Compiler Collection
+  
+  . In Xcode 3.1 up to Xcode 4.6.3, it included the LLVM-GCC compiler, with front ends from the
+  
+   GNU Compiler Collection
+  
+  and a code generator based on
+  
+   LLVM
+  
+  .
+  
+
+    [10]
+   
+
+  In Xcode 3.2 and later, it included the
+  
+   Clang
+  
+  C/C++/Objective-C compiler, with newly-written front ends and a code generator based on LLVM, and the Clang
+  
+   static analyzer
+  
+  .
+  
+
+    [11]
+   
+
+  Starting with Xcode 4.2, the Clang compiler became the default compiler,
+  
+
+    [12]
+   
+
+  Starting with Xcode 5.0, Clang was the only compiler provided.
+ 
+  Up to Xcode 4.6.3, the Xcode suite used the
+  
+   GNU Debugger
+  
+  (GDB) as the
+  
+   back-end
+  
+  for the IDE's
+  
+   debugger
+  
+  . Starting with Xcode 4.3, the
+  
+   LLDB debugger
+  
+  was also provided; starting with Xcode 4.5 LLDB replaced GDB as the default back-end for the IDE's debugger.
+  
+
+    [13]
+   
+
+  Starting with Xcode 5.0, GDB was no longer supplied.
+  
+
+    [14]
+   
+
+
+  Formerly, Xcode supported distributing a product build process over multiple systems. One technology involved was named
+  
+   Shared Workgroup Build
+  
+  , which used the
+  
+   Bonjour protocol
+  
+  to automatically discover systems providing compiler services, and a modified version of the free software product
+  
+   distcc
+  
+  to facilitate the distribution of workloads. Earlier versions of Xcode provided a system named
+  
+   Dedicated Network Builds
+  
+  . These features are absent in the supported versions of Xcode.
+ 
+  Xcode also includes Apple's
+  
+   WebObjects
+  
+  tools and frameworks for building Java web applications and web services (formerly sold as a separate product). As of Xcode 3.0, Apple dropped
+  
+
+    [15]
+   
+
+  WebObjects development inside Xcode; WOLips
+  
+
+    [16]
+   
+
+  should be used instead. Xcode 3 still includes the WebObjects frameworks.
+ 
+  Xcode 1.0 was released in fall 2003. Xcode 1.0 was based on
+  
+   Project Builder
+  
+  , but had an updated
+  
+   user interface
+  
+  (UI), ZeroLink, Fix & Continue, distributed build support, and Code Sense indexing.
+ 
+  The next significant release, Xcode 1.5, had better code completion and an improved debugger.
+ 
+  Xcode 2.0 was released with
+  
+   Mac OS X v10.4
+  
+  "Tiger". It included the
+  
+   Quartz Composer
+  
+  visual programming language, better Code Sense indexing for Java, and
+  
+   Ant
+  
+  support. It also included the Apple Reference Library tool, which allows searching and reading online documentation from Apple’s website and documentation installed on a local computer.
+ 
+  Xcode 2.1 could create
+  
+   universal binary
+  
+  files. It supported shared
+  
+   precompiled headers
+  
+  , unit testing targets, conditional breakpoints, and watchpoints. It also had better dependency analysis.
+ 
+  The final version of Xcode for
+  
+   Mac OS X v10.4
+  
+  was 2.5.
+ 
+  Xcode 3.0 was released with
+  
+   Mac OS X v10.5
+  
+  "Leopard". Notable changes since 2.1 include
+  
+
+    [17]
+   
+
+  the
+  
+   DTrace
+  
+  debugging tool (now named
+  
+   Instruments
+  
+  ), refactoring support, context-sensitive documentation, and
+  
+   Objective-C
+  
+  2.0 with
+  
+   garbage collection
+  
+  . It also supports Project Snapshots, which provide a basic form of version control; Message Bubbles, which show build errors debug values alongside code; and building four-architecture fat binaries (32 and 64-bit Intel and PowerPC).
+ 
+  Xcode 3.1 was an update release of the developer tools for Mac OS X, and was the same version included with the iPhone SDK. It could target non-Mac OS X platforms, including iPhone OS 2.0. It included the GCC 4.2 and
+  
+   LLVM
+  
+  GCC 4.2 compilers. Another new feature since Xcode 3.0 is that Xcode's SCM support now includes Subversion 1.5.
+ 
+  Xcode 3.2 was released with
+  
+   Mac OS X v10.6
+  
+  "Snow Leopard" and installs on no earlier version of OS X. It supports
+  
+   static program analysis
+  
+  , among other features. It also drops official support for targeting versions earlier than iPhone OS 3.0. But it is still possible to target older versions, and the simulator supports iPhone OS 2.0 through 3.1. Also,
+  
+   Java
+  
+  support is "exiled" in 3.2 to the organizer.
+  
+
+    [18]
+   
+
+
+  Xcode 3.2.6 is the last version that can be downloaded for free for users of
+  
+   Mac OS X v10.6
+  
+  . Downloading it requires a free registration at Apple's developer site.
+ 
+  In June 2010, at the
+  
+   Apple Worldwide Developers Conference
+  
+  version 4 of Xcode was announced during the Developer Tools State of the Union address. Version 4 of the developer tools consolidates the Xcode editing tools and Interface Builder into one application, among other enhancements.
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+  Apple released the final version of Xcode 4.0 on March 9, 2011. The software was made available for free to all registered members of the $99 per year Mac Developer program and the $99 per year iOS Developer program. It was also sold for $4.99 to non-members on the
+  
+   Mac App Store
+  
+  (no longer available). Xcode 4.0 drops support for many older systems, including all PowerPC development and
+  
+   software development kits
+  
+  (SDKs) for Mac OS X 10.4 and 10.5, and all iOS SDKs older than 4.3. The deployment target can still be set to produce binaries for those older platforms, but for Mac OS platforms, one is then limited to creating
+  
+   x86
+  
+  and
+  
+   x86-64
+  
+  binaries. Later, Xcode was free to the general public. Before version 4.1, Xcode cost $4.99.
+  
+
+    [21]
+   
+
+
+  Xcode 4.1 was made available for free on July 20, 2011 (the day of
+  
+   Mac OS X Lion
+  
+  's release) to all users of Mac OS X Lion on the Mac App Store. On August 29, 2011, Xcode 4.1 was made available for Mac OS X Snow Leopard for members of the paid Mac or iOS developer programs.
+  
+
+    [22]
+   
+
+  Xcode 4.1 was the last version to include
+  
+   GNU Compiler Collection
+  
+  (GCC) instead of only
+  
+   LLVM
+  
+  GCC or
+  
+   Clang
+  
+  .
+ 
+  On October 12, 2011, Xcode 4.2 was released concurrently with the release of
+  
+   iOS
+  
+  5.0, and it included many more and improved features, such as storyboarding and
+  
+   automatic reference counting (ARC)
+  
+  .
+  
+
+    [12]
+   
+
+  Xcode 4.2 is the last version to support
+  
+   Mac OS X 10.6 "Snow Leopard"
+  
+  , but is only available to registered developers with paid accounts; without a paid account, 3.2.6 is the latest download that appears for Snow Leopard.
+  
+
+    [23]
+   
+
+
+  Xcode 4.3, released on February 16, 2012, is distributed as one application bundle, Xcode.app, installed from the Mac App Store. Xcode 4.3 reorganizes the Xcode menu to include development tools.
+  
+
+    [24]
+   
+
+  Xcode 4.3.1 was released on March 7, 2012 to add support for iOS 5.1.
+  
+
+    [25]
+   
+
+  Xcode 4.3.2 was released on March 22, 2012 with enhancements to the iOS Simulator and a suggested move to the LLDB debugger versus the GDB debugger (which appear to be undocumented changes).
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Xcode 4.3.3, released in May 2012, featured an updated SDK for
+  
+   Mac OS X 10.7.4 "Lion"
+  
+  and a few bug fixes.
+  
+
+    [26]
+   
+
+
+  Xcode 4.4 was released on July 25, 2012.
+  
+
+    [27]
+   
+
+  It runs on both
+  
+   Mac OS X Lion
+  
+  (10.7) and
+  
+   OS X Mountain Lion
+  
+  (10.8) and is the first version of Xcode to contain the
+  
+   OS X 10.8 "Mountain Lion"
+  
+  SDK. Xcode 4.4 includes support for automatic synthesizing of declared properties, new
+  
+   Objective-C
+  
+  features such as literal syntax and subscripting, improved localization, and more.
+  
+
+    [28]
+   
+
+  On August 7, 2012, Xcode 4.4.1 was released with a few bug fixes.
+ 
+  On September 19, 2012, iOS 6 and Xcode 4.5 were released. Xcode added support for iOS 6 and the 4-inch
+  
+   Retina Display
+  
+  on
+  
+   iPhone 5
+  
+  and
+  
+   iPod touch
+  
+  5th generation. It also brought some new
+  
+   Objective-C
+  
+  features to iOS, simplified localization, and added auto-layout support for iOS.
+  
+
+    [13]
+   
+
+  On October 3, 2012, Xcode 4.5.1 was released with bug fixes and stability improvements.
+  
+
+    [2]
+   
+
+  Less than a month later, Xcode 4.5.2 was released, with support for
+  
+   iPad Mini
+  
+  and
+  
+   iPad
+  
+  with Retina Display, and bug fixes and stability improvements.
+ 
+  On January 28, 2013,
+  
+   iOS
+  
+  6.1 and Xcode 4.6 were released.
+ 
+  In June 2013, at the
+  
+   Apple Worldwide Developers Conference
+  
+  , version 5 of Xcode was announced.
+  
+
+    [29]
+   
+
+  On September 18, 2013 Xcode 5.0 was released. It added support for iOS 7 SDK, with always support of OS X 10.8 Mountain Lion SDK but not the support of OS X 10.9 Mavericks SDK. This latest was only included in the betas version. It also added a version of
+  
+   Clang
+  
+  generating 64-bit ARM code for iOS 7. Apple removed support for building garbage collected Cocoa binaries in Xcode 5.1.
+  
+
+    [30]
+   
+
+
+  On June 2, 2014 at the World Wide Developers Conference, Apple announced version 6 of Xcode. Features include
+  
+   Playgrounds
+  
+  , live debugging tools, and a new programming language named
+  
+   Swift
+  
+  .
+  
+
+    [31]
+   
+
+  On September 17, 2014, at the same time,
+  
+   iOS
+  
+  and Xcode 6 were released. Xcode could be downloaded on the
+  
+   Mac App Store
+  
+  .
+ 
+  On June 8, 2015 at the
+  
+   Apple Worldwide Developers Conference
+  
+  Xcode version 7 was announced. It introduced support for Swift 2, and Metal for
+  
+   OS X
+  
+  , and added support for deploying on iOS devices without an Apple Developer license.
+  
+
+    [32]
+   
+
+  Xcode 7 was released on September 16, 2015.
+ 
+  On June 13, 2016 at the
+  
+   Apple Worldwide Developers Conference
+  
+  Xcode version 8 was announced. It introduced support for Swift 3.
+  
+
+    [33]
+   
+
+  Xcode 8 was released on September 13, 2016.
+ 
+
+
+       1.0
+      
+
+
+
+
+       1.1
+      
+
+
+
+
+       1.2
+      
+
+
+
+
+       1.5
+      
+
+
+
+
+       2.0
+      
+
+
+
+
+       2.1
+      
+
+
+
+
+       2.2
+      
+
+
+
+
+       2.2.1
+      
+
+
+
+
+       2.3
+      
+
+
+
+
+       2.4
+      
+
+
+
+
+       2.4.1
+      
+
+
+
+
+       2.5
+      
+
+
+
+
+       3.0
+      
+
+
+
+
+       3.1
+      
+
+
+
+
+       3.1.1
+      
+
+
+
+
+       3.1.2
+      
+
+
+
+
+       3.1.3
+      
+
+
+
+
+       3.1.4
+      
+
+
+
+
+       3.2
+      
+
+
+
+
+       3.2.1
+      
+
+
+
+
+       3.2.2
+      
+
+
+
+
+       3.2.3
+      
+
+
+
+
+       3.2.4
+      
+
+
+
+
+       3.2.5
+      
+
+
+
+
+       3.2.6
+      
+
+
+
+
+       4.0
+      
+
+
+
+
+       4.0.1
+      
+
+
+
+
+       4.0.2
+      
+
+
+
+
+       4.1
+      
+
+
+
+
+       4.1.1
+      
+
+
+
+
+       4.2
+      
+
+
+
+
+       4.2.1
+      
+
+
+
+
+       4.3
+      
+
+
+
+
+       4.3.1
+      
+
+
+
+
+       4.3.2
+      
+
+
+
+
+       4.3.3
+      
+
+
+
+
+       4.4
+      
+
+
+
+
+       4.4.1
+      
+
+
+
+
+       4.5
+      
+
+
+
+
+       4.5.1
+      
+
+
+
+
+       4.5.2
+      
+
+
+
+
+       4.6
+      
+
+
+
+
+       4.6.1
+      
+
+
+
+
+       4.6.2
+      
+
+
+
+
+       4.6.3
+      
+
+
+
+
+       5.0
+      
+
+
+
+
+       5.0.1
+      
+
+
+
+
+       5.0.2
+      
+
+
+
+
+       5.1
+      
+
+
+
+
+       5.1.1
+      
+
+
+
+
+       6.0.1
+      
+
+
+
+
+       6.1
+      
+
+
+
+
+       6.1.1
+      
+
+
+
+
+       6.2
+      
+
+
+
+
+       6.3
+      
+
+
+
+
+       6.3.1
+      
+
+
+
+
+       6.3.2
+      
+
+
+
+
+       6.4
+      
+
+
+
+
+       7.0
+      
+
+
+
+
+       7.0.1
+      
+
+
+
+
+       7.1
+      
+
+
+
+
+       7.1.1
+      
+
+
+
+
+       7.2
+      
+
+
+
+
+       7.2.1
+      
+
+
+
+
+       7.3
+      
+
+
+
+
+       7.3.1
+      
+
+
+
+
+       8.0
+      
+
+
+
+
+       8.1
+      
+
+
+
+
+       8.2
+      
+
+
+
+
+       8.2.1
+      
+
+
+
+
+       8.3
+      
+

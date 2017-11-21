@@ -1,0 +1,845 @@
+
+
+  A
+  
+   smart TV
+  
+  , sometimes referred to as
+  
+   connected TV
+  
+  or
+  
+   hybrid TV
+  
+  , is a
+  
+   television set
+  
+  with integrated
+  
+   Internet
+  
+  and interactive "
+  
+   Web 2.0
+  
+  " features. Smart TV is a
+  
+   technological convergence
+  
+  between computers and
+  
+   flatscreen television
+  
+  sets and set-top boxes. Besides the traditional functions of television sets and set-top boxes provided through traditional
+  
+   broadcasting media
+  
+  , these devices can also provide
+  
+   Internet TV
+  
+  , online
+  
+   interactive media
+  
+  ,
+  
+   over-the-top content
+  
+  (OTT), as well as
+  
+   on-demand
+  
+
+   streaming media
+  
+  , and
+  
+   home networking
+  
+  access.
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+  Smart TV should not be confused with
+  
+   Internet TV
+  
+  ,
+  
+   IPTV
+  
+  or with
+  
+   Web TV
+  
+  .
+  
+   Internet TV
+  
+  refers to receiving television content over the Internet instead of traditional systems (terrestrial, cable and satellite) (although Internet itself is received by these methods).
+  
+   Internet Protocol television
+  
+  (IPTV) is one of the Internet television technology standards for use by television broadcasters.
+  
+   Web television
+  
+  is a term used for programs created by a wide variety of companies and individuals for broadcast on Internet TV.
+ 
+  In smart TVs, the operating system is preloaded or is available through the set-top box. The
+  
+   software applications
+  
+  or "apps" can be preloaded into the device, or updated or installed on demand via an
+  
+   app store
+  
+  or
+  
+   app marketplace
+  
+  , in a similar manner to how the apps are integrated in modern
+  
+   smartphones
+  
+  .
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+  The technology that enables smart TVs is also incorporated in external devices such as set-top boxes and some
+  
+   Blu-ray
+  
+  players,
+  
+   game consoles
+  
+  ,
+  
+   digital media players
+  
+  ,
+  
+   hotel television systems
+  
+  and
+  
+   smartphones
+  
+  and other network-connected interactive devices that utilize television-type display outputs.
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+  These devices allow viewers to search, find and play videos, movies, TV shows, photos and other content from the Web, on a cable TV channel, on a satellite TV channel, or on a local storage drive.
+ 
+
+
+  A first patent was published in 1994
+  
+
+    [11]
+   
+
+  (and extended the following year)
+  
+
+    [12]
+   
+
+  for an "intelligent" television system, linked with data processing systems, by means of a digital or analog network. Apart from being linked to data networks, one key point is its ability to automatically download necessary software routines, according to a user's demand, and process their needs. The mass acceptance of digital television in late 2000s and early 2010s greatly improved smart TVs. Major TV manufacturers have announced production of smart TVs only, for their middle-end to high-end TVs in 2015.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+  Smart TVs are expected to become the dominant form of television by the late 2010s. At the beginning of 2016, Nielsen reported that 29 percent of those with incomes over $75,000 a year had a smart TV.
+  
+
+    [16]
+   
+
+
+  A
+  
+   smart TV
+  
+  device is either a television set with integrated Internet capabilities or a set-top box for television that offers more advanced computing ability and connectivity than a contemporary basic television set. Smart TVs may be thought of as an
+  
+   information appliance
+  
+  or the
+  
+   computer system
+  
+  from a
+  
+   handheld computer
+  
+  integrated within a television set unit, as such smart TV often allows the user to install and run more advanced applications or
+  
+   plugins/addons
+  
+  based on a specific platform. Smart TVs run complete
+  
+   operating system
+  
+  or
+  
+   mobile operating system
+  
+  software providing a platform for application developers.
+  
+
+    [1]
+   
+
+
+
+    [17]
+   
+
+
+
+    [18]
+   
+
+
+  Smart TV platforms or middleware have a public
+  
+   Software development kit
+  
+  (SDK) and/or
+  
+   Native development kit
+  
+  (NDK) for apps so that third-party developers can develop applications for it, and an
+  
+   app store
+  
+  so that the end-users can install and uninstall apps themselves. The public SDK enables third-party companies and other interactive application developers to “write” applications once and see them
+  
+   run successfully on any device
+  
+  that supports the smart TV platform or middleware architecture which it was written for, no matter who the hardware manufacturer is.
+ 
+  Smart TVs deliver content (such as photos, movies and music) from other computers or network attached storage devices on a network using either a
+  
+   Digital Living Network Alliance
+  
+  /
+  
+   Universal Plug and Play
+  
+  media server or similar service program like
+  
+   Windows Media Player
+  
+  or
+  
+   Network-attached storage
+  
+  (NAS), or via
+  
+   iTunes
+  
+  . It also provides access to Internet-based services including traditional broadcast TV channels,
+  
+   catch-up services
+  
+  ,
+  
+   video-on-demand
+  
+  (VOD),
+  
+   electronic program guide
+  
+  , interactive advertising, personalisation, voting, games,
+  
+   social networking
+  
+  , and other multimedia applications.
+  
+
+    [19]
+   
+
+  Smart TV enables access to movies, shows, video games, apps and more. Some of those apps include Netflix,
+  
+   Spotify
+  
+  , YouTube, and Amazon.
+  
+
+    [20]
+   
+
+
+  Smart TV devices also provide access to
+  
+   user-generated content
+  
+  (either stored on an external
+  
+   hard drive
+  
+  or in
+  
+   cloud storage
+  
+  ) and to interactive services and Internet applications, such as YouTube, many using
+  
+   HTTP Live Streaming
+  
+  (also known as HLS) adaptive streaming.
+  
+
+    [21]
+   
+
+  Smart TV devices facilitate the curation of traditional content by combining information from the Internet with content from TV Providers. Services offer users a means to track and receive reminders about shows
+  
+
+    [22]
+   
+
+  or sporting events,
+  
+
+    [23]
+   
+
+  as well as the ability to change channels for immediate viewing. Some devices feature additional interactive
+  
+   organic user interface
+  
+  /
+  
+   natural user interface
+  
+  technologies for
+  
+   navigation controls
+  
+  and other
+  
+   human interaction
+  
+  with a Smart TV, with such as
+  
+   second screen
+  
+  companion devices,
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+  spatial
+  
+   gestures
+  
+  input like with
+  
+   Xbox Kinect
+  
+  ,
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+  and even for
+  
+   speech recognition
+  
+  for
+  
+   natural language user interface
+  
+  .
+  
+
+    [28]
+   
+
+
+  Smart TV develops new features to satisfy consumers and companies, such as new payment processes. LG and
+  
+   PaymentWall
+  
+  have collaborated to allow consumers to access purchased apps, movies, games, and more using a remote control, laptop, tablet, or smartphone. This is intended for an easier and more convenient way for checkout.
+ 
+  Smart TV technology and software is still evolving, with both
+  
+   proprietary
+  
+  and
+  
+   open source
+  
+
+   software frameworks
+  
+  already available. These can run applications (sometimes available via an 'app store'
+  
+   digital distribution
+  
+
+   platform
+  
+  ), interactive on-demand media, personalized communications, and have social networking features.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+
+    [31]
+   
+
+
+
+    [32]
+   
+
+
+  There are many Smart TV platforms used for individual purposes. Smart TV owners desire the most successful platform possible for their Smart TV. For this reason, platforms are ranked from best to worst. HbbTV, provided by the Hybrid Broadcast Broadband TV association, CE-HTML, part of Web4CE, OIPF, part of HbbTV, and Tru2way are framework platforms managed by technology businesses.
+ 
+
+   Android TV
+  
+  , Boxee,
+  
+   Firefox OS
+  
+  , Frog,
+  
+   Google TV
+  
+  ,
+  
+   Horizon TV
+  
+  , httvLink,
+  
+   Inview
+  
+  ,
+  
+   Kodi Entertainment Center
+  
+  ,
+  
+   MeeGo
+  
+  , Mediaroom,
+  
+   OpenTV
+  
+  , Opera TV,
+  
+   Plex
+  
+  , Roku, RDK, which is Reference Development Kit, Smart TV Alliance, ToFu Media Platform,
+  
+   Ubuntu TV
+  
+  , and
+  
+   Yahoo!
+  
+  GoTV are framework platforms managed by individual companies.
+ 
+  Current Smart TV platforms used by vendors are
+  
+   Amazon
+  
+  ,
+  
+   Apple
+  
+  ,
+  
+   Google
+  
+  ,
+  
+   Haier
+  
+  ,
+  
+   Hisense
+  
+  ,
+  
+   Hitachi
+  
+  ,
+  
+   Insigna
+  
+  , LG,
+  
+   Microsoft
+  
+  ,
+  
+   Netgear
+  
+  , Panasonic,
+  
+   Philips
+  
+  , Samsung,
+  
+   Sharp
+  
+  ,
+  
+   Sony
+  
+  ,
+  
+   TCL
+  
+  ,
+  
+   TiVO
+  
+  ,
+  
+   Toshiba
+  
+  ,
+  
+   Sling Media
+  
+  , and
+  
+   Western Digital
+  
+  . Sony, Panasonic,
+  
+   Samsung
+  
+  ,
+  
+   LG
+  
+  , and
+  
+   Roku TV
+  
+  are some platforms ranked under the best Smart TV platforms.
+  
+
+    [33]
+   
+
+
+  Some smart TV platforms come prepackaged, or can be optionally extended, with social networking technology capabilities. The addition of social networking synchronization to smart TV and HTPC platforms may provide an interaction with both on-screen content and other viewers than is currently available to most televisions, while simultaneously providing a much more cinematic experience of the content than is currently available with most computers.
+  
+
+    [34]
+   
+
+
+  Some smart TV platforms also support
+  
+   interactive advertising
+  
+  ,
+  
+   addressable advertising
+  
+  with local advertising insertion and targeted advertising,
+  
+
+    [35]
+   
+
+  and other advanced advertising features such as
+  
+   ad telescoping
+  
+
+
+    [36]
+   
+
+  using
+  
+   VOD
+  
+  and
+  
+   DVR
+  
+  , enhanced TV for consumer
+  
+   call-to-action
+  
+  and
+  
+   audience measurement
+  
+  solutions for ad campaign effectiveness.
+  
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+  The marketing and trading possibilities offered by Smart TVs are sometimes summarized by the term
+  
+   t-commerce
+  
+  . Taken together, this
+  
+   bidirectional
+  
+  data flow means that smart TVs can be and are used for
+  
+   clandestine observation
+  
+  of the owners.
+  
+
+    [39]
+   
+
+  Even in sets that are not configured off-the-shelf to do so, default security measures are often weak and will allow hackers to easily break into the TV.
+  
+
+    [40]
+   
+
+
+  There is evidence that a smart TV is vulnerable to attacks. Some serious
+  
+   security
+  
+  bugs have been discovered, and some successful attempts to run
+  
+   malicious code
+  
+  to get unauthorized access were documented on video. There is evidence that it is possible to gain
+  
+   root access
+  
+  to the device, install malicious software, access and modify configuration information for a
+  
+   remote control
+  
+  , remotely access and modify files on TV and attached USB drives, access camera and microphone.
+  
+
+    [41]
+   
+
+  There have also been concerns that
+  
+   hackers
+  
+  may be able to remotely turn on the microphone on a smart TV and be able to eavesdrop on private conversations.
+ 
+  Anticipating growing demand for an
+  
+   antivirus
+  
+  for a smart TV, some
+  
+   security software
+  
+  companies are already working with partners in digital TV field on the solution. At this moment it seems like there is only one antivirus for smart TVs available. Ocean Blue Software partnered with
+  
+   Sophos
+  
+  and developed first cloud based antimalware system “Neptune”. Also antivirus company
+  
+   Avira
+  
+  has joined forces with digital TV testing company Labwise to work on the software that would protect against potential attacks.
+  
+
+    [42]
+   
+
+  The privacy policy for
+  
+   Samsung's
+  
+  Smart TVs has been called
+  
+   Orwellian
+  
+  (a reference to
+  
+   George Orwell
+  
+  and the dystopian world of constant surveillance he depicted in
+  
+
+    1984
+   
+
+  ), and compared to
+  
+   Telescreens
+  
+  because of eavesdropping concerns.
+  
+
+    [43]
+   
+
+
+
+    [44]
+   
+
+  Samsung introduced GAIA, a security system for smart TV. GAIA will be included in all 2016 smart TV line-up.
+  
+
+    [45]
+   
+
+
+  Hackers have misused Smart TV's abilities such as operating source codes for applications and its unsecured connection to the Internet. Passwords, IP address data, and credit card information can be accessed by hackers and even companies for advertisement. A company caught in the act is
+  
+   Vizio
+  
+  . Fortunately, there are a number of ways to stop or prevent this, which are unsubscribing from Vizio, updating and installing firmware and latest patches, checking manual, features, and settings, using a smartphone device or computer in place of bank-related activities, downloading security apps, setting up individual networks, not using the camera, not checking messages, being cautious when browsing, using Smart TV strictly for entertainment and disconnecting from the Internet if it is not use, and lastly contacting the manufacturer for help or further information.
+ 
+  Internet websites can block smart TV access to content at will, or tailor the content that will be received by each platform.
+  
+
+    [46]
+   
+
+
+   Google TV
+  
+  -enabled devices were blocked by
+  
+   NBC
+  
+  ,
+  
+   ABC
+  
+  ,
+  
+   CBS
+  
+  , and
+  
+   Hulu
+  
+  from accessing their Web content since the launch of Google TV in October 2010. Google TV devices were also blocked from accessing any programs offered by
+  
+   Viacom
+  
+  ’s subsidiaries.
+  
+
+    [47]
+   
+
+
+  According to a report from the researcher NPD In-Stat, only about 12 million U.S. households have their Web-capable TVs connected to the Internet, although In-Stat estimates about 25 million U.S. TV households own a set with the built-in network capability. Also, In-Stat predicts that 100 million homes in North America and western Europe will own television sets that blend traditional programs with internet content by 2016.
+  
+
+    [48]
+   
+
+
+  The amount of households having Internet connected to the Internet has rapidly increased over the years. Many households use Smart TV platforms such as Netflix,
+  
+   Amazon Prime
+  
+  , and Hulu. 52% of households get subscriptions from these platforms. 43% of adults stream monthly. 43% of pay-TV subscribers get Netflix. 19% of Netflix subscribers share their Netflix subscription with other people outside of their households. 10% of adults have shown interest in HBO Now, which is $14.99 per month without subscription to a pay-TV service.
+  
+
+    [49]
+   
+
+
+

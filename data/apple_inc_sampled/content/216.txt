@@ -1,0 +1,670 @@
+
+
+
+   iBooks
+  
+  is an
+  
+   e-book
+  
+  application by
+  
+   Apple Inc.
+  
+  for its
+  
+   iOS
+  
+  and
+  
+   macOS
+  
+  operating systems and
+  
+   devices
+  
+  . It was announced in conjunction with the
+  
+   iPad
+  
+  on January 27, 2010,
+  
+
+    [1]
+   
+
+  and was released for the
+  
+   iPhone
+  
+  and
+  
+   iPod Touch
+  
+  in mid-2010, as part of the
+  
+   iOS
+  
+  4 update.
+  
+
+    [2]
+   
+
+  Initially, iBooks was not pre-loaded onto iOS devices, but users could install it free of charge from the
+  
+   iTunes
+  
+
+   App Store
+  
+  . With the release of
+  
+   iOS 8
+  
+  , it became an integrated app. On June 10, 2013, at the
+  
+   Apple Worldwide Developers Conference
+  
+  ,
+  
+   Craig Federighi
+  
+  announced that iBooks would also be provided with
+  
+   OS X Mavericks
+  
+  in fall 2013.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+  It primarily receives
+  
+   EPUB
+  
+  content from the iBooks Store, but users can also add their own EPUB and
+  
+   PDF
+  
+  files via
+  
+   data synchronization
+  
+  with
+  
+   iTunes
+  
+  . Additionally, the files can be downloaded to iBooks through
+  
+   Safari
+  
+  or Apple Mail. It is also capable of displaying e-books that incorporate multimedia.
+  
+
+    [1]
+   
+
+
+
+    [5]
+   
+
+  According to product information as of March 2010, iBooks will be able to "read the contents of any page [to the user]" using
+  
+   VoiceOver
+  
+  .
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+  On January 19, 2012 at an education-focused special event in New York City, Apple announced the free release of iBooks 2, which can operate in landscape mode and allows for interactive reading. In addition, a new application,
+  
+   iBooks Author
+  
+  , was announced for the
+  
+   Mac App Store
+  
+  , allowing anyone to create interactive textbooks for reading in iBooks; and the
+  
+   iBooks Store
+  
+  was expanded with a
+  
+   textbook
+  
+  category.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  The
+  
+   iBooks Author Conference
+  
+  , the annual gathering of digital content creators around Apple's
+  
+   iBooks Author
+  
+  , has convened since 2015.
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+  A 2017 conference
+  
+
+    [12]
+   
+
+  has been announced for later this year, with keynote from
+  
+   NASA
+  
+  and sponsored by
+  
+   Southwest Airlines
+  
+  .
+ 
+
+
+  iBooks was announced alongside the iPad at a press conference in January 2010. The store itself, however, was released in America three days before the iPad with the introduction of iTunes 9.1. This was supposedly to prevent too much traffic on Apple's servers, as they have been overloaded with previous releases of the iPhone. On the day of its launch, on March 31, 2010, the iBooks Store collection comprised some 60,000 titles.
+  
+
+    [13]
+   
+
+
+  On April 8, 2010, Apple announced that iBooks would be updated to support the
+  
+   iPhone
+  
+  and
+  
+   iPod Touch
+  
+  with
+  
+   iOS
+  
+  4. As a result, iBooks will not be supported on first-generation iPhones and iPod Touches.
+  
+
+    [2]
+   
+
+
+  On June 8, 2010 at the WWDC Keynote it was announced that iBooks would be updated that month to read PDF files as well as have the ability to annotate both
+  
+   PDFs
+  
+  and eBooks.
+ 
+  As of July 1, Apple expanded iBooks availability to Canada.
+ 
+  Upon its release for older devices running iOS 4, such as the
+  
+   iPhone 3GS
+  
+  and
+  
+   iPod Touch
+  
+  , iBooks received criticism for its slow performance.
+  
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+  However, a July 19 update from Apple offered several improvements.
+  
+
+    [16]
+   
+
+
+  On September 27, 2011, Apple expanded the premium store to the Republic of Ireland.
+ 
+  On January 19, 2012, Apple announced the release of the iBooks 2 app, allowing users to purchase and download
+  
+   textbooks
+  
+  to the iPad.
+  
+
+    [17]
+   
+
+  The new app will support digital textbooks that can display interactive diagrams, audio and video on the
+  
+   iPad
+  
+  .
+  
+
+    [18]
+   
+
+  Apple also released a free tool called iBooks Author. The software allows users to create these interactive textbooks themselves.
+ 
+  On October 23, 2012, Apple announced iBooks 3.
+ 
+  On June 10, 2013, Apple announced iBooks for
+  
+   OS X Mavericks
+  
+  . Books are now available for purchase in the following countries; Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hungary, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Malta, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, United States, and Venezuela.
+ 
+  On November 15, 2013, Apple pushed version 3.2 of iBooks for iOS with a redesigned interface to match the "flat" style of
+  
+   iOS 7
+  
+  , which dropped support for
+  
+   iOS 6
+  
+  and earlier versions.
+ 
+  On the annual
+  
+   WWDC
+  
+  in 2014, Apple unveiled that iBooks will be a pre-installed app in the next version of the operating system,
+  
+   iOS 8
+  
+  , along with the
+  
+   Podcasts
+  
+  app.
+ 
+  On September 17, 2014, Apple bundled version 4.0 of iBooks for iOS with iOS 8.0. This includes slight changes with the bookstore button (into a persistent navigation bar at the bottom), grouping of books by series in the bookshelf, Auto-night mode theme, as well as small changes to the underlying rendering engine.
+ 
+  On October 20, 2014, Apple bundled version 4.1 of iBooks for iOS with iOS 8.1.
+ 
+  The supported
+  
+   e-book
+  
+  formats by iBooks are
+  
+   EPUB
+  
+  and
+  
+   PDF
+  
+  .
+  
+
+    [19]
+   
+
+  As of version 2.0, iBooks also supports a proprietary iBook format (IBA), generated with the iBooks Author tool. This format is based upon the EPUB format but depends upon custom widget code in the iBooks app to function.
+  
+
+    [20]
+   
+
+
+  As of version 3, iBooks renders text written in 18 different languages. Users of the application are able to change the font and text size displayed. Available English fonts are
+  
+   Baskerville
+  
+  ,
+  
+   Cochin
+  
+  ,
+  
+   Georgia
+  
+  ,
+  
+   Palatino
+  
+  ,
+  
+   Times New Roman
+  
+  ,
+  
+   Verdana
+  
+  ,
+  
+   Athelas
+  
+  ,
+  
+   Charter
+  
+  ,
+  
+   Iowan Old Style
+  
+  and
+  
+   Seravek
+  
+  .
+  
+
+    [21]
+   
+
+
+  Users can adjust screen brightness from within the application.
+ 
+  Words can be selected and searched throughout the book. Definitions of words can also be found upon clicking on the word and selecting 'define' which will give the reader a brief description of what the word means and if there isn't a definition available, the reader can opt to either search on Wikipedia or the web for a definition, an option available even if there is a definition for the word. Readers can also highlight passages and when this is done, the part of the Ebook which deals with the chapters and notes will automatically save the words or sentences which were highlighted, as well as revealing any notes made after highlighting a certain passage, another feature.
+ 
+  Originally, there were three viewing background themes to choose from, except when reading PDF documents. The themes were:
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+  With the introduction of iOS 8 in 2014, an additional "Auto-Night Theme" was introduced, which dynamically changes the theme from 'Normal' or 'Sepia' to 'Night' and vice versa based on the ambient light conditions.
+ 
+  With the introduction of
+  
+   iOS 9
+  
+  in 2015, a fourth background theme was added:
+  
+   Gray
+  
+  : light grey text on a dark gray background.
+ 
+  iBooks also stacks books that belong to a series when the user is on the "All Books" screen. When selected, the books included in the series are shown in the order in which they were released, including books in the series that the user has not purchased. The prices of the unpurchased books are displayed on the upper right corner of the book "ear-marked" in green. Tapping the unpurchased book takes the user directly to the iBook store allowing for quick purchase.
+ 
+  There are three page layouts: Book, Full Screen, and Scroll. In Book or Full Screen layout, pages are turned by tapping or dragging the page, animated to imitate the appearance of a paper book. In Scroll, there is no page turning, and the book appears as continuous text, read vertically like a web browser.
+ 
+  Until May 2011
+  
+
+    [24]
+   
+
+  each copy of iBooks used to provide a free copy of
+  
+
+    Winnie-the-Pooh
+   
+
+  , the 1926 book by
+  
+   A. A. Milne
+  
+  , in order to get the user's library started.
+ 
+  The iBooks Store is an
+  
+   ePub
+  
+  content sales and delivery system that delivers eBooks to any
+  
+   iOS device
+  
+  such as the
+  
+   iPad
+  
+  ,
+  
+   iPhone
+  
+  , and
+  
+   iPod Touch
+  
+  . It does not currently support either the downloading or reading of iBooks directly on Windows or
+  
+   Linux distributions
+  
+  , but it does support the downloading and reading of iBooks on
+  
+   OS X Mavericks
+  
+  and later.
+  
+
+    [25]
+   
+
+
+  Prior to the unveiling of the iPad, publishers
+  
+   Penguin Books
+  
+  ,
+  
+   HarperCollins
+  
+  ,
+  
+   Simon & Schuster
+  
+  ,
+  
+   Macmillan Publishers
+  
+  , and
+  
+   Hachette Book Group USA
+  
+  committed to producing content for the iBooks Store. Additional publishers were invited to participate on the day of the product announcement, January 27, 2010.
+  
+
+    [26]
+   
+
+  The iBooks Store also provides access to the 30,000+ free books available from
+  
+   Project Gutenberg
+  
+  ,
+  
+
+    [27]
+   
+
+  and it provides content channeled through
+  
+   Smashwords
+  
+  , allowing independent authors and publishers to self-publish.
+  
+
+    [28]
+   
+
+
+  The day before the
+  
+   iPad
+  
+  event,
+  
+   Terry McGraw
+  
+  , the CEO of
+  
+   McGraw-Hill
+  
+  , appeared to divulge information to Erin Burnett on
+  
+   CNBC
+  
+  about the upcoming iPad release.
+  
+
+    [29]
+   
+
+  This was quickly picked up and disseminated by rumor sites and eventually mainstream media outlets as revelation of features of the iPad. McGraw Hill was not included in the iPad presentation at the Apple media event and there was speculation that the exclusion was in response to this release of information.
+  
+
+    [30]
+   
+
+  However, McGraw-Hill has stated that the information disclosed by McGraw was not privileged, and that the company had not intended to participate in the event.
+  
+
+    [31]
+   
+
+
+  In 2011, an Apple spokesperson announced that "We are now requiring that if an app offers customers the ability to purchase books outside of the app, that the same option is also available to customers from within the app with in-app purchase."
+  
+
+    [32]
+   
+
+  Due to the 30% revenue share that Apple receives from the in-app purchase mechanism, the financial viability of competing bookstore apps run by other book retailers is uncertain, even though in many countries, the iBooks Store still does not provide consumers access to any e-books except for free works, such as ones that are in the
+  
+   public domain
+  
+  . Apple's competitor
+  
+   Amazon.com
+  
+  updated its iOS
+  
+   Kindle app
+  
+  in July 2013 to bypass the 30% revenue share by requiring the user to purchase content using the
+  
+   Kindle Store
+  
+  's website instead of using the Kindle app; users can still get free e-books or samples while using the app.
+  
+
+    [33]
+   
+
+
+  Some critics have stated that the iBooks interface is a near-exact replica of Classics by Andrew Kaz and Phill Ryu, released over a year prior and even featured in Apple's own TV commercials. Apple has made no acknowledgment of this.
+  
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+
+    [36]
+   
+
+
+  Documents created by iBooks Author in the .ibooks format may be sold for a fee only if they are accepted by and exclusively distributed by Apple.
+  
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+  These restrictions do not apply to documents created in other formats like exported as PDF or text files. As Apple officially mentions the EPUB format,
+  
+
+    [37]
+   
+
+  documents renamed to *.epub may not be affected. But this is left unclear and such documents are not fully compatible with the EPUB standard.
+  
+   [
+   
+
+
+      speculation?
+     
+
+
+   ]
+  
+
+  In June 2011, Apple was sued by New York publisher John T. Colby over the use of the term "iBook".
+  
+
+    [41]
+   
+
+  Colby claims to be the owner of a trademark on the term "ibooks" as applied to published books, after acquiring the assets of publisher
+  
+   Byron Preiss
+  
+  , who had published a series of sci-fi and fantasy books under the term. Apple had previously used the term "
+  
+   iBook
+  
+  " to refer to a line of laptops that it sold until 2006, but Colby claims exclusive right to the term as applied to published books, including e-books. Apple began using the term "iBooks" in 2010 to refer to e-books sold for the iPad. Byron Preiss published more than 1,000 books under the "ibooks" brand starting in 1999.
+  
+
+    [42]
+   
+
+  Apple emerged the victor in the suit. The judge stated: "They have offered no evidence that consumers who use Apple's iBooks software to download ebooks have come to believe that Apple has also entered the publishing business and is the publisher of all of the downloaded books, despite the fact that each book bears the imprint of its actual publisher."
+  
+
+    [43]
+   
+

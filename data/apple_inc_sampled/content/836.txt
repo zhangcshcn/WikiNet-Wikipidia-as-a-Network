@@ -1,0 +1,551 @@
+
+
+     4 in (100 mm) diagonal (16:9 aspect ratio),
+     
+     multi-touch display,
+     
+
+      LED backlit
+     
+
+      IPS TFT LCD
+     
+     ,
+     
+     1136×640
+     
+      px
+     
+     at 326
+     
+      PPI
+     
+
+     800:1
+     
+      contrast ratio
+     
+     (typical), 500
+     
+      cd/m
+      
+       2
+      
+
+     max. brightness (typical),
+     
+      Fingerprint
+     
+     -resistant
+     
+      oleophobic
+     
+
+      coating
+     
+     on value=150+
+    
+  The fifth generation
+  
+   iPod Touch
+  
+  (stylized and marketed as the
+  
+   iPod touch
+  
+  , and colloquially known as the
+  
+   iPod Touch 5G
+  
+  or
+  
+   iPod Touch 5
+  
+  ) was unveiled at Apple's media event alongside the
+  
+   iPhone 5
+  
+  on September 12, 2012 and was released on October 11, 2012. An all-purpose pocket computer designed and marketed by
+  
+   Apple Inc.
+  
+  with a
+  
+   touchscreen-based
+  
+
+   user interface
+  
+  , it succeeded the 4th generation iPod Touch.
+ 
+  Like the
+  
+   iPhone 5
+  
+  , the fifth generation iPod Touch is a slimmer, lighter model that introduces a higher-resolution, 4-inch screen to the series with
+  
+   16:9
+  
+  widescreen
+  
+   aspect ratio
+  
+  . Other improvements include support for recording 1080p video and panoramic still photos via the rear camera, an
+  
+   LED flash
+  
+  ,
+  
+   Apple's A5
+  
+  chip (the same chip used in the
+  
+   iPad Mini
+  
+  ,
+  
+   iPad 2
+  
+  , and
+  
+   iPhone 4S
+  
+  ) and support for Apple's
+  
+   Siri
+  
+  .There is a new update of the iPod touch called the
+  
+   iPod Touch (6th generation)
+  
+  .
+ 
+  Additionally, unlike its predecessors, the iPod Touch was made available in space grey, silver, pink, yellow, blue, and
+  
+   Product Red
+  
+  .
+  
+
+    [5]
+   
+
+
+  The device was initially only sold in 32GB and 64GB models. The first 16GB model, introduced on May 30, 2013, was only available in one color and lacks the rear iSight camera and the iPod Touch Loop that is included in the 32 GB models.
+  
+
+    [6]
+   
+
+  On June 26, 2014, it was replaced with a new 16GB model that no longer omits the rear camera and full range of color options. The pricing for the iPod Touch had also changed. The 16GB model is $199 instead of $229, the 32 GB model is $249 instead of $299, and the 64 GB model is $299 instead of $399.
+  
+
+    [7]
+   
+
+
+  The iPod Touch (5th generation) was officially discontinued by Apple on July 15, 2015 with the release of its successor,
+  
+   iPod Touch (6th generation)
+  
+  .
+ 
+
+
+  The fifth generation iPod Touch features
+  
+   iOS
+  
+  , Apple's
+  
+   mobile operating system
+  
+  . The
+  
+   user interface
+  
+  of iOS is based on the concept of
+  
+   direct manipulation
+  
+  , using
+  
+   multi-touch gestures
+  
+  . Interface control elements consist of sliders, switches, and buttons.
+  
+
+    [8]
+   
+
+  Interaction with the OS includes gestures such as
+  
+   swipe
+  
+  ,
+  
+   tap
+  
+  ,
+  
+   pinch
+  
+  , and
+  
+   reverse pinch
+  
+  , all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal
+  
+   accelerometers
+  
+  are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it vertically (one common result is switching from portrait to landscape mode).
+  
+
+    [8]
+   
+
+
+  Initially shipped with
+  
+   iOS 6
+  
+  , which was released on September 19, 2012, it can play music, movies, television shows, eBooks, audiobooks, and
+  
+   podcasts
+  
+  and can sort its media library by songs, artists, albums, videos,
+  
+   playlists
+  
+  ,
+  
+   genres
+  
+  , composers, podcasts, audiobooks, and
+  
+   compilations
+  
+  . Users can rotate their device horizontally to
+  
+   landscape mode
+  
+  to access
+  
+   Cover Flow
+  
+  . This feature shows the different album covers in a scroll-through photo library. Scrolling is achieved by swiping a finger across the screen. Alternatively, headset controls can be used to pause, play, skip, and repeat tracks. However, the earpods that comes with the iPod does not include a remote and mic.
+  
+
+    [9]
+   
+
+  The Voice Control feature can also be used to identify a track, play songs in a playlist or by a specific artist, or create a
+  
+   Genius playlist
+  
+  .
+  
+
+    [10]
+   
+
+
+  Like the
+  
+   iPhone 4S
+  
+  and later models, the fifth generation iPod Touch was the first in the iPod Touch line-up to include
+  
+   Siri
+  
+  , that allows the user to operate the device by spoken commands. The software was improved in iOS 6 to include the ability to make restaurant reservations, launch apps, dictate Facebook or Twitter updates, retrieve movie reviews and detailed sports statistics.
+  
+
+    [11]
+   
+
+  Typing can be aided by the voice assistant, which converts speech to text, and also supports
+  
+   iMessage
+  
+  , a specialised instant messaging program and service that allows unlimited texting to other Apple devices running iOS 5 or later. Some newer applications and features that came with iOS 6 included
+  
+   Apple Maps
+  
+  ,
+  
+   Passbook
+  
+  and screen mirroring. Apple Maps which replaced the former map application (powered by Google Maps) lacks many features present in competing maps apps and is also known to give wrong directions to users which still not fixed after the iOS 7 updates.
+  
+
+    [12]
+   
+
+  The new Apple Maps app uses Apple's new vector-based engine that eliminates
+  
+   lag
+  
+  , making for smoother
+  
+   zooming
+  
+  . New to Maps is
+  
+   turn-by-turn navigation
+  
+  spoken directions, 3D views in some major cities and real-time traffic.
+  
+
+    [13]
+   
+
+  The new Passbook app is able to retrieve documents such as
+  
+   boarding passes
+  
+  , admission
+  
+   tickets
+  
+  ,
+  
+   coupons
+  
+  and
+  
+   loyalty cards
+  
+  . An iOS device with Passbook can be scanned under a
+  
+   reader
+  
+  to process a
+  
+   mobile payment
+  
+  at locations that have compatible hardware.
+  
+   AirPlay
+  
+  was made available, which allows screen mirroring through an Apple TV or other supported external device allows the screen of the iPod Touch to be mirrored, and was the first generation of the iPod Touch to support it.
+ 
+
+   iOS 7
+  
+  was released on September 18, 2013 to all iOS devices. This generation was the only iPod Touch in the iPod Touch line-up to run iOS 7.
+  
+
+    [14]
+   
+
+  On June 2, 2014, it was announced that the iPod Touch 5th generation would receive
+  
+   iOS 8
+  
+  that fall. It was released on September 17, 2014.
+  
+
+    [15]
+   
+
+
+  It was confirmed on June 8, 2015 at Apple's WWDC that the iPod Touch 5th generation would support iOS 9. This makes it the first and only iPod touch to support 4 major versions of iOS being iOS 6, iOS 7, iOS 8 and iOS 9. iOS 9 is said
+  
+   [
+   
+
+
+      by whom?
+     
+
+
+   ]
+  
+  to feature performance improvements that may help the aging device function more smoothly. Other A5-based devices will also support iOS 9 including the iPad 2 (6 major iOS versions), the iPhone 4S (5 major iOS versions) and the iPad Mini (4 major iOS versions). iOS 9.3.5 is the last update that supports the iPod Touch 5th generation as it did not receive
+  
+   iOS 10
+  
+  along with the iPhone 4S, iPad 2 and 3, and iPad Mini 1st generation due to hardware limitations.
+ 
+  The fifth generation iPod Touch features the
+  
+   Apple A5
+  
+  chip which is similar to the one on the
+  
+   iPhone 4S
+  
+  ,
+  
+   iPad 2
+  
+  and the
+  
+   iPad Mini
+  
+  . The chip comprises a 1 GHz dual core
+  
+   ARM Cortex-A9
+  
+  processor and a PowerVR SGX543MP2 (2-core) GPU making it faster than the fourth generation iPod Touch, which uses the
+  
+   Apple A4
+  
+  chip.
+  
+
+    [16]
+   
+
+  Storage capacities are available at 32 or 64 GB with a 16 GB announced at a later date to replace the previous generation.
+ 
+  The
+  
+   Retina Display
+  
+  of the iPod is similar to the one on the iPhone 5, measuring 1,136 by 640 pixels with an
+  
+   aspect ratio
+  
+  of almost exactly 16:9. Measuring 4 inches diagonally, it has a
+  
+   display size
+  
+  of 6.7 square inches and a pixel density of 326 ppi which remains the same as the fourth generation. Screen icons are arranged in a matrix of 6 rows of 4 icons each. With a larger screen than the previous generation model, the fifth generation iPod Touch allows a 6th row of icons to be added to the 5 rows that were present in the fourth generation iPod Touch. However, the fifth generation iPod Touch does not include an ambient light sensor which was included in the previous generation. The new
+  
+   iSight
+  
+  camera has 5 megapixels and is capable of
+  
+   1080p
+  
+  video recording with an illuminated sensor and a LED flash. The front-facing camera was also upgraded to 1.2 megapixels capable of 720p video compared to the VGA 0.3 megapixels front camera on the fourth generation.
+  
+
+    [17]
+   
+
+
+  The fifth generation iPod Touch's finish features an aluminum unibody, which is made from the same kind of anodized aluminium used in the MacBook line. With a new iSight camera and LED flash, the iPod Touch includes a new feature known as the
+  
+   iPod Touch Loop
+  
+  . At the bottom left corner of the back of the iPod Touch, there is a button which can be pressed to allow a wrist strap to attach to the iPod Touch. Other changes to the iPod Touch include the addition of colors. It is available in five: Space Grey (Replacing the Slate colour variant as of September 2013), Silver, Pink, Yellow, Blue and
+  
+   (Product) RED
+  
+  . The Space Grey (or Slate) version comes with a black front while the rest of the color variants of the iPod come with a white front.
+  
+
+    [10]
+   
+
+
+  The fifth generation iPod Touch was initially released in 32GB and 64GB models. A 16GB version that did not include the iSight camera, LED flash and Loop was released on May 30, 2013.
+  
+
+    [18]
+   
+
+  This model was replaced with a 16GB model of the original design on June 26, 2014.
+  
+
+    [19]
+   
+
+
+  The fifth generation iPod Touch, as well as the
+  
+   iPhone 5
+  
+  ,
+  
+   iPod Nano
+  
+  (7th generation),
+  
+   iPad (4th generation)
+  
+  , and
+  
+   iPad Mini
+  
+  feature a new
+  
+   dock connector
+  
+  named
+  
+   Lightning
+  
+  , replacing the 30-pin Apple connector which was first introduced by Apple in 2003 on the third generation
+  
+   iPod
+  
+  . The Apple Lightning connector has eight pins and all signaling is digital. The new connector also can be inserted either way, unlike the 30-pin connector which can only be inserted in one way. Adapters will be released by Apple to convert the Apple Lightning connector to the older 30-pin Apple Dock connector or
+  
+   USB
+  
+  , although not all accessories will work with the adapter as not all signals are available, in particular video output and the iPod Out feature for BMW automobiles.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+  Earphones known as Apple EarPods are also included with the fifth generation iPod touch and other devices announced at the Apple media event on September 12, 2012. They superseded earphones that were included with previous generation iPhones and iPods.
+  
+
+    [22]
+   
+
+  According to technology commentators, the redesign of the earphones is aimed to improve sound quality by allowing air to travel in and out more freely.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+  Apple states that the redesign of their earphones allows it to "rival high-end headphones that cost hundreds of dollars more".
+  
+
+    [23]
+   
+
+  Reviews by
+  
+   Gizmodo
+  
+  and
+  
+   TechRadar
+  
+  reported that although the redesigned earphones sounded better than its predecessor, reviewers felt that the quality of sound produced was still underwhelming.
+  
+
+    [25]
+   
+
+  Both have further stated that the EarPods pale in comparison to other earphones of a similar price.
+  
+
+    [24]
+   
+
+
+  Other accessories that were sold with the iPod Touch include the lanyard for the iPod Touch loop (not available for the 16 GB model).
+  
+
+    [17]
+   
+

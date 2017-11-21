@@ -1,0 +1,186 @@
+
+
+  The
+  
+   Macintosh SE
+  
+  is a
+  
+   personal computer
+  
+  that was manufactured by
+  
+   Apple
+  
+  between March 1987
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  and October 1990. This computer marked a significant improvement on the
+  
+   Macintosh Plus
+  
+  design and was introduced by Apple at the same time as the
+  
+   Macintosh II
+  
+  . It had a similar case to the
+  
+   original Macintosh
+  
+  computer, but with slight differences in color and styling.
+ 
+
+
+  The SE's notable new features, compared to its similar predecessor, the
+  
+   Macintosh Plus
+  
+  , were:
+ 
+  The SE was designed to accommodate either one or two floppy drives, or a floppy drive and a hard drive. After-market brackets were designed to allow the SE to accommodate two floppy drives as well as a hard drive, however it was not a configuration supported by Apple. In addition an
+  
+   external floppy disk drive
+  
+  could also be connected, making the SE the only other Macintosh besides the
+  
+   Macintosh Portable
+  
+  and
+  
+   Macintosh II
+  
+  which could support three floppy drives, though its increased storage, RAM capacity and optional internal hard drive rendered the external drives less of a necessity than for its predecessors. After Apple introduced the
+  
+   Macintosh SE/30
+  
+  in January 1989, a logic board upgrade was sold by Apple dealers as a high-cost upgrade for the SE, consisting of a new SE/30 motherboard, case front and internal chassis to accommodate the upgrade components.
+ 
+  Single-floppy SE models also featured a drive access light in the spot where the second floppy drive would be.
+ 
+  Additionally the SE had a special PDS slot that allowed for expansion cards, such as accelerators, to be installed. The SE can be upgraded to 50 MHz and more than 5 MB with the
+  
+   MicroMac
+  
+  accelerators. In the past other accelerators were also available such as the Sonnet Allegro. Since installing a card required opening the computer's case and exposing the user to high voltages from the internal
+  
+   CRT
+  
+  , Apple recommended only authorized Apple dealers to install cards and sealed the case with then-uncommon
+  
+   Torx
+  
+  screws.
+ 
+  The Macintosh SE ROM size increased from 64 KB in the original Mac to 256 KB, which allowed the development team to include an
+  
+   Easter Egg
+  
+  hidden in the ROMs. By jumping to address 0x41D89A or reading from the ROM chips it is possible to display the four images of the engineering team.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+  The SE and
+  
+   Macintosh II
+  
+  were the first Apple computers since the
+  
+   Apple I
+  
+  to be sold without a keyboard. Instead the customer was offered the choice of the new ADB
+  
+   Apple Keyboard
+  
+  or the
+  
+   Apple Extended Keyboard
+  
+  .
+ 
+  Apple produced ten SEs with transparent cases as
+  
+   prototypes
+  
+  for promotional shots and employees. They are extremely rare and command a premium price for collectors.
+  
+
+    [5]
+   
+
+
+  Originally the SE could use only Single Sided Double Density (SSDD) (400 KB) and Double Sided Double Density (DSDD) (800 KB) formatted floppy disks. In August 1989, Apple introduced the
+  
+
+    Macintosh SE FDHD
+   
+
+  with the new
+  
+   SuperDrive
+  
+  , a floppy disk drive that could handle 1.4 MB High Density (HD) floppy disks.
+  
+
+    [6]
+   
+
+  Originally marketed as
+  
+
+    FDHD
+   
+
+  (
+  
+   F
+  
+  loppy
+  
+   D
+  
+  isk
+  
+   H
+  
+  igh
+  
+   D
+  
+  ensity"), later some Macintosh SE FDHDs were labeled
+  
+
+    Macintosh SE Superdrive
+   
+
+  , to conform to Apple's marketing change with respect to their new drive. HD floppies would become the de facto standard on both the Macintosh and PC computers from then on. An upgrade kit was sold for the original Macintosh SE which included new
+  
+   ROM
+  
+  chips and a new
+  
+   disk controller
+  
+  chip, to replace the originals.
+ 
+  The SE FDHD was discontinued in October 1990, with the introduction of the
+  
+   Macintosh Classic
+  
+  to succeed it.
+ 

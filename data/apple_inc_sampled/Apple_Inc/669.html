@@ -1,0 +1,1673 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cocoa (API) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cocoa_(API)","wgTitle":"Cocoa (API)","wgCurRevisionId":759633816,"wgRevisionId":759633816,"wgArticleId":55890,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from October 2013","All articles with unsourced statements","Articles with unsourced statements from June 2016","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Wikipedia articles needing clarification from January 2016","Articles with unsourced statements from April 2015","Official website different in Wikidata and Wikipedia","Pages using ISBN magic links","MacOS APIs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cocoa_(API)","wgRelevantArticleId":55890,"wgRequestId":"WOdVZApAADwAAFS6OEcAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1051988","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cocoa_(API)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cocoa_(API)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cocoa_(API)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cocoa_(API)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cocoa_API rootpage-Cocoa_API skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cocoa (API)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Cocoa</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Objective-C" title="Objective-C">Objective-C</a>, <a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/MacOS" title="MacOS">macOS</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Software_framework" title="Software framework">Software framework</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a><br />
+with some open source components<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://developer.apple.com/technologies/mac/cocoa.html">Apple Developer</a></span></td>
+</tr>
+</table>
+<p><b>Cocoa</b> is <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>'s native <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> <a href="/wiki/Application_programming_interface" title="Application programming interface">application programming interface</a> (API) for their <a href="/wiki/Operating_system" title="Operating system">operating system</a> <a href="/wiki/MacOS" title="MacOS">macOS</a>.</p>
+<p>For <a href="/wiki/IOS" title="IOS">iOS</a>, <a href="/wiki/TvOS" title="TvOS">tvOS</a>, and <a href="/wiki/WatchOS" title="WatchOS">watchOS</a>, a similar API exists, named <a href="/wiki/Cocoa_Touch" title="Cocoa Touch">Cocoa Touch</a>, which includes <a href="/wiki/Gesture_recognition" title="Gesture recognition">gesture recognition</a>, <a href="/wiki/Animation" title="Animation">animation</a>, and a different set of <a href="/wiki/Graphical_control_element" class="mw-redirect" title="Graphical control element">graphical control elements</a>. It is in <a href="/wiki/Application_software" title="Application software">applications</a> for Apple devices such as <a href="/wiki/IPhone" title="IPhone">iPhone</a>, <a href="/wiki/IPad" title="IPad">iPad</a>, <a href="/wiki/IPod_Touch" title="IPod Touch">iPod Touch</a>, <a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a>, and <a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a>.</p>
+<p>Cocoa consists of the Foundation Kit, Application Kit, and Core Data frameworks, as included by the <code>Cocoa.h</code> header file, and the libraries and frameworks included by those, such as the C standard library and the Objective-C runtime.<sup id="cite_ref-apple1_1-0" class="reference"><a href="#cite_note-apple1-1">[1]</a></sup></p>
+<p>Cocoa applications are typically developed using the development tools provided by Apple, specifically <a href="/wiki/Xcode" title="Xcode">Xcode</a> (formerly <a href="/wiki/Project_Builder" title="Project Builder">Project Builder</a>) and <a href="/wiki/Interface_Builder" title="Interface Builder">Interface Builder</a>, using the languages <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a> or <a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a>. However, the Cocoa programming environment can be accessed using other tools, such as <a href="/wiki/Clozure_CL" title="Clozure CL">Clozure CL</a>, <a href="/wiki/LispWorks" title="LispWorks">LispWorks</a>, <a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>, and <a href="/wiki/AppleScript" title="AppleScript">AppleScript</a> with the aid of <a href="/wiki/Language_binding" title="Language binding">bridge mechanisms</a> such as <a href="/wiki/PasCocoa" class="mw-redirect" title="PasCocoa">PasCocoa</a>, <a href="/wiki/PyObjC" title="PyObjC">PyObjC</a>, <a href="/wiki/CamelBones" title="CamelBones">CamelBones</a>, <a href="/wiki/RubyCocoa" title="RubyCocoa">RubyCocoa</a>, and a <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>/Objective-C Bridge. A Ruby language implementation named <a href="/wiki/MacRuby" title="MacRuby">MacRuby</a>, which removes the need for a bridge mechanism, was formerly developed by Apple, while <a href="/wiki/Nu_(programming_language)" title="Nu (programming language)">Nu</a> is a <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>-like language that can be used with Cocoa with no bridge. It is also possible to write Objective-C Cocoa programs in a simple <a href="/wiki/Text_editor" title="Text editor">text editor</a> and build it manually with <a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GNU Compiler Collection</a> (GCC) or <a href="/wiki/Clang" title="Clang">clang</a> from the command line or from a <a href="/wiki/Make_(software)" title="Make (software)">makefile</a>.</p>
+<p>For <a href="/wiki/End-user_(computer_science)" class="mw-redirect" title="End-user (computer science)">end-users</a>, Cocoa <a href="/wiki/Application_software" title="Application software">applications</a> are those written using the Cocoa programming environment. Such applications usually have a distinctive feel, since the Cocoa programming environment automates many aspects of an application to comply with Apple's <a href="/wiki/Human_interface_guidelines" title="Human interface guidelines">human interface guidelines</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Memory_management"><span class="tocnumber">2</span> <span class="toctext">Memory management</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Main_frameworks"><span class="tocnumber">3</span> <span class="toctext">Main frameworks</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Model-view-controller"><span class="tocnumber">4</span> <span class="toctext">Model-view-controller</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Late_binding"><span class="tocnumber">5</span> <span class="toctext">Late binding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Rich_objects"><span class="tocnumber">6</span> <span class="toctext">Rich objects</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Implementations_and_bindings"><span class="tocnumber">7</span> <span class="toctext">Implementations and bindings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#AppleScriptObjC"><span class="tocnumber">7.1</span> <span class="toctext">AppleScriptObjC</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Other_bindings"><span class="tocnumber">7.2</span> <span class="toctext">Other bindings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Bibliography"><span class="tocnumber">10</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/History_of_macOS" class="mw-redirect" title="History of macOS">History of macOS</a></div>
+<p>Cocoa continues the lineage of several <a href="/wiki/Software_framework" title="Software framework">software frameworks</a> (mainly the <i>App Kit</i> and <i>Foundation Kit</i>) from the <a href="/wiki/NeXTSTEP" title="NeXTSTEP">NeXTSTEP</a> and <a href="/wiki/OpenStep" title="OpenStep">OpenStep</a> programming environments developed by <a href="/wiki/NeXT" title="NeXT">NeXT</a> in the 1980s and 1990s. Apple acquired NeXT in December 1996, and subsequently went to work on the <a href="/wiki/Rhapsody_(operating_system)" title="Rhapsody (operating system)">Rhapsody</a> operating system that was to be the direct successor of OpenStep. It was to have had an emulation base for <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">classic Mac OS</a> applications, named <i>Blue Box</i>. The OpenStep base of libraries and binary support was termed <i>Yellow Box</i>. Rhapsody evolved into Mac OS X, and the Yellow Box became Cocoa. Thus, Cocoa classes begin with the letters <i>NS</i>, such as NSString or NSArray. These stand for either the NeXT-Sun creation of OpenStep, or for the original proprietary term for the OpenStep framework, NeXTSTEP.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Much of the work that went into developing OpenStep was applied to developing macOS, Cocoa being the most visible part. However, differences exist. For example, NeXTSTEP and OpenStep used <a href="/wiki/Display_PostScript" title="Display PostScript">Display PostScript</a> for on-screen display of text and graphics, while Cocoa depends on Apple's <a href="/wiki/Quartz_(graphics_layer)" title="Quartz (graphics layer)">Quartz</a> (which uses the <a href="/wiki/Portable_Document_Format" title="Portable Document Format">Portable Document Format</a> (PDF) imaging model, but not its underlying technology). Cocoa also has a level of Internet support, including the NSURL and <a href="/wiki/WebKit" title="WebKit">WebKit</a> <a href="/wiki/HTML" title="HTML">HTML</a> classes, and others, while OpenStep had only rudimentary support for managed network connections via NSFileHandle classes and <a href="/wiki/Berkeley_sockets" title="Berkeley sockets">Berkeley sockets</a>.</p>
+<p>The resulting software framework received the name <i>Cocoa</i> for the sake of expediency, because the name had already been trademarked by Apple. For many years before this present use of the name, Apple's <i>Cocoa</i> trademark had originated as the name of a multimedia project design application for children. The application was <a href="/wiki/Stagecast_Creator#History" title="Stagecast Creator">originally developed</a> at the <a href="/wiki/Apple_Advanced_Technology_Group" title="Apple Advanced Technology Group">Apple Advanced Technology Group</a> under the name <i>KidSim</i>, and was then renamed and trademarked as "Cocoa". The name, coined by Peter Jensen who was hired to develop Cocoa for Apple, was intended to evoke "Java for kids", as it ran embedded in web pages.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The trademark, and thus the name "Cocoa", was re-used to avoid the delay which would have occurred while registering a new <a href="/wiki/Trademark" title="Trademark">trademark</a> for this software framework. The original "Cocoa" program was discontinued at Apple in one of the <a href="/wiki/Rationalization_(economics)" title="Rationalization (economics)">rationalizations</a> that followed <a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a>'s return to Apple. It was then licensed to a third party and marketed as <a href="/wiki/Stagecast_Creator" title="Stagecast Creator">Stagecast Creator</a> as of 2011<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Cocoa_(API)&amp;action=edit">[update]</a></sup>.</p>
+<h2><span class="mw-headline" id="Memory_management">Memory management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=2" title="Edit section: Memory management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One feature of the Cocoa environment is its facility for managing dynamically allocated memory. Cocoa's NSObject class, from which most classes, both vendor and user, are derived, implements a <a href="/wiki/Reference_counting" title="Reference counting">reference counting</a> scheme for memory management. Objects that derive from the NSObject root class respond to a <code>retain</code> and a <code>release</code> message, and keep a retain count. A method titled <code>retainCount</code> exists, but contrary to its name, will usually not return the exact retain count of an object. It is mainly used for system-level purposes. Invoking it manually is not recommended by Apple.</p>
+<p>A newly allocated object created with <code>alloc</code> or <code>copy</code> has a retain count of one. Sending that object a <code>retain</code> message increments the retain count, while sending it a <code>release</code> message decrements the retain count. When an object's retain count reaches zero, it is deallocated by a procedure similar to a C++ <i>destructor</i>. <code>dealloc</code> is not guaranteed to be invoked.</p>
+<p>Starting with Objective-C 2.0, the Objective-C runtime implements an optional <a href="/wiki/Objective-C#Garbage_collection" title="Objective-C">garbage collector</a>. In this model, the runtime turns Cocoa <a href="/wiki/Reference_counting" title="Reference counting">reference counting</a> operations such as "retain" and "release" into <a href="/wiki/No-op" class="mw-redirect" title="No-op">no-ops</a>. The garbage collector does not exist on the <a href="/wiki/IOS" title="IOS">iOS</a> implementation of Objective-C 2.0. Garbage Collection in Objective-C runs on a low-priority background thread, and can halt on Cocoa's user events, with the intention of keeping the user experience responsive.</p>
+<p>In 2011, the <a href="/wiki/LLVM" title="LLVM">LLVM</a> compiler introduced ARC (<a href="/wiki/Automatic_Reference_Counting" title="Automatic Reference Counting">Automatic Reference Counting</a>), which replaces the conventional garbage collector by performing static analysis of Objective-C source code and inserting retain and release messages as necessary.</p>
+<h2><span class="mw-headline" id="Main_frameworks">Main frameworks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=3" title="Edit section: Main frameworks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cocoa consists of three <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a> object libraries called <i><a href="/wiki/Application_framework" title="Application framework">frameworks</a></i>. Frameworks are functionally similar to <a href="/wiki/Library_(computer_science)" class="mw-redirect" title="Library (computer science)">shared libraries</a>, a compiled object that can be dynamically loaded into a program's address space at runtime, but frameworks add associated resources, header files, and documentation. The Cocoa frameworks are implemented as a type of <a href="/wiki/Bundle_(macOS)" title="Bundle (macOS)">bundle</a>, containing the aforementioned items in standard locations.</p>
+<ul>
+<li><i><a href="/wiki/Foundation_Kit" title="Foundation Kit">Foundation Kit</a></i> (<i>Foundation</i>), first appeared in Enterprise Objects Framework on NeXTSTEP 3.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> It was developed as part of the OpenStep work, and subsequently became the basis for OpenStep's AppKit when that system was released in 1994. On macOS, Foundation is based on <a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a>. Foundation is a generic object-oriented library providing <a href="/wiki/String_(computer_science)" title="String (computer science)">string</a> and value manipulation, <a href="/wiki/Container_(data_structure)" class="mw-redirect" title="Container (data structure)">containers</a> and <a href="/wiki/Iteration" title="Iteration">iteration</a>, <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a>, <a href="/wiki/Event_loop" title="Event loop">event loops</a> (run loops), and other functions that are not directly tied to the graphical user interface. The "NS" prefix, used for all classes and <a href="/wiki/Constant_(programming)" class="mw-redirect" title="Constant (programming)">constants</a> in the framework, comes from Cocoa's OPENSTEP heritage, which was jointly developed by NeXT and <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>.</li>
+<li><i><a href="/wiki/Application_Kit" title="Application Kit">Application Kit</a></i> (<i>AppKit</i>) is directly descended from the original NeXTSTEP Application Kit. It contains code programs can use to create and interact with <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interfaces</a>. AppKit is built on top of Foundation, and uses the same <i>NS</i> prefix.</li>
+<li><i><a href="/wiki/Core_Data" title="Core Data">Core Data</a></i> is the object persistence framework included with Foundation and Cocoa and found in Cocoa.h.<sup id="cite_ref-apple1_1-1" class="reference"><a href="#cite_note-apple1-1">[1]</a></sup></li>
+</ul>
+<p>A key part of the Cocoa architecture is its comprehensive views model. This is organized along conventional lines for an application framework, but is based on the <a href="/wiki/Portable_Document_Format" title="Portable Document Format">Portable Document Format</a> (PDF) drawing model provided by <a href="/wiki/Quartz_(graphics_layer)" title="Quartz (graphics layer)">Quartz</a>. This allows creating custom drawing content using <a href="/wiki/PostScript" title="PostScript">PostScript</a>-like drawing commands, which also allows automatic printer support and so forth. Since the Cocoa framework manages all the clipping, scrolling, scaling and other chores of drawing graphics, the programmer is freed from implementing basic infrastructure and can concentrate on the unique aspects of an application's content.</p>
+<h2><span class="mw-headline" id="Model-view-controller">Model-view-controller</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=4" title="Edit section: Model-view-controller">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Model-view-controller" class="mw-redirect" title="Model-view-controller">Model-view-controller</a></div>
+<p>The <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> teams at <a href="/wiki/Xerox_PARC" class="mw-redirect" title="Xerox PARC">Xerox PARC</a> eventually settled on a design philosophy that led to easy development and high code reuse. Named <i><a href="/wiki/Model-view-controller" class="mw-redirect" title="Model-view-controller">model-view-controller</a></i> (MVC), the concept breaks an application into three sets of interacting object classes.</p>
+<ul>
+<li>Model classes represent raw data, such as documents, settings, files, or objects in memory.</li>
+<li>Views are, as the name implies, visual representations of the data in the model.</li>
+<li>Controller classes contain logic that links the models to their views, and maintains state to keep them synchronized.</li>
+</ul>
+<p>Cocoa's design is a strict application of MVC principles. Under OpenStep, most of the classes provided were either high-level View classes (in AppKit) or one of a number of relatively low-level model classes like NSString. Compared to similar MVC systems, OpenStep lacked a strong model layer. No stock class represented a "document," for instance. During the transition to Cocoa, the model layer was expanded greatly, introducing a number of pre-rolled classes to provide functionality common to desktop applications.</p>
+<p>In Mac OS X 10.3, Apple introduced the NSController family of classes, which provide predefined behavior for the controller layer. These classes are considered part of the <a href="/w/index.php?title=Cocoa_Bindings&amp;action=edit&amp;redlink=1" class="new" title="Cocoa Bindings (page does not exist)">Cocoa Bindings</a> system, which also makes extensive use of protocols such as <a href="/w/index.php?title=Key-Value_Observing&amp;action=edit&amp;redlink=1" class="new" title="Key-Value Observing (page does not exist)">Key-Value Observing</a> and <a href="/w/index.php?title=Key-Value_Binding&amp;action=edit&amp;redlink=1" class="new" title="Key-Value Binding (page does not exist)">Key-Value Binding</a>. The term 'binding' refers to a relationship between two objects, often between a view and a controller. Bindings allow the developer to focus more on declarative relationships rather than orchestrating fine-grained behavior.</p>
+<p>With the arrival of Mac OS X 10.4, Apple extended this foundation further by introducing the <a href="/wiki/Core_Data" title="Core Data">Core Data</a> framework, which standardizes change tracking and persistence in the model layer. In effect, the framework greatly simplifies the process of making changes to application data, undoing changes (if necessary), saving data to disk, and reading it back in.</p>
+<p>By providing framework support for all three MVC layers, Apple's goal is to reduce the amount of boilerplate or "glue" code that developers have to write, freeing up resources to spend time on application-specific features.</p>
+<h2><span class="mw-headline" id="Late_binding">Late binding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=5" title="Edit section: Late binding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In most object-oriented languages, calls to methods are represented physically by a pointer to the code in memory. This restricts the design of an application since specific <i>command handling</i> classes are needed, usually organized according to the <a href="/wiki/Chain-of-responsibility_pattern" title="Chain-of-responsibility pattern">chain-of-responsibility pattern</a>. While Cocoa retains this approach for the most part, Objective-C's <a href="/wiki/Name_binding#Late_static" title="Name binding">late binding</a> opens up more flexibility.</p>
+<p>Under Objective-C, methods are represented by a <i>selector</i>, a string describing the method to call. When a message is sent, the selector is sent into the Objective-C runtime, matched against a list of available methods, and the method's <i>implementation</i> is called. Since the selector is text data, this lets it be saved to a file, transmitted over a network or between processes, or manipulated in other ways. The implementation of the method is looked up at runtime, not compile time. There is a small performance penalty for this,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> but late binding allows the same selector to reference different implementations.</p>
+<p>By a similar token, Cocoa provides a pervasive data manipulation method called <i>key-value coding</i> (KVC).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> This allows a piece of data or property of an object to be looked up or changed at runtime by name. The property name acts as a key to the value. In traditional languages, this late binding is impossible. KVC leads to great design flexibility. An object's type need not be known, yet any property of that object can be discovered using KVC. Also, by extending this system using something Cocoa terms <i>key-value observing</i> (KVO), automatic support for <a href="/wiki/Undo" title="Undo">undo-redo</a> is provided.</p>
+<p>Late static binding is a variant of binding somewhere between static and dynamic binding. The binding of names before the program is run is called static (<i>early</i>); bindings performed as the program runs are dynamic (<i>late</i> or <i>virtual</i>).</p>
+<h2><span class="mw-headline" id="Rich_objects">Rich objects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=6" title="Edit section: Rich objects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the most useful features of Cocoa is the powerful <i>base objects</i> the system supplies. As an example, consider the Foundation classes <code>NSString</code> and <code>NSAttributedString</code>, which provide <a href="/wiki/Unicode" title="Unicode">Unicode</a> <a href="/wiki/String_(computer_science)" title="String (computer science)">strings</a>, and the <code><a href="/wiki/NSText" class="mw-redirect" title="NSText">NSText</a></code> system in AppKit, which allows the programmer to place string objects in the GUI.</p>
+<p><code>NSText</code> and its related classes are used to display and edit strings. The collection of objects involved permit an application to implement anything from a simple single-line text entry field to a complete multi-page, multi-column text layout schema, with full professional <a href="/wiki/Typography" title="Typography">typography</a> features such as <a href="/wiki/Kerning" title="Kerning">kerning</a>, <a href="/wiki/Ligature_(typography)" class="mw-redirect" title="Ligature (typography)">ligatures</a>, running text around arbitrary <a href="/wiki/Shape" title="Shape">shapes</a>, <a href="/wiki/Rotation" title="Rotation">rotation</a>, full Unicode support and <a href="/wiki/Spatial_anti-aliasing" title="Spatial anti-aliasing">anti-aliased</a> <a href="/wiki/Glyph" title="Glyph">glyph</a> rendering. Paragraph layout can be controlled automatically or by the user, using a built-in "<a href="/wiki/Ruler" title="Ruler">ruler</a>" object that can be attached to any text view. Spell checking is automatic, using a single dictionary used by all applications that uses the <i>squiggly underlining</i> convention introduced by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> (actually a dashed red underline in Cocoa). Unlimited undo-redo support is built in. Using only the built-in features, one can write a text editor application in as few as 10 lines of code. With new controller objects, this may fall to zero<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Zero total lines of code sounds improbable (January 2016)">clarification needed</span></a></i>]</sup>. This is in contrast to the <a href="/wiki/TextEdit_(API)" title="TextEdit (API)">TextEdit APIs</a> found in the earlier Mac OS.</p>
+<p>When extensions are needed, Cocoa's use of Objective-C makes this a straightforward task. Objective-C includes the concept of "<a rel="nofollow" class="external text" href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Chapters/ocCategories.html#//apple_ref/doc/uid/TP30001163-CH20-SW1">categories</a>," which allows modifying existing class "in-place". Functionality can be accomplished in a category without any changes to the original classes in the framework, or even access to its source. Under more common frameworks, this same task requires making a new subclass supporting the added features, and then changing all instances of the classes to this new class.</p>
+<h2><span class="mw-headline" id="Implementations_and_bindings">Implementations and bindings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=7" title="Edit section: Implementations and bindings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cocoa frameworks are written in <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a>, and hence that is the preferred language for developing Cocoa applications.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2015)">citation needed</span></a></i>]</sup> Java <a href="/wiki/Language_binding" title="Language binding">bindings</a> for the Cocoa frameworks (termed the <i>Java bridge</i>) were also made available with the aim of replacing Objective-C with a more popular language<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> but these bindings were unpopular among Cocoa developers and Cocoa's message passing semantics did not translate well to a statically-typed language such as Java.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cocoa's need for runtime binding means many of Cocoa's key features are not available with Java. In 2005, Apple announced that the Java bridge was to be deprecated, meaning that features added to Cocoa in macOS versions later than 10.4 would not be added to the Cocoa-Java programming interface.</p>
+<p>At <a href="/wiki/Apple_Worldwide_Developers_Conference" title="Apple Worldwide Developers Conference">Apple Worldwide Developers Conference</a> (WWDC) 2014, Apple introduced a new programming language named <a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a>, which is intended to replace Objective-C.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="AppleScriptObjC">AppleScriptObjC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=8" title="Edit section: AppleScriptObjC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Originally, AppleScript Studio could be used to develop simpler Cocoa applications.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> However, as of Snow Leopard, it has been deprecated. It was replaced with AppleScriptObjC, which allows programming in <a href="/wiki/AppleScript" title="AppleScript">AppleScript</a>, while using Cocoa frameworks.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Other_bindings">Other bindings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=9" title="Edit section: Other bindings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Third-party bindings available for other languages include <a href="/wiki/Clozure_CL" title="Clozure CL">Clozure CL</a>, <a href="/wiki/Monobjc" title="Monobjc">Monobjc</a> and <a href="/wiki/NObjective" title="NObjective">NObjective</a> (<a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a>), <a href="/wiki/Cocoa_Sharp" title="Cocoa Sharp">Cocoa#</a> (CLI), Cocodao and <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>/Objective-C Bridge,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <a href="/wiki/LispWorks" title="LispWorks">LispWorks</a>, <a href="/wiki/CamelBones" title="CamelBones">CamelBones</a> (<a href="/wiki/Perl" title="Perl">Perl</a>), <a href="/wiki/PyObjC" title="PyObjC">PyObjC</a> (<a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>), <a href="/w/index.php?title=FPC_PasCocoa&amp;action=edit&amp;redlink=1" class="new" title="FPC PasCocoa (page does not exist)">FPC PasCocoa</a> (<a href="/wiki/Lazarus_(IDE)" title="Lazarus (IDE)">Lazarus</a> and <a href="/wiki/Free_Pascal" title="Free Pascal">Free Pascal</a>), <a href="/wiki/RubyCocoa" title="RubyCocoa">RubyCocoa</a> (<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/Nu_(programming_language)" title="Nu (programming language)">Nu</a> uses the <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a> object model directly, and thus can use the Cocoa frameworks without needing a binding.</p>
+<p>There are also open source implementations of major parts of the Cocoa framework, such as <a href="/wiki/GNUstep" title="GNUstep">GNUstep</a> and Cocotron,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> which allow <a href="/wiki/Cross-platform" title="Cross-platform">cross-platform</a> Cocoa application development to target other operating systems, such as <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> and <a href="/wiki/Linux" title="Linux">Linux</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Carbon_(API)" title="Carbon (API)">Carbon (API)</a></li>
+<li><a href="/wiki/Objective-C" title="Objective-C">Objective-C</a></li>
+<li><a href="/wiki/Xcode" title="Xcode">Xcode</a></li>
+<li><a href="/wiki/IOS_SDK" title="IOS SDK">iOS SDK</a></li>
+<li><a href="/wiki/Interface_Builder" title="Interface Builder">Interface Builder</a></li>
+<li><a href="/wiki/Aqua_(user_interface)" title="Aqua (user interface)">Aqua (user interface)</a></li>
+<li><a href="/wiki/Rosetta_(software)" title="Rosetta (software)">Rosetta (software)</a></li>
+<li><a href="/wiki/XNU" title="XNU">XNU</a></li>
+<li><a href="/wiki/Quartz_(graphics_layer)" title="Quartz (graphics layer)">Quartz (graphics layer)</a></li>
+<li><a href="/wiki/X11" class="mw-redirect" title="X11">X11</a></li>
+<li><a href="/wiki/QuickDraw" title="QuickDraw">QuickDraw</a></li>
+<li><a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift (programming language)</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-apple1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-apple1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-apple1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://developer.apple.com/library/mac/#documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemFrameworks/SystemFrameworks.html">Mac Technology Overview: OS X Frameworks</a>. Developer.apple.com. Retrieved on September 18, 2013.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Amit Singh. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=K8vUkpOXhN4C&amp;q=NS+prefix#v=snippet&amp;q=NS%20prefix&amp;f=false"><i>Mac OS X Internals: A Systems Approach</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-321-27854-2" title="Special:BookSources/0-321-27854-2">0-321-27854-2</a>. <q>Cocoa is an important inheritance from NeXT, as indicated by .. the "NS" prefix</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.au=Amit+Singh&amp;rft.btitle=Mac+OS+X+Internals%3A+A+Systems+Approach&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DK8vUkpOXhN4C%26q%3DNS%2Bprefix%23v%3Dsnippet%26q%3DNS%2520prefix%26f%3Dfalse&amp;rft.isbn=0-321-27854-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Mardesich, Jodi (April 14, 1997). <a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&amp;p_theme=sj&amp;p_action=search&amp;p_maxdocs=200&amp;s_dispstring=allfields(Peter%20Jensen)%20AND%20date(1/1/1997%20to%201/1/1998)&amp;p_field_date-0=YMD_date&amp;p_params_date-0=date:B,E&amp;p_text_date-0=1/1/1997%20to%201/1/1998)&amp;p_field_advanced-0=&amp;p_text_advanced-0=(%22Peter%20Jensen%22)&amp;xcal_numdocs=20&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;xcal_useweights=no">"A Sour Note in Apple's Rhapsody Once-Loyal Software Writers Wary of New OS as Crucial Conference Looms"</a> (Morning Final). San Jose Mercury News<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.atitle=A+Sour+Note+in+Apple%27s+Rhapsody+Once-Loyal+Software+Writers+Wary+of+New+OS+as+Crucial+Conference+Looms&amp;rft.aufirst=Jodi&amp;rft.aulast=Mardesich&amp;rft.date=1997-04-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnl.newsbank.com%2Fnl-search%2Fwe%2FArchives%3Fp_product%3DSJ%26p_theme%3Dsj%26p_action%3Dsearch%26p_maxdocs%3D200%26s_dispstring%3Dallfields%28Peter%2520Jensen%29%2520AND%2520date%281%2F1%2F1997%2520to%25201%2F1%2F1998%29%26p_field_date-0%3DYMD_date%26p_params_date-0%3Ddate%3AB%2CE%26p_text_date-0%3D1%2F1%2F1997%2520to%25201%2F1%2F1998%29%26p_field_advanced-0%3D%26p_text_advanced-0%3D%28%2522Peter%2520Jensen%2522%29%26xcal_numdocs%3D20%26p_perpage%3D10%26p_sort%3DYMD_date%3AD%26xcal_useweights%3Dno&amp;rft.issue=Morning+Final&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cilinder.be/docs/next/NeXTStep/3.3/nd/Foundation/HybridWorld.htmld/index.html">HybridWorld</a>. Cilinder.be. Retrieved on September 18, 2013.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="https://en.wikibooks.org/wiki/Programming_Mac_OS_X_with_Cocoa_for_beginners/Objective_C,_the_language_and_its_advantages#Some_Objective-C_advantages" class="extiw" title="wikibooks:Programming Mac OS X with Cocoa for beginners/Objective C, the language and its advantages">Wikibooks - Some Objective-C advantages</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://developer.apple.com/documentation/Cocoa/Conceptual/KeyValueCoding/">Key-Value Coding Programming Guide: Introduction</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Steve Klingsporn (2003). <a rel="nofollow" class="external text" href="http://www.mactech.com/articles/mactech/Vol.19/19.12/CocoaAppsinJava/index.html">"Writing Cocoa Apps in Java"</a>. <i><a href="/wiki/MacTech" title="MacTech">MacTech</a></i>. <b>19</b> (12).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.atitle=Writing+Cocoa+Apps+in+Java&amp;rft.au=Steve+Klingsporn&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mactech.com%2Farticles%2Fmactech%2FVol.19%2F19.12%2FCocoaAppsinJava%2Findex.html&amp;rft.issue=12&amp;rft.jtitle=MacTech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/Legacy/JavaBridge/JavaBridge.pdf">"Using the Java Bridge"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> <q>Because Java is a strongly typed language, it requires more information about the classes and interfaces it manipulates at compile time. Therefore, before using Objective-C classes as Java ones, a description of them has to be written and compiled.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.btitle=Using+the+Java+Bridge&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fdeveloper.apple.com%2Flegacy%2Flibrary%2Fdocumentation%2FCocoa%2FConceptual%2FLegacy%2FJavaBridge%2FJavaBridge.pdf&amp;rft.pub=Apple+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://appleinsider.com/articles/14/06/04/apples-top-secret-swift-language-grew-from-work-to-sustain-objective-c-which-it-now-aims-to-replace">"Apple's top secret Swift language grew from work to sustain Objective-C, which it now aims to replace"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.btitle=Apple%27s+top+secret+Swift+language+grew+from+work+to+sustain+Objective-C%2C+which+it+now+aims+to+replace&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fappleinsider.com%2Farticles%2F14%2F06%2F04%2Fapples-top-secret-swift-language-grew-from-work-to-sustain-objective-c-which-it-now-aims-to-replace&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://developer.apple.com/legacy/library/documentation/AppleScript/Conceptual/StudioBuildingApps/chapter02/studio_about_book.html#//apple_ref/doc/uid/20001249-TPXREF101">"AppleScript Studio Programming Guide (Not Recommended): About AppleScript Studio"</a>. Apple, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">November 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.btitle=AppleScript+Studio+Programming+Guide+%28Not+Recommended%29%3A+About+AppleScript+Studio&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fdeveloper.apple.com%2Flegacy%2Flibrary%2Fdocumentation%2FAppleScript%2FConceptual%2FStudioBuildingApps%2Fchapter02%2Fstudio_about_book.html%23%2F%2Fapple_ref%2Fdoc%2Fuid%2F20001249-TPXREF101&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://developer.apple.com/library/mac/#releasenotes/ScriptingAutomation/RN-AppleScriptObjC/">"AppleScriptObjC Release Notes"</a>. Apple, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">November 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACocoa+%28API%29&amp;rft.btitle=AppleScriptObjC+Release+Notes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeveloper.apple.com%2Flibrary%2Fmac%2F%23releasenotes%2FScriptingAutomation%2FRN-AppleScriptObjC%2F&amp;rft.pub=Apple%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/cocodao/">Cocodao</a>, bridge to create Cocoa applications in D language.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://michelf.com/weblog/2007/d-objc-bridge/">D/Objective-C Bridge</a>, a <a href="/wiki/Language_binding" title="Language binding">language binding</a> mechanism for Cocoa.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://osx.hyperjeff.net/Reference/cocoa.php">more extensive list of implementations</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cocotron.org/">Cocotron</a>, free software implementation of Cocoa.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=12" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Aaron_Hillegass" title="Aaron Hillegass">Aaron Hillegass</a>: <i>Cocoa Programming for Mac OS X</i>, Addison-Wesley, 3rd Edition 2008, Paperback, <a href="/wiki/Special:BookSources/0321503619" class="internal mw-magiclink-isbn">ISBN 0-321-50361-9</a>.</li>
+<li><a href="/w/index.php?title=Stephen_Kochan&amp;action=edit&amp;redlink=1" class="new" title="Stephen Kochan (page does not exist)">Stephen Kochan</a>: <i>Programming in Objective-C</i>, Sams, 1st Edition 2003, Paperback, <a href="/wiki/Special:BookSources/0672325861" class="internal mw-magiclink-isbn">ISBN 0-672-32586-1</a>.</li>
+<li><a href="/w/index.php?title=Michael_Beam&amp;action=edit&amp;redlink=1" class="new" title="Michael Beam (page does not exist)">Michael Beam</a>, <a href="/wiki/James_Duncan_Davidson" title="James Duncan Davidson">James Duncan Davidson</a>: <i>Cocoa in a Nutshell</i>, O'Reilly, 1st Edition 2003, Paperback, <a href="/wiki/Special:BookSources/0596004621" class="internal mw-magiclink-isbn">ISBN 0-596-00462-1</a>.</li>
+<li><a href="/wiki/Erick_Tejkowski" title="Erick Tejkowski">Erick Tejkowski</a>: <i>Cocoa Programming for Dummies</i>, 1st Edition 2003, Paperback, <a href="/wiki/Special:BookSources/0764526138" class="internal mw-magiclink-isbn">ISBN 0-7645-2613-8</a>.</li>
+<li><a href="/wiki/Simson_Garfinkel" title="Simson Garfinkel">Simson Garfinkel</a>, <a href="/w/index.php?title=Michael_K._Mahoney&amp;action=edit&amp;redlink=1" class="new" title="Michael K. Mahoney (page does not exist)">Michael K. Mahoney</a>: <i>Building Cocoa Applications: A Step by Step Guide</i>, O'Reilly, 1st Edition 2002, Paperback, <a href="/wiki/Special:BookSources/0596002351" class="internal mw-magiclink-isbn">ISBN 0-596-00235-1</a>.</li>
+<li><a href="/wiki/Paris_Buttfield-Addison" class="mw-redirect" title="Paris Buttfield-Addison">Paris Buttfield-Addison</a>, <a href="/w/index.php?title=Jon_Manning&amp;action=edit&amp;redlink=1" class="new" title="Jon Manning (page does not exist)">Jon Manning</a>: <i>Learning Cocoa with Objective-C</i>, O'Reilly, 3rd Edition 2012, Paperback, <a href="/wiki/Special:BookSources/9781449318499" class="internal mw-magiclink-isbn">ISBN 978-1-4493-1849-9</a>.</li>
+<li><a href="/w/index.php?title=Scott_Anguish&amp;action=edit&amp;redlink=1" class="new" title="Scott Anguish (page does not exist)">Scott Anguish</a>, <a href="/w/index.php?title=Erik_M._Buck&amp;action=edit&amp;redlink=1" class="new" title="Erik M. Buck (page does not exist)">Erik M. Buck</a>, <a href="/w/index.php?title=Donald_A._Yacktman&amp;action=edit&amp;redlink=1" class="new" title="Donald A. Yacktman (page does not exist)">Donald A. Yacktman</a>: <i>Cocoa Programming</i>, Sams, 1st Edition 2002, Paperback, <a href="/wiki/Special:BookSources/0672322307" class="internal mw-magiclink-isbn">ISBN 0-672-32230-7</a>.</li>
+<li><a href="/w/index.php?title=Erik_M._Buck&amp;action=edit&amp;redlink=1" class="new" title="Erik M. Buck (page does not exist)">Erik M. Buck</a>, <a href="/w/index.php?title=Donald_A._Yacktman&amp;action=edit&amp;redlink=1" class="new" title="Donald A. Yacktman (page does not exist)">Donald A. Yacktman</a>: <i>Cocoa Design Patterns</i>, Addison-Wesley Professional, 1st Edition 2009, Paperback, <a href="/wiki/Special:BookSources/9780321535023" class="internal mw-magiclink-isbn">ISBN 978-0321535023</a></li>
+<li><a href="/w/index.php?title=Bill_Cheeseman&amp;action=edit&amp;redlink=1" class="new" title="Bill Cheeseman (page does not exist)">Bill Cheeseman</a>: <i>Cocoa Recipes for Mac OS X</i>, Peachpit Press, 1st Edition 2002, Paperback, <a href="/wiki/Special:BookSources/0201878011" class="internal mw-magiclink-isbn">ISBN 0-201-87801-1</a>.</li>
+<li>Andrew Duncan: <i>Objective-C Pocket Reference, O'Reilly</i>, 1st Edition 2002, Paperback, <a href="/wiki/Special:BookSources/0596004230" class="internal mw-magiclink-isbn">ISBN 0-596-00423-0</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://developer.apple.com/technologies/mac/cocoa.html">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://developer.apple.com/library/mac/navigation/#section=Frameworks&amp;topic=Cocoa%20Layer">Mac Developer Library, Cocoa Layer</a>, Apple's documentation</li>
+<li><a rel="nofollow" class="external text" href="http://www.idevapps.com">iDevApps</a>, Mac programming forum</li>
+<li><a rel="nofollow" class="external text" href="http://www.cocoadevcentral.com/">Cocoa Dev Central</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cocoadev.com/">Cocoa Dev</a></li>
+<li><a rel="nofollow" class="external text" href="https://stackoverflow.com/questions/tagged/cocoa">Stack Overflow: Cocoa</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="macOS" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MacOS" title="Template:MacOS"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MacOS" title="Template talk:MacOS"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MacOS&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="macOS" style="font-size:114%;margin:0 4em"><a href="/wiki/MacOS" title="MacOS">macOS</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/History_of_macOS" class="mw-redirect" title="History of macOS">History</a> <b>·</b> <a href="/wiki/Architecture_of_macOS" title="Architecture of macOS">Architecture</a> <b>·</b> <a href="/wiki/List_of_macOS_components" title="List of macOS components">Components</a> <b>·</b> <a href="/wiki/List_of_macOS_technologies" title="List of macOS technologies">Technologies</a> <b>·</b> <a href="/wiki/MacOS_Server" title="MacOS Server">Server</a> <b>·</b> <a href="/wiki/List_of_Macintosh_software" title="List of Macintosh software">Software</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/MacOS_version_history" title="MacOS version history">Versions</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mac_OS_X_Server_1.0" title="Mac OS X Server 1.0">Server 1.0 Hera</a></li>
+<li><a href="/wiki/Mac_OS_X_Public_Beta" title="Mac OS X Public Beta">Public Beta Kodiak</a></li>
+<li><a href="/wiki/Mac_OS_X_10.0" title="Mac OS X 10.0">10.0 Cheetah</a></li>
+<li><a href="/wiki/Mac_OS_X_10.1" title="Mac OS X 10.1">10.1 Puma</a></li>
+<li><a href="/wiki/Mac_OS_X_10.2" title="Mac OS X 10.2">10.2 Jaguar</a></li>
+<li><a href="/wiki/Mac_OS_X_Panther" title="Mac OS X Panther">10.3 Panther</a></li>
+<li><a href="/wiki/Mac_OS_X_Tiger" title="Mac OS X Tiger">10.4 Tiger</a></li>
+<li><a href="/wiki/Mac_OS_X_Leopard" title="Mac OS X Leopard">10.5 Leopard</a></li>
+<li><a href="/wiki/Mac_OS_X_Snow_Leopard" title="Mac OS X Snow Leopard">10.6 Snow Leopard</a></li>
+<li><a href="/wiki/Mac_OS_X_Lion" title="Mac OS X Lion">10.7 Lion</a></li>
+<li><a href="/wiki/OS_X_Mountain_Lion" title="OS X Mountain Lion">10.8 Mountain Lion</a></li>
+<li><a href="/wiki/OS_X_Mavericks" title="OS X Mavericks">10.9 Mavericks</a></li>
+<li><a href="/wiki/OS_X_Yosemite" title="OS X Yosemite">10.10 Yosemite</a></li>
+<li><a href="/wiki/OS_X_El_Capitan" title="OS X El Capitan">10.11 El Capitan</a></li>
+<li><a href="/wiki/MacOS_Sierra" title="MacOS Sierra">10.12 Sierra</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:MacOS_wordmark.svg" class="image"><img alt="macOS wordmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/MacOS_wordmark.svg/100px-MacOS_wordmark.svg.png" width="100" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/MacOS_wordmark.svg/150px-MacOS_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/MacOS_wordmark.svg/200px-MacOS_wordmark.svg.png 2x" data-file-width="216" data-file-height="56" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automator_(software)" class="mw-redirect" title="Automator (software)">Automator</a></li>
+<li><a href="/wiki/Calculator_(Mac_OS)" class="mw-redirect" title="Calculator (Mac OS)">Calculator</a></li>
+<li><a href="/wiki/Calendar_(Apple)" title="Calendar (Apple)">Calendar</a></li>
+<li><a href="/wiki/List_of_macOS_components#Chess" title="List of macOS components">Chess</a></li>
+<li><a href="/wiki/Contacts_(Mac_OS)" class="mw-redirect" title="Contacts (Mac OS)">Contacts</a></li>
+<li><a href="/wiki/Dashboard_(Mac_OS)" class="mw-redirect" title="Dashboard (Mac OS)">Dashboard</a></li>
+<li><a href="/wiki/Dictionary_(software)" title="Dictionary (software)">Dictionary</a></li>
+<li><a href="/wiki/DVD_Player_(macOS)" class="mw-redirect" title="DVD Player (macOS)">DVD Player</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Finder_(software)" title="Finder (software)">Finder</a></li>
+<li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li>
+<li><a href="/wiki/Grapher" title="Grapher">Grapher</a></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a><small>&#160;(<a href="/wiki/History_of_iTunes" title="History of iTunes">version history</a>)</small></li>
+<li><a href="/wiki/Launchpad_(macOS)" title="Launchpad (macOS)">Launchpad</a></li>
+<li><a href="/wiki/Mac_App_Store" title="Mac App Store">Mac App Store</a></li>
+<li><a href="/wiki/Mail_(Apple)" title="Mail (Apple)">Mail</a></li>
+<li><a href="/wiki/Messages_(software)" title="Messages (software)">Messages</a></li>
+<li><a href="/wiki/Notes_(software)" title="Notes (software)">Notes</a></li>
+<li><a href="/wiki/Notification_Center" title="Notification Center">Notification Center</a></li>
+<li><a href="/wiki/Photo_Booth" title="Photo Booth">Photo Booth</a></li>
+<li><a href="/wiki/Photos_(Apple)" title="Photos (Apple)">Photos</a></li>
+<li><a href="/wiki/Preview_(Mac_OS)" class="mw-redirect" title="Preview (Mac OS)">Preview</a></li>
+<li><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a></li>
+<li><a href="/wiki/Reminders_(software)" title="Reminders (software)">Reminders</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a><small>&#160;(<a href="/wiki/Safari_version_history" title="Safari version history">version history</a>)</small></li>
+<li><a href="/wiki/Stickies_(software)" title="Stickies (software)">Stickies</a></li>
+<li><a href="/wiki/TextEdit" title="TextEdit">TextEdit</a></li>
+<li><a href="/wiki/Time_Machine_(macOS)" title="Time Machine (macOS)">Time Machine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Front_Row_(software)" title="Front Row (software)">Front Row</a></li>
+<li><a href="/wiki/IChat" title="IChat">iChat</a></li>
+<li><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></li>
+<li><a href="/wiki/ISync" title="ISync">iSync</a></li>
+<li><a href="/wiki/Sherlock_(software)" title="Sherlock (software)">Sherlock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Utilities</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activity_Monitor" class="mw-redirect" title="Activity Monitor">Activity Monitor</a></li>
+<li><a href="/wiki/AirPort_Utility" class="mw-redirect" title="AirPort Utility">AirPort Utility</a></li>
+<li><a href="/wiki/AppleScript_Editor" title="AppleScript Editor">AppleScript Editor</a></li>
+<li><a href="/wiki/Archive_Utility" class="mw-redirect" title="Archive Utility">Archive Utility</a></li>
+<li><a href="/wiki/Audio_MIDI_Setup" class="mw-redirect" title="Audio MIDI Setup">Audio MIDI Setup</a></li>
+<li><a href="/wiki/Bluetooth_File_Exchange" class="mw-redirect" title="Bluetooth File Exchange">Bluetooth File Exchange</a></li>
+<li><a href="/wiki/Boot_Camp_(software)" title="Boot Camp (software)">Boot Camp</a></li>
+<li><a href="/wiki/ColorSync" class="mw-redirect" title="ColorSync">ColorSync</a></li>
+<li><a href="/wiki/Apple_Configurator" title="Apple Configurator">Configurator</a></li>
+<li><a href="/wiki/List_of_macOS_components#Console" title="List of macOS components">Console</a></li>
+<li><a href="/wiki/List_of_macOS_components#Crash_Reporter" title="List of macOS components">Crash Reporter</a></li>
+<li><a href="/wiki/DigitalColor_Meter" title="DigitalColor Meter">DigitalColor Meter</a></li>
+<li><a href="/wiki/Directory_Utility" title="Directory Utility">Directory Utility</a></li>
+<li><a href="/wiki/DiskImageMounter" title="DiskImageMounter">DiskImageMounter</a></li>
+<li><a href="/wiki/Disk_Utility" title="Disk Utility">Disk Utility</a></li>
+<li><a href="/wiki/Font_Book" title="Font Book">Font Book</a></li>
+<li><a href="/wiki/Grab_(software)" title="Grab (software)">Grab</a></li>
+<li><a href="/wiki/Apple_Help_Viewer" title="Apple Help Viewer">Help Viewer</a></li>
+<li><a href="/wiki/Image_Capture" title="Image Capture">Image Capture</a></li>
+<li><a href="/wiki/Installer_(macOS)" title="Installer (macOS)">Installer</a></li>
+<li><a href="/wiki/Keychain_(software)" title="Keychain (software)">Keychain Access</a></li>
+<li><a href="/wiki/Migration_Assistant_(Apple)" title="Migration Assistant (Apple)">Migration Assistant</a></li>
+<li><a href="/wiki/Network_Utility" title="Network Utility">Network Utility</a></li>
+<li><a href="/wiki/ODBC_Administrator" title="ODBC Administrator">ODBC Administrator</a></li>
+<li><a href="/wiki/Screen_Sharing" title="Screen Sharing">Screen Sharing</a></li>
+<li><a href="/wiki/System_Preferences" title="System Preferences">System Preferences</a></li>
+<li><a href="/wiki/System_Information_(Mac)" title="System Information (Mac)">System Information</a></li>
+<li><a href="/wiki/Terminal_(macOS)" title="Terminal (macOS)">Terminal</a></li>
+<li><a href="/wiki/Universal_Access" title="Universal Access">Universal Access</a></li>
+<li><a href="/wiki/VoiceOver" title="VoiceOver">VoiceOver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apple_Software_Update" class="mw-redirect" title="Apple Software Update">Software Update</a></li>
+<li><a href="/wiki/Remote_Install_Mac_OS_X" title="Remote Install Mac OS X">Remote Install Mac OS X</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technology and<br />
+user interface</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AirDrop" title="AirDrop">AirDrop</a></li>
+<li><a href="/wiki/Apple_File_System" title="Apple File System">Apple File System</a></li>
+<li><a href="/wiki/Apple_menu" title="Apple menu">Apple menu</a></li>
+<li><a href="/wiki/Apple_Push_Notification_Service" title="Apple Push Notification Service">Apple Push Notification Service</a></li>
+<li><a href="/wiki/AppleScript" title="AppleScript">AppleScript</a></li>
+<li><a href="/wiki/Aqua_(user_interface)" title="Aqua (user interface)">Aqua</a></li>
+<li><a href="/wiki/Audio_Units" title="Audio Units">Audio Units</a></li>
+<li><a href="/wiki/Bonjour_(software)" title="Bonjour (software)">Bonjour</a></li>
+<li><a href="/wiki/CloudKit" title="CloudKit">CloudKit</a></li>
+<li><a class="mw-selflink selflink">Cocoa</a></li>
+<li><a href="/wiki/ColorSync" class="mw-redirect" title="ColorSync">ColorSync</a></li>
+<li><a href="/wiki/Command_key" title="Command key">Command key</a></li>
+<li><a href="/wiki/Core_Animation" title="Core Animation">Core Animation</a></li>
+<li><a href="/wiki/Core_Audio" title="Core Audio">Core Audio</a></li>
+<li><a href="/wiki/Core_Data" title="Core Data">Core Data</a></li>
+<li><a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a></li>
+<li><a href="/wiki/Core_Image" title="Core Image">Core Image</a></li>
+<li><a href="/wiki/Core_OpenGL" title="Core OpenGL">Core OpenGL</a></li>
+<li><a href="/wiki/Core_Text" title="Core Text">Core Text</a></li>
+<li><a href="/wiki/Core_Video" title="Core Video">Core Video</a></li>
+<li><a href="/wiki/Common_Unix_Printing_System" class="mw-redirect" title="Common Unix Printing System">CUPS</a></li>
+<li><a href="/wiki/Cover_Flow" title="Cover Flow">Cover Flow</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><a href="/wiki/Dock_(macOS)" title="Dock (macOS)">Dock</a></li>
+<li><a href="/wiki/FileVault" title="FileVault">FileVault</a></li>
+<li><a href="/wiki/List_of_typefaces_included_with_macOS" title="List of typefaces included with macOS">Fonts</a></li>
+<li><a href="/wiki/Gatekeeper_(macOS)" title="Gatekeeper (macOS)">Gatekeeper</a></li>
+<li><a href="/wiki/Grand_Central_Dispatch" title="Grand Central Dispatch">Grand Central Dispatch</a></li>
+<li><a href="/wiki/Apple_Icon_Image_format" title="Apple Icon Image format">icns</a></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a></li>
+<li><a href="/wiki/Inkwell_(Macintosh)" title="Inkwell (Macintosh)">Inkwell</a></li>
+<li><a href="/wiki/I/O_Kit" title="I/O Kit">I/O Kit</a></li>
+<li><a href="/wiki/Kernel_panic" title="Kernel panic">Kernel panic</a></li>
+<li><a href="/wiki/Keychain_(software)" title="Keychain (software)">Keychain</a></li>
+<li><a href="/wiki/Launchd" title="Launchd">launchd</a></li>
+<li><a href="/wiki/Mach-O" title="Mach-O">Mach-O</a></li>
+<li><a href="/wiki/MacRuby" title="MacRuby">MacRuby</a></li>
+<li><a href="/wiki/Menu_extra" title="Menu extra">Menu extra</a></li>
+<li><a href="/wiki/Metal_(API)" title="Metal (API)">Metal</a></li>
+<li><a href="/wiki/Mission_Control_(macOS)" title="Mission Control (macOS)">Mission Control</a></li>
+<li><a href="/wiki/OpenCL" title="OpenCL">OpenCL</a></li>
+<li><a href="/wiki/Option_key" title="Option key">Option key</a></li>
+<li><a href="/wiki/Preference_Pane" title="Preference Pane">Preference Pane</a></li>
+<li><a href="/wiki/Property_list" title="Property list">Property list</a></li>
+<li><a href="/wiki/Quartz_(graphics_layer)" title="Quartz (graphics layer)">Quartz</a></li>
+<li><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a></li>
+<li><a href="/wiki/Quick_Look" title="Quick Look">Quick Look</a></li>
+<li><a href="/wiki/Virtual_folder#macOS" title="Virtual folder">Smart Folders</a></li>
+<li><a href="/wiki/Speakable_items" title="Speakable items">Speakable items</a></li>
+<li><a href="/wiki/Spotlight_(software)" title="Spotlight (software)">Spotlight</a></li>
+<li><a href="/wiki/Stacks_(Mac_OS)" title="Stacks (Mac OS)">Stacks</a></li>
+<li><a href="/wiki/System_Integrity_Protection" title="System Integrity Protection">System Integrity Protection</a></li>
+<li><a href="/wiki/Uniform_Type_Identifier" title="Uniform Type Identifier">Uniform Type Identifier</a></li>
+<li><a href="/wiki/Universal_binary" title="Universal binary">Universal binary</a></li>
+<li><a href="/wiki/WebKit" title="WebKit">WebKit</a></li>
+<li><a href="/wiki/XNU" title="XNU">XNU</a></li>
+<li><a href="/wiki/XQuartz" title="XQuartz">XQuartz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Deprecated</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_(API)" title="Carbon (API)">Carbon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BootX_(Apple)" title="BootX (Apple)">BootX</a></li>
+<li><a href="/wiki/Brushed_metal_(interface)" title="Brushed metal (interface)">Brushed metal</a></li>
+<li><a href="/wiki/Classic_Environment" class="mw-redirect" title="Classic Environment">Classic Environment</a></li>
+<li><a href="/wiki/Rosetta_(software)" title="Rosetta (software)">Rosetta</a></li>
+<li><a href="/wiki/Spaces_(software)" title="Spaces (software)">Spaces</a></li>
+<li><a href="/wiki/Xgrid" title="Xgrid">Xgrid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="List_of_widget_toolkits" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Widget_toolkits" title="Template:Widget toolkits"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Widget_toolkits" title="Template talk:Widget toolkits"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Widget_toolkits&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_widget_toolkits" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_widget_toolkits" title="List of widget toolkits">List</a> of <a href="/wiki/Widget_toolkit" title="Widget toolkit">widget toolkits</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Low-level</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intuition_(Amiga)" title="Intuition (Amiga)">Intuition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a><br />
+and <a href="/wiki/MacOS" title="MacOS">macOS</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unknown/Native</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Macintosh_Toolbox" title="Macintosh Toolbox">Macintosh Toolbox</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_(API)" title="Carbon (API)">Carbon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Xamarin#Xamarin.Mac" title="Xamarin">Xamarin.Mac</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mono_(software)#Xamarin.iOS" title="Mono (software)">Xamarin.iOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Windows_API" title="Windows API">Windows API</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Unix" title="Unix">Unix</a>,<br />
+under <a href="/wiki/X_Window_System" title="X Window System">X11</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Xlib" title="Xlib">Xlib</a></li>
+<li><a href="/wiki/XCB" title="XCB">XCB</a></li>
+<li><a href="/wiki/X_Toolkit_Intrinsics" title="X Toolkit Intrinsics">X Toolkit Intrinsics, Xt, X-Toolkit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/BeOS" title="BeOS">BeOS</a>/<a href="/wiki/Haiku_(operating_system)" title="Haiku (operating system)">Haiku</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BeOS_API" title="BeOS API">BeOS, ZETA, Haiku</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/OpenTK" title="OpenTK">OpenTK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GDK" title="GDK">GDK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Java_OpenGL" title="Java OpenGL">JOGL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mono_(software)#Xamarin.Android" title="Mono (software)">Xamarin.Android</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">High-level</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BOOPSI" title="BOOPSI">BOOPSI</a></li>
+<li><a href="/wiki/Magic_User_Interface" title="Magic User Interface">MUI</a></li>
+<li><a href="/wiki/ReAction_GUI" title="ReAction GUI">ReAction GUI</a></li>
+<li><a href="/wiki/Zune_(widget_toolkit)" title="Zune (widget toolkit)">Zune</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a><br />
+and <a href="/wiki/MacOS" title="MacOS">macOS</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_(API)" title="Carbon (API)">Carbon</a></li>
+<li><a href="/wiki/MacApp" title="MacApp">MacApp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Objective-C" title="Objective-C">Objective-C</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Cocoa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cocoa_Touch" title="Cocoa Touch">Cocoa Touch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C%2B%2B" title="C++">C++</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MacZoop" title="MacZoop">MacZoop</a></li>
+<li><a href="/wiki/PowerPlant" title="PowerPlant">PowerPlant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Windows_Forms" title="Windows Forms">Windows Forms</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a> (<a href="/wiki/Microsoft_Silverlight" title="Microsoft Silverlight">Silverlight</a>, <a href="/wiki/Windows_Runtime_XAML_Framework" title="Windows Runtime XAML Framework">WinRT XAML</a>, <a href="/wiki/Windows_Presentation_Foundation" title="Windows Presentation Foundation">WPF</a>)</li>
+<li><a href="/wiki/Microsoft_XNA" title="Microsoft XNA">XNA Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Web</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a> (<a href="/wiki/Microsoft_Silverlight" title="Microsoft Silverlight">Silverlight</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microsoft_XNA" title="Microsoft XNA">XNA Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C%2B%2B" title="C++">C++</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microsoft_Foundation_Class_Library" title="Microsoft Foundation Class Library">MFC</a></li>
+<li><a href="/wiki/Active_Template_Library" title="Active Template Library">ATL</a></li>
+<li><a href="/wiki/Windows_Template_Library" title="Windows Template Library">WTL</a></li>
+<li><a href="/w/index.php?title=SmartWin%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="SmartWin++ (page does not exist)">SmartWin++</a></li>
+<li><a href="/wiki/Object_Windows_Library" title="Object Windows Library">OWL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Visual_Component_Library" title="Visual Component Library">VCL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Unix" title="Unix">Unix</a>,<br />
+under <a href="/wiki/X_Window_System" title="X Window System">X11</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X_Athena_Widgets" title="X Athena Widgets">Athena (Xaw)</a></li>
+<li><a href="/wiki/InterViews" title="InterViews">InterViews</a></li>
+<li><a href="/wiki/LessTif" title="LessTif">LessTif</a></li>
+<li><a href="/wiki/Motif_(software)" title="Motif (software)">Motif</a></li>
+<li><a href="/wiki/OLIT" title="OLIT">OLIT</a></li>
+<li><a href="/wiki/XForms_(toolkit)" title="XForms (toolkit)">XForms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">On <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C%2B%2B" title="C++">C++</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_software_development#Qt_for_Android" title="Android software development">Qt for Android</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a>,<br />
+by language</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GTK%2B" title="GTK+">GTK+</a></li>
+<li><a href="/wiki/IUP_(software)" title="IUP (software)">IUP</a></li>
+<li><a href="/wiki/Tk_(software)" title="Tk (software)">Tk</a></li>
+<li>wxC</li>
+<li><a href="/wiki/XForms_(toolkit)" title="XForms (toolkit)">XForms</a></li>
+<li><a href="/wiki/XVT" title="XVT">XVT</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/C%2B%2B" title="C++">C++</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CEGUI" title="CEGUI">CEGUI</a></li>
+<li><a href="/wiki/Component_Library_for_Cross_Platform" title="Component Library for Cross Platform">CLX</a></li>
+<li><a href="/wiki/FLTK" title="FLTK">FLTK</a></li>
+<li><a href="/wiki/Fox_toolkit" title="Fox toolkit">FOX toolkit</a></li>
+<li><a href="/wiki/OpenGL_User_Interface_Library" title="OpenGL User Interface Library">GLUI</a></li>
+<li><a href="/wiki/Gtkmm" title="Gtkmm">Gtkmm</a></li>
+<li><a href="/wiki/JUCE" title="JUCE">JUCE</a></li>
+<li><a href="/wiki/Nana_C%2B%2B" title="Nana C++">Nana C++</a></li>
+<li><a href="/wiki/Qt_(software)" title="Qt (software)">Qt</a></li>
+<li><a href="/wiki/Rogue_Wave_Software" title="Rogue Wave Software">Rogue Wave Views</a></li>
+<li><a href="/wiki/TnFOX" title="TnFOX">TnFOX</a></li>
+<li><a href="/wiki/Ultimate%2B%2B" title="Ultimate++">Ultimate++</a></li>
+<li><a href="/wiki/Visual_Component_Framework" title="Visual Component Framework">VCF</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+<li><a href="/wiki/WxWidgets" title="WxWidgets">wxWidgets</a></li>
+<li><a href="/wiki/YAAF" title="YAAF">YAAF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Objective-C" title="Objective-C">Objective-C</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNUstep" title="GNUstep">GNUstep</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gtk_Sharp" class="mw-redirect" title="Gtk Sharp">Gtk#</a></li>
+<li><a href="/wiki/Tao_Framework" title="Tao Framework">Tao</a> (<a href="/wiki/OpenTK" title="OpenTK">OpenTK</a>, <a href="/wiki/TaoClassic" title="TaoClassic">TaoClassic</a>)</li>
+<li>wx.NET</li>
+<li><a href="/wiki/UIML" title="UIML">UIML.NET</a></li>
+<li><a href="/wiki/MonoGame" title="MonoGame">MonoGame</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Web</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moonlight_(runtime)" title="Moonlight (runtime)">Moonlight</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MonoGame" title="MonoGame">MonoGame</a></li>
+<li><a href="/wiki/Xamarin#Xamarin.Forms" title="Xamarin">Xamarin.Forms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>DFL</li>
+<li>DlangUI</li>
+<li>DWT</li>
+<li><a href="/wiki/GtkD" class="mw-redirect" title="GtkD">GtkD</a></li>
+<li>QtD</li>
+<li>wxD</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Adobe_Flash" title="Adobe Flash">Flash</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_Flex" title="Apache Flex">Apache Flex</a> (<a href="/wiki/MXML" title="MXML">MXML</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Gtk2Hs</li>
+<li><a href="/wiki/WxHaskell" title="WxHaskell">wxHaskell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_Window_Toolkit" title="Abstract Window Toolkit">AWT</a></li>
+<li><a href="/wiki/FXML" title="FXML">FXML</a> (<a href="/wiki/JavaFX" title="JavaFX">JavaFX</a>)</li>
+<li><a href="/wiki/Qt_Jambi" title="Qt Jambi">Qt Jambi</a></li>
+<li><a href="/wiki/Swing_(Java)" title="Swing (Java)">Swing</a></li>
+<li><a href="/wiki/Standard_Widget_Toolkit" title="Standard Widget Toolkit">SWT</a></li>
+<li>wx4j</li>
+<li><a href="/wiki/UIML" title="UIML">jUIML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Web</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/FXML" title="FXML">FXML</a> (<a href="/wiki/JavaFX" title="JavaFX">JavaFX</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lightweight_User_Interface_Toolkit" title="Lightweight User Interface Toolkit">LWUIT</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Echo_(framework)" title="Echo (framework)">Echo</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Google Closure</a></li>
+<li><a href="/wiki/JQuery_UI" title="JQuery UI">jQuery UI</a></li>
+<li><a href="/wiki/Qooxdoo" title="Qooxdoo">Qooxdoo</a></li>
+<li><a href="/wiki/YUI_Library" title="YUI Library">YUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/LispWorks" title="LispWorks">CAPI</a></li>
+<li><a href="/wiki/Common_Lisp_Interface_Manager" title="Common Lisp Interface Manager">CLIM</a></li>
+<li><a href="/wiki/Allegro_Common_Lisp" title="Allegro Common Lisp">Common Graphics</a></li>
+<li><a href="/wiki/Tk_(framework)" class="mw-redirect" title="Tk (framework)">Ltk</a></li>
+<li><a href="/wiki/Common_Lisp_Interface_Manager" title="Common Lisp Interface Manager">McCLIM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IUP_(software)" title="IUP (software)">IUP</a></li>
+<li>wxLua</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">LCL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">LCL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desktop</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Component_Library_for_Cross_Platform" title="Component Library for Cross Platform">CLX</a></li>
+<li><a href="/wiki/FpGUI" title="FpGUI">fpGUI</a></li>
+<li><a href="/wiki/IP_Pascal" title="IP Pascal">IP Pascal</a></li>
+<li><a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">LCL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Mobile</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">LCL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Perl" title="Perl">Perl</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tk_(framework)" class="mw-redirect" title="Tk (framework)">Perl/Tk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/PHP" title="PHP">PHP</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PHP-GTK" title="PHP-GTK">PHP-GTK</a></li>
+<li><a href="/wiki/PHP-Qt" title="PHP-Qt">PHP-Qt</a></li>
+<li><a href="/wiki/WxPHP" title="WxPHP">wxPHP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PyGObject" class="mw-redirect" title="PyGObject">PyGObject</a></li>
+<li><a href="/wiki/PyGTK" title="PyGTK">PyGTK</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/PyQt" title="PyQt">PyQt</a></li>
+<li><a href="/wiki/PySide" title="PySide">PySide</a></li>
+<li><a href="/wiki/Tkinter" title="Tkinter">Tkinter</a></li>
+<li><a href="/wiki/WxPython" title="WxPython">wxPython</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shoes_(GUI_toolkit)" title="Shoes (GUI toolkit)">Shoes</a></li>
+<li><a href="/wiki/QtRuby" title="QtRuby">QtRuby</a></li>
+<li>wxRuby</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Tcl" title="Tcl">Tcl</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tk_(software)" title="Tk (software)">Tcl/Tk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/XML" title="XML">XML</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Glade_Interface_Designer" title="Glade Interface Designer">GladeXML</a></li>
+<li><a href="/wiki/Lively_Kernel" title="Lively Kernel">Lively Kernel</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Rialto_Toolkit" title="Rialto Toolkit">Rialto Toolkit</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/XML_User_Interface" title="XML User Interface">XUI</a></li>
+<li><a href="/wiki/XUL" title="XUL">XUL</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170407090125
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.460 seconds
+Preprocessor visited node count: 9273/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 337769/2097152 bytes
+Template argument size: 43737/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 7/500
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  349.827      1 -total
+ 77.10%  269.730     21 Template:Navbox
+ 50.01%  174.955     19 Template:Navbox_subgroup
+ 25.18%   88.072      1 Template:Infobox_software
+ 23.13%   80.923      1 Template:Widget_toolkits
+ 22.66%   79.275      1 Template:Infobox
+ 17.69%   61.875      1 Template:Reflist
+ 15.21%   53.222      2 Template:Citation_needed
+ 13.95%   48.798      2 Template:Fix
+  8.99%   31.439      6 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55890-0!*!0!!en!4!* and timestamp 20170407090124 and revision id 759633816
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cocoa_(API)&amp;oldid=759633816">https://en.wikipedia.org/w/index.php?title=Cocoa_(API)&amp;oldid=759633816</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:MacOS_APIs" title="Category:MacOS APIs">MacOS APIs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_October_2013" title="Category:Use mdy dates from October 2013">Use mdy dates from October 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2016" title="Category:Articles with unsourced statements from June 2016">Articles with unsourced statements from June 2016</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_January_2016" title="Category:Wikipedia articles needing clarification from January 2016">Wikipedia articles needing clarification from January 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2015" title="Category:Articles with unsourced statements from April 2015">Articles with unsourced statements from April 2015</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cocoa+%28API%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cocoa+%28API%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cocoa_(API)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Cocoa_(API)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Cocoa_(API)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Cocoa_(API)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cocoa_(API)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cocoa_(API)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cocoa_(API)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cocoa_(API)&amp;oldid=759633816" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cocoa_(API)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1051988" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cocoa_%28API%29&amp;id=759633816" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cocoa+%28API%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cocoa+%28API%29&amp;returnto=Cocoa+%28API%29&amp;oldid=759633816&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cocoa_(API)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%83%D9%88%D8%A7" title="كوكوا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Cocoa" title="Cocoa – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Cocoa" title="Cocoa – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cocoa_(API)" title="Cocoa (API) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cocoa_(inform%C3%A1tica)" title="Cocoa (informática) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DA%A9%D9%88_(%D8%B1%D8%A7%D8%A8%D8%B7_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C)" title="کوکو (رابط برنامه‌نویسی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cocoa_(Apple)" title="Cocoa (Apple) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BD%94%EC%BD%94%EC%95%84_(API)" title="코코아 (API) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cocoa_(software)" title="Cocoa (software) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cocoa_(Apple)" title="Cocoa (Apple) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Cocoa" title="Cocoa – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Cocoa" title="Cocoa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cocoa" title="Cocoa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Cocoa" title="Cocoa – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Cocoa" title="Cocoa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Cocoa" title="Cocoa – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Cocoa" title="Cocoa – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Cocoa" title="Cocoa – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1051988#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 January 2017, at 09:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cocoa_(API)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.460","ppvisitednodes":{"value":9273,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":337769,"limit":2097152},"templateargumentsize":{"value":43737,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  349.827      1 -total"," 77.10%  269.730     21 Template:Navbox"," 50.01%  174.955     19 Template:Navbox_subgroup"," 25.18%   88.072      1 Template:Infobox_software"," 23.13%   80.923      1 Template:Widget_toolkits"," 22.66%   79.275      1 Template:Infobox"," 17.69%   61.875      1 Template:Reflist"," 15.21%   53.222      2 Template:Citation_needed"," 13.95%   48.798      2 Template:Fix","  8.99%   31.439      6 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4879469,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170407090125","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":546,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>

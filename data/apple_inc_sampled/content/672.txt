@@ -1,0 +1,453 @@
+
+
+     4.2.1
+     
+      (November 22, 2010
+      
+       ; 6 years ago
+      
+
+       (
+       
+        2010-11-22
+       
+       )
+      
+      )
+     
+
+
+       [±]
+      
+
+
+
+     4.2.10
+     
+      (July 25, 2011
+      
+       ; 5 years ago
+      
+
+       (
+       
+        2011-07-25
+       
+       )
+      
+      )
+     
+
+
+       [±]
+      
+
+
+
+
+       iPod Touch
+      
+
+
+
+       iPad
+      
+
+
+
+   iOS 4
+  
+  is the
+  
+   fourth
+  
+  major release of the
+  
+   iOS
+  
+
+   mobile operating system
+  
+  designed by
+  
+   Apple Inc.
+  
+  , being the successor to
+  
+   iPhone OS 3
+  
+  . It was released on June 21, 2010, and was the first major release to be renamed to simply "iOS", and the first major release to drop support for some devices, as well as the first update that iPod Touch users did not have to pay for.
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  iOS 4 was succeeded by
+  
+   iOS 5
+  
+  , which was released on October 12, 2011.
+ 
+
+
+  iOS 4 was introduced during the annual
+  
+   Apple Worldwide Developers Conference
+  
+  on June 7, 2010 together with the
+  
+   iPhone 4
+  
+  . With the release of the
+  
+   first-generation iPad
+  
+  earlier that year, the company renamed iPhone OS to iOS to reflect the entire family of devices.
+  
+
+    [2]
+   
+
+  iOS 4.0 supported only the iPhone and iPod touch at launch, but later added iPad support.
+  
+
+    [1]
+   
+
+  It also added over 1500 new APIs for developers, including the highly anticipated multitasking feature.
+ 
+  iOS 4.0.1 was released on July 15, 2010, as the first update to iOS 4. The update has an updated carrier signal strength display, along with other bug fixes.
+ 
+  iOS 4.0.2 was released on August 11, 2010, with a fix for an PDF exploit that allowed
+  
+   jailbreaking
+  
+  on Safari.
+ 
+  iOS 4.1 was released on September 8, 2010. The update included a technology known as HDR for better photos and to better the quality. It also introduced Game Center, along with high definition videos, where it can be shared on YouTube or MobileMe. It was the first version of iOS available on the Apple TV (2nd generation).
+  
+
+    [3]
+   
+
+
+  iOS 4.2.1 was released on November 22, 2010. It was the first version to bring major feature parity to the iPhone and iPad.
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+  It was also the last to support the iPhone 3G and iPod Touch (2nd generation, MB & MC models).
+ 
+  iOS 4.2.5 was released on February 7, 2011. It includes support for the CDMA version of
+  
+   iPhone 4
+  
+  .
+  
+
+    [6]
+   
+
+
+  iOS 4.2.6 - 4.2.10 are the set of updates which was released in each dates for the CDMA version of iPhone 4. Along with iOS 4.2.5, it includes bug fixes, and security updates in each of the updates.
+ 
+  iOS 4.3 was released on March 9, 2011. The update included support for Personal Hotspot, iTunes Home Sharing, improvements on AirPlay, and some minor improvements.
+  
+
+    [7]
+   
+
+  IOS 4.3.x did not support the CDMA iPhone 4.
+ 
+  iOS 4.3.1 was released on March 25, 2011, with a fix on iPod Touch screen glitches, along with baseband updates for
+  
+   iPhone 3GS
+  
+  , and the
+  
+   first-generation iPad
+  
+  .
+  
+
+    [8]
+   
+
+
+  iOS 4.3.2 was released on April 14, 2011, with fixes on frozen calls on FaceTime and connectivity issues on cellular models of iPad.
+  
+
+    [9]
+   
+
+
+  iOS 4.3.3 was released on May 4, 2011, to patch location bugs.
+  
+
+    [10]
+   
+
+
+  iOS 4.3.4 was released on July 15, 2011, Re-introducing the ability to cancel and delete apps that are currently downloading, and preventing from jailbreaking and hacking.
+  
+
+    [11]
+   
+
+
+  iOS 4.3.5 was released on July 25, 2011, with a security update to fix certificate validation.
+  
+
+    [12]
+   
+
+
+  iOS 4 raised the maximum number of home screen apps from 180 to 2160 due to the addition of folders. These folders would automatically be named based on the containing apps' respective
+  
+   App Store
+  
+  category. The ability to add custom wallpapers to the home screen was also added (not supported on
+  
+   iPhone 3G
+  
+  and 2nd generation
+  
+   iPod Touch
+  
+  ).
+  
+
+    [13]
+   
+
+  The dock was also redesigned to be more reflective and match that of
+  
+   Mac OS X
+  
+  10.5-10.6.
+ 
+  iOS 4 introduced Multitasking. It allows user to switch between the apps instantly by double clicking the home button. It was implemented in such a way that did not cause excessive battery drain or a large performance hit. Multitasking is limited to VoIP and GPS apps and audio listening only.
+  
+
+    [1]
+   
+
+
+
+    [14]
+   
+
+  The
+  
+   iPhone 3G
+  
+  and 2nd generation
+  
+   iPod Touch
+  
+  lack multitasking capabilities because of hardware limitations.
+ 
+  iBooks, the app that is included on iPad, is now on iPhone and iPod Touch with the release of iOS 4. Though not a built-in app, it is free on App Store.
+  
+
+    [15]
+   
+
+
+  The Mail app gets a unified inbox on iOS 4, allowing users to see messages from all of their email accounts displayed together in a single inbox.
+  
+
+    [15]
+   
+
+
+
+    [16]
+   
+
+  It also gained support for MobileMe e-mail aliases and multiple Exchange accounts for business and Enterprise users.
+  
+
+    [1]
+   
+
+
+  iOS 4.1 added a new app called
+  
+   Game Center
+  
+  , an online multiplayer social gaming network, which allows users to invite friends to play the game and to compare their scores on a leaderboard.
+  
+
+    [14]
+   
+
+  It was not available on the
+  
+   iPhone 3G
+  
+  .
+ 
+  iOS 4 introduced
+  
+   FaceTime
+  
+  , a
+  
+   videotelephony
+  
+  app which uses the device's camera to allow the user to make video calls.
+  
+
+    [17]
+   
+
+
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  It is done by clicking the FaceTime button during a phone call or directly from the app. It required a Wi-Fi connection to work at the time. It worked on the iPhone 4 or later, iPod Touch (4th Generation) or later, iPad 2 or later, and Mac (Mac OS X 10.6 or later).
+ 
+  iOS 4 added support for Apple Bluetooth Keyboards on
+  
+   iPhone 3GS
+  
+  ,
+  
+   iPhone 4
+  
+  and 3rd Generation
+  
+   iPod Touch
+  
+  .
+ 
+  The
+  
+   Safari
+  
+  mobile browser on iOS 4 added
+  
+   Bing
+  
+  as a search option in addition to
+  
+   Google
+  
+  and
+  
+   Yahoo!
+  
+  . A unified "Search" keyboard button was added when the search field was being used.
+  
+
+    [20]
+   
+
+
+  Specific words or phrases on a page can searched.
+  
+
+    [21]
+   
+
+  This is done with the "On This Page" feature.
+  
+
+    [22]
+   
+
+
+  iOS 4 introduces a
+  
+   spell check
+  
+  feature that will underline misspelled words in red. Tapping on the word will give a popup which has a recommended replacement and tapping on the popup will replace the word with the recommended replacement.
+  
+
+    [15]
+   
+
+
+  The camera app could now take pictures with 5 times digital zoom.
+  
+
+    [23]
+   
+
+
+
+   iPhone 3G
+  
+  users reported performance and battery issues after they updated to the latest software.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+  As a result, Apple released iOS 4.1 and 4.2.1 in attempt to fix the performance issues.
+ 
+  Some
+  
+   iPhone 4
+  
+  users have reported technical problems with the antennas.
+  
+
+    [26]
+   
+
+  Apple, and some carriers, were sued for the iPhone 4's defective antenna design, which drops calls and has a weak signal.
+  
+
+    [27]
+   
+
+  It became known as
+  
+   antennagate
+  
+  .
+  
+
+    [28]
+   
+
+  Later, Apple eventually released iOS 4.0.1 and the CDMA Verizon
+  
+   iPhone 4
+  
+  in attempt to fix the problem.
+ 
+  The
+  
+   1st generation iPhone
+  
+  and the 1st generation iPod Touch cannot run iOS 4 and above due to hardware limitations.
+  
+
+    [1]
+   
+

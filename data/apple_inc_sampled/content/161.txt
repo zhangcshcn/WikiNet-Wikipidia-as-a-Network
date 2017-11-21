@@ -1,0 +1,504 @@
+
+
+
+   Final Cut Pro X
+  
+  (pronounced "Final Cut Pro Ten") is a professional
+  
+   non-linear
+  
+
+   video editing application
+  
+  published by
+  
+   Apple Inc.
+  
+  as part of their Pro Apps family of software programs. It was released on June 21, 2011 for sale in the Mac App Store and is the successor to
+  
+   Final Cut Pro
+  
+  .
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+
+
+
+  While inheriting the name from its predecessor,
+  
+   Final Cut Pro
+  
+  , Final Cut Pro X is a completely re-written application. It shares
+  
+   code
+  
+  with Apple’s consumer video editing software,
+  
+   iMovie
+  
+  .
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  Because it was written as a
+  
+   64-bit
+  
+  application it takes advantage of more than
+  
+   4GB
+  
+  of
+  
+   RAM
+  
+  . It utilizes all
+  
+   CPU cores
+  
+  with
+  
+   Grand Central Dispatch
+  
+  .
+  
+   Open CL
+  
+  support allows
+  
+   GPU
+  
+  accelerated processing for improved performance for playback,
+  
+   rendering
+  
+  , and
+  
+   transcoding
+  
+  . It is resolution independent supporting images sizes from
+  
+   SD
+  
+  to beyond
+  
+   4K
+  
+  . Final Cut Pro X supports playback of many native camera and audio formats.
+  
+
+    [5]
+   
+
+  It can also transcode video clips to the
+  
+   Apple ProRes
+  
+  codec for improved performance.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+  Many tasks are performed in the background such as auto-saving, rendering, transcoding, and media management allowing the user an uninterrupted experience.
+  
+
+    [8]
+   
+
+  Final Cut Pro X was developed for
+  
+   macOS
+  
+  and is not supported on the
+  
+   Windows Platform
+  
+  .
+  
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+   Training and Certification
+  
+  is available by Apple for Final Cut Pro X.
+ 
+  Final Cut Pro X was made available for purchase and download on the Mac App Store on June 21, 2011 along with new versions of
+  
+   Motion
+  
+  and
+  
+   Compressor
+  
+  .
+  
+
+    [2]
+   
+
+
+
+    [12]
+   
+
+  Since then the application has been updated a few times each year with new features, bug fixes, native codec support, and overall improvements with stability.
+  
+
+    [13]
+   
+
+
+  Many features found in
+  
+   Final Cut Pro 7
+  
+  that were missing in Final Cut Pro X on its initial release
+  
+
+    [14]
+   
+
+  have subsequently been added such as: XML import and export, server support, multicam editing, chapter markers, and broadcast monitor support.
+  
+
+    [15]
+   
+
+
+  Because Final Cut Pro X abandoned a track-based timeline in favor of the Magnetic Timeline initially there were limitations in exporting audio stems for Broadcast and Distribution needs. On September 9, 2011 version 10.0.1 was released with a new solution to this problem, the introduction of Video and Audio Roles. Clips are assigned Roles and upon Sharing a Project the user could export Multitrack Quicktime Files or Stems.
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+  With version 10.0.6 released on October 23, 2012 Apple introduced native
+  
+   Redcode Raw
+  
+  support as well as
+  
+   MXF
+  
+  support through a third party plugin. MXF was eventually natively supported by version 10.1.4.
+  
+
+    [18]
+   
+
+
+  Prior to the introduction of version 10.1.0 Project and Event Libraries were separate folders. Events contained all the original media and Project Libraries contained the actual edited Projects on timelines. The Project and Event Libraries were stored in a user’s Movie folder or on the root level of an external hard drive. These Libraries automatically opened in Final Cut Pro X depending on which hard drives were mounted. That all changed on December 19, 2013 when Project and Event Libraries were merged into a new Library model. Libraries contained Events which in turn contained Projects. And unlike before Libraries could be opened and closed by the user. Media could be stored internally in the Library or kept outside the Library. On June 27, 2014 media management was further refined with the release of version 10.1.2.
+  
+
+    [19]
+   
+
+
+  During the
+  
+   NAB Show
+  
+  2015 Apple released version 10.2.0. 3D Titles were introduced directly in Final Cut Pro X as well as its companion application, Motion. The Color Board merged with a new Color Correction effect to allow for more flexibility in stacking layers of effects. The ability to apply a Keying or Shape Mask directly to any effect was also introduced.
+  
+
+    [20]
+   
+
+
+  For a complete overview of the changes made, see Apple's
+  
+   release notes
+  
+  .
+ 
+  Final Cut Pro X was announced in April 2011 simultaneously at the
+  
+   Los Angeles Final Cut Pro Users Group
+  
+  held at
+  
+   Bally's Las Vegas
+  
+  and at the
+  
+   NAB Show
+  
+  in the
+  
+   Las Vegas Convention Center
+  
+  and released in June 2011.
+  
+
+    [12]
+   
+
+
+
+    [23]
+   
+
+
+  Missing features and issues noted as essential to professional video production in FCPX included lack of
+  
+   edit decision list
+  
+  (EDL),
+  
+   XML
+  
+  and
+  
+   Open Media Framework Interchange
+  
+  (OMF) support, inability to import projects created in previous releases of Final Cut Pro, a lack of a multicam editing tool, third-party I/O hardware output, and videotape capture being limited to Firewire video devices only, including capture with third-party hardware,
+  
+
+    [14]
+   
+
+  were addressed within the first six months of the product's life. EDL export, a product of the early days of videotape editing, is now supported through third-party software
+  
+
+    [24]
+   
+
+  and creating an AAF (a newer version of OMF)
+  
+
+    [25]
+   
+
+  for passing projects to
+  
+   ProTools
+  
+  through
+  
+   X2Pro
+  
+  .
+ 
+  Immediately after the release and its backlash, Richard Townhill, Senior Director of Applications Marketing at Apple, gave a public interview stating that Apple had a 10-year development plan for the software.
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+
+  Jan Ozer of Onlinevideo.net wrote:
+  
+
+    [28]
+   
+
+
+   Of course, I understand how iTunes is ideal for inexperienced users, and that’s precisely the point. With iTunes and iPhoto, and the iPad and iPhone, Apple wasn’t selling to experienced users. It was opening new markets. In contrast, with Final Cut Pro X, Apple was trying to change the workflows of professionals who knew more about video production than any of the engineers who created the product.
+  
+   You can only impose structure when a market is new or when the benefits of that structure are incremental. And the more structure you build into a product, the less it’s likely to appeal to experienced users of the product it replaces. That’s why most professional video producers jumped ship when FCPX was launched and why most won’t use it.
+  
+  At a
+  
+   Creative Pro User Group Supermeet
+  
+  in Boston on October 27, 2011 Hollywood film editor
+  
+   Walter Murch
+  
+  described his first impressions of Final Cut Pro X after its release saying "I can't use this."
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+  An online petition was started demanding either the continued development of the legacy Final Cut Pro product or its sale to a third party by January 1, 2012. The initiator of the petition was banned from the Apple discussion forums. As of January 2014
+  
+
+    [update]
+   
+
+  , the petition had received 9,172 signatures.
+  
+
+    [31]
+   
+
+
+
+   Conan O'Brien
+  
+  and his editing department lampooned some of the flaws of Final Cut Pro X 10.0 in an edited segment for the
+  
+
+    Conan
+   
+
+  late night talk show on
+  
+   TBS
+  
+  .
+  
+
+    [32]
+   
+
+
+
+   Michael Cioni
+  
+  of
+  
+   Light Iron
+  
+  defended Apple and Final Cut Pro X in a blog post a couple months after its release, referring to it as a "disruptive innovation":
+  
+
+    [33]
+   
+
+
+   This system is by far the most advanced image and sound manipulation device that I’ve ever seen. Running incredibly complex tasks on my laptop in 2K resolution with this program is unmatched by any other software I’ve seen for the price of the tool and the hardware it runs on. For me, the road that FCPX is headed down is absolutely the right one, but it’s a road under construction. And while I’m fully aware driving on that road now is going to be full of unfinished pavement, narrow lanes and those annoying K-rails really close to the side of my car, I know the direction the road is going is exactly where need to be.
+  
+  In a 2015 interview with
+  
+   Alex Gollner
+  
+  , Final Cut creator and software engineer Randy Ubillos had this to say about the launch of Final Cut Pro X:
+  
+
+    [34]
+   
+
+
+   My idea was that Final Cut 7 should stay exactly as it was for about a year, and every time you bought a copy of X you got a copy of 7. They didn’t want to hear it. I knew 16 months before the launch that I was going to have a bunch of arrows in my back. I was going to be blamed for this big transition. It’s the Apple way of doing things: ‘Feet first, jump in!’
+  
+   The very last conversation I had with Steve Jobs was right after the launch of Final Cut Pro X. I was getting ready to get on a plane to go to London to record the second set of movie trailers - we’d hired the London Symphony Orchestra
+   
+    [to perform the music that was going to be bundled with the next version of iMovie]
+   
+   - and Steve caught me at home: “What the heck is going on with this Final Cut X thing?” I said “We knew this was coming, we knew that people were going to freak out when we changed everything out from under them. We could have done this better. We should have. Final Cut 7 should be back on the market. We should have an FAQ that lists what this is all about.” He said “Yeah, let’s get out and fund this thing, let’s make sure we get on top of this thing, move quickly with releases…” and he finished by asking: “Do you believe in this?” I said “Yes.” He said “then I do too.”
+  
+  In 2013 video software trainer
+  
+   Larry Jordan
+  
+  addressed the question "Is Final Cut Pro X ready for Professional use?" in a blog post
+  
+
+    [35]
+   
+
+  followed up by a
+  
+   presentation
+  
+  at a
+  
+   Creative Pro User Group SuperMeet
+  
+  in Amsterdam during
+  
+   IBC
+  
+  .
+  
+
+    [36]
+   
+
+  Here are some excerpts from Larry's blog:
+ 
+   Of all the questions I am asked each day, this is the most popular: “When will Final Cut Pro X be ready for professional use?” Sigh… Right now! Final Cut Pro X is ready for professional use today. Editors have been making money with FCP X since the first week it shipped.
+  
+   Personally, I think the launch was terrible, but that FCP X is quite good.
+  
+  Today, most of Final Cut Pro X's initial shortcomings have been fixed. With a few extra third-party apps/plugins, Final Cut Pro X is now a stable, professional solution with a fast-growing user base of professionals and hobbyists.
+  
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+
+  Since its release, FCP X has supported the construction of Effect, Title, Transition and Title plugins by publishing custom built effects from
+  
+   Apple Motion.
+  
+  This has led to a large
+  
+   third-party ecosystem of developers
+  
+  building effects from simple color corrections to complex templates.
+  
+
+    [39]
+   
+
+  Third-party plug-ins can also be created through Apple's
+  
+   FxPlug
+  
+
+   SDK
+  
+  .
+  
+
+    [40]
+   
+
+  As Projects, Events and Libraries are stored in a database format, this has allowed many third party developers to build workflow tools by utilizing FCPXML.
+  
+
+    [41]
+   
+

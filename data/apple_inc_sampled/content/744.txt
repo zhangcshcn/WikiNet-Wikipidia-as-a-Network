@@ -1,0 +1,294 @@
+
+
+
+   Claris
+  
+  was a computer
+  
+   software developer
+  
+  formed as a spin-off from
+  
+   Apple Computer
+  
+  (now Apple Inc.) in 1987. It was given the
+  
+   source code
+  
+  and
+  
+   copyrights
+  
+  to several programs that were owned by Apple, notably
+  
+   MacWrite
+  
+  and
+  
+   MacPaint
+  
+  , in order to separate Apple's application software activities from its
+  
+   hardware
+  
+  and
+  
+   operating systems
+  
+  activities.
+ 
+  In 1998 the company divested itself of all but its flagship product, and reformed as
+  
+   FileMaker Inc.
+  
+
+
+
+  During the early days of the
+  
+   Macintosh
+  
+  computer, Apple shipped the machines with two basic programs, MacWrite and MacPaint, so that users would have a working machine "out of the box". However, this resulted in complaints from third-party developers, who felt that these programs were good enough for so many users that there was little reason to buy something better.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Apple decided to allow the programs to "wither", so that the third-party developers would have time to write suitable replacements. Unfortunately the developers didn't seem to hold up their end of the bargain, and it was some time before truly capable replacements like
+  
+   WriteNow
+  
+  came along. In the meantime users complained about the lack of
+  
+   upgrades
+  
+  , while the third-party
+  
+   developers
+  
+  continued to complain about the
+  
+   possibility
+  
+  of upgrades.
+ 
+  Eventually Apple decided the only solution was to spin off the products to a third party of its own creation, forming Claris in 1987. Claris was also given the rights to several lesser-known Apple products such as
+  
+   MacProject
+  
+  ,
+  
+   MacDraw
+  
+  , and the hit
+  
+   Apple II
+  
+  product
+  
+   AppleWorks
+  
+  . Claris' second corporate headquarters (nicknamed "The Wedge") was in
+  
+   Santa Clara
+  
+  , about six miles from the main Apple campus.
+ 
+  At first Claris provided only trivial upgrades, limited to making the products continue to run on newer versions of the
+  
+   Macintosh operating system
+  
+  . In 1988, Claris purchased
+  
+   FileMaker
+  
+  from
+  
+   Nashoba Systems
+  
+  and quickly released a rebranded version called FileMaker II. In the meantime, development began on major overhauls of their entire product line, including FileMaker. Each of these would be eventually released as part of the Pro series of products.
+ 
+  In 1990, Apple decided that Claris should remain a wholly owned
+  
+   subsidiary
+  
+  , as opposed to being completely spun off in an
+  
+   initial public offering
+  
+  . The company president soon left, and over the next year most of the other executives followed.
+ 
+  That same year Claris also purchased an integrated application written by two former Claris employees. After rebranding in a style similar to FileMaker, MacDraw, and MacWrite, it was released in 1991 as
+  
+   ClarisWorks
+  
+  , and became another huge success for the company. After a lengthy series of ups and downs, this product was eventually taken back by Apple in 1998 and rebranded as
+  
+   AppleWorks
+  
+  (for Macintosh).
+ 
+  In the late 1980s, Claris began a major upgrade effort, rewriting all of its products to use a more modern and common user interface. The result was the "Pro" series: MacDraw Pro, MacWrite Pro, and FileMaker Pro. In order to provide a complete
+  
+   office suite
+  
+  they later purchased the rights to the
+  
+   Informix WingZ
+  
+
+   spreadsheet
+  
+  on the Mac, rebranding it as
+  
+   Claris Resolve
+  
+  , and added the new
+  
+   presentation program
+  
+
+   Claris Impact
+  
+  .
+ 
+  The series was released piecemeal over a period of about two years, during which period
+  
+   Microsoft
+  
+  was able to dominate the market with
+  
+   Microsoft Word
+  
+  and
+  
+   Microsoft Excel
+  
+  . While the Claris packages were arguably much more "approachable" than the Microsoft applications, the Claris software applications lacked some features of the now-mature Microsoft suite, leaving them lacking in "checkbox features." Their value was further eroded by aggressive bundling deals from Microsoft that could allow Word, Excel, and PowerPoint to be purchased for a cost not much higher than MacWrite alone—a bundle that Claris did not match. Claris did offer ClarisWorks, an all-in-one package; and, while the price was right, ClarisWorks was very limited and could not compete in the business market. Microsoft also released a
+  
+   Works
+  
+  package.
+ 
+  Microsoft's domination of the Macintosh
+  
+   office suite
+  
+  software marketplace would be replicated five years later when (following the release of
+  
+   Windows 95
+  
+  ),
+  
+   Microsoft Office
+  
+  crushed its two main rivals in Windows software: the
+  
+   WordPerfect
+  
+  /
+  
+   Quattro Pro
+  
+  suite and the
+  
+   Lotus SmartSuite
+  
+  .
+ 
+  By the late 1980s,
+  
+   HyperCard
+  
+  needed updating as well but Apple management did not see any value in the product and let it wither. Complaints eventually became loud enough that they decided
+  
+   something
+  
+  had to be done. Studying the problem, they decided that all software should be released through Claris, and sent HyperCard and the Mac OS to them. Many of the developers refused to move to Claris, leading to a serious split in development that delayed future releases of both products. The Mac OS was soon returned to Apple; HyperCard was ignored for a time, before also returning briefly as a part of the
+  
+   QuickTime
+  
+  group.
+ 
+  In 1988, Claris published
+  
+   Claris CAD
+  
+  , a 2-D CAD package, and Claris Graphics Translator, a translation package for Claris CAD.
+ 
+  In early 1989, Claris published SmartForm Designer,
+  
+
+    [1]
+   
+
+  software to design forms, and a companion product, SmartForm Assistant, software to fill forms created by SmartForm Designer.
+ 
+  In 1994, Claris published
+  
+   Amazing Animation
+  
+  , software aimed at children and young teenagers, allowing them to produce their own short animated films.
+ 
+  In 1995 Claris purchased and released
+  
+   Claris Home Page
+  
+  , which enjoyed popularity as one of the few truly
+  
+   GUI
+  
+  -based
+  
+   WYSIWYG
+  
+
+   HTML editors
+  
+  of the time.
+ 
+  Other products added to the line included
+  
+   Claris Emailer
+  
+  ,
+  
+   Claris OfficeMail
+  
+  , and
+  
+   Claris Organizer
+  
+  . These products were part of a new effort to diversify Claris and no longer chase the "office" market which, by this point, was considered a lost cause.
+ 
+  By the mid-1990s it appeared to most observers that Apple was in serious danger of disappearing. The main ClarisWorks development team left Claris, disillusioned with the product and the market, and founded
+  
+   Gobe Software
+  
+  , which produced a Claris-like office suite for
+  
+   BeOS
+  
+  .
+ 
+  Facing declining sales, Claris management decided that FileMaker was the only product worth keeping, and put all of the rest of the products on indefinite hold. By 1998 the transition was complete and the company renamed itself as
+  
+   FileMaker Inc.
+  
+  Claris's only other major product, ClarisWorks, was taken back by Apple to become
+  
+   AppleWorks
+  
+  . The company kept FileMaker and Claris HomePage 3.0. The latter was discontinued in 2001 leaving FileMaker as its lone offering until January 8, 2008, when the company released
+  
+   Bento
+  
+  , a template-based database application with a leaning toward information from other applications. Bento was later discontinued on September 30, 2013.
+ 

@@ -1,0 +1,655 @@
+
+
+
+   macOS Server
+  
+  , formerly
+  
+   Mac OS X Server
+  
+  and
+  
+   OS X Server
+  
+  , is a separately sold operating system add-on which provides additional server programs along with management and administration tools for
+  
+   macOS
+  
+  .
+ 
+  Prior to version
+  
+   10.7 (Lion)
+  
+  , Mac OS X Server was a separate but similar
+  
+   Unix
+  
+
+
+    [3]
+   
+
+  server
+  
+   operating system
+  
+  from
+  
+   Apple Inc.
+  
+
+   architecturally
+  
+  identical to its desktop counterpart
+  
+   Mac OS X
+  
+  . With the release of version
+  
+   10.7 (Lion)
+  
+  , Mac OS X and Mac OS X Server were combined into one release. A separate "server" operating system is no longer sold; the server-specific server applications and work group management and administration software tools from Mac OS X Server are now offered as
+  
+   macOS Server
+  
+  , an add-on package for macOS sold through the
+  
+   Mac App Store
+  
+
+
+    [4]
+   
+
+  along with
+  
+   Workgroup Manager 10.8
+  
+  , available from the Apple support web site.
+  
+
+    [5]
+   
+
+
+  These tools simplify access to key
+  
+   network services
+  
+  , including a
+  
+   mail transfer agent
+  
+  ,
+  
+   AFP
+  
+  and
+  
+   SMB
+  
+  servers, an
+  
+   LDAP
+  
+  server, a
+  
+   domain name server
+  
+  , and others. Also included (particularly in later versions) are numerous additional services and the tools to manage them, such as
+  
+   web server
+  
+  ,
+  
+   wiki
+  
+  server, chat server, calendar server, and many others.
+ 
+
+
+  Mac OS X Server was provided as the operating system for
+  
+   Xserve
+  
+  computers,
+  
+   rack mounted
+  
+
+   server computers
+  
+  designed by Apple. Also, it was optionally
+  
+   pre-installed
+  
+  on the
+  
+   Mac Mini
+  
+  and
+  
+   Mac Pro
+  
+  and was sold separately for use on any
+  
+   Macintosh
+  
+  computer meeting its minimum requirements.
+ 
+  macOS Server is based on an
+  
+   open source
+  
+  foundation called
+  
+   Darwin
+  
+  and uses open industry standards and protocols. It included services and applications for file sharing, sharing contact information and calendars, schedule events, send secure instant messages, conduct live video conferences, send and receive email, contribute to and comment in wikis, publish a company-wide blog, produce and distribute podcasts, and set up websites.
+ 
+  The first version of Mac OS X was
+  
+   Mac OS X Server 1.0
+  
+  . Mac OS X Server 1.0 – 1.2v3 were based on
+  
+   Rhapsody
+  
+  , a hybrid of
+  
+   OPENSTEP
+  
+  from NeXT Computer and
+  
+   Mac OS 8.5.1
+  
+  . The
+  
+   GUI
+  
+  looked like a mixture of Mac OS 8's Platinum appearance with OPENSTEP's
+  
+   NeXT
+  
+  -based interface. It included a runtime layer called Blue Box for running legacy Mac OS-based applications within a separate window. There was discussion of implementing a 'transparent blue box' which would intermix Mac OS applications with those written for Rhapsody's Yellow Box environment, but this would not happen until
+  
+   Mac OS X
+  
+  's Classic environment. Apple File Services, Macintosh Manager, QuickTime Streaming Server,
+  
+   WebObjects
+  
+  and
+  
+   NetBoot
+  
+  were included with Mac OS X Server 1.0 – 1.2v3. It could not use
+  
+   FireWire
+  
+  devices.
+ 
+
+   Released
+  
+  : May 21, 2001
+ 
+  Mac OS X Server 10.0 included the new
+  
+   Aqua user interface
+  
+  ,
+  
+   Apache
+  
+  ,
+  
+   PHP
+  
+  ,
+  
+   MySQL
+  
+  ,
+  
+   Tomcat
+  
+  ,
+  
+   WebDAV
+  
+  support, Macintosh Manager and
+  
+   NetBoot
+  
+  .
+ 
+
+   Released
+  
+  : September 25, 2001
+ 
+
+   Released
+  
+  : August 23, 2002
+ 
+  The 10.2 Mac OS X Server release includes updated
+  
+   Open Directory
+  
+  user and file management, which with this release is based on
+  
+   LDAP
+  
+  , beginning the deprecation of the NeXT-originated
+  
+   NetInfo
+  
+  architecture. The new Workgroup Manager interface improved configuration significantly. The release also saw major updates to
+  
+   NetBoot
+  
+  and
+  
+   NetInstall
+  
+  . Many common network services are provided such as
+  
+   NTP
+  
+  ,
+  
+   SNMP
+  
+  , web server (
+  
+   Apache
+  
+  ), mail server (
+  
+   Postfix
+  
+  and
+  
+   Cyrus
+  
+  ), LDAP (
+  
+   OpenLDAP
+  
+  ),
+  
+   AFP
+  
+  , and print server. The inclusion of
+  
+   Samba
+  
+  version 3 allows tight integration with
+  
+   Windows
+  
+  clients and servers.
+  
+   MySQL
+  
+  v4.0.16 and
+  
+   PHP
+  
+  v4.3.7 are also included.
+ 
+
+   Released
+  
+  : October 24, 2003
+ 
+  The 10.3 Mac OS X Server release includes updated
+  
+   Open Directory
+  
+  user and file management, which with this release is based on
+  
+   LDAP
+  
+  , beginning the deprecation of the NeXT-originated
+  
+   NetInfo
+  
+  architecture. The new Workgroup Manager interface improved configuration significantly. Many common network services are provided such as
+  
+   NTP
+  
+  ,
+  
+   SNMP
+  
+  , web server (
+  
+   Apache
+  
+  ), mail server (
+  
+   Postfix
+  
+  and
+  
+   Cyrus
+  
+  ), LDAP (
+  
+   OpenLDAP
+  
+  ),
+  
+   AFP
+  
+  , and print server. The inclusion of
+  
+   Samba
+  
+  version 3 allows tight integration with
+  
+   Windows
+  
+  clients and servers.
+  
+   MySQL
+  
+  v4.0.16 and
+  
+   PHP
+  
+  v4.3.7 are also included.
+ 
+
+   Released
+  
+  : April 29, 2005
+ 
+  The 10.4 release adds
+  
+   64-bit
+  
+  application support,
+  
+   Access Control Lists
+  
+  ,
+  
+   Xgrid
+  
+  ,
+  
+   link aggregation
+  
+  ,
+  
+   e-mail spam
+  
+  filtering (
+  
+   SpamAssassin
+  
+  ), virus detection (
+  
+   ClamAV
+  
+  ), Gateway Setup Assistant, and servers for
+  
+   Software Update
+  
+  ,
+  
+   iChat Server
+  
+  using
+  
+   XMPP
+  
+  ,
+  
+
+    [6]
+   
+
+  Boot Camp Assistant, Dashboard and weblogs.
+ 
+  On August 10, 2006, Apple announced the first
+  
+   Universal Binary
+  
+  release of Mac OS X Server, version 10.4.7, supporting both PowerPC and Intel processors. At the same time Apple announced the release of the Intel-based
+  
+   Mac Pro
+  
+  and
+  
+   Xserve
+  
+  systems.
+ 
+
+   Released
+  
+  : October 26, 2007 Leopard Server sold for $999, with an unlimited client license.
+  
+
+    [7]
+   
+
+
+
+   Features
+  
+
+
+   Released
+  
+  : August 28, 2009
+ 
+  Snow Leopard Server sold for $499 and included unlimited client licenses.
+  
+
+    [7]
+   
+
+
+
+   New Features
+  
+  :
+ 
+
+   Released
+  
+  : July 20, 2011
+ 
+  In releasing the developer preview of
+  
+   Mac OS X Lion
+  
+  in February 2011, Apple indicated that beginning with Lion, Mac OS X Server would be bundled with the operating system and would not be marketed as a separate product.
+  
+
+    [10]
+   
+
+  However, a few months later, the company said it would instead sell the server components as a
+  
+   US$
+  
+  49.99 add-on to Lion, distributed through the
+  
+   Mac App Store
+  
+  (as well as Lion itself).
+  
+
+    [11]
+   
+
+  The combined cost of an upgrade to Lion and the purchase of the OS X Server add-on, which costs approximately US$50,
+  
+
+    [7]
+   
+
+  was nonetheless significantly lower than the retail cost of Snow Leopard Server (US$499).
+ 
+  Lion Server came with unlimited client licenses as did Snow Leopard Server.
+ 
+  Lion Server includes new versions of
+  
+   iCal Server
+  
+  ,
+  
+   Wiki Server
+  
+  , and
+  
+   Mail Server
+  
+  .
+  
+
+    [12]
+   
+
+  More significantly, Lion Server can be used for iOS mobile device management.
+ 
+
+   Released
+  
+  : July 25, 2012.
+ 
+  There was no separate server edition of Mountain Lion, just as there was no separate server edition of Lion. There was an OS X Server package for Mountain Lion, available from the Mac App Store for $19.99, that included a server management app called Server, as well as other additional administrative tools to manage client profiles and
+  
+   Xsan
+  
+  .
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+  Mountain Lion Server, like Lion Server, came with unlimited client licenses, and once purchased could be run on an unlimited number of machines.
+ 
+
+   Released
+  
+  : October 22, 2013.
+ 
+  There is no separate server edition of Mavericks, just as there was no separate server edition of Mountain Lion.
+  
+
+    [15]
+   
+
+  There is a package, available from the Mac App Store for $19.99, that includes a server management app called Server, as well as other additional administrative tools to manage client profiles and
+  
+   Xsan
+  
+  ,
+  
+
+    [15]
+   
+
+  and once purchased can be run on an unlimited number of machines. Those enrolled in the Mac or iOS developer programs are given a code to download OS X Server for free.
+ 
+
+   Released
+  
+  : October 16, 2014.
+ 
+  There is no separate server edition of Yosemite, just as there was no separate server edition of Mavericks. There is a package, available from the Mac App Store for $19.99, that includes a server management app called Server, as well as other additional administrative tools to manage client profiles and Xsan, and once purchased can be run on an unlimited number of machines. Those enrolled in the Mac or iOS developer programs are given a code to download OS X Server for free.
+ 
+
+   Released:
+  
+  September 16, 2015.
+ 
+  Version 5.0.3 of OS X Server operates with either OS X Yosemite 10.10.5 and OS X El Capitan 10.11.
+ 
+
+   Released:
+  
+  March 21, 2016.
+ 
+
+   Released:
+  
+  September 20, 2016.
+ 
+
+       File and print services
+      
+
+
+       Directory services and authentication
+      
+
+
+       Mail services
+      
+
+
+       Calendaring
+      
+
+
+       Web hosting
+      
+
+
+       Collaboration services
+      
+
+
+       Application servers
+      
+
+
+       Media streaming
+      
+
+
+       Client management
+      
+
+
+       Networking and VPN
+      
+
+
+       Distributed computing
+      
+
+
+       High-availability features
+      
+
+
+       File systems
+      
+
+
+       Management features
+      
+
+   macOS Server is available in English, Japanese, French, German, Simplified Chinese, Dutch, Italian, Korean, Spanish, and Traditional Chinese.
+   
+
+     [4]
+    
+

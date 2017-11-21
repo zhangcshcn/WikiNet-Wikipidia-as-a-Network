@@ -20,7 +20,7 @@ You need to make sure that *python 2.7* is called. So you will have to excute.
 > module load python-2.7  
 
 Otherwise python 2.6 will be the default version to invoke.  
-Pick a port number between 10000 and 25000. Then you should cd to the *webdev* directory and excute  
+Pick a port number between 10000 and 25000. Then you should cd to the *django* directory and excute  
 
 > python manage.py runserver 0.0.0.0: your-port-number/wikiNet/
 

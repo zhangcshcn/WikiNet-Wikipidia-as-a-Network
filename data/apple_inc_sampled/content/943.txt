@@ -1,0 +1,884 @@
+
+
+
+   Withings
+  
+  (pronounced "with-things")
+  
+
+    [2]
+   
+
+  is a French
+  
+   consumer electronics
+  
+  company headquartered in
+  
+   Issy-les-Moulineaux
+  
+  ,
+  
+   France
+  
+  , with offices in
+  
+   Cambridge, Massachusetts
+  
+  ,
+  
+   USA
+  
+  , and
+  
+   Hong Kong
+  
+  , distributing products worldwide. Withings is known for design and innovation in
+  
+   connected
+  
+  health devices, such as the first
+  
+   Wi-Fi
+  
+
+   scale
+  
+  on the market (introduced in 2009), an
+  
+   FDA
+  
+  -cleared
+  
+   blood pressure monitor
+  
+  , a high-definition wireless security camera, a smart sleep system, and a line of automatic
+  
+   activity tracking
+  
+  watches. Having received numerous awards for its products and innovation, including
+  
+   CES
+  
+  awards, Withings was a flagship company of the
+  
+   French Tech
+  
+  community until it was purchased by Finnish company
+  
+   Nokia
+  
+  on 26 April 2016. The deal closed on 31 May, with Withings having been absorbed into
+  
+   Nokia Technologies
+  
+  ' new Digital Health unit led by the former Withings CEO.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  The Withings brand continues to be used but will be retired in summer 2017 in favor of the Nokia brand.
+ 
+
+
+  Withings was founded in 2008 by two executives from the technology and telecom industry:
+  
+   Éric Carreel
+  
+  , co-founder of
+  
+   Inventel
+  
+  , and Cédric Hutchings.
+  
+
+    [5]
+   
+
+  The company's first product was the connected body scale, which officially launched in June 2009.
+  
+
+    [6]
+   
+
+
+  In September 2010, Withings received its first venture capital funding - $3.8 million from Ventech - to fund the development of the company's next two products.
+  
+
+    [7]
+   
+
+  In January 2011, Withings announced at the
+  
+   Consumer Electronics Show
+  
+  in
+  
+   Las Vegas
+  
+  that its second product would be a
+  
+   blood pressure monitor
+  
+  that connects to the
+  
+   iPhone
+  
+  .
+  
+
+    [8]
+   
+
+  It also announced it would produce a
+  
+   baby monitor
+  
+  for use with
+  
+   smartphones
+  
+  and other connected devices, which was made available to purchase across Europe in November 2011 and in the United States in February 2012.
+  
+
+    [9]
+   
+
+
+  Withings received a $30 million investment from
+  
+   Bpifrance
+  
+  , Idinvest Partners, 360 CapitalPartners, and Ventech in July 2013.
+  
+
+    [10]
+   
+
+
+  The company integrated with
+  
+   Apple's
+  
+
+   HealthKit
+  
+  platform in October 2014. The compatibility across Withing's range of connected devices enabled the integration of self data into the
+  
+   iOS
+  
+
+   Health app
+  
+  .
+  
+
+    [11]
+   
+
+
+  At WebSummit in
+  
+   Dublin
+  
+  , 2015, the company announced a partnership with
+  
+   MyFitnessPal
+  
+  after a joint study between the two companies revealed that people who track their calories and weight are 7 times more likely to lose weight.
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+  The partnership combined Withings' Health Mate app with MyFitnessPal's nutrition data to let the users know whether they were exercising enough in relation to their diet.
+  
+
+    [14]
+   
+
+
+  In April 2016,
+  
+   Nokia
+  
+  announced it had struck a deal to acquire Withings and integrate it with the group's
+  
+   Nokia Technologies
+  
+  division.
+  
+
+    [1]
+   
+
+  The deal closed on 31 May 2016. The CEO of Withings Cédric Hutchings, became the leader of the new Digital Health business of Nokia Technologies, the successor of Withings. At the time of the acquisition, the Withings brand was said to continue to exist, at least for the time being,
+  
+
+    [15]
+   
+
+  however, as of the winter of 2016 the brand had already been transitioned from the original "Withings Inspire Health" to "Withings Part of Nokia".
+ 
+  On 23 December 2016 Withings products were pulled from the Apple Store for unclear reasons, allegedly, as an act of retaliation following the escalation of a patent dispute between Apple and Nokia.
+  
+
+    [16]
+   
+
+
+  On February 26th, 2017, it was announced that Withings is to be no more as a brand: its devices will be sold under the old Nokia brand, starting sometime in summer 2017.
+  
+
+    [17]
+   
+
+
+  The WiFi Body Scale measures both weight and
+  
+   fat mass
+  
+  and uploads the data to the company's site over
+  
+   Wi-Fi
+  
+  . The scale data can be accessed by
+  
+   Android
+  
+  ,
+  
+   BlackBerry
+  
+  , and
+  
+   iOS
+  
+  devices.
+  
+
+    [18]
+   
+
+  It also connects to various
+  
+   Health 2.0
+  
+  services such as
+  
+   Google Health
+  
+
+
+    [19]
+   
+
+  and
+  
+   Microsoft HealthVault
+  
+
+
+    [20]
+   
+
+  as well as diet and exercise sites such as
+  
+   DailyBurn
+  
+  .
+  
+
+    [21]
+   
+
+  It received tech media coverage for its ability to
+  
+   tweet
+  
+  the user's weight loss.
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+
+  First appearing in 2011, Blood Pressure Monitor was upgraded in March 2014 to a wireless version that connects through Bluetooth to both
+  
+   iOS
+  
+  and
+  
+   Android
+  
+  mobile devices.
+  
+
+    [26]
+   
+
+  Approved by the
+  
+   FDA
+  
+  , Blood Pressure Monitor is configured for wireless use, allowing patients to chart their blood pressure readings at home. The monitor measures systolic and diastolic
+  
+   blood pressure
+  
+  as well as
+  
+   heart rate
+  
+  .
+  
+
+    [27]
+   
+
+
+  This flip-open camera unit included dual microphones, a speaker, temperature and humidity sensors, and a nightlight with custom colors. The camera was configured via
+  
+   Bluetooth
+  
+  to operate via Withings'
+  
+   iOS
+  
+  or
+  
+   Android
+  
+
+   app
+  
+  , and send live video via the user's
+  
+   Wi-Fi
+  
+  network. In addition to letting the user watch video from the camera, pan, tilt, zoom, and take pictures as needed, the apps also notified the user of changing data from the monitor's sensors. The user could activate a push-to-talk mode or play a lullaby.
+  
+
+    [28]
+   
+
+
+  This product was discontinued in 2016.
+ 
+  At the 2012
+  
+   Consumer Electronics Show
+  
+  in January, Withings unveiled the world's first Internet Connected Baby and Toddler Scale, which won a CES Innovations Award.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+  The Smart Kid Scale features two weighing configurations: the first is for weighing infants with a removable baby basket, and the second is the toddler scale that emerges once the baby basket is removed. Parents can access their children's weight readings from any connected device.
+  
+
+    [31]
+   
+
+
+  The Withings Smart Body Analyzer is a smart scale that not only measures weight, but also calculates
+  
+   body mass index
+  
+  and
+  
+   fat mass
+  
+  , registers
+  
+   heart rate
+  
+  and indoor air quality/air temperature, and provides weather reports. The scale can store data for up to eight profiles at a time, recognizing users based on their weight. Measurements can be shared by text, email or social networking sites, such as
+  
+   Twitter
+  
+  .
+  
+
+    [32]
+   
+
+
+  The scale received media attention when magician
+  
+   Penn Jillette
+  
+  , having lost nearly 120 pounds in four months to preserve his health, attributed his success to a strict regimen and the Withings smart scale. While in hospital, Jillette recruited his friends to use the scale, creating "a kind of cult to see who could lose the most weight the most quickly." Jillette also relied on the Withings Wireless Blood Pressure Monitor.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+  The Pulse O2 started selling in summer 2013. The product was upgraded in 2014 to include additional features such as the
+  
+   pulse oximetry
+  
+  measurement (SPO2) and the wear-it-your-way form factor, and the name was changed to Ox.
+  
+
+    [35]
+   
+
+
+  The Pulse contains a
+  
+   pedometer
+  
+  ,
+  
+   heart rate monitor
+  
+  and blood oxygen reader. It can connect to other Withings devices such as the Smart Body Analyzer smart scales and blood pressure monitor. The user's data is pulled from those devices and into the companion app. Information like the user's weight is then used to increase the accuracy of the Pulse
+  
+   calorie
+  
+  counter. When the Pulse is not at hand, activity can still be tracked through the companion app itself.
+  
+
+    [36]
+   
+
+  The Pulse is the only such device that does reflexive measurement, so users do not need to clip their finger for the SPO2 measurement.
+  
+
+    [18]
+   
+
+
+  Withings Aura is a smart
+  
+   alarm clock
+  
+  with sensors, a color-changing light, a speaker and an under-mattress sleep monitor. It has sleep programs to help
+  
+   induce sleep
+  
+  . The Aura also plays specially-engineered wake-up light and sound programs to gently wake the user. Throughout the night, it uses a
+  
+   sensor
+  
+  placed under the mattress to detect when the user is in the lightest
+  
+   sleep phase
+  
+  so it can wake them up at the most appropriate time before the alarm goes off.
+  
+
+    [37]
+   
+
+
+  When the Aura was presented at
+  
+   IFA
+  
+  2015,
+  
+
+    [38]
+   
+
+  the sensor was optional. It became the Aura Connected Alarm Clock without sensor and the Aura Total Sleep System with sensor.
+ 
+  The device received an update in 2015 which allows integration with
+  
+   Spotify
+  
+  premium for users to stream their own music.
+  
+
+    [39]
+   
+
+
+  Withings Activité is an
+  
+   activity tracking
+  
+  watch with three models, ranging from stylish to sporty: Activité Sapphire (2014), Activité Steel (2015), and Activité Pop (2015). The watch has no buttons; instead, everything is controlled from the
+  
+   phone app
+  
+  , as the watch is compatible with both
+  
+   iPhone
+  
+  and
+  
+   Android
+  
+  . The watch automatically resets in new time zones. It can track the user's sleep, swimming, walking and running automatically. Sleep and activity are displayed on the app as graphs. The app offers competitions with friends, even with people who only have an iPhone and no fitness tracker. It also incorporates weight, heart rate, and body mass data from Withings’ wireless scales, like the Smart Body Analyzer. The app connects to
+  
+   MyFitnessPal
+  
+  for food tracking.
+  
+
+    [2]
+   
+
+
+  The Activité Steel is made of
+  
+   stainless steel
+  
+  with
+  
+   chrome
+  
+  hands and a
+  
+   silicone
+  
+  strap. The battery life of the Activité is up to eight months and the device is water resistant to 50 meters.
+  
+
+    [12]
+   
+
+  The Activité Sapphire is Swiss-made, with scratch-proof domed
+  
+   sapphire glass
+  
+  , stainless steel and French calf leather. The Activité Pop is constructed from a PVD-coated metal, features mineral glass and has a silicone strap.
+  
+
+    [40]
+   
+
+
+  The Activité Steel has been described as "a solid, stylish smartwatch that is less expensive than other, less fashionable fitness trackers."
+  
+
+    [41]
+   
+
+  One of the users of Activité is French president
+  
+   François Hollande
+  
+  .
+  
+
+    [42]
+   
+
+
+  This comprehensive home monitoring solution was first presented at CES in 2014.
+  
+
+    [43]
+   
+
+
+  The Home camera alerts the user to any motion or noise while out of the house. It also tracks the indoor air quality, notifying the user if dangerous levels of
+  
+   volatile organic compounds
+  
+  are detected. The camera can be used with the
+  
+   IFTTT
+  
+
+   app
+  
+  to create a number of recipes between connected services and the camera, such as turning it on when the user's phone is using
+  
+   geolocation
+  
+  or when the door is locked, or making it turn on the air purifier when bad air quality is detected. Parents can also use the Home as a baby monitor to report any motion or noise in a nursery, use two-way talk with their baby, or soothe the baby to sleep with music and an LED light sequence.
+  
+
+    [44]
+   
+
+
+  Withings Go (2016) is an
+  
+   activity tracker
+  
+  that can be clipped or hung on belts, or worn on the wrist with a silicone strap. It uses a replaceable battery that lasts eight months, is waterproof for swimming, and has an
+  
+   E Ink
+  
+  screen for always-on activity progress status (or, at a touch, the analog time).
+  
+
+    [45]
+   
+
+  Using the free Withings Health Mate
+  
+   iOS
+  
+  or
+  
+   Android
+  
+
+   app
+  
+  that keeps tabs on activity levels, users can also specify a target activity goal. Goal progress will be displayed on the tracker using a prominent circular countdown. The E Ink display also serves as a touch-sensitive button, letting users switch between activity goals and the watch function.
+  
+
+    [46]
+   
+
+
+  Withings Thermo is a
+  
+   temporal artery
+  
+
+   thermometer
+  
+  which uses a 16-
+  
+   sensor
+  
+  array to deliver fast and accurate temperature readings. In a non-invasive manner,
+  
+   infrared
+  
+  sensors take 4,000 measurements within two seconds, while an algorithm corrects for biases, such as skin heat loss and the ambient temperature, to produce a reliable single temperature reading.
+  
+
+    [47]
+   
+
+  The thermometer displays only the temperature, but additional data is stored, analyzed, and presented in the accompanying
+  
+   app
+  
+  . Its
+  
+   Wi-Fi
+  
+  and
+  
+   Bluetooth
+  
+  connectivity allows
+  
+   smartphone
+  
+  users to log readings, along with other information such as symptoms and medication.
+  
+
+    [48]
+   
+
+  The app stores profiles of several people and lasts on two batteries for about two years.
+  
+
+    [49]
+   
+
+  Thermo won two 2016
+  
+   CES
+  
+  Innovation Awards (Best in Fitness, Sport and Biotech, and Tech for a Better World).
+  
+
+    [47]
+   
+
+
+  This personal health coach connects with either the Activité or Activité Pop via
+  
+   Bluetooth low energy
+  
+  . It also connects with Go, Pulse, scales and BPM. Once the watch syncs with the app, users can view their sleep metrics and activity, and set a vibrating alarm. The Health Mate app shows activity and
+  
+   sleep
+  
+  trends over time in graphs. The app also tracks weight,
+  
+   heart rate
+  
+  , blood pressure and more if the user enters the data or owns Withings’ smart scale or blood pressure monitor.
+  
+
+    [50]
+   
+
+  Health Mate can be integrated with
+  
+   Apple Watch
+  
+  .
+  
+
+    [51]
+   
+
+
+  Within the Health Mate App, users can purchase Hy-Result, a protocol that helps users of home
+  
+   blood pressure monitors
+  
+  correctly interpret their results with personalized messages taking account of the user profile. Because blood pressure varies over time, Hy-Result takes three consecutive results, which can be shared with others.
+  
+
+    [52]
+   
+
+
+  Withings has received numerous awards for its products and innovations. They include the following:
+ 
+  Withings Health Institute is the company's research body, dedicated to accelerating the connected health revolution through a combination of in-house research and academic partnerships.
+  
+
+    [62]
+   
+
+  Using real-time data, it tracks the extent to which key risk factors for
+  
+   heart disease
+  
+  are linked to lifestyle, such as
+  
+   sedentary behavior
+  
+  , overweight and obesity, and
+  
+   high blood pressure
+  
+  , and what steps can be taken to reduce risks.
+  
+
+    [63]
+   
+
+  The Institute has published several research papers on various topics, and Withings products have been involved in numerous clinical trials.
+  
+
+    [64]
+   
+
+
+  Direct competitors include
+  
+   Fitbit
+  
+  , with a range of activity trackers and an online app that can exchange data with Withings;
+  
+
+    [65]
+   
+
+
+   Misfit
+  
+  , specializing in wearable technology;
+  
+
+    [66]
+   
+
+
+   Garmin
+  
+  , best known for its
+  
+   GPS
+  
+  products;
+  
+
+    [66]
+   
+
+
+   Qardio
+  
+  , focusing on heart health monitoring products;
+  
+
+    [67]
+   
+
+
+   iHealth Labs
+  
+  , with an iPhone-connectible
+  
+   blood pressure monitor
+  
+  ;
+  
+
+    [68]
+   
+
+
+   Blipcare
+  
+  , which produces weight scales and blood pressure monitors that are not Bluetooth-based, but WiFi-enabled;
+  
+
+    [69]
+   
+
+
+   BodyTrace
+  
+  , with an Internet-connected scale which uses GSM rather than WiFi to connect to the Internet;
+  
+
+    [70]
+   
+
+  and
+  
+   Luvion
+  
+  premium babyproducts, a Dutch company specialised in (connected) baby monitors.
+  
+
+    [71]
+   
+

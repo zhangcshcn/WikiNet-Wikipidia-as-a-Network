@@ -1,0 +1,615 @@
+
+
+
+   iMac
+  
+  is a range of
+  
+   all-in-one
+  
+
+   Macintosh
+  
+
+   desktop computers
+  
+  designed and built by
+  
+   Apple Inc.
+  
+  It has been the primary part of Apple's consumer desktop offerings since its debut in August 1998, and has evolved through
+  
+   six distinct forms
+  
+  .
+  
+
+    [1]
+   
+
+
+  In its original form,
+  
+   iMac G3
+  
+  had a
+  
+   gumdrop
+  
+  or
+  
+   egg-shaped
+  
+  look, with a
+  
+   CRT
+  
+  monitor, mainly enclosed by a colored,
+  
+   translucent
+  
+  plastic case, which was refreshed early on with a sleeker design notable for its
+  
+   slot-loaded optical drive
+  
+  . The second major revision,
+  
+   iMac G4
+  
+  , moved the design to a hemispherical base containing all the main components and an
+  
+   LCD
+  
+  monitor on a freely moving arm attached to it. The third and fourth major revisions,
+  
+   iMac G5
+  
+  and the
+  
+   Intel iMac
+  
+  respectively, placed all the components immediately behind the display, creating a slim unified design that tilts only up and down on a simple metal base. The fifth major revision (Summer 2007) shared the same form as the previous model, but was thinner and used
+  
+   anodized aluminum
+  
+  and a glass panel over the entire front. The sixth major revision (Fall 2012) uses a different display unit, omits the
+  
+   SuperDrive
+  
+  , and uses different production techniques from the older unibody versions. This allows it to be thinner at the edge than older models, with an edge thickness of 5.9mm (but the same maximum depth). It also includes a dual microphone setup, and includes
+  
+   solid-state drive
+  
+  (SSD) or hard disk storage, or an Apple
+  
+   Fusion Drive
+  
+  , a hybrid of solid state and hard disk drives. This version of iMac was announced in October 2012, with the 21.5-inch (55 cm) version released in November and the 27-inch (69 cm) version in December; these were refreshed in September 2013, with new
+  
+   Haswell
+  
+  processors, faster graphics, faster and larger SSD options and
+  
+   802.11ac
+  
+  WiFi cards.
+  
+
+    [2]
+   
+
+
+  In October 2014, the seventh major revision of the 27-inch (69 cm) iMac was announced, whose main feature is a "
+  
+   Retina
+  
+  5K" display at a resolution of 5120 × 2880 pixels. The new model also includes a new processor, graphics chip, and IO, along with several new storage options.
+  
+
+    [3]
+   
+
+  The seventh major revision of the 21.5-inch (55 cm) iMac was announced in October 2015. Its main feature is a "
+  
+   Retina
+  
+  4K" display at a resolution of 4096 × 2304 pixels. It has the same new processor, graphics chip, and IO as the 27-inch iMac, along with several new storage options.
+  
+
+    [4]
+   
+
+
+
+
+  The announcement of iMac in 1998 was a source of controversy and anticipation among commentators, Mac fans, and detractors. Opinions were divided over Apple's drastic changes to the Macintosh hardware. At the time, Apple had suffered a series of setbacks as consumers increasingly opted for
+  
+   Wintel
+  
+  (Windows PCs) machines instead of Apple's
+  
+   Performa
+  
+  models. Many in the industry thought that "beleaguered Apple" would soon be forced to start selling computers with a custom interface built on top of one or more potential operating system bases, such as
+  
+   Taligent
+  
+  ,
+  
+   Solaris
+  
+  , or
+  
+   Windows 98
+  
+  .
+  
+
+    [5]
+   
+
+
+  Part of Apple's effort to maintain the Mac platform was trying to improve its retail strategy; to this end, Apple secured a deal with
+  
+   CompUSA
+  
+  to set up a "store within a store" section at many CompUSA locations.
+  
+
+    [6]
+   
+
+  As these stores developed, however, they became a detriment to Apple sales, as CompUSA employees were unfamiliar with the Macintosh and directed customers to Wintel boxes instead.
+  
+
+    [7]
+   
+
+
+  The designer behind iMac's case was
+  
+   Jonathan Ive
+  
+  .
+  
+
+    [8]
+   
+
+
+  Ken Segall was an employee at an L.A. ad agency handling Apple's account who came up with the name "iMac" and pitched it to Steve Jobs. Jobs wanted the product to be called "MacMan", but eventually warmed to Segall's suggestion.
+  
+
+    [9]
+   
+
+  Segall says that the "i" stands for "
+  
+   Internet
+  
+  ",
+  
+
+    [10]
+   
+
+  but also represents the product as a personal and revolutionary device ('i' for "individuality" and "innovation").
+  
+
+    [11]
+   
+
+  Apple later
+  
+   adopted the 'i' prefix
+  
+  across its consumer hardware and software lines, such as
+  
+   iPod
+  
+  ,
+  
+   iBook
+  
+  (later MacBook),
+  
+   iPhone
+  
+  ,
+  
+   iPad
+  
+  and various pieces of software such as the
+  
+   iLife
+  
+  suite and
+  
+   iWork
+  
+  and the company's media player/store,
+  
+   iTunes
+  
+  .
+ 
+  Attention was given to the
+  
+   out-of-box experience
+  
+  : the user needed to go through only two steps to set up and connect to the Internet. "There's no step 3!" was the catch-phrase in a popular iMac commercial narrated by actor
+  
+   Jeff Goldblum
+  
+  .
+  
+
+    [12]
+   
+
+  Another commercial, dubbed "Simplicity Shootout", pitted seven-year-old Johann Thomas and his
+  
+   border collie
+  
+  Brodie, with an iMac, against Adam Taggart, a
+  
+   Stanford University
+  
+
+   MBA
+  
+  student, with an
+  
+   HP
+  
+  Pavilion 8250, in a race to set up their computers. Johann and Brodie finished in 8 minutes and 15 seconds,
+  
+
+    [13]
+   
+
+  whereas Adam was still working on it by the end of the commercial.
+ 
+  By 2005, it had become more and more apparent that IBM's development for the desktop implementation of PowerPC was grinding to a halt. Apple announced at the
+  
+   Worldwide Developers Conference
+  
+  that it would be
+  
+   switching the Macintosh to the x86 architecture
+  
+  and Intel's line of Core processors. The first Intel-equipped Macs were unveiled on January 10, 2006: the Intel iMac and the introductory MacBook Pro. Within nine months, Apple had smoothly transitioned the entire Macintosh line to Intel. One of the highly touted side benefits of this switch was the ability to run Windows on Mac hardware.
+ 
+  On July 27, 2010, Apple updated its line of iMacs to feature the new Intel Core "i-series" processors across the line. The 21.5" models now feature the
+  
+   Core i3
+  
+  processor, but these are upgradable to the Core i5. The high end 27" features a
+  
+   Quad-Core i5
+  
+  processor, which is upgradable to a
+  
+   Quad-Core i7
+  
+  . On this date Apple also announced its new "
+  
+   Apple Magic Trackpad
+  
+  " peripheral, a trackpad similar to that of MacBook Pro for use with iMac or any other Apple computer. Apple also introduced a AA NiMH battery charger intended to simplify the use of batteries in these peripherals. Apple offers an option to use a solid state drive instead of a large mechanical drive.
+ 
+  On May 3, 2011, Apple updated its iMac line with the introduction of Intel
+  
+   Thunderbolt
+  
+  technology and Intel Core
+  
+   i5
+  
+  and
+  
+   i7
+  
+
+   Sandy Bridge
+  
+  processors as well as a 1 mega pixel
+  
+   high definition
+  
+
+   FaceTime
+  
+  camera, features which were first introduced in the
+  
+   MacBook Pro
+  
+  line in February 2011.
+  
+
+    [14]
+   
+
+
+  On October 23, 2012, a new iMac was announced (for a November/December release) with a substantially thinner edge, new Apple
+  
+   Fusion Drive
+  
+  , faster processors (Intel Core
+  
+   i5
+  
+  and
+  
+   i7
+  
+
+   Ivy Bridge
+  
+  ) and graphics along with updates to the ports, but with the same overall depth (stand depth: 8 inches (20.3 cm)). To reduce the edge, the
+  
+   SuperDrive
+  
+  was removed on these iMacs.
+ 
+  On October 16, 2014, a new version of the 27-inch (69 cm) iMac was announced, whose main feature is a "
+  
+   Retina 5K
+  
+  " display at a resolution of 5120 x 2880 pixels.
+  
+
+    [15]
+   
+
+  The new model also includes a new
+  
+   processor
+  
+  ,
+  
+   graphics chip
+  
+  , and
+  
+   I/O
+  
+  , along with several new
+  
+   storage
+  
+  options. This computer was designed with professional photographers and video editors in mind, with the 5K resolution allowing 4K video to be played at its native resolution in Final Cut Pro, with room for toolbars on the side.
+ 
+  The
+  
+   original iMac
+  
+  was the first
+  
+   legacy-free PC
+  
+  .
+  
+
+    [16]
+   
+
+  It was the first Macintosh computer to have a
+  
+   USB
+  
+  port but no
+  
+   floppy disk drive
+  
+  . Subsequently, all Macs have included USB. Via the USB port, hardware makers could make products compatible with both x86 PCs and Macs. Previously, Macintosh users had to seek out certain hardware, such as keyboards and mice specifically tailored for the "old world" Mac's unique
+  
+   ADB
+  
+  interface and printers and modems with
+  
+   MiniDIN-8
+  
+  serial ports. Only a limited number of models from certain manufacturers were made with these interfaces, and often came at a premium price. USB, being cross-platform, has allowed Macintosh users to select from a large selection of devices marketed for the
+  
+   Wintel
+  
+  PC platform, such as
+  
+   hubs
+  
+  ,
+  
+   scanners
+  
+  ,
+  
+   storage devices
+  
+  ,
+  
+   USB flash drives
+  
+  , and
+  
+   mice
+  
+  . After iMac, Apple continued to remove older peripheral interfaces and floppy drives from the rest of its product line.
+ 
+  Borrowing from the 1997
+  
+   Twentieth Anniversary Macintosh
+  
+  , the various LCD-based iMac designs continued the all-in-one concept first envisioned in Apple's original Macintosh computer. The successful iMac allowed Apple to continue targeting the
+  
+   Power Macintosh
+  
+  line at the high-end of the market. This foreshadowed a similar strategy in the notebook market when the iMac-like
+  
+   MacBook
+  
+  was released in 2006. Since then, the company has continued this strategy of differentiating the consumer versus professional product lines. Apple's focus on design has allowed each of its subsequent products to create a distinctive identity. Apple avoided using the beige colors then pervading the PC industry. The company would later drift from the multicolored designs of the late 1990s and early 2000s. The latter part of the decade saw Apple using
+  
+   anodized
+  
+  aluminum; glass; and white, black, and clear
+  
+   polycarbonate
+  
+  plastics among their build materials. Today many PCs are more design-conscious than before iMac's introduction, with multi-shaded design schemes being common, and some desktops and laptops available in colorful, decorative patterns.
+  
+
+    [17]
+   
+
+
+  Apple's use of translucent, candy-colored plastics inspired similar
+  
+   industrial designs
+  
+  in other consumer products.
+  
+
+    [18]
+   
+
+  Apple's later introduction of the iPod, iBook G3 (Dual USB), and iMac G4 (all featuring snowy-white plastic), inspired similar designs in other companies' consumer electronics products. The color rollout also featured two distinctive ads: one called 'Life Savers' featured the
+  
+   Rolling Stones
+  
+  song "
+  
+   She's a Rainbow
+  
+  " and an advertisement for the white version had the introduction of
+  
+   Cream
+  
+  's "
+  
+   White Room
+  
+  " as its backing track.
+ 
+  iMac has received considerable critical acclaim, including praise from technology columnist
+  
+   Walt Mossberg
+  
+  as the "Gold Standard of desktop computing";
+  
+
+    [19]
+   
+
+
+
+    Forbes
+   
+   magazine
+  
+  described the original candy-colored line of iMac computers as being an "industry-altering success".
+  
+
+    [20]
+   
+
+  The first 24"
+  
+   Core 2 Duo
+  
+  iMac received
+  
+   CNET
+  
+  's "Must-have desktop" in their 2006
+  
+   Top 10 Holiday Gift Picks
+  
+  .
+  
+
+    [21]
+   
+
+
+  Apple faced a class-action lawsuit filed in 2008 for allegedly deceiving the public by promising millions of colors from the LCD screens of all Mac models while its 20-inch model only held 262,144 colors.
+  
+
+    [22]
+   
+
+  This issue arose due to the use of 6-bit per pixel
+  
+   Twisted nematic LCD
+  
+  screens. The case was dismissed on January 21, 2009.
+  
+
+    [23]
+   
+
+
+  While not a criticism of iMac
+  
+   per se
+  
+  , the integrated design has some inherent tradeoffs that have garnered criticism. In
+  
+   The Mythical Midrange Mac Minitower
+  
+  , Dan Frakes of
+  
+   Macworld
+  
+  suggests that with iMac occupying the midrange of Apple's product line, Apple has little to offer consumers who want some ability to expand or upgrade their computers, but don't need (or can't afford) the
+  
+   Mac Pro
+  
+  .
+  
+
+    [24]
+   
+
+  For example, iMac's integration of monitor and computer, while convenient, commits the owner to replacing both at the same time. For a time before the
+  
+   Mac mini
+  
+  's introduction, there were rumors of a "headless iMac"
+  
+
+    [25]
+   
+
+  but the G4 Mac mini as introduced had lower performance compared to iMac, which at the time featured a G5 processor.
+  
+
+    [26]
+   
+
+  Some 3rd party suppliers such as
+  
+   Other World Computing
+  
+  provide upgrade kits that include specialized tools for working on iMacs.
+ 
+  Similarly, though the graphics chipset in some Intel models is on a removable
+  
+   MXM
+  
+  , neither Apple nor third parties have offered retail iMac
+  
+   GPU
+  
+  upgrades, with the exception of those for the original iMac G3's "mezzanine" PCI slot. Models after iMac G5 (excluding the August 7, 2007 iMac update) made it difficult for the end-user to replace the hard disk or optical drive, and Apple's warranty explicitly forbids upgrading the socketed CPU. While conceding the possibility of a minitower cannibalizing sales from the Mac Pro, Frakes argues there is enough frustration with iMac's limitations to make such a proposition worthwhile. This disparity has become more pronounced after the G4 era since the bottom-end Power Mac G5 (with one brief exception) and Mac Pro models have all been priced in the US$1999–$2499 range, while base model Power Macs G4s and earlier were US$1299–$1799. The current generation iMac has Intel 5th generation i5 and i7 processors, ranging from quad core 2.7 GHz i5 to a quad core 3.4 GHz i7 processor,
+  
+
+    [27]
+   
+
+  however it is possible to upgrade the 2010 of iMac quite easily.
+  
+
+    [28]
+   
+

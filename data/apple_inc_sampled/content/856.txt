@@ -1,0 +1,133 @@
+
+
+   Fuchsia
+  
+  is a
+  
+   capability-based
+  
+  ,
+  
+   real-time operating system
+  
+  (RTOS) being developed by
+  
+   Google
+  
+  .
+  
+
+    [1]
+   
+
+  In contrast to prior Google-developed
+  
+   operating systems
+  
+  such as
+  
+   Chrome OS
+  
+  and
+  
+   Android
+  
+  , which are based on
+  
+   Linux kernels
+  
+  , Fuchsia is based on a new
+  
+   microkernel
+  
+  named
+  
+   Magenta
+  
+  ,
+  
+
+    [2]
+   
+
+  derived from
+  
+   Little Kernel
+  
+  (LK)
+  
+
+    [3]
+   
+
+  , which was intended for
+  
+   embedded systems
+  
+  and is mainly written in the language
+  
+   C
+  
+  .
+  
+
+    [4]
+   
+
+  The Magenta kernel is built for "modern phones and modern personal computers with fast processors, non-trivial amounts of ram with arbitrary peripherals doing open ended computation",
+  
+
+    [5]
+   
+
+  meaning both high end smart-phones, desktop computers, and modular systems, like
+  
+   Project Ara
+  
+  .
+  
+
+    [6]
+   
+
+
+  The
+  
+   logo
+  
+  of the operating system at
+  
+   GitHub
+  
+  is a
+  
+   fuchsia
+  
+  -colored
+  
+   infinity symbol
+  
+  .
+ 
+  It is distributed as
+  
+   free and open-source software
+  
+  under a mix of
+  
+   software licenses
+  
+  , including
+  
+   BSD 3 clause
+  
+  ,
+  
+   MIT
+  
+  , and
+  
+   Apache 2.0
+  
+  .
+ 

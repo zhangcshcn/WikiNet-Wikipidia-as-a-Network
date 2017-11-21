@@ -1,0 +1,363 @@
+
+
+  The
+  
+   Portable Operating System Interface
+  
+  (
+  
+   POSIX
+  
+  )
+  
+
+    [1]
+   
+
+  is a family of
+  
+   standards
+  
+  specified by the
+  
+   IEEE Computer Society
+  
+  for maintaining compatibility between
+  
+   operating systems
+  
+  . POSIX defines the
+  
+   application programming interface
+  
+  (API), along with command line
+  
+   shells
+  
+  and utility interfaces, for software compatibility with variants of
+  
+   Unix
+  
+  and other operating systems.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+
+  Originally, the name "POSIX" referred to IEEE Std 1003.1-1988, released in 1988. The family of POSIX standards is formally designated as
+  
+   IEEE 1003
+  
+  and the international standard name is
+  
+   ISO
+  
+  /
+  
+   IEC
+  
+  9945.
+ 
+  The standards emerged from a project that began circa 1985.
+  
+   Richard Stallman
+  
+  suggested the name
+  
+   POSIX
+  
+  to the IEEE instead of former
+  
+   IEEE-IX
+  
+  . The committee found it more easily pronounceable and memorable, and thus adopted it.
+  
+
+    [2]
+   
+
+
+
+    [4]
+   
+
+
+   [
+   
+
+
+      better source needed
+     
+
+
+   ]
+  
+
+  Unix was selected as the basis for a standard system interface partly because it was "manufacturer-neutral." However, several major versions of Unix existed—so there was a need to develop a common denominator system. The POSIX specifications for
+  
+   Unix-like
+  
+  operating systems originally consisted of a single document for the core programming interface, but eventually grew to 19 separate documents (POSIX.1, POSIX.2, etc.).
+  
+
+    [5]
+   
+
+  The standardized user
+  
+   command line
+  
+  and
+  
+   scripting interface
+  
+  were based on the
+  
+   UNIX System V
+  
+  shell.
+  
+
+    [6]
+   
+
+  Many user-level programs, services, and utilities (including
+  
+   awk
+  
+  ,
+  
+   echo
+  
+  ,
+  
+   ed
+  
+  ) were also standardized, along with required program-level services (including basic
+  
+   I/O
+  
+  :
+  
+   file
+  
+  ,
+  
+   terminal
+  
+  , and
+  
+   network
+  
+  ). POSIX also defines a standard
+  
+   threading
+  
+  library API which is supported by most modern operating systems. Nowadays, most parts of POSIX are combined into a single standard
+  
+   (IEEE Std 1003.1-2008
+  
+  , also known as
+  
+   POSIX.1-2008).
+  
+
+  As of 2014
+  
+
+    [update]
+   
+
+  , POSIX documentation is divided in two parts:
+ 
+  The development of the POSIX standard takes place in the
+  
+   Austin Group
+  
+  (a joint
+  
+   working group
+  
+  linking the IEEE, The Open Group and the ISO/IEC JTC 1 organizations).
+ 
+  Before 1997, POSIX comprised several standards:
+ 
+  After 1997, the
+  
+   Austin Group
+  
+  developed the POSIX revisions. The specifications are known under the name
+  
+   Single UNIX Specification
+  
+  , before they become a POSIX standard when formally approved by the ISO.
+ 
+
+   POSIX.1-2001
+  
+  (or IEEE Std 1003.1-2001) equates to the
+  
+   Single UNIX Specification version 3.
+  
+
+
+    [9]
+   
+
+
+  This standard consisted of:
+ 
+  IEEE Std 1003.1-2004 involved a minor update of POSIX.1-2001. It incorporated two minor updates or
+  
+   errata
+  
+  referred to as
+  
+   Technical Corrigenda
+  
+  .
+  
+
+    [10]
+   
+
+  Its contents are available on the web.
+  
+
+    [11]
+   
+
+
+  As of 2017
+  
+
+    [update]
+   
+
+  ,
+  
+   Base Specifications, Issue 7
+  
+  (or
+  
+   IEEE Std 1003.1-2008
+  
+  , 2016 Edition) represents the current version.
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+  A free online copy is available.
+  
+
+    [12]
+   
+
+
+  This standard consists of:
+ 
+  POSIX mandates 512-byte default block sizes for the
+  
+   df
+  
+  and
+  
+   du
+  
+  utilities, reflecting the typical size of blocks on disks. When
+  
+   Richard Stallman
+  
+  and the
+  
+   GNU
+  
+  team were implementing POSIX for the
+  
+   GNU operating system
+  
+  , they objected to this on the grounds that most people think in terms of 1024 byte (or 1
+  
+   KiB
+  
+  ) blocks. The environment variable
+  
+   POSIXLY_CORRECT
+  
+  was introduced to allow the user to force the standards-compliant behaviour.
+  
+
+    [14]
+   
+
+  The variable name
+  
+   POSIX_ME_HARDER
+  
+  was also discussed.
+  
+
+    [15]
+   
+
+  The variable
+  
+   POSIXLY_CORRECT
+  
+  is now also used for a number of other behaviour quirks, where "POSIX and common sense disagree".
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Depending upon the degree of compliance with the standards, one can classify operating systems as fully or partly POSIX compatible. Certified products can be found at the IEEE's website.
+  
+
+    [16]
+   
+
+
+  Some versions of the following operating systems have been certified to conform to one or more of the various POSIX standards. This means that they passed the automated conformance tests.
+  
+
+    [17]
+   
+
+
+  The following, while not officially certified as POSIX compatible, comply in large part:
+ 
+  Mostly POSIX compliant environments for
+  
+   OS/2
+  
+  :
+ 
+  Partially POSIX compliant environments for
+  
+   DOS
+  
+  include:
+ 
+  The following are not officially certified as POSIX compatible, but they conform in large part to the standards by implementing POSIX support via some sort of compatibility feature (usually translation libraries, or a layer atop the kernel). Without these features, they are usually noncompliant.
+ 

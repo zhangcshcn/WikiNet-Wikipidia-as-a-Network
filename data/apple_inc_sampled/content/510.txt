@@ -1,0 +1,171 @@
+
+
+  The
+  
+   IBM System x
+  
+
+   computers
+  
+  formed a sub-brand of
+  
+   International Business Machines
+  
+  (IBM's)
+  
+   System
+  
+  brand
+  
+   servers
+  
+  , focusing on x86 processor equipped servers. (the other
+  
+   System
+  
+  sub-brands having the names
+  
+   IBM Power Systems
+  
+  ,
+  
+   IBM System z
+  
+  and
+  
+   IBM System Storage
+  
+  ). In addition,
+  
+   IBM System x
+  
+  was the main component of the
+  
+   IBM System Cluster 1350
+  
+  solution.
+ 
+  The division has been sold to
+  
+   Lenovo
+  
+  , effective October 1st 2014.
+  
+
+    [1]
+   
+
+
+
+
+  Starting out as
+  
+   IBM PC Server
+  
+  , rebranded
+  
+   Netfinity
+  
+  , then
+  
+   eServer xSeries
+  
+  and now
+  
+   System x
+  
+  , these servers are distinguished by being based on
+  
+   off-the-shelf
+  
+
+   x86
+  
+
+   CPUs
+  
+  ; IBM positions them as their "low end" or "entry" offering. Previously IBM servers based on
+  
+   AMD
+  
+
+   Opteron
+  
+  CPUs did not share the
+  
+   xSeries
+  
+  brand; instead they fell directly under the
+  
+   e
+  
+  Server umbrella. However, current AMD Opteron-based servers fall under the
+  
+   System x
+  
+  brand.
+ 
+  Not to be confused with a different IBM product with a similar name,
+  
+   NetFinity
+  
+  (notice the capital F).
+ 
+  The numbering scheme started off similar to that of the IBM PC Servers, but additional ranges were added, like the entry-level 1000 model later on. Models ending with an R, are rack-mount.
+ 
+  Some Netfinity servers used IBM's
+  
+   C2T
+  
+  cabling scheme for Keyboard/Video/Mouse.
+ 
+  Many xSeries servers used IBM's
+  
+   C2T
+  
+  cabling scheme for Keyboard/Video/Mouse.
+ 
+  For marketing reasons the AMD processor based e325, e326 and e326m and the BladeCenter which supports non-Intel processor products were not branded xSeries, but were instead placed directly under the eServer brand. The xSeries brand was limited to only Intel-based server products.
+ 
+  From a numbering perspective the AMD servers did fit into the xSeries range, under the similar x335 and x336 Intel processor products. These numbers were not re-used in the xSeries range to prevent confusion.
+ 
+
+
+  Lenovo also had and still has its own ThinkServer family of Intel servers. This family is technically less advanced than System x.
+ 
+  2nd digit increments to show capability
+ 
+  3rd digit is a 0 for tower models, and 5 for rack-mount
+ 
+  4th digit is a 0 for Intel processors, and 5 for AMD Opteron.
+ 
+  Models with a T at the end are meant for Telco purposes.
+ 
+  System x iDataPlex was used by many
+  
+   TOP500
+  
+  supercomputers, including
+  
+   SuperMUC
+  
+  and Stampede. Other smaller installations included
+  
+   SciNet Consortium
+  
+  's General Purpose Cluster
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [4]
+   
+

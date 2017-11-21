@@ -1,0 +1,1664 @@
+
+
+
+   FreeBSD
+  
+  is a
+  
+   free and open source
+  
+
+   Unix-like
+  
+
+   operating system
+  
+  descended from
+  
+   Research Unix
+  
+  via the
+  
+   Berkeley Software Distribution
+  
+  (BSD). Although for legal reasons FreeBSD cannot use the Unix
+  
+   trademark
+  
+  , it is a direct descendant of BSD, which was historically also called "BSD Unix" or "Berkeley Unix". The first version of FreeBSD was released in 1993, and today FreeBSD is the most widely used
+  
+   open-source
+  
+  BSD distribution, accounting for more than three-quarters of all installed systems running open-source BSD derivatives.
+  
+
+    [2]
+   
+
+
+  FreeBSD has similarities with
+  
+   Linux
+  
+  , with two major differences in scope and licensing: FreeBSD maintains a complete operating system, i.e. the project delivers
+  
+   kernel
+  
+  ,
+  
+   device drivers
+  
+  ,
+  
+   userland
+  
+  utilities and
+  
+   documentation
+  
+  , as opposed to Linux delivering a kernel and drivers only and relying on third-parties for system software;
+  
+
+    [3]
+   
+
+  and FreeBSD source code is generally released under a permissive
+  
+   BSD license
+  
+  as opposed to the
+  
+   copyleft
+  
+
+   GPL
+  
+  used by Linux.
+ 
+  The FreeBSD project includes a security team overseeing all software shipped in the base distribution. A wide range of additional third-party applications may be installed using the pkgng package management system or the
+  
+   FreeBSD Ports
+  
+  , or by directly compiling source code. Due to its permissive licensing terms, much of FreeBSD's code base has become an integral part of other operating systems, such as
+  
+   Juniper
+  
+
+   JUNOS
+  
+  ,
+  
+   Apple
+  
+  's
+  
+   macOS
+  
+  , the
+  
+   Nintendo Switch system software
+  
+  , and the operating systems running on
+  
+   Sony
+  
+  's
+  
+   PlayStation 3
+  
+
+
+    [4]
+   
+
+  and
+  
+   PlayStation 4
+  
+  .
+  
+
+    [5]
+   
+
+
+
+
+  FreeBSD's roots go back to the
+  
+   University of California, Berkeley
+  
+  . The university acquired a UNIX source license from
+  
+   AT&T
+  
+  . Students of the university started to modify and improve the AT&T Unix and called this modified version
+  
+   Berkeley Unix
+  
+  or BSD, implementing features such as
+  
+   TCP/IP
+  
+  ,
+  
+   virtual memory
+  
+  and the
+  
+   Unix File System
+  
+  . The BSD project was founded in 1976 by
+  
+   Bill Joy
+  
+  . But since BSD contained code from AT&T Unix, all recipients had to get a license from AT&T first in order to use BSD.
+  
+
+    [6]
+   
+
+
+  In June 1989, "Networking Release 1" or simply Net-1 – the first public version of BSD – was released. After releasing Net-1,
+  
+   Keith Bostic
+  
+  , a developer of BSD, suggested replacing all AT&T code with freely-redistributable code under the original
+  
+   BSD license
+  
+  . Work on replacing AT&T code began and, after 18 months, much of the AT&T code was replaced. However, six files containing AT&T code remained in the kernel. The BSD developers decided to release the "Networking Release 2" (Net-2) without those six files. Net-2 was released in 1991.
+  
+
+    [6]
+   
+
+
+  In 1992, several months after the release of Net-2,
+  
+   William Jolitz
+  
+  and
+  
+   Lynne Jolitz
+  
+  wrote replacements for those six missing files, ported BSD to the
+  
+   Intel 80386
+  
+  -based microprocessors, and called their new operating system
+  
+   386BSD
+  
+  . They released 386BSD via an anonymous FTP server.
+  
+
+    [6]
+   
+
+  The development flow of 386BSD was slow and after a period of neglect, a group of 386BSD users decided to branch out on their own and create FreeBSD so that they could keep the operating system up to date. The first version of FreeBSD was released on November 1993.
+  
+
+    [7]
+   
+
+
+
+    [6]
+   
+
+
+  In the early days of the project's inception, a company named
+  
+   Walnut Creek CDROM
+  
+  , upon the suggestion of the two FreeBSD developers, agreed to release the operating system on
+  
+   CD-ROM
+  
+  . In addition to that, the company employed
+  
+   Jordan Hubbard
+  
+  and David Greenman, ran FreeBSD on its servers, sponsored FreeBSD conferences and published FreeBSD-related books, including
+  
+   The Complete FreeBSD
+  
+  by
+  
+   Greg Lehey
+  
+  . By 1997, FreeBSD was Walnut Creek's "most successful product". The company itself later renamed to
+  
+   The FreeBSD Mall
+  
+  and later iXSystems.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+  Today, FreeBSD is used by many IT companies such as
+  
+   IBM
+  
+  ,
+  
+   Nokia
+  
+  ,
+  
+   Juniper Networks
+  
+  , and
+  
+   NetApp
+  
+  to build their product.
+  
+
+    [11]
+   
+
+
+
+    [12]
+   
+
+  Certain parts of
+  
+   Apple
+  
+  's
+  
+   Mac OS X
+  
+  operating system are based on FreeBSD.
+  
+
+    [13]
+   
+
+  The
+  
+   PlayStation 3
+  
+  operating system also borrows certain components from FreeBSD,
+  
+
+    [14]
+   
+
+  while the
+  
+   PlayStation 4
+  
+  operating system is derived from FreeBSD 9.
+  
+
+    [15]
+   
+
+
+   Netflix
+  
+  ,
+  
+
+    [16]
+   
+
+
+   WhatsApp
+  
+  ,
+  
+
+    [17]
+   
+
+  and
+  
+   FlightAware
+  
+
+
+    [18]
+   
+
+  are also examples of big, successful and heavily network-oriented companies which are running FreeBSD.
+ 
+  386BSD and FreeBSD were both derived from 1992's BSD release.
+  
+
+    [11]
+   
+
+  In January 1992,
+  
+   BSDi
+  
+  started to release
+  
+   BSD/386
+  
+  , later called BSD/OS, an operating system similar to FreeBSD and based on 1992's BSD release. AT&T filed a lawsuit against BSDi and alleged distribution of AT&T source code in violation of license agreements. The lawsuit was settled out of court and the exact terms were not all disclosed. The only one that became public was that BSDi would migrate their source base to the newer 4.4BSD-Lite sources. Although not involved in the litigation, it was suggested to FreeBSD that they should also move to 4.4BSD-Lite.
+  
+
+    [19]
+   
+
+  FreeBSD 2.0, which was released on November 1994, was the first version of FreeBSD without any code from AT&T.
+  
+
+    [20]
+   
+
+
+  As a general purpose operating system, FreeBSD could be used in various scenarios:
+  
+
+    [21]
+   
+
+
+  FreeBSD's TCP/IP stack is based on the
+  
+   4.2BSD
+  
+  implementation of TCP/IP which greatly contributed to the widespread adoption of these protocols.
+  
+
+    [23]
+   
+
+  FreeBSD also supports
+  
+   IPv6
+  
+  ,
+  
+
+    [24]
+   
+
+
+   SCTP
+  
+  ,
+  
+   IPSec
+  
+  , and wireless networking (
+  
+   Wi-Fi
+  
+  ).
+  
+
+    [25]
+   
+
+  The IPv6 and IPSec stacks were taken from the
+  
+   KAME project
+  
+  .
+  
+
+    [26]
+   
+
+  Also, FreeBSD supports
+  
+   IPX
+  
+  and
+  
+   AppleTalk
+  
+  protocols, but they are considered old and it is planned to drop support of them in the upcoming FreeBSD 11.0.
+  
+
+    [27]
+   
+
+
+  As of FreeBSD 5.4, support for the
+  
+   Common Address Redundancy Protocol
+  
+  (CARP) was imported from the
+  
+   OpenBSD
+  
+  project. CARP allows multiple nodes to share a set of IP addresses. So if one of the nodes goes down, other nodes still can serve the requests.
+  
+
+    [28]
+   
+
+
+  FreeBSD has several unique features related to storage.
+  
+   Soft updates
+  
+  can protect the consistency of the
+  
+   UFS
+  
+  filesystem (widely used on the BSDs) in the event of a system crash.
+  
+
+    [29]
+   
+
+  Filesystem snapshots allow an image of a UFS filesystem at an instant in time to be efficiently created.
+  
+
+    [30]
+   
+
+  Snapshots allow reliable backup of a live filesystem.
+  
+   GEOM
+  
+  is a modular framework that provides
+  
+   RAID
+  
+  (levels 0, 1, 3 currently),
+  
+   full disk encryption
+  
+  ,
+  
+   journaling
+  
+  , concatenation, caching, and access to network-backed storage. GEOM allows building of complex storage solutions combining ("chaining") these mechanisms.
+  
+
+    [31]
+   
+
+  FreeBSD provides two frameworks for data encryption:
+  
+   GBDE
+  
+  and
+  
+   Geli
+  
+  . Both GBDE and Geli operate at the disk level. GBDE was written by
+  
+   Poul-Henning Kamp
+  
+  and is distributed under the two-clause BSD license. Geli is an alternative to GBDE that was written by Pawel Jakub Dawidek and first appeared in FreeBSD 6.0.
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+
+  From 7.0 onward, FreeBSD supports the
+  
+   ZFS
+  
+  filesystem. ZFS was previously an open source filesystem that was first developed by
+  
+   Sun Microsystems
+  
+  , but when
+  
+   Oracle
+  
+  acquired Sun, ZFS became a proprietary product. However, the FreeBSD project is still developing and improving its ZFS implementation via the
+  
+   OpenZFS
+  
+  project.
+  
+
+    [34]
+   
+
+
+  FreeBSD provides several security-related features including
+  
+   access control lists
+  
+  (ACLs),
+  
+
+    [35]
+   
+
+  security event auditing, extended file system attributes,
+  
+   mandatory access controls
+  
+  (MAC)
+  
+
+    [36]
+   
+
+  and fine-grained
+  
+   capabilities
+  
+  .
+  
+
+    [37]
+   
+
+  These security enhancements were developed by the
+  
+   TrustedBSD
+  
+  project. The project was founded by
+  
+   Robert Watson
+  
+  with the goal of implementing concepts from the
+  
+   Common Criteria
+  
+  for Information Technology Security Evaluation and the
+  
+   Orange Book
+  
+  . This project is ongoing and many of its extensions have been integrated into FreeBSD.
+  
+
+    [38]
+   
+
+  The project is supported by a variety of organizations, including the DARPA, NSA, Network Associates Laboratories, Safeport Network Services, the University of Pennsylvania, Yahoo!, McAfee Research, SPARTA, Apple Computer, nCircle Network Security, Google, the University of Cambridge Computer Laboratory, and others.
+  
+
+    [39]
+   
+
+
+  The project has also ported the
+  
+   NSA
+  
+  's
+  
+   FLASK
+  
+  /TE implementation from
+  
+   SELinux
+  
+  to FreeBSD. Other work includes the development of
+  
+   OpenBSM
+  
+  , an open source implementation of Sun's Basic Security Module (BSM)
+  
+   API
+  
+  and audit log file format, which supports an extensive security audit system. This was shipped as part of FreeBSD 6.2. Other infrastructure work in FreeBSD performed as part of the TrustedBSD Project has included GEOM and OpenPAM.
+  
+
+    [37]
+   
+
+
+  Most components of the TrustedBSD project are eventually folded into the main sources for FreeBSD. In addition, many features, once fully matured, find their way into other operating systems. For example,
+  
+   OpenPAM
+  
+  has been adopted by
+  
+   NetBSD
+  
+  .
+  
+
+    [40]
+   
+
+  Moreover, the TrustedBSD MAC Framework has been adopted by
+  
+   Apple
+  
+  for
+  
+   OS X
+  
+  .
+  
+
+    [41]
+   
+
+
+  FreeBSD ships with three different firewall packages:
+  
+   IPFW
+  
+  ,
+  
+   pf
+  
+  and
+  
+   IPFilter
+  
+  . IPFW is FreeBSD's native firewall. pf was taken from OpenBSD and IPFilter was ported to FreeBSD by Darren Reed.
+  
+
+    [42]
+   
+
+
+  Taken from OpenBSD, the
+  
+   OpenSSH
+  
+  program was included in default install. OpenSSH is a Free implementation of the SSH protocol and is a replacement for telnet. Unlike telnet, OpenSSH encrypts all information (including username and password).
+  
+
+    [43]
+   
+
+
+  In November 2012, The FreeBSD Security Team announced that hackers gained unauthorized access on two of the project's servers. These servers were turned off immediately. More research demonstrated that the first unauthorized access by hackers occurred on 19 September. Apparently hackers gained access to these servers by stealing
+  
+   SSH keys
+  
+  from one of the developers, not by exploiting a bug in the operating system itself. These two hacked servers were part of the infrastructure used to build third-party software packages. The FreeBSD Security Team checked the integrity of the binary packages and announced that no unauthorized change was made to the binary packages, but they stated that they can't guarantee the integrity of packages that were downloaded between 19 September and 11 November.
+  
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+
+
+    [46]
+   
+
+
+  FreeBSD has been ported to a variety of
+  
+   instruction set architectures
+  
+  . The FreeBSD project organizes architectures into tiers that characterize the level of support provided. Tier 1 architectures are mature and fully supported. Tier 2 architectures are undergoing major development. Tier 3 architectures are experimental or are no longer under active development and Tier 4 architectures have no support at all.
+ 
+  As of March 2016
+  
+
+    [update]
+   
+
+  , FreeBSD has been ported to the following architectures:
+  
+
+    [47]
+   
+
+
+  The ARM and MIPS support is mostly aimed at embedded systems, however FreeBSD/ARM runs on a number of
+  
+   single-board computers
+  
+  , including the
+  
+   BeagleBone Black
+  
+  ,
+  
+   Raspberry Pi
+  
+
+
+    [50]
+   
+
+
+
+    [51]
+   
+
+  and
+  
+   Wandboard
+  
+  .
+  
+
+    [52]
+   
+
+
+  FreeBSD has a
+  
+   software repository
+  
+  of over 26,000 applications that are developed by third parties. Examples include:
+  
+   windowing systems
+  
+  ,
+  
+   web browsers
+  
+  ,
+  
+   email clients
+  
+  ,
+  
+   office suites
+  
+  and so forth. In general, the project itself does not develop this software, only the framework to allow these programs to be installed, which is known as the Ports collection. Applications may either be
+  
+   compiled
+  
+  from
+  
+   source
+  
+  ("ports"), provided their licensing terms allow this, or downloaded as pre-compiled binaries ("packages").
+  
+
+    [53]
+   
+
+  The Ports collection supports the current and stable branches of FreeBSD. Older releases are not supported and may or may not work correctly with an up-to-date Ports collection.
+  
+
+    [54]
+   
+
+
+  Ports use
+  
+   Makefile
+  
+  to automatically fetch the desired application's
+  
+   source code
+  
+  , either from a local or remote
+  
+   repository
+  
+  , unpack it on the system, apply patches to it and compile it.
+  
+
+    [3]
+   
+
+
+
+    [55]
+   
+
+  Depending on the size of the source code, compiling can take a long time, but it gives the user more control over the process and its result. Most ports also have package counterparts (i.e. pre-compiled binaries), giving the user a choice. Although this method is faster, the user has fewer customisation options.
+  
+
+    [53]
+   
+
+
+  FreeBSD version 10.0 introduced the
+  
+   package manager
+  
+  pkg as a replacement for the previously used package tools.
+  
+
+    [56]
+   
+
+  It is functionally similar to
+  
+   apt
+  
+  and
+  
+   yum
+  
+  in
+  
+   Linux distributions
+  
+  . It allows for installation, upgrading and removal of both ports and packages. In addition to pkg,
+  
+   PackageKit
+  
+  can also be used to access the Ports collection.
+ 
+  First introduced in FreeBSD version 4, jails is a security mechanism and an implementation of
+  
+   operating-system-level virtualization
+  
+  that enables the user to run multiple instances of a guest operating system on top of a FreeBSD host. It is an enhanced version of the traditional
+  
+   chroot
+  
+  mechanism. A process that runs within such a jail is unable to access the resources outside of it. Every jail has its own
+  
+   hostname
+  
+  and
+  
+   IP address
+  
+  . It is possible to run multiple jails at the same time, but the kernel is shared among all of them. Hence only software supported by the FreeBSD kernel can be run within a jail.
+  
+
+    [57]
+   
+
+
+
+   bhyve
+  
+  , a new virtualization solution was introduced in FreeBSD 10.0. bhyve allows a user to run a number of guest operating systems (FreeBSD,
+  
+   OpenBSD
+  
+  ,
+  
+   Linux
+  
+  , and
+  
+   Microsoft Windows
+  
+
+
+    [58]
+   
+
+  ) simultaneously. Other operating systems such as
+  
+   Illumos
+  
+  are planned. bhyve was written by Neel Natu and Peter Grehan and was announced in the 2011 BSDCan conference for the first time. The main difference between bhyve and
+  
+   FreeBSD jails
+  
+  is that jails are an
+  
+   operating system-level virtualization
+  
+  and therefore limited to only FreeBSD guests; but bhyve is a type 2
+  
+   hypervisor
+  
+  and is not limited to only FreeBSD guests.
+  
+
+    [59]
+   
+
+
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+  For comparison, bhyve is a similar technology to
+  
+   KVM
+  
+  whereas jails are closer to
+  
+   LXC containers
+  
+  or
+  
+   Solaris Zones
+  
+  .
+ 
+
+   VirtualBox
+  
+  and
+  
+   QEMU
+  
+  are available on FreeBSD.
+ 
+  Most software that runs on
+  
+   Linux
+  
+  can run on FreeBSD using an optional built-in
+  
+   compatibility layer
+  
+  . Hence, most Linux binaries can be run on FreeBSD, including some proprietary applications distributed only in binary form. This compatibility layer is not an
+  
+   emulation
+  
+  ; Linux's
+  
+   system call
+  
+  interface is implemented in the FreeBSD's kernel and hence, Linux
+  
+   executable images
+  
+  and
+  
+   shared libraries
+  
+  are treated the same as FreeBSD's native executable images and shared libraries.
+  
+
+    [62]
+   
+
+  Additionally, FreeBSD provides
+  
+   compatibility layers
+  
+  for several other
+  
+   Unix-like
+  
+
+   operating systems
+  
+  , in addition to Linux, such as
+  
+   BSD/OS
+  
+  and
+  
+   SVR4
+  
+  ,
+  
+
+    [62]
+   
+
+  however, it is more common for users to compile those programs directly on FreeBSD.
+  
+
+    [63]
+   
+
+
+  No noticeable performance penalty over native FreeBSD programs has been noted when running Linux binaries, and, in some cases, these may even perform more smoothly than on Linux.
+  
+
+    [64]
+   
+
+
+
+    [65]
+   
+
+  However, the layer is not altogether seamless, and some Linux binaries are unusable or only partially usable on FreeBSD. There is support for system calls up to version 2.6.18, available since
+  
+   FreeBSD 7.0
+  
+  . As of release 10.3, FreeBSD can run 64-bit Linux binaries.
+  
+
+    [66]
+   
+
+
+  FreeBSD has implemented a number of
+  
+   Microsoft Windows
+  
+  native
+  
+   NDIS
+  
+  kernel interfaces to allow FreeBSD to run Windows-only network drivers.
+  
+
+    [67]
+   
+
+
+
+    [68]
+   
+
+
+  FreeBSD's kernel provides support for some essential tasks such as managing processes, communication, booting and filesystems. FreeBSD has a
+  
+   monolithic
+  
+  kernel,
+  
+
+    [69]
+   
+
+  with modular design. Different parts of the kernel, such as drivers, are designed as modules. The user can load and unload these modules at any time.
+  
+
+    [70]
+   
+
+
+   ULE
+  
+  is the default
+  
+   scheduler
+  
+  in FreeBSD since version 7.1, it supports
+  
+   SMP
+  
+  and
+  
+   SMT
+  
+  .
+  
+
+    [71]
+   
+
+  The FreeBSD kernel has also a scalable event notification interface, named
+  
+   kqueue
+  
+  . It has been ported to other BSD-derivatives such as
+  
+   OpenBSD
+  
+  ,
+  
+   NetBSD
+  
+  .
+  
+
+    [72]
+   
+
+  Kernel threading was introduced in FreeBSD 5.0, using an
+  
+   M:N threading model
+  
+  . This model works well in theory,
+  
+
+    [73]
+   
+
+
+
+    [74]
+   
+
+  but it is hard to implement and few operating systems support it. Although FreeBSD's implementation of this model worked, it did not perform well, so from version 7.0 onward, FreeBSD started using a
+  
+   1:1 threading model
+  
+  , called libthr.
+  
+
+    [74]
+   
+
+
+  FreeBSD's documentation consists of its handbooks, manual pages, mailing list archives, FAQs and a variety of articles, mainly maintained by The FreeBSD Documentation Project. FreeBSD's documentation is translated into several languages.
+  
+
+    [75]
+   
+
+  All official documentation is released under the
+  
+   FreeBSD Documentation License
+  
+  , "a permissive non-copyleft free documentation license that is compatible with the GNU FDL".
+  
+
+    [76]
+   
+
+  FreeBSD's documentation is described as "high-quality".
+  
+
+    [77]
+   
+
+
+
+    [78]
+   
+
+
+  The FreeBSD project maintains a variety of mailing lists.
+  
+
+    [79]
+   
+
+  Among the most popular mailing lists are FreeBSD-questions (general questions) and FreeBSD-hackers (a place for asking more technical questions).
+  
+
+    [80]
+   
+
+
+  Since 2004, the New York City BSD Users Group database provides
+  
+   dmesg
+  
+  information from a collection of computers (
+  
+   laptops
+  
+  ,
+  
+   workstations
+  
+  ,
+  
+   single-board computers
+  
+  ,
+  
+   embedded systems
+  
+  ,
+  
+   virtual machines
+  
+  , etc.) running FreeBSD.
+  
+
+    [81]
+   
+
+
+  From version 2.0 to 9.0, FreeBSD used the sysinstall program as its main installer. It was written in
+  
+   C
+  
+  by
+  
+   Jordan Hubbard
+  
+  . It uses a
+  
+   text user interface
+  
+  , and is divided into a number of menus and screens that can be used to configure and control the installation process. It can also be used to install Ports and Packages as an alternative to the
+  
+   command-line interface
+  
+  .
+  
+
+    [82]
+   
+
+
+  The sysinstall utility is now considered deprecated in favor of bsdinstall, a new installer which was introduced in FreeBSD 9.0. bsdinstall is "a lightweight replacement for sysinstall" that was written in sh. According to
+  
+   OSNews
+  
+  , "It has lost some features while gaining others, but it is a much more flexible design, and will ultimately be significant improvement".
+  
+
+    [57]
+   
+
+
+
+    [83]
+   
+
+
+  FreeBSD is developed by a volunteer team located around the world. The developers use the
+  
+   Internet
+  
+  for all communication and many have not met each other in person. In addition to local user groups sponsored and attended by users, an annual conference, called BSDcon, is held by
+  
+   USENIX
+  
+  . BSDcon is not FreeBSD-specific so it deals with the technical aspects of all BSD operating systems, including
+  
+   OpenBSD
+  
+  and
+  
+   NetBSD
+  
+  .
+  
+
+    [84]
+   
+
+  In addition to BSDcon, three other annual conferences, EuroBSDCon, AsiaBSDCon and BSDCan take place in
+  
+   Europe
+  
+  ,
+  
+   Japan
+  
+  and
+  
+   Canada
+  
+  respectively.
+  
+
+    [85]
+   
+
+
+
+    [86]
+   
+
+
+
+    [87]
+   
+
+
+  The FreeBSD Project is run by around 500 committers, or developers who have commit access to the master source code repositories and can develop, debug or enhance any part of the system. Most of the developers are volunteers and few developers are paid by some companies.
+  
+
+    [11]
+   
+
+  There are several kinds of committers, including source committers (base operating system), doc committers (documentation and web site authors) and ports (third party application porting and infrastructure). Every two years the FreeBSD committers select a 9-member FreeBSD Core Team who are responsible for overall project direction, setting and enforcing project rules and approving new commiters, or the granting of SVN commit access. A number of responsibilities are officially assigned to other development teams by the FreeBSD Core Team, for example, responsibility for managing the ports collection is delegated to the Ports Management Team.
+  
+
+    [88]
+   
+
+
+  In addition to developers, FreeBSD has thousands of "contributors". Contributors are also volunteers outside of the FreeBSD project who submit patches for consideration by committers, as they don't have direct access to FreeBSD's source code repository. Committers then evaluate contributors submissions and decide what to accept and what to reject. A contributor who submits high-quality patches is often asked to become a committer.
+  
+
+    [88]
+   
+
+
+  FreeBSD
+  
+   developers
+  
+  maintain at least two branches of simultaneous development. The
+  
+   -CURRENT
+  
+  branch always represents the "
+  
+   bleeding edge
+  
+  " of FreeBSD development. A
+  
+   -STABLE
+  
+  branch of FreeBSD is created for each major version number, from which -RELEASE are cut about once every 4–6 months. If a feature is sufficiently stable and mature it will likely be
+  
+   backported
+  
+  (
+  
+   MFC
+  
+  or
+  
+   Merge from CURRENT
+  
+  in FreeBSD developer slang) to the
+  
+   -STABLE
+  
+  branch.
+  
+
+    [89]
+   
+
+
+
+    [3]
+   
+
+
+     "Last week, I donated one million dollars to the FreeBSD Foundation, which supports the open source operating system that has helped millions of programmers pursue their passions and bring their ideas to life. I’m actually one of those people. I started using FreeBSD in the late 90s, when I didn’t have much money and was living in government housing. In a way, FreeBSD helped lift me out of poverty – one of the main reasons I got a job at Yahoo! is because they were using FreeBSD, and it was my operating system of choice. Years later, when Brian and I set out to build WhatsApp, we used FreeBSD to keep our servers running. We still do. I’m announcing this donation to shine a light on the good work being done by the FreeBSD Foundation, with the hope that others will also help move this project forward. We’ll all benefit if FreeBSD can continue to give people the same opportunity it gave me – if it can lift more immigrant kids out of poverty, and help more startups build something successful, and even transformative."
+    
+  FreeBSD development is supported in part by the FreeBSD Foundation. The foundation is a non-profit organization that accepts donations to fund FreeBSD development. Such funding has been used to sponsor developers for specific activities, purchase hardware and network infrastructure, provide travel grants to developer summits, and provide legal support to the FreeBSD project.
+  
+
+    [90]
+   
+
+
+  In November 2014, the FreeBSD Foundation received 1 million USD donation from
+  
+   Jan Koum
+  
+  , Co-Founder and CEO of
+  
+   WhatsApp
+  
+  , - the largest single donation to the Foundation since its inception. In December 2016, Jan Koum donated another 500 thousand dollars.
+  
+
+    [91]
+   
+
+  Jan Koum himself is a FreeBSD user since the late 1990s and WhatsApp uses FreeBSD on its servers.
+  
+
+    [92]
+   
+
+
+  FreeBSD is released under a variety of open source licenses. The kernel code and most newly created code is released under the two-clause
+  
+   BSD license
+  
+  which allows everyone to use and redistribute FreeBSD as they wish. This license was approved by
+  
+   Free Software Foundation
+  
+
+
+    [93]
+   
+
+  and
+  
+   Open Source Initiative
+  
+
+
+    [94]
+   
+
+  as a Free Software and Open Source license respectively. Free Software Foundation described this license as "a lax, permissive non-copyleft free software license, compatible with the GNU GPL". There are parts released under three- and four-clause BSD licenses, as well as
+  
+   Beerware
+  
+  license. Some device drivers include a
+  
+   binary blob
+  
+  ,
+  
+
+    [95]
+   
+
+  such as the
+  
+   Atheros
+  
+
+   HAL
+  
+  of FreeBSD versions before 7.2.
+  
+
+    [96]
+   
+
+  Some of the code contributed by other projects is licensed under
+  
+   GPL
+  
+  ,
+  
+   LGPL
+  
+  ,
+  
+   CDDL
+  
+
+
+    [97]
+   
+
+  and
+  
+   ISC
+  
+  . All the code licensed under
+  
+   GPL
+  
+  and
+  
+   CDDL
+  
+  is clearly separated from the code under liberal licenses, to make it easy for users such as embedded device manufacturers to use only
+  
+   permissive free software licenses
+  
+  . ClangBSD aims to replace some
+  
+   GPL
+  
+  dependencies in the FreeBSD base system by replacing the
+  
+   GNU compiler collection
+  
+  with the BSD-licensed
+  
+   LLVM
+  
+  /
+  
+   Clang
+  
+  compiler. ClangBSD became self-hosting on 16 April 2010.
+  
+
+    [98]
+   
+
+
+  For many years FreeBSD's logo was the generic
+  
+   BSD daemon
+  
+  , also called
+  
+   Beastie
+  
+  , a distorted pronunciation of
+  
+   BSD
+  
+  . First appearing in 1976 on Unix T-shirts purchased by
+  
+   Bell Labs
+  
+  , the more popular versions of the BSD daemon were drawn by animation director
+  
+   John Lasseter
+  
+  beginning in 1984.
+  
+
+    [99]
+   
+
+
+
+    [100]
+   
+
+  Several FreeBSD-specific versions were later drawn by Tatsumi Hosokawa.
+  
+
+    [101]
+   
+
+
+  However, Beastie was not unique to FreeBSD. In lithographic terms, the Lasseter graphic is not
+  
+   line art
+  
+  and often requires a screened, four color
+  
+   photo offset
+  
+  printing process for faithful reproduction on physical surfaces such as paper. Also, the BSD daemon was thought to be too graphically detailed for smooth size scaling and aesthetically over-dependent on multiple color gradations, making it hard to reliably reproduce as a simple, standardized logo in only two or three colors, much less in monochrome. Because of these worries, a competition was held and a new logo designed by Anton K. Gural, still echoing the BSD daemon, was released on 8 October 2005.
+  
+
+    [102]
+   
+
+
+
+    [103]
+   
+
+
+
+    [104]
+   
+
+  However, it was announced by
+  
+   Robert Watson
+  
+  that, the FreeBSD project is "seeking a new logo, but not a new mascot" and that the FreeBSD project will continue to use Beastie as its mascot.
+  
+
+    [102]
+   
+
+
+  The name "FreeBSD" was coined by David Greenman on 19 June 1993, other suggested names were "BSDFree86" and "Free86BSD".
+  
+
+    [105]
+   
+
+  FreeBSD's slogan, "The Power to Serve", is a trademark of The FreeBSD Foundation.
+  
+
+    [106]
+   
+
+
+  There are a number of software distributions based on FreeBSD including:
+ 
+  All these distributions have no or only minor changes when compared with the original FreeBSD base system. The main difference to the original FreeBSD is that they come with pre-installed and pre-configured software for specific use cases. This can be compared with
+  
+   Linux
+  
+  distributions, which are all binary compatible because they use the same kernel and also use the same basic tools, compilers and libraries, while coming with different applications, configurations and branding.
+ 
+  Besides these distributions, there are some independent operating systems based on FreeBSD.
+  
+   DragonFly BSD
+  
+  is a fork from FreeBSD 4.8 aiming for a different multiprocessor synchronization strategy than the one chosen for FreeBSD 5 and development of some
+  
+   microkernel
+  
+  features.
+  
+
+    [107]
+   
+
+  It does not aim to stay compatible with FreeBSD and has huge differences in the kernel and basic
+  
+   userland
+  
+  .
+  
+   MidnightBSD
+  
+  is a fork of FreeBSD 6.1 borrowing heavily from
+  
+   NeXTSTEP
+  
+  , particularly in the user interface department.
+ 
+
+   Darwin
+  
+  , the core of
+  
+   Apple
+  
+
+   macOS
+  
+  , includes a
+  
+   virtual file system
+  
+  and network stack derived from the FreeBSD virtual file system and network stack, and components of its
+  
+   userspace
+  
+  are also FreeBSD-derived.
+  
+
+    [13]
+   
+
+
+
+    [108]
+   
+
+
+  Some subscription services that are directly based on FreeBSD are:
+ 
+  Embedded devices and embedded device operating systems based on FreeBSD include:
+ 
+  Parts of FreeBSD were also used in PlayStation 3.
+  
+
+    [114]
+   
+

@@ -1,0 +1,645 @@
+
+
+  The
+  
+   MacBook
+  
+  is a
+  
+   brand
+  
+  of
+  
+   notebook computers
+  
+  manufactured by
+  
+   Apple Inc.
+  
+  from May 2006 to February 2012, and relaunched in 2015. It replaced the
+  
+   iBook
+  
+  series and 12-inch
+  
+   PowerBook
+  
+  series of notebooks as a part of the Apple-Intel transition from PowerPC. Positioned as the low end of the
+  
+   MacBook family
+  
+  , below the premium ultra-portable
+  
+   MacBook Air
+  
+  and the powerful
+  
+   MacBook Pro
+  
+  ,
+  
+
+    [1]
+   
+
+  the MacBook was aimed at the consumer and education markets.
+  
+
+    [2]
+   
+
+  It was the best-selling
+  
+   Macintosh
+  
+  ever. For five months in 2008, it was the best-selling laptop of any brand in US retail stores.
+  
+
+    [3]
+   
+
+  Collectively, the MacBook brand is the "world's top-selling line of premium laptops."
+  
+
+    [4]
+   
+
+
+  There have been four separate designs of the MacBook. The original model used a combination of
+  
+   polycarbonate
+  
+  and
+  
+   fiberglass
+  
+  casing which was modeled after the iBook G4. The second type was introduced in October 2008 alongside the 15-inch MacBook Pro; the MacBook shared the more expensive laptop's unibody
+  
+   aluminum
+  
+  casing, but omitted FireWire. A third design, introduced in late 2009, had a polycarbonate unibody casing.
+ 
+  On July 20, 2011, the MacBook was discontinued for consumer purchase as it had been effectively superseded by the MacBook Air whose starting price was lowered.
+  
+
+    [5]
+   
+
+  Apple continued to sell the MacBook to educational institutions until February 2012.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+  A new, redesigned
+  
+   MacBook line
+  
+  was launched on March 9, 2015. Available in silver, gold or space grey, it is thinner than the MacBook Air and removes the traditional
+  
+   MagSafe
+  
+  charging port (along with all other ports, except the headphone jack) in favor of the multi-purpose
+  
+   USB Type-C
+  
+  port. It also features a Retina display. On April 19, 2016, Apple updated the 12-inch Retina MacBook with new sixth-generation Intel Core M processors, longer battery life and a rose gold option.
+  
+
+    [8]
+   
+
+
+
+
+  The original MacBook, available in black or white colors, was released on June 28, 2006, and used the
+  
+   Intel
+  
+
+   Core Duo
+  
+  processor and
+  
+   945GM
+  
+
+   chipset
+  
+  , with Intel's
+  
+   GMA 950
+  
+  integrated graphics on a 667 MHz
+  
+   front side bus
+  
+  . Later revisions of the MacBook moved to the
+  
+   Core 2 Duo
+  
+  processor and the
+  
+   GM965
+  
+  chipset, with Intel's
+  
+   GMA X3100
+  
+  integrated graphics on an 800 MHz system bus.
+  
+
+    [9]
+   
+
+  Sales of the black polycarbonate MacBook ceased in October 2008, after the introduction of the aluminum MacBook.
+ 
+  While thicker than its predecessor – the iBook G4 – the MacBook is wider than the 12-inch model due to its widescreen display. In addition, the MacBook was one of the first (the first being the MacBook Pro) to adopt Apple's
+  
+   MagSafe
+  
+  power connector and it replaced the iBook's
+  
+   mini-VGA
+  
+  display port with a
+  
+   mini-DVI
+  
+  display port. The iBook's discrete graphics chip was initially replaced by an integrated
+  
+   Intel GMA
+  
+  solution, though the latest revisions of the MacBook were upgraded with the more powerful
+  
+   Nvidia
+  
+
+   GeForce
+  
+  9400M and later the 320M.
+  
+
+    [10]
+   
+
+
+  While the MacBook Pro largely followed the industrial design standard set by the
+  
+   PowerBook G4
+  
+  , the MacBook was Apple's first notebook to use features now standard in its notebooks – the glossy display, the sunken keyboard design and the non-mechanical magnetic latch. With the late 2007 revision, the keyboard received several changes to closely mirror the one which shipped with the
+  
+   iMac
+  
+  , by adding the same keyboard short-cut to control multimedia, and removing the embedded
+  
+   numeric keypad
+  
+  and the Apple logo from the
+  
+   command keys
+  
+  .
+  
+
+    [11]
+   
+
+
+  A more expensive black model was offered until the introduction of the unibody aluminum MacBook. The polycarbonate MacBook was the only Macintosh notebook (until the new 2015 model) to be offered in more than one color since the
+  
+   iBook G3 (Clamshell)
+  
+  .
+ 
+  The ports are all on the left edge; on early models, from left to right, they are the MagSafe power connector, Gigabit Ethernet, mini-DVI, FireWire 400, 2 USB 2.0 ports, audio in, audio out and Kensington Security Slot.
+ 
+  For the unibody polycarbonate MacBook (2009), the ports from left to right are the MagSafe power connector, Gigabit Ethernet, Mini DisplayPort, 2 USB 2.0 ports, audio out and Kensington Security Slot.
+ 
+  On the front, there is a power light and an infrared receiver, while on the right edge, there is only the optical drive.
+ 
+  The polycarbonate Intel MacBook is easier for users to
+  
+   fix or upgrade
+  
+  than its predecessor. Where the iBook required substantial disassembly to access internal components such as the hard drive, users only need to remove the battery and the RAM door to replace the MacBook drive. Apple provides do-it-yourself manuals for these tasks.
+  
+
+    [12]
+   
+
+
+  In February 2007, the MacBook was recalled because the graphics card and hard drive caused the computer to overheat, forcing the unit to shut down.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Some early polycarbonate MacBook models suffered from random shutdowns; Apple released a firmware update to resolve them.
+  
+
+    [13]
+   
+
+
+  There were also cases reported of discolored or chipping palmrests. In such cases, Apple asked affected owners to contact
+  
+   AppleCare
+  
+  .
+  
+
+    [14]
+   
+
+
+  There were problems with batteries on some models from 2007 not being read by the MacBook. This is caused by a logic board fault and not a fault with the battery.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  In February 2010, Apple announced a recall for MacBooks bought between 2006–2007 for hard drive issues. This is caused by heat and other problems.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Apple used the A1181 code, printed on the case, for this family of models, though 17 variations may be counted if color is included.
+  
+
+    [15]
+   
+
+
+
+   Notes:
+  
+
+
+   1
+  
+  Requires the purchase of a wireless-N enabler software from Apple in order to enable the functionality.
+  
+
+    [30]
+   
+
+  Also enabled in Mac OS X 10.6 and later.
+  
+
+   2
+  
+  Hard drives noted are options available from Apple. As the hard drive is a user-replaceable part, there are custom configurations available, including use of 7200-rpm drives.
+  
+
+   3
+  
+  Given optical drive speed is its maximum.
+  
+
+   4
+  
+  Beginning with the early 2008 revision, the
+  
+   Apple Remote
+  
+  became an optional add-on.
+  
+
+   5
+  
+  Expandable to 4 GB, with
+  
+   3.3 GB usable
+  
+  .
+  
+
+    [31]
+   
+
+
+
+   6
+  
+  Expandable to 8 GB, but with only 6 GB working stably with a Mac OS X older than 10.6.6 due to a software bug.
+  
+
+    [32]
+   
+
+
+  On October 14, 2008, Apple announced a MacBook featuring a new
+  
+   Nvidia
+  
+  chipset at a
+  
+   Cupertino, California
+  
+  press conference with the tagline: "The spotlight turns to notebooks".
+  
+
+    [33]
+   
+
+
+  The chipset brought a 1066 MHz system bus, use of
+  
+   DDR3
+  
+  system memory, and integrated
+  
+   Nvidia
+  
+
+   GeForce
+  
+  9400M graphics. Other changes include a display which uses
+  
+   LED
+  
+  backlights (replacing the fluorescent tube backlights used in the previous model) and arsenic-free glass, a new
+  
+   Mini DisplayPort
+  
+  (replacing the polycarbonate MacBook's mini-DVI port), a
+  
+   multi-touch
+  
+  glass
+  
+   trackpad
+  
+  which also acts as the
+  
+   mouse button
+  
+  , and the removal of the
+  
+   FireWire 400
+  
+  port (thus it doesn't support
+  
+   Target Disk Mode
+  
+  , used for data transfers or operating system repairs without
+  
+   booting
+  
+  the system).
+  
+
+    [34]
+   
+
+
+  The design had stylistic traits of the MacBook Air which were also implemented into the design of the MacBook Pro. This model is thinner than the original polycarbonate MacBooks, and it made use of a unibody aluminum case with tapered edges. The keyboard of the higher-end model included a backlight.
+ 
+  Although
+  
+   Gizmodo
+  
+  concluded it to be "our favorite MacBook to date," they did claim, at this time, its display was inferior to that found on the MacBook Pro and MacBook Air, alleging a smaller viewing angle, washed-out colors, and dimmer backlighting.
+  
+
+    [35]
+   
+
+  Similarly,
+  
+   AppleInsider
+  
+  and
+  
+   Engadget
+  
+  concluded it "may well be Apple's best MacBook to date" and "these are terrific choices—not only from an industrial design standpoint, but in specs as well" respectively, while also drawing attention to a lower quality display as compared with the MacBook Pro and MacBook Air.
+  
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+  Charlie Sorrel of
+  
+   Wired News
+  
+  reached a similar conclusion about the MacBook display, citing its poor contrast and lack of vertical angle in comparison with the MacBook Pro and even the older white MacBook.
+  
+
+    [38]
+   
+
+  Peter Cohen wrote an article discussing the loss of the FireWire port for
+  
+   Macworld
+  
+  , saying "The absence of FireWire ports is certainly an inconvenience for some users. But it shouldn’t be considered a deal-breaker for most of us, anyway."
+  
+
+    [39]
+   
+
+
+
+   Notes:
+  
+
+
+   1
+  
+  Hard drives noted are options available from Apple. As the hard drive is a user-replaceable part, there are custom configurations available, including use of 7,200-rpm drives and
+  
+   SSDs
+  
+  .
+  
+
+    [44]
+   
+
+
+
+   2
+  
+  Given optical drive speed is its maximum.
+ 
+  On October 20, 2009, Apple released a MacBook that introduced a new polycarbonate (plastic) unibody design,
+  
+
+    [45]
+   
+
+  faster
+  
+   DDR3
+  
+  memory, a multi-touch trackpad, an LED-backlit display, and a built-in seven-hour battery. The polycarbonate unibody MacBook, like its aluminum predecessor, lacks FireWire and, like the 13-inch MacBook Pro, has a combined
+  
+   audio in/out port
+  
+  . There is no infrared port and the Apple Remote is not included. On May 18, 2010, the MacBook was refreshed with a faster processor, a faster graphics card, improved battery life, and the ability to pass audio through the Mini DisplayPort connector. On July 20, 2011, the MacBook was discontinued for consumer purchases,
+  
+
+    [6]
+   
+
+  but was still available to educational institutions until February 2012.
+  
+
+    [7]
+   
+
+
+  Unlike the MacBook Air, the MacBook follows the same design first seen in the MacBook Pro; however, it is rounder on the edges than previous laptops in the MacBook line. This model has an all-white
+  
+   fingerprint-resistant
+  
+  glossy palm rest, unlike the grayish surface of its predecessor, and uses a
+  
+   multi-touch
+  
+  glass trackpad like the one found on the MacBook Pro. The video-out port is Mini DisplayPort. The bottom of the MacBook features a
+  
+   rubberized
+  
+  non-slip finish. The built-in battery of the late 2009 revision, a feature introduced earlier in the year with the MacBook Pro, is claimed by Apple to last seven hours compared with five hours in the older models. However, in tests conducted by
+  
+   Macworld
+  
+  , the battery was found to last only about four hours while playing video at full brightness with AirPort turned off.
+  
+
+    [46]
+   
+
+  However, Apple's battery life was calculated with the brightness at the middle setting and while browsing websites and editing word documents, not with video and at full brightness.
+  
+
+    [47]
+   
+
+
+   Gizmodo
+  
+  also reached about the same conclusion in their tests, but with AirPort turned on.
+  
+
+    [48]
+   
+
+  The battery included in the mid-2010 model holds an additional five watt-hours over the previous model's and is claimed to last up to ten hours.
+  
+
+    [49]
+   
+
+
+  Despite being hailed by Slashgear as "one of the best entry-level notebooks Apple have produced," the unibody MacBook has received criticism for its lack of a FireWire port and
+  
+   SD card
+  
+  slot.
+  
+
+    [50]
+   
+
+  Nilay Patel of
+  
+   Engadget
+  
+  added that the USB ports were easily dented and the bottom of the laptop became worn and discolored after a few days. He also drew particular attention to the fact that the price was not lowered, stating the small price difference between the MacBook and the MacBook Pro makes it a "wasted pricing opportunity."
+  
+
+    [51]
+   
+
+  However, most critics agree that the unibody MacBook's display is significantly better than its predecessor's.
+  
+   AppleInsider
+  
+  states the new display "delivers significantly better color and viewing angle performance" than the previous MacBook, but still "not as vivid and wide-angle viewable as the MacBook Pro screens."
+  
+
+    [52]
+   
+
+
+
+   Notes:
+  
+
+
+   1
+  
+  Memory noted are the options available from Apple. As memory is a user-replaceable part, there are custom configurations available, including use of two 2 GB RAM modules, for 4 GB of RAM.
+  
+
+   2
+  
+  Hard drives noted are options available from Apple. As the hard drive is a user-replaceable part, there are custom configurations available, including use of 7200-rpm drives and
+  
+   SSDs
+  
+  .
+  
+
+   3
+  
+  Given optical drive speed is its maximum.
+ 
+  The rubber bottom of unibody MacBooks have been known to peel off. Apple has noticed this as a flaw and will replace the bottom for free, with or without a warranty. Some consumers have also reported defects in their LCD displays in mid-2010–2011 models.
+  
+
+    [58]
+   
+
+
+  The MagSafe power adapter of MacBooks has been known to fray, break, and stop working. Following a lawsuit, Apple replaces these adapters for US residents with affected adapters, purchased (or received as a gift) with computers or as an accessory.
+  
+
+    [59]
+   
+
+
+
+    [60]
+   
+
+
+

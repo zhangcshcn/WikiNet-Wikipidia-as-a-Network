@@ -1,0 +1,1629 @@
+
+
+
+   Helvetica
+  
+  is a widely used
+  
+   sans-serif
+  
+
+   typeface
+  
+  developed in 1957 by
+  
+   Swiss
+  
+
+   typeface designer
+  
+
+   Max Miedinger
+  
+  with input from Eduard Hoffmann.
+ 
+  It is a
+  
+   neo-grotesque
+  
+  or realist design, one influenced by the famous 19th century typeface
+  
+   Akzidenz-Grotesk
+  
+  and other German and Swiss designs.
+  
+
+    [1]
+   
+
+  Its use became a hallmark of the
+  
+   International Typographic Style
+  
+  that emerged from the work of Swiss designers in the 1950s and 60s, becoming one of the most popular typefaces of the 20th century.
+  
+
+    [2]
+   
+
+  Over the years, a wide range of variants have been released in different weights, widths and sizes, as well as matching designs for a range of non-Latin alphabets. Notable features of Helvetica as originally designed include the termination of all strokes on horizontal or vertical lines and unusually tight letter spacing, which give it a dense, compact appearance.
+ 
+  Developed by the
+  
+   Haas'sche Schriftgiesserei
+  
+  (
+  
+   Haas Type Foundry
+  
+  ) of
+  
+   Münchenstein
+  
+  ,
+  
+   Switzerland
+  
+  , its release was planned to match a trend: a resurgence of interest in turn-of-the-century grotesque typefaces among European graphic designers that also saw the release of
+  
+   Univers
+  
+  by
+  
+   Adrian Frutiger
+  
+  the same year.
+  
+
+    [3]
+   
+
+  Hoffmann was the president of the Haas Type Foundry, while Miedinger was a freelance graphic designer who had formerly worked as a Haas salesman and designer.
+  
+
+    [4]
+   
+
+
+  Miedinger and Hoffmann set out to create a neutral typeface that had great clarity, no intrinsic meaning in its form, and could be used on a wide variety of signage.
+  
+
+    [4]
+   
+
+  Originally named
+  
+   Neue Haas Grotesk
+  
+  (New Haas Grotesque), it was rapidly licensed by Linotype and renamed Helvetica, being similar to the
+  
+   Latin
+  
+
+   adjective
+  
+  for Switzerland, Helvetia.
+  
+
+    [5]
+   
+
+  The font name was changed to Helvetica in 1960.
+  
+
+    [6]
+   
+
+  A
+  
+   feature-length film
+  
+  directed by
+  
+   Gary Hustwit
+  
+  was released in 2007 to coincide with the 50th anniversary of the typeface's introduction in 1957.
+  
+
+    [7]
+   
+
+
+
+
+  Influences of Helvetica included Schelter-Grotesk and Haas'
+  
+   Normal-Grotesk
+  
+  . Attracting considerable attention on its release as
+  
+   Neue Haas Grotesk
+  
+  ,
+  
+   Linotype
+  
+  adopted Neue Haas Grotesk for widespread release.
+ 
+  In 1960, its name was changed by Haas' German parent company
+  
+   Stempel
+  
+  to
+  
+   Helvetica
+  
+  (meaning
+  
+   Swiss
+  
+  in
+  
+   Latin
+  
+  ) in order to make it more marketable internationally. It comes from the Latin name for the
+  
+   pre-Roman tribes
+  
+  of what became Switzerland. Intending to match the success of
+  
+   Univers
+  
+  , Arthur Ritzel of Stempel redesigned Neue Haas Grotesk into a larger family.
+  
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+  The design was popular, and rapidly made available for
+  
+   phototypesetting
+  
+  systems as well as for the original metal type. Many imitations and knock-offs were rapidly created.
+ 
+  In the late 1970s and 1980s, Linotype licensed its version to
+  
+   Xerox
+  
+  and then
+  
+   Adobe
+  
+  and
+  
+   Apple
+  
+  , guaranteeing its importance in digital printing by making it one of the core fonts of the
+  
+   PostScript
+  
+  page description language.
+  
+
+    [10]
+   
+
+
+
+    [11]
+   
+
+  The rights to it are now held by
+  
+   Monotype Imaging
+  
+  , which acquired Linotype; the advanced Neue Haas Grotesk release (discussed below) was co-released with Font Bureau.
+  
+
+    [3]
+   
+
+
+     Helvetica can’t do everything...it can be really weak in small sizes. Shapes like ‘C’ and ‘S’ curl back into themselves, leaving tight "
+     
+      apertures
+     
+     "—the channels of white between a letter’s interior and exterior... The lowercase ‘e,' the most common letter in English and many other languages, takes an especially unobliging form. These and other letters can be a pixel away from being some other letter.
+    
+  Like many neo-grotesque designs, Helvetica has narrow
+  
+   apertures
+  
+  , which limit its legibility onscreen and at small print sizes. It also has no visible difference between upper-case 'i' and lower-case 'L', although the number 1 is quite identifiable with its flag at top left.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+  Its tight, display-oriented spacing may also pose problems for legibility.
+  
+
+    [15]
+   
+
+  In situations where this matters, other designs intended for legibility at small sizes above all, such as
+  
+   Verdana
+  
+  ,
+  
+   Meta
+  
+  or
+  
+   Trebuchet
+  
+  or a
+  
+   monospace font
+  
+  such as
+  
+   Courier
+  
+  , which makes all letters quite wide, may be more appropriate.
+  
+
+    [16]
+   
+
+
+      Helvetica on the logo of
+      
+       Cassina S.p.A.
+      
+      , showing its traditionally tight letterspacing
+     
+      Helvetica used on signs in
+      
+       Vienna
+      
+      , 1973
+     
+      Helvetica is used on signage on the
+      
+       Chicago 'L'
+      
+
+      Helvetica used in the logo of the
+      
+       National Film Board of Canada
+      
+
+      Helvetica used in a
+      
+       UK government
+      
+      publication
+     
+  Helvetica is among the most widely used sans-serif typefaces.
+  
+
+    [17]
+   
+
+  Versions exist for
+  
+   Latin
+  
+  ,
+  
+   Cyrillic
+  
+  ,
+  
+   Hebrew
+  
+  ,
+  
+   Greek
+  
+  ,
+  
+   Japanese
+  
+  ,
+  
+   Korean
+  
+  ,
+  
+   Hindi
+  
+  ,
+  
+   Urdu
+  
+  ,
+  
+   Khmer
+  
+  , and
+  
+   Vietnamese
+  
+  alphabets.
+  
+   Chinese
+  
+  faces have been developed to complement Helvetica.
+ 
+  Helvetica is a popular choice for commercial
+  
+   wordmarks
+  
+  , including those for
+  
+   3M
+  
+  (including
+  
+   Scotch Tape
+  
+  ),
+  
+   American Apparel
+  
+  ,
+  
+   BASF
+  
+  ,
+  
+   Blaupunkt
+  
+  ,
+  
+   BMW
+  
+  ,
+  
+   Diaspora
+  
+  ,
+  
+   ECM
+  
+  ,
+  
+   Funimation
+  
+  ,
+  
+   General Motors
+  
+  ,
+  
+   J. C. Penney
+  
+  ,
+  
+   Jeep
+  
+  ,
+  
+   Kawasaki
+  
+  ,
+  
+   Knoll
+  
+  ,
+  
+   Kroger
+  
+  ,
+  
+   Lufthansa
+  
+  ,
+  
+   Motorola
+  
+  ,
+  
+   Nestlé
+  
+  ,
+  
+   Panasonic
+  
+  ,
+  
+   Parmalat
+  
+  ,
+  
+   Philippine Airlines
+  
+  ,
+  
+   Sears
+  
+  ,
+  
+   Seiko Epson
+  
+  ,
+  
+   Skype
+  
+  ,
+  
+   Target
+  
+  ,
+  
+   Texaco
+  
+  ,
+  
+   Tupperware
+  
+  ,
+  
+   Viceland
+  
+  , and
+  
+   Verizon
+  
+  .
+  
+
+    [18]
+   
+
+
+   Apple
+  
+  used Helvetica as the system typeface of
+  
+   iOS
+  
+  until 2015.
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+  Notably, from 1967 to 2013, the logo for
+  
+   American Airlines
+  
+  featured two upper case As (AA) and a wordmark using the font.
+ 
+  Helvetica has been widely used by the
+  
+   U.S. government
+  
+  ; for example, federal income tax forms are set in Helvetica, and
+  
+   NASA
+  
+  used the type on the
+  
+   Space Shuttle orbiter
+  
+  .
+  
+
+    [21]
+   
+
+  Helvetica is also used in the
+  
+   United States television rating system
+  
+  . The
+  
+   Canadian government
+  
+  also uses Helvetica as its identifying typeface, with three variants being used in
+  
+   its corporate identity program
+  
+  , and encourages its use in all federal agencies and websites.
+  
+
+    [22]
+   
+
+
+  Helvetica is commonly used in transportation settings.
+  
+
+    [23]
+   
+
+  New York City's
+  
+   Metropolitan Transportation Authority
+  
+  (MTA) adopted Helvetica for use in signage in 1989. From 1970 to 1989, the standard font was Standard Medium, an American release of Akzidenz-Grotesk, as defined by
+  
+   Unimark's
+  
+  New York City Transit Authority Graphic Standards Manual. The MTA system is still rife with a proliferation of Helvetica-like fonts, including
+  
+   Arial
+  
+  , in addition to some old signs in Medium Standard, and a few anomalous signs in Helvetica Narrow.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+
+  Helvetica is also used in the
+  
+   Washington Metro
+  
+  , the
+  
+   Chicago 'L'
+  
+  , Philadelphia's
+  
+   SEPTA
+  
+  , and the
+  
+   Madrid Metro
+  
+  .
+  
+
+    [27]
+   
+
+
+   Amtrak
+  
+  used the typeface on the "pointless arrow" logo, and it was adopted by Danish railway company
+  
+   DSB
+  
+  for a time period.
+  
+
+    [28]
+   
+
+  In addition, the former state-owned operator of the
+  
+   British railway system
+  
+  developed its own Helvetica-based
+  
+   Rail Alphabet
+  
+  font, which was also adopted by the
+  
+   National Health Service
+  
+  and the
+  
+   British Airports Authority
+  
+  .
+ 
+  The typeface was displaced from some uses in the 1990s to the increased availability of other fonts on digital
+  
+   desktop publishing
+  
+  systems and criticism from type designers including
+  
+   Erik Spiekermann
+  
+  and
+  
+   Martin Majoor
+  
+  , both of whom have criticised the design for its omnipresence and overuse.
+  
+
+    [3]
+   
+
+  Majoor has described Helvetica as 'rather cheap' for its failure to move on from the model of Akzidenz-Grotesk.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+  An early essay on Helvetica's public image as a font used by business and government was written in 1976 by Leslie Savan, a writer on advertising at the
+  
+
+    Village Voice
+   
+
+  .
+  
+
+    [31]
+   
+
+  It was later republished in her book
+  
+   The Sponsored Life
+  
+  .
+  
+
+    [32]
+   
+
+
+  In 2007, Linotype GmbH held the Helvetica NOW Poster Contest to celebrate the 50th anniversary of the typeface.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+  Winners were announced in the January 2008 issue of the LinoLetter.
+ 
+  In 2007, director
+  
+   Gary Hustwit
+  
+  released a documentary film,
+  
+
+    Helvetica
+   
+
+  (Plexifilm, DVD), to coincide with the fiftieth anniversary of the typeface. In the film, graphic designer
+  
+   Wim Crouwel
+  
+  said, "Helvetica was a real step from the 19th century typeface... We were impressed by that because it was more neutral, and neutralism was a word that we loved. It should be neutral. It shouldn't have a meaning in itself. The meaning is in the content of the text and not in the typeface." The documentary also presented other designers who associated Helvetica with authority and corporate dominance, and whose rebellion from Helvetica's ubiquity created new styles.
+ 
+  From April 2007 to March 2008, the
+  
+   Museum of Modern Art
+  
+  in
+  
+   New York City
+  
+  displayed an exhibit called "50 Years of Helvetica",
+  
+
+    [35]
+   
+
+  which celebrated the many uses of the typeface. In 2011 the
+  
+   Disseny Hub Barcelona
+  
+  displayed an exhibit called
+  
+   Helvetica. A New Typeface?
+  
+  . The exhibition included a timeline of Helvetica’s consolidation over the last fifty years with a view to understanding its role in the history of design, as well as its antecedents and its subsequent influence. The itinerary started out with a selection of local works, highlighting the top-quality design of current and past creations whose common denominator is their use of Helvetica.
+  
+
+    [36]
+   
+
+
+  Helvetica Light was designed by Stempel's artistic director Erich Schultz-Anker, in conjunction with Arthur Ritzel.
+  
+
+    [37]
+   
+
+
+  Helvetica Inserat (German for
+  
+   advertisement
+  
+  ) is a version designed in 1957 primarily for use in the advertising industry: this is a narrow variant that is tighter than Helvetica Black Condensed. It gives the glyphs an even larger
+  
+   x-height
+  
+  and a more squared appearance, similar to
+  
+   Schmalfette Grotesk
+  
+  . Strikethrough strokes in $, ¢ are replaced by a non-strikethrough version. 4 is opened at the top.
+ 
+  Designed by
+  
+   Matthew Carter
+  
+  for
+  
+   cold type
+  
+  . It shares some design elements with Helvetica Inserat, but uses a curved tail in Q, downward pointing branch in r, and tilde bottom £. Carter has said that in practice it was designed to be similar to
+  
+   Schmalfette Grotesk
+  
+  and to compete in this role with British designs
+  
+   Impact
+  
+  and
+  
+   Compacta
+  
+  , as this style was popular at the time.
+  
+
+    [38]
+   
+
+
+  The family consists of Helvetica Compressed, Helvetica Extra Compressed and Helvetica Ultra Compressed fonts. It has been digitised, for instance in the Adobe Helvetica release. It is used on the
+  
+
+    League of Gentlemen
+   
+
+  logo.
+ 
+  Helvetica Rounded is a version containing rounded stroke terminators. Only bold, black, bold condensed, and bold outline fonts were made, with outline font not issued in digital form by Linotype.
+ 
+  Helvetica Narrow is a version where its width is between Helvetica Compressed and Helvetica Condensed. However, the width is scaled in a way that is optically consistent with the widest width fonts.
+ 
+  The font was developed when printer ROM space was very scarce, so it was created by mathematically squashing Helvetica to 82% of the original width, resulting in distorted letterforms and thin vertical strokes next to thicker horizontals.
+  
+
+    [39]
+   
+
+
+  Because of the distortion problems, Adobe dropped Helvetica Narrow in its release of Helvetica in OpenType format, recommending users choose Helvetica Condensed instead. However, in Linotype's OpenType version of Helvetica Narrow, the distortions found in the Adobe fonts are non-existent.
+ 
+  Helvetica Textbook is an alternate design of the typeface, which uses 'schoolbook'
+  
+   stylistic alternates
+  
+  to increase distinguishability: a seriffed capital 'i' and 'j' to increase distinguishability, a 'q' with a flick upwards and other differences. The 'a', 't' and 'u' are replaced with designs similar to those in geometric sans-serifs such as those found in
+  
+   Futura
+  
+  .
+  
+
+    [40]
+   
+
+
+  The Cyrillic version was designed in-house in the 1970s at D Stempel AG, then critiqued and redesigned in 1992 under the advice of
+  
+   Jovica Veljović
+  
+  .
+  
+
+    [41]
+   
+
+
+
+   Matthew Carter
+  
+  designed the Helvetica Greek.
+  
+
+    [42]
+   
+
+
+  Lebanese designer
+  
+   Nadine Chahine
+  
+  designed Neue Helvetica Arabic.
+  
+
+    [43]
+   
+
+
+  Thai font designer
+  
+   Anuthin Wongsunkakon
+  
+  of Cadson Demak Co. created Thai versions of Helvetica and Neue Helvetica fonts.
+  
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+  The design uses loopless terminals in Thai glyphs,
+  
+
+    [46]
+   
+
+
+
+    [47]
+   
+
+  which had also been used by Wongsunkakon's previous design, Manop Mai (New Manop).
+  
+
+    [48]
+   
+
+
+  Initial release included 6 fonts in OpenType Com format for each family in 3 weights (light, regular, bold) and 1 width, with complementary italics. OpenType features include fractions, glyph composition/decomposition.
+ 
+  Helvetica Neue
+  
+   [
+   
+
+
+      pronunciation?
+     
+
+
+   ]
+  
+  is a reworking of the typeface with a more structurally unified set of heights and widths. Other changes include improved legibility, heavier punctuation marks, and increased spacing in the numbers.
+ 
+  Neue Helvetica uses a numerical design classification scheme, like
+  
+   Univers
+  
+  . The font family is made up of 51 fonts including 9 weights in 3 widths (8, 9, 8 in normal, condensed, extended widths respectively), and an outline font based on Helvetica 75 Bold Outline (no Textbook or rounded fonts are available). Linotype distributes Neue Helvetica on CD.
+  
+
+    [49]
+   
+
+  Helvetica Neue also comes in variants for Central European and Cyrillic text.
+ 
+  It was developed at D. Stempel AG, a
+  
+   Linotype
+  
+  subsidiary. The studio manager was Wolfgang Schimpf, and his assistant was Reinhard Haus; the manager of the project was René Kerfante.
+  
+   Erik Spiekermann
+  
+  was the design consultant and designed the literature for the launch in 1983.
+  
+
+    [50]
+   
+
+
+  Designer
+  
+   Christian Schwartz
+  
+  , who would later release his own digitisation of the original Helvetica designs (see below), expressed disappointment with this and other digital releases of Helvetica: "Much of the warm personality of Miedinger's shapes was lost along the way...digital Helvetica has always been one-size-fits-all, which leads to unfortunate compromises...the spacing has ended up much looser than Miedinger's wonderfully tight original at display sizes but much too tight for comfortable reading at text sizes."
+  
+
+    [51]
+   
+
+
+
+   iOS
+  
+  used first Helvetica then Helvetica Neue
+  
+
+    [52]
+   
+
+  as its system font. All releases of
+  
+   Mac OS X
+  
+  prior to
+  
+   OS X Yosemite
+  
+  used
+  
+   Lucida Grande
+  
+  as the system font. The version of Helvetica Neue used as the system font in
+  
+   OS X 10.10
+  
+  is specially optimised;
+  
+   Apple
+  
+  's intention is to provide a consistent experience for people who use both iOS and OS X.
+  
+
+    [53]
+   
+
+  Apple replaced Helvetica Neue with
+  
+   San Francisco
+  
+  in
+  
+   iOS 9
+  
+  and
+  
+   OS X El Capitan
+  
+  .
+  
+
+    [54]
+   
+
+
+  It is a version with Latin Extended, Greek, Cyrillic scripts support. Only OpenType CFF font format was released.
+ 
+  The family includes the fonts from the older Neue Helvetica counterparts, except Neue Helvetica 75 Bold Outline. Additional OpenType features include subscript/superscript.
+ 
+  Also called Helvetica Linotype,
+  
+
+    [55]
+   
+
+  Helvetica World supports Arabic, Cyrillic, Greek, Hebrew, and Vietnamese scripts.
+ 
+  The family consists of four fonts in 2 weights and 1 width, with complementary italics.
+ 
+  The Arabic glyphs were based on a redesigned Yakout font family from Linotype. Latin kerning and spacing were redesigned to have consistent spacing.
+  
+
+    [56]
+   
+
+  John Hudson of Tiro Typeworks designed the Hebrew glyphs for the font family,
+  
+
+    [57]
+   
+
+  as well as the Cyrillic, and Greek letters.
+  
+
+    [58]
+   
+
+
+  It is a version of Neue Helvetica optimised for on-screen use, designed by Akira Kobayashi of Monotype Imaging.
+ 
+  The family includes 8 fonts in 4 weights and 1 width, with complementary italics (45, 46, 55, 56, 65, 66, 75, 76). OpenType features include numerators/denominators, fractions, ligatures, scientific inferiors, subscript/superscript.
+  
+
+    [59]
+   
+
+
+
+   Christian Schwartz
+  
+  's digitisation for
+  
+   Font Bureau
+  
+  is based on the original Helvetica drawings.
+  
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+
+
+    [62]
+   
+
+  It was released with an article on the history of Helvetica by Indra Kupferschmid.
+  
+
+    [63]
+   
+
+
+  Unlike earlier digitisations, Schwartz created two different
+  
+   optical sizes
+  
+  for body text and display sizes, which have different spacing metrics giving tighter spacing at display size and looser spacing to increase legibility in body text. The release includes a number of features not present on digitisations branded as Helvetica, including corrected-curve obliques,
+  
+   tabular figures
+  
+  and
+  
+   stylistic alternates
+  
+  such as separate punctuation sets for upper- and lower-case text.
+  
+
+    [64]
+   
+
+  Writing for
+  
+   Typographica
+  
+  , typeface designer
+  
+   Matthew Butterick
+  
+  described the release as better than any previous digital release of Helvetica: "As someone who’s worked with
+  
+   cold-metal
+  
+  Helvetica, I can vouch for the fact that it’s never looked better...My sole criticism of the face [is] its ungainly name, which I’m regrettably certain will limit its visibility and hence its uptake. "Neue Haas Grotesk" makes it sound like a second cousin of Akzidenz Grotesk that’s just stumbled in from the hinterlands. But no, it is the rightful heir to the Helvetica throne. It should carry the Helvetica name."
+  
+
+    [65]
+   
+
+  Users include
+  
+   Bloomberg Businessweek
+  
+  and the
+  
+   Whitney Museum
+  
+  .
+  
+
+    [66]
+   
+
+
+
+    [67]
+   
+
+  It originated from an abandoned redesign plan for the
+  
+
+    Guardian
+   
+
+  newspaper. The release does not include condensed weights or Greek and Cyrillic support.
+ 
+  As one of the most iconic typefaces of the twentieth century, derivative designs based on Helvetica were rapidly developed, taking advantage of the lack of copyright protection in the
+  
+   phototypesetting
+  
+  font market of the 1960s and 70s onwards.
+  
+
+    [68]
+   
+
+
+
+    [69]
+   
+
+  Some of these were straight clones, simply intended to be direct substitutes.
+  
+
+    [70]
+   
+
+  Many of these are almost indistinguishable from Helvetica, while some add subtle differences.
+ 
+  Substitute Helvetica designs that have survived into or originated during the digital period have included
+  
+   Monotype
+  
+  's Arial, Compugraphic's CG Triumvirate, ParaType's Pragmatica,
+  
+   Bitstream
+  
+  's Swiss 721,
+  
+   URW++
+  
+  's
+  
+   Nimbus Sans
+  
+  ,
+  
+   Scangraphic
+  
+  's Europa Grotesk and others.
+  
+
+    [68]
+   
+
+
+
+    [71]
+   
+
+
+
+   URW++
+  
+  produced a modification of Helvetica called
+  
+   Nimbus Sans
+  
+  . This is an extremely large font family with optical sizes spaced for different sizes of text and other variants such as stencil styles. Florian Hardwig has described its display-oriented styles, with tight spacing, as more reminiscent of Helvetica as used in the 1970s from cold type than any official Helvetica digitisation.
+  
+
+    [72]
+   
+
+
+
+   Monotype
+  
+  's
+  
+   Arial
+  
+  , designed in 1982, while different from Helvetica in several details, has identical character widths, and is indistinguishable by most non-specialists. The characters C, G, R, Q, 1, a, e, r, and t are useful for quickly distinguishing Arial and Helvetica.
+  
+
+    [73]
+   
+
+  Differences include:
+ 
+  The design was created to substitute for Helvetica in digital printing, since Helvetica was a standard font design in this market. Arial (and many other clones of the period) are metrically identical to the PostScript version of Helvetica, so that a document designed in Helvetica could be displayed and printed correctly without IBM having to pay for a Helvetica license.
+  
+
+    [74]
+   
+
+
+
+    [75]
+   
+
+
+
+    [76]
+   
+
+
+  Microsoft's "Helv" design, later known as "
+  
+   MS Sans Serif
+  
+  ", is a sans-serif typeface that shares many key characteristics to Helvetica, including the horizontally and vertically aligned stroke terminators and more-uniform stroke widths within a glyph.
+ 
+  In 2016,
+  
+   CNN
+  
+  introduced a Helvetica Neue-inspired font designed by
+  
+   Monotype Imaging
+  
+  known as
+  
+   CNN Sans
+  
+  . The font was commissioned in 30 different weights to facilitate multi-platform usage across its properties.
+  
+
+    [77]
+   
+
+
+
+    [78]
+   
+
+
+
+    [79]
+   
+
+
+  CNN Sans has some resemblance to Helvetica, while adding some few modifications in the characters, notably the numerical "1" having base, which Helvetica doesn't have.
+ 
+
+   Nimbus Sans L
+  
+  , a version of URW's Nimbus Sans spaced to match the standard Linotype/PostScript version of Helvetica, was released under the
+  
+   GNU General Public License
+  
+  in 1996, and donated to the
+  
+   Ghostscript
+  
+  project to create a free PostScript alternative.
+  
+
+    [80]
+   
+
+
+
+    [81]
+   
+
+  It (or a derivative) is used by much open-source software such as
+  
+   R
+  
+  as a system font.
+  
+
+    [82]
+   
+
+
+
+    [83]
+   
+
+  A derivative of this family known as "TeX Gyre Heros" has been prepared for use in the
+  
+   TeX
+  
+  scientific document preparation software.
+  
+
+    [84]
+   
+
+
+
+   FreeSans
+  
+  , a free font descending from URW++ Nimbus Sans L, which in turn descends from Helvetica.
+  
+
+    [85]
+   
+
+  It is one of free (GPL) fonts developed in GNU FreeFont project, first published in 2002.
+ 
+
+   Liberation Sans
+  
+  is a metrically equivalent font to Arial developed by
+  
+   Steve Matteson
+  
+  at
+  
+   Ascender
+  
+  and published by
+  
+   Red Hat
+  
+  under the SIL Open Font License.
+  
+
+    [86]
+   
+
+
+
+    [87]
+   
+
+  It is used in some GNU/Linux distributions as default font replacement for Arial.
+  
+
+    [88]
+   
+
+  Oracle funded the additional development of Liberation Sans Narrow in 2010.
+  
+
+    [89]
+   
+
+
+
+    [90]
+   
+
+  Google commissioned a variation named
+  
+   Arimo
+  
+  for
+  
+   Chrome OS
+  
+  .
+ 
+  Much more loosely,
+  
+   Roboto
+  
+  was developed by Christian Robertson of
+  
+   Google
+  
+  as the system font for its
+  
+   Android
+  
+  operating system; this has a more condensed design with the influence of straight-sided geometric designs like
+  
+   DIN 1451
+  
+  .
+ 
+  Some fonts based on Helvetica are intended for different purposes and have clearly different designs. Digital-period font designer
+  
+   Ray Larabie
+  
+  has commented that in the 1970s "everyone was modifying Helvetica with funky curls, mixed-case and effects".
+  
+
+    [91]
+   
+
+  Indeed, in one 1973 competition to design new fonts, three of the twenty winners were decorative designs inspired by Helvetica.
+  
+
+    [92]
+   
+
+
+  Created by
+  
+   Aldo Novarese
+  
+  at the Italian type foundry
+  
+   Nebiolo
+  
+  , Forma was a geometric-influenced derivative of Helvetica with a
+  
+   'single-storey'
+  
+  'a' and extremely tight spacing in the style of the period.
+  
+
+    [93]
+   
+
+
+
+    [94]
+   
+
+
+
+    [95]
+   
+
+  It was offered with 'request'
+  
+   stylistic alternates
+  
+  imitating Helvetica more closely.
+  
+
+    [93]
+   
+
+
+
+    [96]
+   
+
+  Forma has been digitised by
+  
+   SoftMaker
+  
+  as "Formula" and (in a much more complete version with
+  
+   optical sizes
+  
+  ) by
+  
+   Font Bureau
+  
+  for
+  
+
+    Tatler
+   
+
+  magazine.
+  
+
+    [97]
+   
+
+
+  Designed by Phil Martin at Alphabet Innovations, Helvetica Flair is an unauthorised phototype-period redesign of Helvetica adding
+  
+   swashes
+  
+  and
+  
+   unicase
+  
+  -inspired capitals with a lower-case design. Considered a hallmark of 1970s design, it has never been issued digitally. It is considered to be a highly conflicted design, as Helvetica is seen as a spare and rational typeface and swashes are ostentatious: font designer Mark Simonson described it as "almost sacrilegious". Martin would later claim to have been accused of "typographic incest" by one German writer for creating it.
+ 
+  Helvetica Flair was one of several derivative fonts created by Martin in the 1970s (and a particularly questionably legal one, since it was directly named 'Helvetica').
+  
+
+    [98]
+   
+
+
+
+    [99]
+   
+
+  Martin also produced 'Heldustry', a fusion of Helvetica and
+  
+   Eurostile
+  
+  ,
+  
+
+    [100]
+   
+
+  and 'Helserif', a redesign of Helvetica with
+  
+   serifs
+  
+  ,
+  
+
+    [101]
+   
+
+  and these have both been digitised.
+  
+
+    [70]
+   
+
+
+
+    [102]
+   
+
+
+
+    [103]
+   
+
+
+  Designed by Vic Carless, Shatter assembles together slices of Helvetica to make a typeface that seems in motion, or broken and in pieces.
+  
+
+    [104]
+   
+
+  It was published by
+  
+   Letraset
+  
+  after jointly winning their 1973 competition to design new fonts.
+  
+
+    [92]
+   
+
+
+  Writing in 2014, designer Tim Spencer praised the design for its ominous effect, writing that it offered "glitch-like mechanical aggression [inspired by] cold, machine-induced paranoia. It attacked the Establishment’s preferred information typography style with a sharp edge and recomposed it in a jarring manner that still makes your eyes skitter and your brain tick trying to recompose it. Shatter literally sliced up Swiss modernist authority."
+  
+
+    [105]
+   
+
+
+  In the digital period,
+  
+   Ray Larabie
+  
+  has released several digital fonts based on 70s-period adaptations: Coolvetica (which cites Helvetica Flair as a direct inspiration), Movatif and GGX88.
+  
+
+    [106]
+   
+
+
+
+    [107]
+   
+
+
+  Inspired by noticeboards using stencilled or plastic letters from a variety of sources,
+  
+   Christian Schwartz
+  
+  created the font 'Local Gothic', which randomly mixes capitals in the loose style of several popular American display capital fonts, Helvetica Bold among them.
+  
+
+    [108]
+   
+
+
+  André Harabara, a Brazilian graphic artist, created a version of Helvetica with letter stems removed and some corners rounded. A
+  
+   shareware
+  
+  version was released in 2009; a fully licensed suite followed in 2014.
+  
+
+    [109]
+   
+
+
+  In 2011, one of
+  
+   Google
+  
+  's
+  
+   April Fools' Day
+  
+  jokes centered around the use of Helvetica. If a user attempted to search for the term "Helvetica" using the search engine, the results would be displayed in the font
+  
+   Comic Sans
+  
+  .
+  
+
+    [110]
+   
+

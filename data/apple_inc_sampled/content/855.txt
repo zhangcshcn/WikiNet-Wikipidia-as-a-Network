@@ -1,0 +1,1307 @@
+
+
+
+   Internet privacy
+  
+  involves the right or mandate of personal
+  
+   privacy
+  
+  concerning the storing, repurposing, provision to third parties, and displaying of information pertaining to oneself via of the
+  
+   Internet
+  
+  .
+  
+
+    [1]
+   
+
+
+
+    [2]
+   
+
+  Internet privacy is a subset of
+  
+   data privacy
+  
+  . Privacy concerns have been articulated from the beginnings of large scale computer sharing.
+  
+
+    [3]
+   
+
+
+  Privacy can entail either
+  
+
+    Personally Identifying Information
+   
+
+  (PII) or non-PII information such as a site visitor's behavior on a website. PII refers to any information that can be used to identify an individual. For example, age and physical address alone could identify who an individual is without explicitly disclosing their name, as these two factors are unique enough to typically identify a specific person.
+ 
+  Some experts such as Steve Rambam, a private investigator specializing in Internet privacy cases, believe that privacy no longer exists; saying, "Privacy is dead – get over it".
+  
+
+    [4]
+   
+
+  In fact, it has been suggested that the "appeal of online services is to broadcast personal information on purpose."
+  
+
+    [5]
+   
+
+  On the other hand, in his essay
+  
+   The Value of Privacy,
+  
+  security expert
+  
+   Bruce Schneier
+  
+  says, "Privacy protects us from abuses by those in power, even if we're doing nothing wrong at the time of
+  
+   surveillance
+  
+  ."
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+
+  Internet and
+  
+   digital privacy
+  
+  are viewed differently from traditional expectations of privacy. Internet privacy is primarily concerned with protecting user information. Law Professor Jerry Kang explains that the term privacy expresses space, decision, and information.
+  
+
+    [8]
+   
+
+  In terms of space, individuals have an expectation that their physical spaces (i.e. homes, cars) not be intruded. Privacy within the realm of decision is best illustrated by the landmark case
+  
+
+    Roe v. Wade
+   
+   .
+  
+  Lastly, information privacy is in regards to the collection of user information from a variety of sources, which produces great discussion.
+ 
+  The 1997 Information Infrastructure Task Force (IITF) created under
+  
+   President Clinton
+  
+  defined information privacy as "an individual's claim to control the terms under which personal information--information identifiable to the individual--is acquired, disclosed, and used."
+  
+   [1]
+  
+  At the end of the 1990s, with the rise of the internet, it became clear that the internet and companies would need to abide by new rules to protect individual's privacy. With the rise of the internet and mobile networks the salience of internet privacy is a daily concern for users.
+ 
+  People with only a casual concern for Internet privacy need not achieve total
+  
+   anonymity
+  
+  . Internet users may protect their privacy through controlled disclosure of personal information. The revelation of IP addresses, non-personally-identifiable profiling, and similar information might become acceptable trade-offs for the convenience that users could otherwise lose using the workarounds needed to suppress such details rigorously. On the other hand, some people desire much stronger privacy. In that case, they may try to achieve
+  
+   Internet anonymity
+  
+  to ensure privacy — use of the Internet without giving any third parties the ability to link the Internet activities to personally-identifiable information of the Internet user. In order to keep their information private, people need to be careful with what they submit to and look at online. When filling out forms and buying merchandise, that becomes tracked and because the information was not private, some companies are now sending Internet users spam and advertising on similar products.
+ 
+  There are also several governmental organizations that protect individual's privacy and anonymity on the Internet, to a point. In an article presented by the
+  
+   FTC
+  
+  , in October 2011, a number of pointers were brought to attention that helps an individual internet user avoid possible
+  
+   identity theft
+  
+  and other cyber-attacks. Preventing or limiting the usage of Social Security numbers online, being wary and respectful of emails including spam messages, being mindful of personal financial details, creating and managing strong passwords, and intelligent web-browsing behaviours are recommended, among others.
+  
+
+    [9]
+   
+
+
+  Posting things on the Internet can be harmful or in danger of malicious attack. Some information posted on the Internet is permanent, depending on the terms of service, and
+  
+   privacy policies
+  
+  of particular services offered online. This can include comments written on blogs, pictures, and Internet sites, such as
+  
+   Facebook
+  
+  and
+  
+   Twitter
+  
+  . It is absorbed into cyberspace and once it is posted, anyone can potentially find it and access it. Some employers may research a potential employee by searching online for the details of their online behaviours, possibly affecting the outcome of the success of the candidate.
+  
+
+    [10]
+   
+
+
+  Companies are hired to watch what internet sites people visit, and then use the information, for instance by sending advertising based on one's browsing history. There are many ways in which people can divulge their personal information, for instance by use of "social media" and by sending bank and credit card information to various websites. Moreover, directly observed behaviour, such as browsing logs, search queries, or contents of the Facebook profile can be automatically processed to infer potentially more intrusive details about an individual, such as sexual orientation, political and religious views, race, substance use, intelligence, and personality.
+  
+
+    [11]
+   
+
+
+  Those concerned about Internet privacy often cite a number of
+  
+   privacy risks
+  
+  — events that can compromise privacy — which may be encountered through Internet use.
+  
+
+    [12]
+   
+
+  These range from the gathering of statistics on users to more malicious acts such as the spreading of spyware and the exploitation of various forms of
+  
+   bugs
+  
+  (software faults).
+ 
+  Several social networking sites try to protect the personal information of their subscribers. On Facebook, for example, privacy settings are available to all registered users: they can block certain individuals from seeing their profile, they can choose their "friends", and they can limit who has access to one's pictures and videos. Privacy settings are also available on other social networking sites such as Google Plus and Twitter. The user can apply such settings when providing personal information on the internet.
+ 
+  In late 2007 Facebook launched the Beacon program where user rental records were released on the public for friends to see. Many people were enraged by this breach in privacy, and the
+  
+
+    Lane v. Facebook, Inc.
+   
+
+  case ensued.
+  
+
+    [13]
+   
+
+
+  Children and adolescents often use the Internet (including social media) in ways which risk their privacy: a cause for growing concern among parents. Young people also may not realise that all their information and browsing can and may be tracked while visiting a particular site, and that it is up to them to protect their own privacy. They must be informed about all these risks. For example, on Twitter, threats include shortened links that lead one to potentially harmful places. In their e-mail inbox, threats include email scams and attachments that get them to install malware and disclose personal information. On Torrent sites, threats include malware hiding in video, music, and software downloads. Even when using a smartphone, threats include geolocation, meaning that one's phone can detect where they are and post it online for all to see. Users can protect themselves by updating virus protection, using security settings, downloading patches, installing a firewall, screening e-mail, shutting down spyware, controlling
+  
+   cookies
+  
+  , using encryption, fending off browser hijackers, and blocking pop-ups.
+  
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+
+  However most people have little idea how to go about doing many of these things. How can the average user with no training be expected to know how to run their own network security (especially as things are getting more complicated all the time)? Many businesses hire professionals to take care of these issues, but most individuals can only do their best to learn about all this.
+  
+
+    [16]
+   
+
+
+  In 1998, the Federal Trade Commission in the USA considered the lack of privacy for children on the Internet, and created the Children Online Privacy Protection Act (COPPA). COPPA limits the options which gather information from children and created warning labels if potential harmful information or content was presented. In 2000, Children's Internet Protection Act (CIPA) was developed to implement safe Internet policies such as rules
+  
+   [
+   
+
+
+      clarification needed
+     
+
+
+   ]
+  
+  , and filter software. These laws, awareness campaigns, parental and adult supervision strategies and Internet filters can all help to make the Internet safer for children around the world.
+  
+
+    [17]
+   
+
+
+  An
+  
+   HTTP cookie
+  
+  is data stored on a user's computer that assists in automated access to websites or web features, or other
+  
+   state
+  
+  information required in complex web sites. It may also be used for user-tracking by storing special usage history data in a cookie, and such cookies—for example, those used by
+  
+   Google Analytics
+  
+  —are called
+  
+   tracking cookies
+  
+  . Cookies are a common concern in the field of
+  
+   Internet privacy
+  
+  . Although website developers most commonly use cookies for legitimate technical purposes, cases of abuse occur. In 2009, two researchers noted that social networking profiles could be connected to cookies, allowing the social networking profile to be connected to browsing habits.
+  
+
+    [18]
+   
+
+
+  In the past, web sites have not generally made the user explicitly aware of the storing of cookies, however
+  
+   tracking cookies
+  
+  and especially
+  
+   third-party tracking cookies
+  
+  are commonly used as ways to compile long-term records of individuals' browsing histories — a
+  
+   privacy concern
+  
+  that prompted European and US lawmakers to take action in 2011.
+  
+
+    [19]
+   
+
+
+
+    [20]
+   
+
+  Cookies can also have implications for
+  
+   computer forensics
+  
+  . In past years, most computer users were not completely aware of cookies, but recently, users have become conscious of possible detrimental effects of Internet cookies: a recent study done has shown that 58% of users have at least once, deleted cookies from their computer, and that 39% of users delete cookies from their computer every month. Since cookies are advertisers' main way of targeting potential customers, and some customers are deleting cookies, some advertisers started to use persistent
+  
+   Flash cookies
+  
+  and
+  
+   zombie cookies
+  
+  , but modern browsers and anti-malware software can now block or detect and remove such cookies.
+ 
+  The original developers of cookies intended that only the website that originally distributed cookies to users could retrieve them, therefore returning only data already possessed by the website. However, in practice programmers can circumvent this restriction. Possible consequences include:
+ 
+  Cookies do have benefits that many people may not know. One benefit is that for websites that one frequently visits that requires a password, cookies make it so they do not have to sign in every time. A cookie can also track one's preferences to show them websites that might interest them. Cookies make more websites free to use without any type of payment. Some of these benefits are also seen as negative. For example, one of the most common ways of theft is hackers taking one's user name and password that a cookie saves. While a lot of sites are free, they have to make a profit some how so they sell their space to advertisers. These ads, which are personalized to one's likes, can often freeze one's computer or cause annoyance. Cookies are mostly harmless except for third-party cookies.
+  
+
+    [21]
+   
+
+  These cookies are not made by the website itself, but by web banner advertising companies. These third-party cookies are so dangerous because they take the same information that regular cookies do, such as browsing habits and frequently visited websites, but then they give out this information to other companies.
+ 
+  Cookies are often associated with pop-up windows because these windows are often, but not always, tailored to a person’s preferences. These windows are an irritation because they are often hard to close out of because the close button is strategically hidden in an unlikely part of the screen. In the worst cases, these pop-up ads can take over the screen and while trying to exit out of it, can take one to another unwanted website.
+ 
+  Cookies are seen so negatively because they are not understood and go unnoticed while someone is simply surfing the Internet. The idea that every move one makes while on the Internet is being watched, would frighten most users.
+  
+
+    [22]
+   
+
+
+  Some users choose to disable cookies in their web browsers.
+  
+
+    [23]
+   
+
+  Such an action can reduce some privacy risks, but may severely limit or prevent the functionality of many websites. All significant web browsers have this disabling ability built-in, with no external program required. As an alternative, users may frequently delete any stored cookies. Some browsers (such as
+  
+   Mozilla Firefox
+  
+  and
+  
+   Opera
+  
+  ) offer the option to clear cookies automatically whenever the user closes the browser. A third option involves allowing cookies in general, but preventing their abuse. There are also a host of wrapper applications that will redirect cookies and cache data to some other location. Concerns exist that the privacy benefits of deleting cookies have been over-stated.
+  
+
+    [24]
+   
+
+
+  The process of
+  
+   profiling
+  
+  (also known as "tracking") assembles and analyzes several events, each attributable to a single originating entity, in order to gain information (especially patterns of activity) relating to the originating entity. Some organizations engage in the profiling of people's web browsing, collecting the
+  
+   URLs
+  
+  of sites visited. The resulting profiles can potentially link with information that personally identifies the individual who did the browsing.
+ 
+  Some web-oriented marketing-research organizations may use this practice legitimately, for example: in order to construct profiles of 'typical Internet users'. Such profiles, which describe average trends of large groups of Internet users rather than of actual individuals, can then prove useful for
+  
+   market analysis
+  
+  . Although the aggregate data does not constitute a privacy violation, some people believe that the initial profiling does.
+ 
+  Profiling becomes a more contentious privacy issue when data-matching associates the profile of an individual with personally-identifiable information of the individual.
+ 
+  Governments and organizations may set up
+  
+   honeypot
+  
+  websites – featuring controversial topics – with the purpose of attracting and tracking unwary people. This constitutes a potential danger for individuals.
+ 
+  When some users choose to disable
+  
+   HTTP cookie
+  
+  to reduce privacy risks as noted, new types of cookies were invented: since cookies are advertisers' main way of targeting potential customers, and some customers were deleting cookies, some advertisers started to use persistent Flash cookies and
+  
+   zombie cookies
+  
+  . In a 2009 study, Flash cookies were found to be a popular mechanism for storing data on the top 100 most visited sites.
+  
+
+    [25]
+   
+
+  Another 2011 study of social media found that, “Of the top 100 web sites, 31 had at least one overlap between HTTP and Flash cookies.”
+  
+
+    [26]
+   
+
+  However, modern browsers and anti-malware software can now block or detect and remove such cookies.
+ 
+  Flash cookies, also known as
+  
+   Local Shared Objects
+  
+  , work the same ways as normal cookies and are used by the
+  
+   Adobe Flash Player
+  
+  to store information at the user's computer. They exhibit a similar privacy risk as normal cookies, but are not as easily blocked, meaning that the option in most browsers to not accept cookies does not affect Flash cookies. One way to view and control them is with browser extensions or add-ons. Flash cookies are unlike HTTP cookies in a sense that they are not transferred from the client back to the server. Web browsers read and write these cookies and can track any data by web usage.
+  
+
+    [27]
+   
+
+
+  Although browsers such as Internet Explorer 8 and Firefox 3 have added a ‘Privacy Browsing’ setting, they still allow Flash cookies to track the user and operate fully. However, the Flash player browser plugin can be disabled
+  
+
+    [28]
+   
+
+  or uninstalled,
+  
+
+    [29]
+   
+
+  and
+  
+   Flash cookies can be disabled on a per-site or global basis
+  
+  . Adobe's Flash and (PDF) Reader are not the only browser plugins whose past
+  
+   security
+  
+  defects
+  
+
+    [30]
+   
+
+  have allowed
+  
+   spyware
+  
+  or
+  
+   malware
+  
+  to be installed: there have also been problems with Oracle's Java.
+  
+
+    [31]
+   
+
+
+
+   Evercookies
+  
+  , created by Samy Kamkar,
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+  are JavaScript-based applications which produce cookies in a web browser that actively "resist" deletion by redundantly copying themselves in different forms on the user's machine (e.g., Flash Local Shared Objects, various HTML5 storage mechanisms, window.name caching, etc.), and resurrecting copies that are missing or expired. Evercookie accomplishes this by storing the cookie data in several types of storage mechanisms that are available on the local browser. It has the ability to store cookies in over ten types of storage mechanisms so that once they are on one's computer they will never be gone. Additionally, if evercookie has found the user has removed any of the types of cookies in question, it recreates them using each mechanism available.
+  
+
+    [34]
+   
+
+  Evercookies are one type of
+  
+   zombie cookie
+  
+  . However, modern browsers and anti-malware software can now block or detect and remove such cookies.
+ 
+  Some anti-fraud companies have realized the potential of evercookies to protect against and catch cyber criminals. These companies already hide small files in several places on the perpetrator's computer but hackers can usually easily get rid of these. The advantage to evercookies is that they resist deletion and can rebuild themselves.
+ 
+  There is controversy over where the line should be drawn on the use of this technology. Cookies store unique identifiers on a person's computer that are used to predict what one wants. Many advertisement companies want to use this technology to track what their customers are looking at online.
+  
+   Evercookies
+  
+  enable advertisers to continue to track a customer regardless of if one deletes their cookies or not. Some companies are already using this technology but the ethics are still being widely debated.
+ 
+  Anonymizer nevercookies are part of a free Firefox plugin that protects against evercookies. This plugin extends Firefox's private browsing mode so that users will be completely protected from evercookies.
+  
+
+    [35]
+   
+
+  Nevercookies eliminate the entire manual deletion process while keeping the cookies users want like browsing history and saved account information.
+ 
+
+   Device fingerprinting
+  
+  is a fairly new technology that is useful in fraud prevention and safeguarding any information from one's computer. Device fingerprinting uses data from the device and browser sessions to determine the risk of conducting business with the person using the device.
+  
+
+    [36]
+   
+
+  This technology allows companies to better assess the risks when business is conducted through sites that include, e-commerce sites, social networking and online dating sites and banks and other financial institutions. ThreatMetrix is one of the leading vendors of device fingerprinting. This company employs a number of techniques to prevent fraud. For example, ThreatMetrix will pierce the proxy to determine the true location of a device.
+  
+
+    [36]
+   
+
+  Due to the growing number of hackers and fraudsters using 'botnets' of millions of computers that are being unknowingly controlled,
+  
+
+    [36]
+   
+
+  this technology will help not only the companies at risk but the people who are unaware their computers are being used.
+ 
+  It is difficult to surf the web without being tracked by device fingerprinting today. However, for people who do not want device fingerprinting, there are ways to attempt to block fingerprinting. The only ways to stop device fingerprinting cause web browsing to be very slow and websites to display information incorrectly. “There are not convenient options for privacy when it comes to device fingerprinting” said Peter Eckersely a staff scientist at the Electronic Frontier Foundation and privacy-advocacy group. Trying to avoid device fingerprinting is mostly just impractical and inconvenient. Fingerprints are tough to avoid because they are taken from data that are routinely passed from computers to websites automatically. Even if someone changes something slightly, the fingerprinters can still recognize the machine. There is one way to figure out that a device is being fingerprinted. The software JavaScript can be used to collect fingerprinting data. If it asks a browser for specific information, that could be a clue that a fingerprinter is working. Companies that are most known for conducting fingerprinting are advertisers.
+  
+
+    [37]
+   
+
+
+  Sentinel Advanced Detection Analysis and Predator Tracking (A.D.A.P.T.) is device fingerprinting software technology that identifies the device (computer, tablet, smartphone, …) being used to access a website. This information in turn can be used to help differentiate legitimate users from those using false identities or those attempting to work anonymously. A.D.A.P.T. uses only HTTP and JavaScript to identify a device and identifies devices without requesting any personal information entered directly by the user. It makes an accurate “fingerprint” of the device by using many different pieces of information including, operating system, browser, and PC characteristics. A.D.A.P.T. is concealed in that the user of the device has no idea that the device is being “fingerprinted” and there is no actual tagging of the device.
+  
+
+    [38]
+   
+
+
+
+   Canvas fingerprinting
+  
+  is one of a number of browser fingerprinting techniques of tracking online users that allow websites to uniquely identify and track visitors using HTML5 canvas element instead of browser cookies or other similar means.
+ 
+  Today many people have
+  
+   digital cameras
+  
+  and post their photographs online, for example
+  
+   street photography
+  
+  practitioners do so for artistic purposes and
+  
+   social documentary photography
+  
+  practitioners do so to document the common people in everyday life. The people depicted in these photos might not want to have them appear on the Internet. Police arrest photos, considered public record in many jurisdictions, are often posted on the internet by numerous
+  
+   online mug shot publishing sites
+  
+  .
+ 
+  Some organizations attempt to respond to this privacy-related concern. For example, the 2005 Wikimania conference required that photographers have the prior permission of the people in their pictures, albeit this made it impossible for photographers to practice
+  
+   candid photography
+  
+  and doing the same in a public place would violate the photographers'
+  
+   free speech
+  
+  rights. Some people wore a 'no photos' tag to indicate they would prefer not to have their photo taken.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+   Template:See above photo
+  
+
+  The Harvard Law Review published a short piece called "In The Face of Danger: Facial Recognition and Privacy Law", much of it explaining how "privacy law, in its current form, is of no help to those unwillingly tagged."
+  
+
+    [39]
+   
+
+  Any individual can be unwillingly tagged in a photo and displayed in a manner that might violate them personally in some way, and by the time Facebook gets to taking down the photo, many people will have already had the chance to view, share, or distribute it. Furthermore, traditional tort law does not protect people who are captured by a photograph in public because this is not counted as an invasion of privacy. The extensive Facebook privacy policy covers these concerns and much more. For example, the policy states that they reserve the right to disclose member information or share photos with companies, lawyers, courts, government entities, etc. if they feel it absolutely necessary. The policy also informs users that profile pictures are mainly to help friends connect to each other.
+  
+
+    [40]
+   
+
+  However, these, as well as other pictures, can allow other people to invade a person’s privacy by finding out information that can be used to track and locate a certain individual In an article featured in ABC News, it was stated that two teams of scientists found out that Hollywood stars could be giving up information about their private whereabouts very easily through pictures uploaded to the Internet. Moreover, it was found that pictures taken by some phones and tablets including
+  
+   iPhones
+  
+  automatically attach the
+  
+   latitude
+  
+  and
+  
+   longitude
+  
+  of the picture taken through
+  
+   metadata
+  
+  unless this function is manually disabled.
+  
+
+    [41]
+   
+
+
+  Face recognition technology can be used to gain access to a person's private data, according to a new study. Researchers at Carnegie Mellon University combined image scanning, cloud computing and public profiles from social network sites to identify individuals in the offline world. Data captured even included a user's social security number.
+  
+
+    [42]
+   
+
+  Experts have warned of the privacy risks faced by the increased merging of our online and offline identities. The researchers have also developed an 'augmented reality' mobile app that can display personal data over a person's image captured on a smartphone screen.
+  
+
+    [43]
+   
+
+  Since these technologies are widely available, our future identities may become exposed to anyone with a smartphone and an Internet connection. Researchers believe this could force us to reconsider our future attitudes to privacy.
+ 
+
+   Google Street View
+  
+  , released in the U.S. in 2007, is currently the subject of an ongoing debate about possible infringement on individual privacy.
+  
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+  In an article entitled “Privacy, Reconsidered: New Representations, Data Practices, and the Geoweb”, Sarah Elwood and Agnieszka Leszczynski (2011) argue that Google Street View “facilitate[s] identification and disclosure with more immediacy and less abstraction.”
+  
+
+    [46]
+   
+
+  The medium through which
+  
+   Street View
+  
+  disseminates information, the photograph, is very immediate in the sense that it can potentially provide direct information and evidence about a person’s whereabouts, activities, and private property. Moreover, the technology’s disclosure of information about a person is less abstract in the sense that, if photographed, a person is represented on Street View in a virtual replication of his or her own real-life appearance. In other words, the technology removes abstractions of a person’s appearance or that of his or her personal belongings – there is an immediate disclosure of the person and object, as they visually exist in real life. Although Street View began to blur license plates and people’s faces in 2008,
+  
+
+    [44]
+   
+
+  the technology is faulty and does not entirely ensure against accidental disclosure of identity and private property.
+  
+
+    [45]
+   
+
+  Elwood and Leszczynski note that “many of the concerns leveled at Street View stem from situations where its photograph-like images were treated as definitive evidence of an individual’s involvement in particular activities.”
+  
+
+    [46]
+   
+
+  In one instance, Ruedi Noser, a Swiss politician, barely avoided public scandal when he was photographed in 2009 on Google Street View walking with a woman who was not his wife – the woman was actually his secretary.
+  
+
+    [44]
+   
+
+  Similar situations occur when Street View provides high-resolution photographs – and photographs hypothetically offer compelling objective evidence.
+  
+
+    [46]
+   
+
+  But as the case of the Swiss politician illustrates, even supposedly compelling photographic evidence is sometimes subject to gross misinterpretation. This example further suggests that Google Street View may provide opportunities for privacy infringement and harassment through public dissemination of the photographs. Google Street View does, however, blur or remove photographs of individuals and private property from image frames if the individuals request further blurring and/or removal of the images. This request can be submitted, for review, through the “report a problem” button that is located on the bottom left hand side of every image window on Google Street View, however Google has made attempts to report a problem difficult by disabling the "Why are you reporting the street view" icon.
+ 
+  Search engines have the ability to track a user’s searches. Personal information can be revealed through searches by the user's computer, account, or IP address being linked to the search terms used. Search engines have claimed a necessity to
+  
+   retain such information
+  
+  in order to provide better services, protect against security pressure, and protect against fraud.
+  
+
+    [47]
+   
+
+  A search engine takes all of its users and assigns each one a specific ID number. Those in control of the database often keep records of where on the Internet each member has traveled to. AOL’s system is one example. AOL has a database 21 million members deep, each with their own specific ID number. The way that AOLSearch is set up, however, allows for AOL to keep records of all the websites visited by any given member. Even though the true identity of the user isn’t known, a full profile of a member can be made just by using the information stored by AOLSearch. By keeping records of what people query through AOLSearch, the company is able to learn a great deal about them without knowing their names.
+  
+
+    [48]
+   
+
+
+  Search engines also are able to retain user information, such as location and time spent using the search engine, for up to ninety days. Most search engine operators use the data to get a sense of which needs must be met in certain areas of their field. People working in the legal field are also allowed to use information collected from these search engine websites. The Google search engine is given as an example of a search engine that retains the information entered for a period of three fourths of year before it becomes obsolete for public usage. Yahoo! follows in the footsteps of Google in the sense that it also deletes user information after a period of ninety days. Other search engines such as Ask! search engine has promoted a tool of "AskEraser" which essentially takes away personal information when requested.
+  
+
+    [49]
+   
+
+  Some changes made to internet search engines included that of Google's search engine. Beginning in 2009, Google began to run a new system where the Google search became personalized. The item that is searched and the results that are shown remembers previous information that pertains to the individual. Google search engine not only seeks what is searched, but also strives to allow the user to feel like the search engine recognizes their interests. This is achieved by using online advertising.
+  
+
+    [50]
+   
+
+  A system that Google uses to filter advertisements and search results that might interest the user is by having a ranking system that tests relevancy that include observation of the behavior users exude while searching on Google. Another function of search engines is the predictability of location. Search engines are able to predict where one's location is currently by locating IP Addresses and geographical locations.
+  
+
+    [51]
+   
+
+
+  Google had publicly stated on January 24, 2012, that its privacy policy will once again be altered. This new policy will change the following for its users: (1) the privacy policy will become shorter and easier to comprehend and (2) the information that users provide will be used in more ways than it is presently being used. The goal of Google is to make users’ experiences better than they currently are.
+  
+
+    [52]
+   
+
+
+  This new privacy policy is planned to come into effect on March 1, 2012. Peter Fleischer, the Global Privacy Counselor for Google, has explained that if a person is logged into his/her Google account, and only if he/she is logged in, information will be gathered from multiple Google services in which he/she has used in order to be more accommodating. Google’s new privacy policy will combine all data used on Google’s search engines (i.e., YouTube and Gmail) in order to work along the lines of a person’s interests. A person, in effect, will be able to find what he/she wants at a more efficient rate because all searched information during times of login will help to narrow down new search results.
+  
+
+    [53]
+   
+
+
+  Google’s privacy policy explains information they collect and why they collect it, how they use the information, and how to access and update information. Google will collect information to better service its users such as their language, which ads they find useful or people that are important to them online. Google announces they will use this information to provide, maintain, protect Google and its users. The information Google uses will give users more relevant search results and advertisements. The new privacy policy explains that Google can use shared information on one service in other Google services from people who have a Google account and are logged in. Google will treat a user as a single user across all of their products. Google claims the new privacy policy will benefit its users by being simpler. Google will for example be able to correct the spelling of a user’s friend’s name in a Google search or notify a user they are late based on their calendar and current location. Even though Google is updating their privacy policy, its core privacy guidelines will not change. For example, Google does not sell personal information or share it externally.
+  
+
+    [54]
+   
+
+
+  Users and public officials have raised many concerns regarding Google’s new privacy policy. The main concern/issue involves the sharing of data from multiple sources. Because this policy gathers all information and data searched from multiple engines when logged into Google, and uses it to help assist users, privacy becomes an important element. Public officials and Google account users are worried about online safety because of all this information being gathered from multiple sources.
+  
+
+    [55]
+   
+
+
+  Some users do not like the overlapping privacy policy, wishing to keep the service of Google separate. The update to Google’s privacy policy has alarmed both public and private sectors. The European Union has asked Google to delay the onset of the new privacy policy in order to ensure that it does not violate E.U. law. This move is in accordance with objections to decreasing online privacy raised in other foreign nations where surveillance is more heavily scrutinized.
+  
+
+    [56]
+   
+
+  Canada and Germany have both held investigations into the legality of both Facebook, against respective privacy acts, in 2010. The new privacy policy only heightens unresolved concerns regarding user privacy.
+  
+
+    [57]
+   
+
+
+
+    [58]
+   
+
+
+  An additional feature of concern to the new Google privacy policy is the nature of the policy. One must accept all features or delete existing Google accounts.
+  
+
+    [59]
+   
+
+  The update will affect the Google+ social network, therefore making Google+’s settings uncustomizable, unlike other customizable social networking sites. Customizing the privacy settings of a social network is a key tactic that many feel is necessary for social networking sites. This update in the system has some Google+ users wary of continuing service.
+  
+
+    [60]
+   
+
+  Additionally, some fear the sharing of data amongst Google services could lead to revelations of identities. Many using pseudonyms are concerned about this possibility, and defend the role of pseudonyms in literature and history.
+  
+
+    [61]
+   
+
+
+
+  Some solutions to being able to protect user privacy on the Internet can include programs such as "Rapleaf" which is a website that has a search engine that allows users to make all of one's search information and personal information private. Other websites that also give this option to their users are Facebook and Amazon.
+  
+
+    [62]
+   
+
+
+  Search engines such as
+  
+   Startpage.com
+  
+  ,
+  
+   Disconnect.me
+  
+  and
+  
+   Scroogle
+  
+  (defunct since 2012) anonymize Google searches. Some of the most notable Privacy-focused search-engines are:
+ 
+  The advent of the
+  
+   Web 2.0
+  
+  has caused social profiling and is a growing concern for Internet privacy. Web 2.0 is the system that facilitates participatory information sharing and collaboration on the Internet, in
+  
+   social networking
+  
+  media websites like
+  
+   Facebook
+  
+  ,
+  
+   Instagram
+  
+  , Twitter, and
+  
+   MySpace
+  
+  . These social networking sites have seen a boom in their popularity starting from the late 2000s. Through these websites many people are giving their personal information out on the internet.
+ 
+  It has been a topic of discussion of who is held accountable for the collection and distribution of personal information. Some will say that it is the fault of the social networks because they are the ones who are storing the vast amounts of information and data, but others claim that it is the users who are responsible for the issue because it is the users themselves that provide the information in the first place. This relates to the ever-present issue of how society regards social media sites. There is a growing number of people that are discovering the risks of putting their personal information online and trusting a website to keep it private. Yet in a recent study, researchers found that young people are taking measures to keep their posted information on Facebook private to some degree. Examples of such actions include managing their privacy settings so that certain content can be visible to "Only Friends" and ignoring Facebook friend requests from strangers.
+  
+
+    [63]
+   
+
+
+  In 2013 a class action lawsuit was filed against Facebook alleging the company scanned user messages for web links, translating them to “likes” on the user’s Facebook profile. Data lifted from the private messages was then used for targeted advertising, the plaintiffs claimed.
+  
+   "Facebook's practice of scanning the content of these messages violates the federal Electronic Communications Privacy Act (ECPA also referred to as the Wiretap Act), as well as California's Invasion of Privacy Act (CIPA), and section 17200 of California's Business and Professions Code,
+  
+  " the plaintiffs said.
+  
+   [2]
+  
+  This shows that once information is online it is no longer completely private. It is an increasing risk because younger people are having easier internet access than ever before, therefore they put themselves in a position where it is all too easy for them to upload information, but they may not have the caution to consider how difficult it can be to take that information down once it is out in the open. This is becoming a bigger issue now that so much of society interacts online which was not the case fifteen years ago. In addition, because of the quickly evolving digital media arena, peoples interpretation of privacy is evolving as well, and it is important to consider that when interacting online. New forms of social networking and digital media such as
+  
+   Instagram
+  
+  and
+  
+   Snapchat
+  
+  may call for new guidelines regarding privacy. What makes this difficult is the wide range of opinions surrounding the topic, so it is left mainly up to our judgement to respect other people's online privacy in some circumstances. Sometimes it may be necessary to take extra precautions in situations where somebody else may have a tighter view on privacy ethics. No matter the situation it is beneficial to know about the potential consequences and issues that can come from careless activity on social networks.
+ 
+  Internet users obtain Internet access through an
+  
+   Internet service provider
+  
+  (ISP). All data transmitted to and from users must pass through the ISP. Thus, an ISP has the potential to observe users' activities on the Internet.
+ 
+  However, ISPs are usually prohibited from participating in such activities due to legal, ethical, business, or technical reasons.
+ 
+  Normally ISPs do collect at least
+  
+   some
+  
+  information about the consumers using their services. From a privacy standpoint, ISPs would ideally collect only as much information as they require in order to provide Internet connectivity (IP address, billing information if applicable, etc.).
+ 
+  Which information an ISP collects, what it does with that information, and whether it informs its consumers, pose significant privacy issues. Beyond the usage of collected information typical of third parties, ISPs sometimes state that they will make their information available to government authorities upon request. In the US and other countries, such a request does not necessarily require a warrant.
+ 
+  An ISP cannot know the contents of properly-encrypted data passing between its consumers and the Internet. For encrypting
+  
+   web
+  
+  traffic,
+  
+   https
+  
+  has become the most popular and best-supported standard. Even if users encrypt the data, the ISP still knows the IP addresses of the sender and of the recipient. (However, see the
+  
+   IP addresses
+  
+  section for workarounds.)
+ 
+  An
+  
+   Anonymizer
+  
+  such as
+  
+   I2P – The Anonymous Network
+  
+  or
+  
+   Tor
+  
+  can be used for accessing web services without them knowing one's IP address and without one's ISP knowing what the services are that one accesses. Additional software has been developed that may provide more secure and anonymous alternatives to other applications. For example,
+  
+   Bitmessage
+  
+  can be used as an alternative for email and
+  
+   Cryptocat
+  
+  as an alternative for online chat. On the other hand, in addition to End-to-End encryption software, there are web services such as Qlink
+  
+
+    [64]
+   
+
+  which provide privacy through a novel security protocol which does not require installing any software.
+ 
+  While signing up for internet services, each computer contains a unique IP, Internet Protocol address. This particular address will not give away private or personal information, however, a weak link could potentially reveal information from one's ISP.
+  
+
+    [65]
+   
+
+
+  General concerns regarding Internet user privacy have become enough of a concern for a UN agency to issue a report on the dangers of identity fraud.
+  
+
+    [66]
+   
+
+  In 2007, the
+  
+   Council of Europe
+  
+  held its first annual Data Protection Day on January 28, which has since evolved into the annual
+  
+   Data Privacy Day
+  
+  .
+  
+
+    [67]
+   
+
+
+
+   T-Mobile USA
+  
+  doesn't store any information on
+  
+   web browsing
+  
+  .
+  
+   Verizon Wireless
+  
+  keeps a record of the websites a subscriber visits for up to a year.
+  
+   Virgin Mobile
+  
+  keeps
+  
+   text messages
+  
+  for three months. Verizon keeps text messages for three to five days. None of the other carriers keep texts of messages at all, but they keep a record of who texted who for over a year.
+  
+   AT&T Mobility
+  
+  keeps for five to seven years a record of who text messages who and the date and time, but not the content of the messages. Virgin Mobile keeps that data for two to three months.
+  
+
+    [68]
+   
+
+
+   [
+   
+
+
+      needs update
+     
+
+
+   ]
+  
+
+
+   HTML5
+  
+  is the latest version of
+  
+   Hypertext Markup Language
+  
+  specification. HTML defines how user agents, such as web browsers, are to present websites based upon their underlying code. This new web standard changes the way that users are affected by the internet and their privacy on the internet. HTML5 expands the number of methods given to a website to store information locally on a client as well as the amount of data that can be stored. As such, privacy risks are increased. For instance, merely erasing cookies may not be enough to remove potential tracking methods since data could be mirrored in
+  
+   web storage
+  
+  , another means of keeping information in a user's web browser.
+  
+
+    [69]
+   
+
+  There are so many sources of data storage that it is challenging for web browsers to present sensible privacy settings. As the power of web standards increases, so do potential misuses.
+  
+
+    [70]
+   
+
+
+  HTML5 also expands access to user media, potentially granting access to a computer's microphone or webcam, a capability previously only possible through the use of plug-ins like
+  
+   Flash
+  
+  .
+  
+
+    [71]
+   
+
+  It is also possible to find a user's geographical location using the
+  
+   geolocation API
+  
+  . With this expanded access comes increased potential for abuse as well as more vectors for attackers.
+  
+
+    [72]
+   
+
+  If a malicious site was able to gain access to a user's media, it could potentially use recordings to uncover sensitive information thought to be unexposed. However, the
+  
+   World Wide Web Consortium
+  
+  , responsible for many web standards, feels that the increased capabilities of the web platform outweigh potential privacy concerns.
+  
+
+    [73]
+   
+
+  They state that by documenting new capabilities in an open standardization process, rather than through closed source plug-ins made by companies, it is easier to spot flaws in specifications and cultivate expert advice.
+ 
+  Besides elevating privacy concerns, HTML5 also adds a few tools to enhance user privacy. A mechanism is defined whereby user agents can share blacklists of domains that should not be allowed to access web storage.
+  
+
+    [69]
+   
+
+
+   Content Security Policy
+  
+  is a proposed standard whereby sites may assign privileges to different domains, enforcing harsh limitations on JavaScript use to mitigate
+  
+   cross-site scripting
+  
+  attacks. HTML5 also adds HTML templating and a standard HTML parser which replaces the various parsers of web browser vendors. These new features formalize previously inconsistent implementations, reducing the number of vulnerabilities though not eliminating them entirely.
+  
+
+    [74]
+   
+
+
+
+    [75]
+   
+
+
+
+   Big Data
+  
+  is generally defined as the rapid accumulation and compiling of massive amounts of information that is being exchanged over digital communication systems. The data is large (often exceeding
+  
+   exabytes
+  
+  ) and cannot be handled by conventional computer processors, and are instead stored on large server-system databases. This information is assessed by analytic scientists using software programs; which paraphrase this information into multi-layered user trends and demographics. This information is collected from all around the Internet, such as by popular services like
+  
+   Facebook
+  
+  ,
+  
+   Google
+  
+  ,
+  
+   Apple
+  
+  ,
+  
+   Spotify
+  
+  or
+  
+   GPS
+  
+  systems. Big Data provides companies with the ability to:
+ 
+
+
+    Inc. magazine
+   
+
+  reports that the Internet's biggest corporations have hoarded Internet users' personal data and sold it for large financial profits. The magazine reports on a band of startup companies that are demanding privacy and aiming to overhaul the social-media business, such as
+  
+   Wickr
+  
+  , a mobile messaging app, described as using peer-to-peer encryption and giving the user the capacity to control what information is retained on the other end;   Ansa, an ephemeral chat application, also described as employing peer-to-peer encryption;   and Omlet, an open mobile social network, described as giving the user control over their data so that if a user does not want their data saved, they are able to delete it from the data repository.
+  
+
+    [83]
+   
+
+
+  According to
+  
+   Nicklas Lundblad
+  
+  , another perspective on privacy protection is the assumption that the quickly growing amount of information produced will be beneficial. The reasons for this are that the costs for the surveillance will raise and that there is more noise, noise being understood as anything that interferes the process of a receiver trying to extract private data from a sender.
+ 
+  In this noise society, the collective expectation of privacy will increase, but the individual expectation of privacy will decrease. In other words, not everyone can be analyzed in detail, but one individual can be. Also, in order to stay unobserved, it can hence be better to blend in with the others than trying to use for example encryption technologies and similar methods. Technologies for this can be called Jante-technologies after the Law of Jante, which states that you are nobody special. This view offers new challenges and perspectives for the privacy discussion.
+  
+
+    [84]
+   
+
+
+  While internet privacy is widely acknowledged as the top consideration in any online interaction,
+  
+
+    [85]
+   
+
+  as evinced by the public outcry over SOPA/CISPA, public understanding of online privacy policies is actually being negatively affected by the current trends regarding online privacy statements.
+  
+
+    [86]
+   
+
+  Users have a tendency to skim internet privacy policies for information regarding the distribution of personal information only, and the more legalistic the policies appear, the less likely users are to even read the information.
+  
+
+    [87]
+   
+
+  Coupling this with the increasingly exhaustive license agreements companies require consumers to agree to before using their product, consumers are reading less about their rights.
+ 
+  Furthermore, if the user has already done business with a company, or is previously familiar with a product, they have a tendency to not read the privacy policies that the company has posted.
+  
+
+    [87]
+   
+
+  As internet companies become more established, their policies may change, but their clients will be less likely to inform themselves of the change.
+  
+
+    [85]
+   
+
+  This tendency is interesting because as consumers become more acquainted with the internet they are also more likely to be interested in online privacy. Finally, consumers have been found to avoid reading the privacy policies if the policies are not in a simple format, and even perceive these policies to be irrelevant.
+  
+
+    [87]
+   
+
+  The less readily available terms and conditions are, the less likely the public is to inform themselves of their rights regarding the service they are using.
+ 
+  While dealing with the issue of internet privacy, one must first be concerned with not only the technological implications such as damaged property, corrupted files, and the like, but also with the potential for implications on their real lives. One such implication, which is rather commonly viewed as being one of the most daunting fears risks of the Internet, is the potential for identity theft. Although it is a typical belief that larger companies and enterprises are the usual focus of identity thefts, rather than individuals, recent reports seem to show a trend opposing this belief. Specifically, it was found in a 2007 “Internet Security Threat Report” that roughly ninety-three percent of “gateway” attacks were targeted at unprepared home users. It should be noted that the term “gateway” attack was used to refer to attack which aimed not at stealing data immediately, but rather at gaining access for future attacks.
+  
+
+    [88]
+   
+
+
+  But how, one might ask, is this still thriving given the increasing emphasis on internet security? The simple, but unfortunate solution, according to Symantec’s “Internet Security Threat Report”, is that of the expanding “underground economy”. With more than fifty percent of the supporting servers located in the United States, this “underground economy” has become a haven for internet thieves, who use the system in order to sell stolen information. These pieces of information can range from generic things such as a user account or email to something as personal as a bank account number and
+  
+   PIN
+  
+  .
+  
+
+    [88]
+   
+
+
+  While the processes these internet thieves use are abundant and unique, one popular trap unsuspecting people fall into is that of online purchasing. This is not to allude to the idea that every purchase one makes online will leave them susceptible to identity theft, but rather that it increases the chances. In fact, in a 2001 article titled “Consumer Watch”, the popular online site PC World went as far as calling secure e-shopping a myth. Though unlike the “gateway” attacks mentioned above, these incidents of information being stolen through online purchases generally are more prevalent in medium to large sized e-commerce sites, rather than smaller individualized sites. This is assumed to be a result of the larger consumer population and purchases, which allow for more potential leeway with information.
+  
+
+    [89]
+   
+
+
+  Ultimately, however, the potential for a violation of one's privacy is typically out of their hands after purchasing from an online “e-tailer” or store. One of the most common forms in which hackers receive private information from online “e-tailers” actually comes from an attack placed upon the site’s servers responsible for maintaining information about previous transactions. For as experts explain, these “e-tailers” are not doing nearly enough to maintain or improve their security measures. Even those sites that clearly present a privacy or security policy can be subject to hackers’ havoc as most policies only rely upon encryption technology which only apply to the actual transfer of a customer’s data. However, with this being said, most “e-tailers” have been making improvements, going as far as covering some of the credit card fees if the information’s abuse can be tracked back to the site’s servers.
+  
+
+    [89]
+   
+
+
+  As one of the largest growing concerns American adults have of current internet privacy policies, identity and credit theft remain a constant figure in the debate surrounding privacy online. A 1997 study by the Boston Consulting Group showed that participants of the study were most concerned about their privacy on the Internet compared to any other media.
+  
+
+    [90]
+   
+
+  However, it is important to recall that these issues are not the only prevalent concerns our society has. Though some may call it a modern-day version of McCarthyism, another prevalent issue also remains members of our own society sending disconcerting emails to one another. It is for this reason in 2001 that for one of the first times ever the public demonstrated an approval of government intervention in their private lives.
+  
+
+    [91]
+   
+
+
+  With the overall public anxiety regarding the constantly expanding trend of online crimes, in 2001 roughly fifty-four percent of Americans polled showed a general approval for the FBI monitoring those emails deemed suspicious. Thus, it was born the idea for the FBI program: “Carnivore”, which was going to be used as a searching method, allowing the FBI to hopefully home in on potential criminals. Unlike the overall approval of the FBI’s intervention, “Carnivore” was not met with as much of a majority’s approval. Rather, the public seemed to be divided with forty-five percent siding in its favor, forty-five percent opposed to the idea for its ability to potentially interfere with ordinary citizen’s messages, and ten percent claiming indifference. While this may seem slightly tangent to the topic of internet privacy, it is important to consider that at the time of this poll, the general population’s approval on government actions was declining, reaching thirty-one percent versus the forty-one percent it held a decade prior. This figure in collaboration with the majority’s approval of FBI intervention demonstrates an emerging emphasis on the issue of internet privacy in society and more importantly the potential implications it may hold on citizens’ lives.
+  
+
+    [91]
+   
+
+
+  Online users must seek to protect the information they share with online websites, specifically social media. In today's
+  
+   Web 2.0
+  
+  individuals have become the public producers of personal information.
+  
+
+    [92]
+   
+
+  We create our own digital trails that hackers and companies alike capture and utilize for a variety of marketing and advertisement targeting. A recent paper from the
+  
+   Rand Corporation
+  
+  claims "privacy is not the opposite of sharing – rather, it is control over sharing."
+  
+
+    [92]
+   
+
+  Internet privacy concerns arise from our surrender of personal information to engage in a variety of acts, from transactions to commenting in online forums. Protections against invasions of online privacy will require individuals to make an effort informing and protecting themselves via existing software solutions, to pay premiums for such protections or require individuals to place greater pressure on governing institutions to enforce privacy laws and regulations regarding consumer and personal information.
+ 
+  Google has long been attacked for their lack of privacy in the U.S. as well as abroad. In 2007, however, the tables began to turn. Peter Fleischer, a Google representative, addressed the U.N. in France regarding privacy issues and expressed that the current international privacy policies were not adequately protecting consumers. Instead of continuing to enforce broken and ineffective Internet privacy laws, the Google representative proposed that the United Nations establish a global privacy policy that would efficiently protect consumers privacy while causing the least possible amount of negative impact on web browsers such as Google. At that time, Google was under investigation by the European Union for violating the global privacy policies that were already in place. The greatest issue related to Internet privacy internationally is that of data collection. At this point in time, the U.S. and the European Union had separate sets of privacy policies, making it increasingly difficult for companies such as Google to exist globally without violating such policies. Google is just one example of a large company whose primary goal is to make money by serving their product, web browsing, to consumers. Consumers, however, are concerned with the quality of that product and their privacy. Online data collection by search engines allows Internet businesses to track consumer’s online roadmap, everything from the sites they visit to the purchases they make. This poses problems globally to those who are web users around the world, especially in a world where there is no overarching privacy policy. The general consensus of this issue regarding international privacy violations at the time of Fleischer’s U.N. address is that, since the Internet is global, the privacy policies should also be global and unified.
+ 
+  Currently, as of March 2012, the need for a set of unified privacy policies has been met by the European Union with proposed legislation. The Data Protection Regulation is a proposed set of consistent regulations across the European Union that will protect Internet users from clandestine tracking and unauthorized personal data usage. This regulation will further protect users' privacy rights in two key ways: clearly defining the term “personal data” and increasing punishments for those who violate users' online privacy. In Article 4(2) of the proposed legislation, the definition of personal data is expanded significantly to include any information online that could be traced to an individual. In Articles 77 and 79 of the proposed legislation, appropriate punishments are outlined for many possible violations of users' privacy rights by controllers and effective enforcement of data protection is guaranteed. The Data Protection Regulation will also hold companies accountable for violations of the regulation by implementing a unified legislation outlining specific repercussions for various types of violations based on severity. The CDT, the Center for Democracy & Technology, has carefully evaluated this proposed legislation in detail and officially issued an analysis on March 28, 2012. The Center for Democracy & Technology is a nonprofit organization that advocates for Internet freedom and online privacy through government public policy. Analyses such as this interpret the governmental propositions for Internet users and promote democracy by allowing all the opportunity to agree or disagree with the proposition prior to its ruling. This analysis is posted publicly on the Internet, in compliance with the mission of CDT, and addresses each section of the Data Protection Regulation and the potential pitfalls of each article. The two major issues the CDT addresses in this analysis of the Data Protection Regulation are the inflexible rules against profiling users based on their Internet usage and the parental consent policy in regards to controlling the online information of children. The European Union seems to be following the lead of the Obama administration’s recently implemented privacy bill and global Internet privacy policies are on the horizon.
+ 
+  One of the most popular topics of discussion in regards to Internet privacy is China. The main concern with privacy of Internet users in China is the lack thereof. China has a well known policy of censorship when it comes to the spread of information through public media channels.
+  
+   Censorship
+  
+  has been prominent in
+  
+   Mainland China
+  
+  since the
+  
+   communist party
+  
+  gained power in China over 60 years ago. With the development of the Internet, however, privacy became more of a problem for the government. The Chinese Government has been accused of actively limiting and editing the information that flows into the country via various media. The Internet poses a particular set of issues for this type of censorship, especially when search engines are involved. Yahoo! for example, encountered a problem after entering China in the mid-2000s. A Chinese journalist, who was also a Yahoo! user, sent private emails using the Yahoo! server regarding the Chinese government. The Chinese staff of Yahoo! intercepted these emails and sent the journalist’s reportedly bad impression of the country to the Chinese government, which in turn sentenced the journalist to ten years in prison.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  These types of occurrences have been reported numerous times and have been criticised by foreign entities such as the creators of the
+  
+   Tor anonymity network
+  
+  , which was designed to circumvent network surveillance in multiple countries. User privacy in China is not as cut-and-dry as it is in other parts of the world.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  China, reportedly
+  
+   [
+   
+
+
+      according to whom?
+     
+
+
+   ]
+  
+  , has a much more invasive policy when Internet activity involves the Chinese government. For this reason, search engines are under constant pressure to conform to Chinese rules and regulations on censorship while still attempting to keep their integrity. Therefore, most search engines operate differently in China than in the other countries, such as the US or Britain, if they operate in China at all. There are two types of intrusions that occur in China regarding the internet: the alleged intrusion of the company providing users with Internet service, and the alleged intrusion of the Chinese government.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  The intrusion allegations made against companies providing users with Internet service are based upon reports that companies, such as Yahoo! in the previous example, are using their access to the internet users' private information to track and monitor users' Internet activity. The claims made against the Chinese government lies in the fact that the government is forcing Internet-based companies to track users private online data without the user knowing that they are being monitored. Both alleged intrusions are relatively harsh and possibly force foreign Internet service providers to decide if they value the Chinese market over internet privacy.
+ 
+  Sweden is often considered to be at the forefront of Internet use and Internet regulations. They are constantly innovating the way that the Internet is used and how it impacts their people. In 2012, Sweden received a Web Index Score of 100, a score that measures how the Internet significantly influences political, social, and economic impact, placing them first among 61 other nations. Sweden received this score while in the process of exceeding new mandatory implementations from the European Union. Sweden placed more restrictive guidelines on the directive on intellectual property rights enforcement (IPRED) and passed the FRA-law in 2009 that allowed for the legal sanctioning of surveillance of internet traffic by state authorities. The FRA has a history of intercepting radio signals and has stood as the main intelligence agency in Sweden since 1942. Sweden is an interesting topic when discussing Laws and Regulations of Internet Privacy because of mixture of their government's strong push towards implementing policy and their citizens continued perception of a free and neutral Internet. Both of the previously mentioned additions created controversy by critics but they did not change the public perception even though the new FRA-law was brought in front of the European Court of Human Rights for human rights violations. The law was established by the National Defense Radio Establishment (Forsvarets Radio Anstalt - FRA) to eliminate outside threats. However, the law also allowed for authorities to monitor all cross-border communication without a warrant. Sweden's recent emergence into Internet dominance may be explained by their recent climb in users. Only 2% of all Swedes were connected to the Internet in 1995 but at last count in 2012, 89% had broadband access. This was due in large part once again to the active Swedish government introducing regulatory provisions to promote competition among Internet Service Providers. These regulations helped grow web-infrastructure and forced prices below the European average. To add to the intrigue around Sweden's laws and regulations, one must also mention how copyright laws evolved in Sweden. Sweden was the birthplace of the Pirate Bay, an infamous file-sharing web site. File sharing has been illegal in Sweden since it was developed, however there was never any real fear of being persecuted for the crime until 2009 when Swedish parliament was the first in the European Union to pass the intellectual property rights directive. This directive persuaded internet service providers to announce the identity of suspected violators. A final piece of legislation worth mentioning when discussing Sweden's regulations is the infamous centralized block list. The list is generated by authorities and was originally crafted to eliminate sites hosting child pornography. However, there is no legal way to appeal a site that ends up on the list and as a result many non child pornography sites have been black listed. It is important to consider that Sweden's government enjoys a high level of trust from their citizens. Without this trust, many of these regulations would not be possible and thus many of these regulations may only be feasible in the Swedish context.
+ 
+
+
+    [93]
+   
+
+
+  Used by government agencies are array of technologies designed to track and gather Internet users' information are the topic of much debate between privacy advocates,
+  
+   civil liberties
+  
+  advocates and those who believe such measures are necessary for law enforcement to keep pace with rapidly changing communications technology.
+ 
+  Specific examples:
+ 

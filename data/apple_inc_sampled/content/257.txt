@@ -1,0 +1,414 @@
+
+
+
+   Mac OS X Lion
+  
+
+
+    [4]
+   
+
+  (version 10.7; marketed as
+  
+   Mac OS X 10.7 Lion
+  
+  )
+  
+
+    [5]
+   
+
+  is the eighth
+  
+   major release
+  
+  of
+  
+   Mac OS X (now named macOS)
+  
+  ,
+  
+   Apple
+  
+  's desktop and server
+  
+   operating system
+  
+  for
+  
+   Macintosh
+  
+  computers.
+ 
+  A preview of Mac OS X 10.7 Lion was publicly unveiled at the "Back to the Mac"
+  
+   Apple Special Event
+  
+  on October 20, 2010. It brought many developments made in Apple's
+  
+   iOS
+  
+  , such as an easily navigable display of installed applications, to the Mac, and includes support for the
+  
+   Mac App Store
+  
+  , as introduced in
+  
+   Mac OS X Snow Leopard
+  
+  version 10.6.6.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+  On February 24, 2011, the first developer's preview of Lion (11A390) was released to subscribers to the
+  
+   Apple Developer
+  
+  program.
+  
+
+    [8]
+   
+
+  Other developer previews were subsequently released, with Lion Preview 4 (11A480b) being released at WWDC 2011.
+  
+
+    [9]
+   
+
+
+  Lion was
+  
+   released to manufacturing
+  
+  on July 1, 2011,
+  
+
+    [10]
+   
+
+  followed by its final release via the Mac App Store on July 20, 2011. Apple reported over one million Lion sales on the first day of its release.
+  
+
+    [11]
+   
+
+  As of October 2011
+  
+
+    [update]
+   
+
+  , Mac OS X Lion had sold over six million copies worldwide.
+  
+
+    [12]
+   
+
+
+
+
+  On June 6, 2011, at the
+  
+   Apple Worldwide Developers Conference
+  
+  , it was announced that the official release for Lion would be in July 2011. The specific release date of July 20 was not confirmed until the day before, July 19, by Apple CFO,
+  
+   Peter Oppenheimer
+  
+  , as part of Apple's 2011 third-quarter earnings announcement.
+  
+
+    [13]
+   
+
+
+  Apple did not initially announce any physical media distribution for Lion, such as a set of
+  
+   CD-ROMs
+  
+  or a
+  
+   DVD-ROM
+  
+  as used for past releases. Instead, the operating system was said to be available exclusively as a download from the
+  
+   Mac App Store
+  
+  for US$29.99.
+  
+
+    [14]
+   
+
+
+
+    [15]
+   
+
+  The only prior version of OS X that supports the Mac App Store is Snow Leopard, which implied that any machines that support Lion currently running
+  
+   Tiger
+  
+  or
+  
+   Leopard
+  
+  would first have to be upgraded to Snow Leopard, as opposed to allowing a direct upgrade to Lion.
+ 
+  Apple later announced two alternative distribution mechanisms for the benefit of users without broadband Internet access: in-store downloads at retail
+  
+   Apple Stores
+  
+  , and a
+  
+   USB flash drive
+  
+  containing the OS, priced at US$69, available through the
+  
+   online Apple Store
+  
+  beginning in August.
+  
+
+    [16]
+   
+
+  On August 4, 2011, Apple started to take orders for Mac OS X Lion's USB installation flash drives for $69.99.
+  
+
+    [17]
+   
+
+
+  The Server portion of Lion is available as a separate download from the Mac App Store for US$49.99, which is in addition to the purchase price of Lion itself.
+  
+
+    [18]
+   
+
+
+  In July 2012, Lion was removed from the Mac App Store and retail Apple stores following the release of
+  
+   OS X Mountain Lion
+  
+  .
+  
+
+    [19]
+   
+
+  Following the removal of Lion from the Mac App Store, customers could still purchase Lion by phone at the reduced price of $20.
+  
+
+    [20]
+   
+
+  In October 2013, Lion was returned to the Apple Store website concurrently with Mountain Lion following the release of
+  
+   OS X Mavericks
+  
+  for the convenience of users who cannot run Mavericks on older Mac models.
+  
+
+    [21]
+   
+
+
+  The first developer preview of Lion added
+  
+   TRIM
+  
+  support for
+  
+   Solid-state drives
+  
+  (SSD) shipped with Macs, which is also included in the latest version of Snow Leopard (10.6.8) shipping with current MacBook Pros before July 20, 2011. Other SSDs have built-in TRIM-like optimization, while yet others require OS patching.
+  
+
+    [22]
+   
+
+
+  Some new features were announced at the "Back to the Mac" keynote in October 2010, and the Apple website was updated in February 2011, with more details. Other features were announced at the WWDC 2011 keynote or on Apple's Mac OS X Lion Web site after the keynote. Apple states that there are over 250 new or changed features in Lion, including:
+ 
+  The complete list was on Apple's website but has since been taken down; it can now be found on the Internet Archive.
+  
+
+    [67]
+   
+
+  The developer release notes may also be of interest.
+  
+
+    [68]
+   
+
+
+  Reception for OS X Lion has been mixed; complaints include a substantial backlash by "Pro" users with workflows affected by the Autosave/Revert workflow.
+  
+
+    [88]
+   
+
+  Other highly criticized decisions include the change to "natural scrolling",
+  
+
+    [89]
+   
+
+  hiding of the scroll bar,
+  
+
+    [90]
+   
+
+  the omission of the iSync program necessary to synchronize a Mac with non-Apple mobile devices,
+  
+
+    [91]
+   
+
+  as well as abandoned functionality in Exposé
+  
+
+    [92]
+   
+
+  and Spaces.
+  
+
+    [93]
+   
+
+
+  In an extensive review of the operating system,
+  
+   Ars Technica
+  
+  recommended Lion.
+  
+
+    [70]
+   
+
+  They noted that it feels like it is the start of a new line of operating systems that will continue to be influenced by Apple's
+  
+   iOS
+  
+  platform.
+  
+
+    [70]
+   
+
+  The review also compared the introduction of Lion, along with its new conventions that change traditional ways of computing, with the original
+  
+   Mac OS X
+  
+  and when it replaced the
+  
+   classic Mac OS
+  
+  .
+  
+
+    [70]
+   
+
+
+
+    Macworld
+   
+
+  called Lion a "radical revision", praising the changes made to the operating system to be more user friendly to new Mac users who are familiar with the iOS interface, while criticizing the limited utility of the interface. Ultimately, the magazine considered Lion an operating system worth getting, giving it 4.5 out of 5 stars.
+  
+
+    [94]
+   
+
+
+   guardian.co.uk
+  
+  called Lion a substantial improvement from its predecessors and considered it a "steal" given its price.
+  
+
+    [95]
+   
+
+
+  On the other hand,
+  
+   Gizmodo
+  
+  stated that the new interface "feels like a failure" and concluded by saying that "it doesn't feel like a must-have upgrade".
+  
+
+    [96]
+   
+
+  Ted Landau of MacObserver also had serious criticism of Lion, reversing his earlier praise of Autosave and writing, "Auto Save takes irritatingly long when working with large documents. Still others lament the loss of the Save As… command, noting that the new Duplicate option is not as convenient to use. The consensus is that none of this would matter much — if you could disable Auto Save. If you like how it works, leave things as is. Otherwise, get rid of it. But Lion offers no way to turn Auto Save off. This is the heart of the "my way or the highway" complaint. A posting sums it up: "The new features are intrusive, non-respectful of the users' choices, and cannot be changed."
+  
+
+    [88]
+   
+
+
+  Due to Lion's enhanced security features, including application sandboxing, Dino Dai Zovi, principal of security consultancy Trail of Bits and the coauthor (with
+  
+   Charles Miller
+  
+  ) of
+  
+   The Mac Hacker's Handbook
+  
+  , characterized Lion's security as "a significant improvement, and the best way that I've described the level of security in Lion is that it's Windows 7, plus, plus. I generally tell Mac users that if they care about security, they should upgrade to Lion sooner rather than later, and the same goes for Windows users, too."
+  
+
+    [97]
+   
+
+
+  Mac OS X Lion was criticized for removing
+  
+   Rosetta
+  
+  , which eliminated support for PowerPC applications.
+  
+
+    [98]
+   
+
+
+
+    [99]
+   
+
+
+
+      Combo update
+     
+     (includes 10.7.1)
+    
+
+      Combo update
+     
+     (includes 10.7.1-10.7.2)
+    
+
+      Combo update
+     
+     (includes 10.7.1-10.7.3)
+    
+
+      Combo update
+     
+     (includes 10.7.1-10.7.4)
+    

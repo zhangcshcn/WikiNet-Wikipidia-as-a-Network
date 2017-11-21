@@ -1,0 +1,471 @@
+
+
+  The
+  
+   Apple Keyboard
+  
+  is a
+  
+   keyboard
+  
+  designed by
+  
+   Apple Inc.
+  
+  first for the Apple line, then the
+  
+   Macintosh
+  
+  line of computers. Dozens of models have been released over time, including the
+  
+   Apple Extended Keyboard
+  
+  . There are currently two keyboards offered by Apple: a full-sized version using
+  
+   USB
+  
+  , and the
+  
+   Apple Magic Keyboard
+  
+  , which connects via
+  
+   Bluetooth
+  
+  and omits the numeric keypad of the full-sized model.
+ 
+  Both share a similar look and feel, based on a very thin aluminum chassis and laptop-style low-profile keys, sitting much closer to the tabletop than traditional keyboard designs.
+ 
+
+
+  To serve the functionality of the
+  
+   Macintosh operating systems
+  
+  (and because of historical differences), the Apple Keyboard's
+  
+   layout
+  
+  differs somewhat from that of the ubiquitous
+  
+   IBM PC keyboard
+  
+  , mainly in its
+  
+   modifier
+  
+  and special keys. Some of these keys have unique symbols defined in the
+  
+   Unicode
+  
+  block
+  
+   Miscellaneous Technical
+  
+  . Features different from other keyboards include:
+ 
+  The
+  
+   Macintosh
+  
+  keyboards are somewhat reminiscent of the keyboards used for the
+  
+   Apple II
+  
+  .
+ 
+  Apple's very first offering, the
+  
+   Apple I
+  
+  , was initially sold as a naked
+  
+   PCB
+  
+  without a keyboard (or a case), although some resellers and users fitted their own cases with built-in keyboards and Apple cooperated with at least one such reseller.
+ 
+  Starting in 1977, the first real Apple keyboards were built into the cases of the
+  
+   Apple II
+  
+  series and the later
+  
+   Apple III
+  
+  series systems. These first keyboards had chocolate brown keycaps with white legends. The Apple II and Apple II+ keyboard had 52 keys, the Apple III keyboard, which included a numeric pad and some other additional keys, had 74. In 1983, the new Apple IIe and Apple III+ models introduced a beige keyboard with smaller black legends. In the same year, Apple introduced its first separate keyboard with the
+  
+   Lisa
+  
+  ; it incorporated a numeric keypad and lighter taupe-colored keycaps. It connected via a unique
+  
+   TRS
+  
+  port. The
+  
+   Macintosh
+  
+  updated the look somewhat and separated the (optional) numerical keypad from the alphanumeric unit, all of which connected by telephone-style modular cables. By 1986, the
+  
+   Macintosh Plus
+  
+  re-integrated the numerical keypad and became the standard for all successive keyboards. However, it also marked the last of the beige Apple-II-era designs which were usurped by the newer
+  
+   Snow White design language
+  
+  .
+ 
+  From the end of 1986 until mid-1998, all new Apple keyboards were "Platinum" gray and connected via the
+  
+   Apple Desktop Bus
+  
+  (ADB). The Apple IIe and IIc line continued with integrated keyboards, as did the
+  
+   PowerBook
+  
+  portable line of course, those of the latter being a darker gray color called "Smoke". During the 90s, Apple offered various styles of keyboard, including the large
+  
+   extended keyboards
+  
+  which included the features of their
+  
+   IBM PC AT
+  
+  counterparts.
+ 
+  The release of the
+  
+   first iMac
+  
+  in October 1998 introduced a matching compact, translucent-plastic keyboard based on laptop technology and marked the transition from ADB to
+  
+   USB
+  
+  . In July 2000, it was replaced with the full-sized Pro Keyboard, having slightly translucent black keys and a clear case. The PowerBook and
+  
+   iBook
+  
+  integrated keyboards followed suit with translucent keys first in bronze (PowerBook), then in black (PowerBook) and white (iBook). Coinciding with the introduction of the
+  
+   iMac G4
+  
+  in 2002, Apple started making its keyboards white. On the
+  
+   Bluetooth
+  
+
+   Wireless Keyboard
+  
+  , Apple removed the adjustable feet from the back of the keyboard, giving it a solid base. This design was later quietly introduced on the wired version. The
+  
+   Aluminum PowerBooks
+  
+  added another color, opaque aluminum with sometimes-backlit translucent legends, to the array of keyboard styles in use.
+ 
+  On August 7, 2007, Apple introduced their current generation of keyboards. The new model is much thinner than its predecessors, requiring less wrist flexing and a slightly lower hand position for most users. Taking a cue from the portables, it has an aluminum enclosure, and the USB ports have been, once again, relocated to the right and left ends of the keyboard case. Software function and hardware control keys have a new arrangement, and there are keys associated with specific features of
+  
+   macOS
+  
+  , such as
+  
+   Dashboard
+  
+  . In order to properly use these new features, a computer must be updated as of the initial ship date of the keyboards, usually with the built-in
+  
+   Software Update
+  
+  .
+  
+
+    [4]
+   
+
+
+  On March 3, 2009, Apple introduced an additional keyboard to their latest line of keyboards. The new keyboard is similar to the wireless keyboard due to the absence of the numeric keypad, however it is a wired keyboard with 2 USB 2.0 ports similar to the standard keyboard. Until this time the typical keyboard with the numeric keypad was titled "Apple Keyboard", now the more-compact keyboard carries the name "Apple Keyboard" and the standard keyboard with numeric keys is titled "Apple Keyboard with Numeric Keypad".
+  
+
+    [5]
+   
+
+
+  Apple's older ADB (
+  
+   Apple Desktop Bus
+  
+  ) keyboards are compatible with other ADB-based systems, such as those from Next and Sony (and vice versa for their non-Apple ADB keyboards). When using a USB adapter (such as the Griffin iMate), they function similarly to Apple's later USB keyboards, although there can be problems using such setups with later versions of
+  
+   macOS
+  
+  . Although external ADB ports ceased to be used after the
+  
+   Power Macintosh G3 (Blue & White)
+  
+  , Apple still used ADB as the internal protocol for their laptop keyboards and trackpads until the last-generation PowerBooks and iBooks; for this reason, ADB drivers can still be found in
+  
+   Mac OS X 10.5
+  
+  but not
+  
+   Mac OS X 10.6
+  
+  . Even with these operating systems, it is possible to use ADB devices with a USB adapter.
+ 
+  Apple's USB keyboards are mostly compatible with Windows computers, and can be remapped; the Command key works as the Windows key, the
+  
+   ⌥ Option
+  
+  key as the Alt key, the
+  
+   Help key
+  
+  as the
+  
+   Insert
+  
+  key, and the
+  
+   Clear
+  
+  key as the
+  
+   Num Lock
+  
+  key. On the slightly older all-white models, the volume keys function as they would on a Macintosh, and the eject key has no function. With the new models released in August 2007 the volume, brightness, Exposé, dashboard, eject and media controls no longer work without installing Apple's Boot Camp software. This software allows for the volume, brightness, eject and media controls buttons to work properly, though the Exposé and dashboard buttons still do nothing because Windows lacks this functionality.
+ 
+  The additional function keys placed where the
+  
+   Print Screen
+  
+  /
+  
+   SysRq
+  
+  ,
+  
+   Scroll Lock
+  
+  , and
+  
+   Pause/Break
+  
+  keys are on most IBM PC keyboards (F13/F14 through F15/F16) do not work as those keys in Windows without a special driver. Apple has since released a driver, though it is only available bundled with
+  
+   Boot Camp
+  
+  .
+ 
+  The USB keyboard is also combined with a two-
+  
+   port
+  
+  USB
+  
+   hub
+  
+  , with the hub being
+  
+   USB 1.1
+  
+  on older keyboards and
+  
+   USB 2.0
+  
+  on the August 2007 model.
+ 
+  The Numeric Keypad IIe was Apple's first external keypad. Released as an option specifically for the popular Apple IIe computer in 1983, it helped correct some of the II series' shortcomings. Later the Platinum IIe would incorporate the numeric keypad into its built-in keyboard.
+ 
+  The first keyboard not to be integrated into the
+  
+   CPU
+  
+  case like the Apple II and III series before it. It was designed for and came with the
+  
+   Apple Lisa
+  
+  . Like the Apple III before it, it was intended to be a business computer and included an integrated numeric keypad. Like all Apple computers before it, it came in a beige case to match the CPU and connected by a unique
+  
+   TRS connector
+  
+  . In addition it carried over the use of the "open" Apple key from the Apple III as a command key (though it was represented by the "close" Apple character) and included a pullout reference guide hidden under the keyboard.
+ 
+  Introduced and included with the original Macintosh in 1984, it debuted with neither arrow keys to control the cursor nor an integrated numeric keypad. It used a telephone cord-style connector to the case (also used with the Amstrad PCW series of computers). The keyboard
+  
+   pinouts
+  
+  are "crossed" so it isn't possible to use a standard telephone cord as replacement. The keyboard also introduced a unique command key similar to the "open" Apple Key on the Lisa.
+ 
+  Like the Apple IIe before it, the Macintosh provided an optional external keypad which also included arrow keys that daisy chained to the CPU via the telephone-cord connectors. Though introduced with the Macintosh in January 1984, Apple did not ship it until September 1984 at a retail price of US$99.
+ 
+  Introduced and included with the Macintosh Plus in 1986, it was an extended keyboard that had a built-in numeric keypad. In 1987 it was updated to Apple's new Platinum gray color. It continued to use the telephone-cord style connector to the system and was interchangeable with the M0110. Though Apple switched all other keyboards to
+  
+   Apple Desktop Bus
+  
+  connectors by this time, this keyboard was manufactured unchanged for four more years until the Plus was discontinued in 1990.
+ 
+  This was the first Apple keyboard to use the new
+  
+   Apple Desktop Bus
+  
+  (ADB) connector first seen on the
+  
+   Apple IIGS
+  
+  . Designed to be compatible with both the Macintosh and Apple product lines, it was the first to combine both the Macintosh command key and Apple II "open" Apple key legends. Entirely Platinum gray in color (the Macintosh Plus has darker gray keys called "Smoke"), it was also the first to use
+  
+   Snow White design language
+  
+  that was similar to the Apple IIc. However, it duplicated the extended design established by the Plus. It was also the first to include an external power/reset button and an extra ADB port.
+ 
+  Also known as the
+  
+   Apple Standard Keyboard
+  
+  , it was the first to officially use this name. Apple would later reuse the name for a series of successive keyboards. The
+  
+   Apple Keyboard
+  
+  was a more solid version of the
+  
+   Apple Desktop Bus Keyboard
+  
+  and optionally included with the
+  
+   Macintosh II
+  
+  and
+  
+   SE
+  
+  in 1987. The heftier design solidified visually the power performance embodied by the upgraded Macs. Aside from weight the main difference was the significantly thicker frame width. It was the first keyboard to be sold separately from the system, giving the customer a choice of the basic or advanced keyboards offered by Apple.
+ 
+  Apple's advanced keyboard, the first to be sold optionally, was essentially a redesigned version of the
+  
+   Apple Keyboard,
+  
+  with an
+  
+   enhanced
+  
+  extended keyboard with
+  
+   FKeys
+  
+  and other
+  
+   PC-style keys
+  
+  . It included template guides above the top row of function keys to accommodate shortcut key references which accommodate many software packages. It was the heaviest of all the Macintosh keyboards and set the standard for many typists. It was sold separately from any Apple computer and retailed for US$163.
+ 
+  Introduced and sold with the
+  
+   Macintosh Classic
+  
+  and
+  
+   LC
+  
+  in 1990, this keyboard was almost identical to the original ADB Keyboard, but included flip down feet to change the typing angle and a design change that gave the frame and keys a more streamlined appearance. Internally, the M0487 differed from the original M0116, as the M0487 did not use mechanical keyswitches (save for the Caps Lock). In 1993, the
+  
+   Macintosh TV
+  
+  , the first Mac introduced in all black, came with an identical black Keyboard II (using the same model number). This keyboard marked the return of Apple including a standard keyboard together with the computer itself.
+ 
+  A minor update to the
+  
+   Apple Extended Keyboard
+  
+  to coincide with the release of the
+  
+   Macintosh IIsi
+  
+  in 1990, it added an adjustable height feature.
+ 
+  The Apple
+  
+   Apple Adjustable Keyboard
+  
+  , which was sold optionally, was Apple's 1993 entry into the ergonomic adjustable keyboard market. It was often criticized for its flimsy construction. It came with a separate keypad (not sold separately), the first to do so since the original
+  
+   Macintosh
+  
+  keyboard.
+ 
+  In the mid-90's Apple released the
+  
+   Apple Newton
+  
+  sub-mini keyboard to allow a quick input alternative to the Newton's handwriting recognition, which required extensive training to become useful. It connected via the Newton's serial interface. Many Mac users favoring the portable size were able to use it on a Mac utilizing a third-party enabler. In a foreshadowing of the
+  
+   iPhone
+  
+  to come, the Newton also included a
+  
+   virtual keyboard
+  
+  .
+ 
+  This was the first major redesign of the Apple keyboard, featuring more fluid, curving lines to match the look of the new Apple product style. It was an unpopular replacement for the
+  
+   Apple Extended Keyboard II
+  
+  in 1994. Significantly lighter than its predecessors, it had a much softer and quieter key interface that was unpopular with many typists. It also included only one ADB port for mice or other pointing devices, concealed on the underside, with the keyboard's cable permanently attached.
+  
+
+    [6]
+   
+
+  The Extended II had an ADB port on either side of the keyboard, allowing the keyboard cable or mouse to be attached to the side preferred by the user. This keyboard was also produced in black using the same model number (like the
+  
+   Apple Keyboard II
+  
+  before it), for inclusion with the
+  
+   Macintosh TV
+  
+  , black
+  
+   Performa 5420
+  
+  released primarily in Europe, and the black
+  
+   Power Macintosh 5500
+  
+  released in Asia.
+ 
+  Bundled with the
+  
+
+    Twentieth Anniversary Macintosh
+   
+
+  in 1997, this keyboard once again excluded an integrated keypad, though unlike the
+  
+   Adjustable Keyboard
+  
+  none was offered. Based around a
+  
+
+    PowerBook
+   
+
+  form factor it also included an optional built-in
+  
+   trackpad
+  
+  and leather palm rests. This was the last ADB keyboard Apple would produce, and was not sold separately.
+ 
+  Released and sold with the
+  
+   iMac
+  
+  in 1998 this became the new standard for all Macintosh models for the next two years. It was the first to use translucent plastics, first in
+  
+   Bondi blue
+  
+  , then in a darker gray called "Graphite" for the PowerMac G4 line and fruit-colored for each of the five first color variations of the iMac. It had a built-in adjustable stand. It also marked a return to the standard keyboard with integrated keypad with the enhanced cursor keys above the keypad. Also, the keyboard had a power button on the top right side. This keyboard works with Windows except for the power button.
+ 
+  Originally introduced as the Apple Pro Keyboard in 2000, but three years later it was discontinued. This keyboard reintroduced the additional extended function keys last seen in the
+  
+   Apple Design Keyboard
+  
+  and debuted in a clear case with black keys. Later a white key version was also offered. One major departure from all previous ADB & USB keyboards was the removal of the remote power key. This keyboard contained 108 keys (ANSI).
+ 

@@ -1,0 +1,2814 @@
+
+
+
+   PageRank
+  
+  (PR) is an algorithm used by
+  
+   Google Search
+  
+  to rank websites in their search engine results. PageRank was named after
+  
+   Larry Page
+  
+  ,
+  
+
+    [1]
+   
+
+  one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google:
+ 
+   PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.
+   
+
+     [2]
+    
+
+
+  It is not the only algorithm used by Google to order search engine results, but it is the first algorithm that was used by the company, and it is the best-known.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+
+  PageRank is a
+  
+   link analysis
+  
+  algorithm and it assigns a numerical
+  
+   weighting
+  
+  to each element of a
+  
+   hyperlinked
+  
+
+   set
+  
+  of documents, such as the
+  
+   World Wide Web
+  
+  , with the purpose of "measuring" its relative importance within the set. The
+  
+   algorithm
+  
+  may be applied to any collection of entities with
+  
+   reciprocal
+  
+  quotations and references. The numerical weight that it assigns to any given element
+  
+   E
+  
+  is referred to as the
+  
+   PageRank of E
+  
+  and denoted by
+  
+
+
+
+
+
+
+         P
+        
+
+         R
+        
+
+         (
+        
+
+         E
+        
+
+         )
+        
+
+         .
+        
+
+
+
+       {\displaystyle PR(E).}
+      
+
+
+
+
+
+  Other factors like
+  
+   Author Rank
+  
+  can contribute to the importance of an entity.
+ 
+  A PageRank results from a mathematical algorithm based on the
+  
+   webgraph
+  
+  , created by all World Wide Web pages as nodes and
+  
+   hyperlinks
+  
+  as edges, taking into consideration authority hubs such as
+  
+   cnn.com
+  
+  or
+  
+   usa.gov
+  
+  . The rank value indicates an importance of a particular page. A hyperlink to a page counts as a vote of support. The PageRank of a page is defined
+  
+   recursively
+  
+  and depends on the number and PageRank metric of all pages that link to it ("
+  
+   incoming links
+  
+  "). A page that is linked to by many pages with high PageRank receives a high rank itself.
+ 
+  Numerous academic papers concerning PageRank have been published since Page and Brin's original paper.
+  
+
+    [5]
+   
+
+  In practice, the PageRank concept may be vulnerable to manipulation. Research has been conducted into identifying falsely influenced PageRank rankings. The goal is to find an effective means of ignoring links from documents with falsely influenced PageRank.
+  
+
+    [6]
+   
+
+
+  Other link-based ranking algorithms for Web pages include the
+  
+   HITS algorithm
+  
+  invented by
+  
+   Jon Kleinberg
+  
+  (used by
+  
+   Teoma
+  
+  and now
+  
+   Ask.com
+  
+  ),the IBM
+  
+   CLEVER project
+  
+  , the
+  
+   TrustRank
+  
+  algorithm and the
+  
+   hummingbird algorithm
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The
+  
+   eigenvalue
+  
+  problem was suggested in 1976 by Gabriel Pinski and Francis Narin, who worked on
+  
+   scientometrics
+  
+  ranking scientific journals
+  
+
+    [7]
+   
+
+  and in 1977 by
+  
+   Thomas Saaty
+  
+  in his concept of
+  
+   Analytic Hierarchy Process
+  
+  which weighted alternative choices.
+  
+
+    [8]
+   
+
+
+  PageRank was developed at
+  
+   Stanford University
+  
+  by
+  
+   Larry Page
+  
+  and
+  
+   Sergey Brin
+  
+  in 1996 as part of a research project about a new kind of search engine.
+  
+
+    [9]
+   
+
+  Sergey Brin had the idea that information on the web could be ordered in a hierarchy by "link popularity": A page is ranked higher as there are more links to it.
+  
+
+    [10]
+   
+
+  It was co-authored by
+  
+   Rajeev Motwani
+  
+  and
+  
+   Terry Winograd
+  
+  . The first paper about the project, describing PageRank and the initial prototype of the
+  
+   Google search
+  
+  engine, was published in 1998:
+  
+
+    [5]
+   
+
+  shortly after, Page and Brin founded
+  
+   Google Inc.
+  
+  , the company behind the Google search engine. While just one of many factors that determine the ranking of Google search results, PageRank continues to provide the basis for all of Google's web search tools.
+  
+
+    [11]
+   
+
+
+  The name "PageRank" plays off of the name of developer Larry Page, as well as the concept of a
+  
+   web page
+  
+  .
+  
+
+    [12]
+   
+
+  The word is a trademark of Google, and the PageRank process has been
+  
+   patented
+  
+  (
+  
+
+    U.S. Patent 6,285,999
+   
+
+  ). However, the patent is assigned to
+  
+   Stanford University
+  
+  and not to Google. Google has exclusive license rights on the patent from Stanford University. The university received 1.8 million shares of Google in exchange for use of the patent; the shares were sold in 2005 for
+  
+   $
+  
+  336 million.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+
+  PageRank was influenced by
+  
+   citation analysis
+  
+  , early developed by
+  
+   Eugene Garfield
+  
+  in the 1950s at the University of Pennsylvania, and by
+  
+   Hyper Search
+  
+  , developed by
+  
+   Massimo Marchiori
+  
+  at the University of Padua. In the same year PageRank was introduced (1998),
+  
+   Jon Kleinberg
+  
+  published his important work on
+  
+   HITS
+  
+  . Google's founders cite Garfield, Marchiori, and Kleinberg in their original papers.
+  
+
+    [5]
+   
+
+
+
+    [15]
+   
+
+
+  A small search engine called "
+  
+   RankDex
+  
+  " from IDD Information Services designed by
+  
+   Robin Li
+  
+  was, since 1996, already exploring a similar strategy for site-scoring and page ranking.
+  
+
+    [16]
+   
+
+  The technology in RankDex would be patented by 1999
+  
+
+    [17]
+   
+
+  and used later when Li founded
+  
+   Baidu
+  
+  in China.
+  
+
+    [18]
+   
+
+
+
+    [19]
+   
+
+  Li's work would be referenced by some of Larry Page's U.S. patents for his Google search methods.
+  
+
+    [20]
+   
+
+
+  The PageRank algorithm outputs a
+  
+   probability distribution
+  
+  used to represent the likelihood that a person randomly clicking on links will arrive at any particular page. PageRank can be calculated for collections of documents of any size. It is assumed in several research papers that the distribution is evenly divided among all documents in the collection at the beginning of the computational process. The PageRank computations require several passes, called "iterations", through the collection to adjust approximate PageRank values to more closely reflect the theoretical true value.
+ 
+  A probability is expressed as a numeric value between 0 and 1. A 0.5 probability is commonly expressed as a "50% chance" of something happening. Hence, a PageRank of 0.5 means there is a 50% chance that a person clicking on a random link will be directed to the document with the 0.5 PageRank.
+ 
+  Assume a small universe of four web pages:
+  
+   A
+  
+  ,
+  
+   B
+  
+  ,
+  
+   C
+  
+  and
+  
+   D
+  
+  . Links from a page to itself, or multiple outbound links from one single page to another single page, are ignored. PageRank is initialized to the same value for all pages. In the original form of PageRank, the sum of PageRank over all pages was the total number of pages on the web at that time, so each page in this example would have an initial value of 1. However, later versions of PageRank, and the remainder of this section, assume a
+  
+   probability distribution
+  
+  between 0 and 1. Hence the initial value for each page in this example is 0.25.
+ 
+  The PageRank transferred from a given page to the targets of its outbound links upon the next iteration is divided equally among all outbound links.
+ 
+  If the only links in the system were from pages
+  
+   B
+  
+  ,
+  
+   C
+  
+  , and
+  
+   D
+  
+  to
+  
+   A
+  
+  , each link would transfer 0.25 PageRank to
+  
+   A
+  
+  upon the next iteration, for a total of 0.75.
+ 
+  Suppose instead that page
+  
+   B
+  
+  had a link to pages
+  
+   C
+  
+  and
+  
+   A
+  
+  , page
+  
+   C
+  
+  had a link to page
+  
+   A
+  
+  , and page
+  
+   D
+  
+  had links to all three pages. Thus, upon the first iteration, page
+  
+   B
+  
+  would transfer half of its existing value, or 0.125, to page
+  
+   A
+  
+  and the other half, or 0.125, to page
+  
+   C
+  
+  . Page
+  
+   C
+  
+  would transfer all of its existing value, 0.25, to the only page it links to,
+  
+   A
+  
+  . Since
+  
+   D
+  
+  had three outbound links, it would transfer one third of its existing value, or approximately 0.083, to
+  
+   A
+  
+  . At the completion of this iteration, page
+  
+   A
+  
+  will have a PageRank of approximately 0.458.
+ 
+  In other words, the PageRank conferred by an outbound link is equal to the document's own PageRank score divided by the number of outbound links
+  
+   L( )
+  
+  .
+ 
+  In the general case, the PageRank value for any page
+  
+   u
+  
+  can be expressed as:
+ 
+  i.e. the PageRank value for a page
+  
+   u
+  
+  is dependent on the PageRank values for each page
+  
+   v
+  
+  contained in the set
+  
+   B
+   
+    u
+   
+
+  (the set containing all pages linking to page
+  
+   u
+  
+  ), divided by the number
+  
+   L
+  
+  (
+  
+   v
+  
+  ) of links from page
+  
+   v
+  
+  .
+ 
+  The PageRank theory holds that an imaginary surfer who is randomly clicking on links will eventually stop clicking. The probability, at any step, that the person will continue is a damping factor
+  
+   d
+  
+  . Various studies have tested different damping factors, but it is generally assumed that the damping factor will be set around 0.85.
+  
+
+    [5]
+   
+
+
+  The damping factor is subtracted from 1 (and in some variations of the algorithm, the result is divided by the number of documents (
+  
+   N
+  
+  ) in the collection) and this term is then added to the product of the damping factor and the sum of the incoming PageRank scores. That is,
+ 
+  So any page's PageRank is derived in large part from the PageRanks of other pages. The damping factor adjusts the derived value downward. The original paper, however, gave the following formula, which has led to some confusion:
+ 
+  The difference between them is that the PageRank values in the first formula sum to one, while in the second formula each PageRank is multiplied by
+  
+   N
+  
+  and the sum becomes
+  
+   N
+  
+  . A statement in Page and Brin's paper that "the sum of all PageRanks is one"
+  
+
+    [5]
+   
+
+  and claims by other Google employees
+  
+
+    [21]
+   
+
+  support the first variant of the formula above.
+ 
+  Page and Brin confused the two formulas in their most popular paper "The Anatomy of a Large-Scale Hypertextual Web Search Engine", where they mistakenly claimed that the latter formula formed a probability distribution over web pages.
+  
+
+    [5]
+   
+
+
+  Google recalculates PageRank scores each time it crawls the Web and rebuilds its index. As Google increases the number of documents in its collection, the initial approximation of PageRank decreases for all documents.
+ 
+  The formula uses a model of a
+  
+   random surfer
+  
+  who gets bored after several clicks and switches to a random page. The PageRank value of a page reflects the chance that the random surfer will land on that page by clicking on a link. It can be understood as a
+  
+   Markov chain
+  
+  in which the states are pages, and the transitions, which are all equally probable, are the links between pages.
+ 
+  If a page has no links to other pages, it becomes a sink and therefore terminates the random surfing process. If the random surfer arrives at a sink page, it picks another
+  
+   URL
+  
+  at random and continues surfing again.
+ 
+  When calculating PageRank, pages with no outbound links are assumed to link out to all other pages in the collection. Their PageRank scores are therefore divided evenly among all other pages. In other words, to be fair with pages that are not sinks, these random transitions are added to all nodes in the Web, with a residual probability usually set to
+  
+   d
+  
+  = 0.85, estimated from the frequency that an average surfer uses his or her browser's bookmark feature.
+ 
+  So, the equation is as follows:
+ 
+  where
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           1
+          
+
+
+
+         ,
+        
+
+
+          p
+         
+
+
+           2
+          
+
+
+
+         ,
+        
+
+         .
+        
+
+         .
+        
+
+         .
+        
+
+         ,
+        
+
+
+          p
+         
+
+
+           N
+          
+
+
+
+
+
+       {\displaystyle p_{1},p_{2},...,p_{N}}
+      
+
+
+
+
+
+  are the pages under consideration,
+  
+
+
+
+
+
+
+         M
+        
+
+         (
+        
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+         )
+        
+
+
+
+       {\displaystyle M(p_{i})}
+      
+
+
+
+
+
+  is the set of pages that link to
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+
+
+       {\displaystyle p_{i}}
+      
+
+
+
+
+
+  ,
+  
+
+
+
+
+
+
+         L
+        
+
+         (
+        
+
+
+          p
+         
+
+
+           j
+          
+
+
+
+         )
+        
+
+
+
+       {\displaystyle L(p_{j})}
+      
+
+
+
+
+
+  is the number of outbound links on page
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           j
+          
+
+
+
+
+
+       {\displaystyle p_{j}}
+      
+
+
+
+
+
+  , and
+  
+
+
+
+
+
+
+         N
+        
+
+
+
+       {\displaystyle N}
+      
+
+
+
+
+
+  is the total number of pages.
+ 
+  The PageRank values are the entries of the dominant right
+  
+   eigenvector
+  
+  of the modified
+  
+   adjacency matrix
+  
+  . This makes PageRank a particularly elegant metric: the eigenvector is
+ 
+  where
+  
+   R
+  
+  is the solution of the equation
+ 
+  where the adjacency function
+  
+
+
+
+
+
+
+         ℓ
+         
+
+
+         (
+        
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+         ,
+        
+
+
+          p
+         
+
+
+           j
+          
+
+
+
+         )
+        
+
+
+
+       {\displaystyle \ell (p_{i},p_{j})}
+      
+
+
+
+
+
+  is 0 if page
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           j
+          
+
+
+
+
+
+       {\displaystyle p_{j}}
+      
+
+
+
+
+
+  does not link to
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+
+
+       {\displaystyle p_{i}}
+      
+
+
+
+
+
+  , and normalized such that, for each
+  
+   j
+  
+
+  i.e. the elements of each column sum up to 1, so the matrix is a
+  
+   stochastic matrix
+  
+  (for more details see the
+  
+   computation
+  
+  section below). Thus this is a variant of the
+  
+   eigenvector centrality
+  
+  measure used commonly in
+  
+   network analysis
+  
+  .
+ 
+  Because of the large eigengap of the modified adjacency matrix above,
+  
+
+    [22]
+   
+
+  the values of the PageRank eigenvector can be approximated to within a high degree of accuracy within only a few iterations.
+ 
+  Google's founders, in their original paper,
+  
+
+    [15]
+   
+
+  reported that the PageRank algorithm for a network consisting of 322 million links (in-edges and out-edges) converges to within a tolerable limit in 52 iterations. The convergence in a network of half the above size took approximately 45 iterations. Through this data, they concluded the algorithm can be scaled very well and that the scaling factor for extremely large networks would be roughly linear in
+  
+
+
+
+
+
+
+
+          log
+         
+
+          ⁡
+          
+
+
+          n
+         
+
+
+
+        {\displaystyle \log n}
+       
+
+
+
+
+
+
+  , where n is the size of the network.
+ 
+  As a result of
+  
+   Markov theory
+  
+  , it can be shown that the PageRank of a page is the probability of arriving at that page after a large number of clicks. This happens to equal
+  
+
+
+
+
+
+
+
+          t
+         
+
+
+           −
+           
+
+
+           1
+          
+
+
+
+
+
+       {\displaystyle t^{-1}}
+      
+
+
+
+
+
+  where
+  
+
+
+
+
+
+
+         t
+        
+
+
+
+       {\displaystyle t}
+      
+
+
+
+
+
+  is the
+  
+   expectation
+  
+  of the number of clicks (or random jumps) required to get from the page back to itself.
+ 
+  One main disadvantage of PageRank is that it favors older pages. A new page, even a very good one, will not have many links unless it is part of an existing site (a site being a densely connected set of pages, such as
+  
+   Wikipedia
+  
+  ).
+ 
+  Several strategies have been proposed to accelerate the computation of PageRank.
+  
+
+    [23]
+   
+
+
+  Various strategies to manipulate PageRank have been employed in concerted efforts to improve search results rankings and monetize advertising links. These strategies have severely impacted the reliability of the PageRank concept,
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  which purports to determine which documents are actually highly valued by the Web community.
+ 
+  Since December 2007, when it started
+  
+   actively
+  
+  penalizing sites selling paid text links, Google has combatted
+  
+   link farms
+  
+  and other schemes designed to artificially inflate PageRank. How Google identifies link farms and other PageRank manipulation tools is among Google's
+  
+   trade secrets
+  
+  .
+ 
+  PageRank can be computed either iteratively or algebraically. The iterative method can be viewed as the
+  
+   power iteration
+  
+  method
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+
+  or the power method. The basic mathematical operations performed are identical.
+ 
+  At
+  
+
+
+
+
+
+
+         t
+        
+
+         =
+        
+
+         0
+        
+
+
+
+       {\displaystyle t=0}
+      
+
+
+
+
+
+  , an initial probability distribution is assumed, usually
+ 
+  At each time step, the computation, as detailed above, yields
+ 
+  or in matrix notation
+ 
+  where
+  
+
+
+
+
+
+
+
+
+           R
+          
+
+
+
+           i
+          
+
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+         =
+        
+
+         P
+        
+
+         R
+        
+
+         (
+        
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+         ;
+        
+
+         t
+        
+
+         )
+        
+
+
+
+       {\displaystyle \mathbf {R} _{i}(t)=PR(p_{i};t)}
+      
+
+
+
+
+
+  and
+  
+
+
+
+
+
+
+
+          1
+         
+
+
+
+
+       {\displaystyle \mathbf {1} }
+      
+
+
+
+
+
+  is the column vector of length
+  
+
+
+
+
+
+
+         N
+        
+
+
+
+       {\displaystyle N}
+      
+
+
+
+
+
+  containing only ones.
+ 
+  The matrix
+  
+
+
+
+
+
+
+
+
+           M
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {M}}}
+      
+
+
+
+
+
+  is defined as
+ 
+  i.e.,
+ 
+  where
+  
+
+
+
+
+
+
+         A
+        
+
+
+
+       {\displaystyle A}
+      
+
+
+
+
+
+  denotes the
+  
+   adjacency matrix
+  
+  of the graph and
+  
+
+
+
+
+
+
+         K
+        
+
+
+
+       {\displaystyle K}
+      
+
+
+
+
+
+  is the diagonal matrix with the outdegrees in the diagonal.
+ 
+  The computation ends when for some small
+  
+
+
+
+
+
+
+         ϵ
+         
+
+
+
+
+       {\displaystyle \epsilon }
+      
+
+
+
+
+
+
+  i.e., when convergence is assumed.
+ 
+  —For
+  
+
+
+
+
+
+
+         t
+        
+
+         →
+         
+
+
+         ∞
+         
+
+
+
+
+       {\displaystyle t\to \infty }
+      
+
+
+
+
+
+  (i.e., in the
+  
+   steady state
+  
+  ), the above equation (*) reads
+ 
+  The solution is given by
+ 
+  with the
+  
+   identity matrix
+  
+
+
+
+
+
+
+
+
+          I
+         
+
+
+
+
+       {\displaystyle \mathbf {I} }
+      
+
+
+
+
+
+  .
+ 
+  The solution exists and is unique for
+  
+
+
+
+
+
+
+         0
+        
+
+         <
+        
+
+         d
+        
+
+         <
+        
+
+         1
+        
+
+
+
+       {\displaystyle 0<d<1}
+      
+
+
+
+
+
+  . This can be seen by noting that
+  
+
+
+
+
+
+
+
+
+           M
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {M}}}
+      
+
+
+
+
+
+  is by construction a
+  
+   stochastic matrix
+  
+  and hence has an eigenvalue equal to one as a consequence of the
+  
+   Perron–Frobenius theorem
+  
+  .
+ 
+  If the matrix
+  
+
+
+
+
+
+
+
+
+           M
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {M}}}
+      
+
+
+
+
+
+  is a transition probability, i.e., column-stochastic and
+  
+
+
+
+
+
+
+
+          R
+         
+
+
+
+
+       {\displaystyle \mathbf {R} }
+      
+
+
+
+
+
+  is a probability distribution (i.e.,
+  
+
+
+
+
+
+
+
+          |
+         
+
+
+
+          R
+         
+
+
+
+          |
+         
+
+
+         =
+        
+
+         1
+        
+
+
+
+       {\displaystyle |\mathbf {R} |=1}
+      
+
+
+
+
+
+  ,
+  
+
+
+
+
+
+
+
+          E
+         
+
+
+
+          R
+         
+
+
+         =
+        
+
+
+          1
+         
+
+
+
+
+       {\displaystyle \mathbf {E} \mathbf {R} =\mathbf {1} }
+      
+
+
+
+
+
+  where
+  
+
+
+
+
+
+
+
+          E
+         
+
+
+
+
+       {\displaystyle \mathbf {E} }
+      
+
+
+
+
+
+  is matrix of all ones), Eq. (**) is equivalent to
+ 
+  Hence PageRank
+  
+
+
+
+
+
+
+
+          R
+         
+
+
+
+
+       {\displaystyle \mathbf {R} }
+      
+
+
+
+
+
+  is the principal eigenvector of
+  
+
+
+
+
+
+
+
+
+
+
+             M
+            
+
+
+            ^
+            
+
+
+
+
+
+
+
+       {\displaystyle {\widehat {\mathcal {M}}}}
+      
+
+
+
+
+
+  . A fast and easy way to compute this is using the
+  
+   power method
+  
+  : starting with an arbitrary vector
+  
+
+
+
+
+
+
+         x
+        
+
+         (
+        
+
+         0
+        
+
+         )
+        
+
+
+
+       {\displaystyle x(0)}
+      
+
+
+
+
+
+  , the operator
+  
+
+
+
+
+
+
+
+
+
+
+             M
+            
+
+
+            ^
+            
+
+
+
+
+
+
+
+       {\displaystyle {\widehat {\mathcal {M}}}}
+      
+
+
+
+
+
+  is applied in succession, i.e.,
+ 
+  until
+ 
+  Note that in Eq. (***) the matrix on the right-hand side in the parenthesis can be interpreted as
+ 
+  where
+  
+
+
+
+
+
+
+
+          P
+         
+
+
+
+
+       {\displaystyle \mathbf {P} }
+      
+
+
+
+
+
+  is an initial probability distribution. In the current case
+ 
+  Finally, if
+  
+
+
+
+
+
+
+
+
+           M
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {M}}}
+      
+
+
+
+
+
+  has columns with only zero values, they should be replaced with the initial probability vector
+  
+
+
+
+
+
+
+
+          P
+         
+
+
+
+
+       {\displaystyle \mathbf {P} }
+      
+
+
+
+
+
+  . In other words,
+ 
+  where the matrix
+  
+
+
+
+
+
+
+
+
+           D
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {D}}}
+      
+
+
+
+
+
+  is defined as
+ 
+  with
+ 
+  In this case, the above two computations using
+  
+
+
+
+
+
+
+
+
+           M
+          
+
+
+
+
+
+       {\displaystyle {\mathcal {M}}}
+      
+
+
+
+
+
+  only give the same PageRank if their results are normalized:
+ 
+  PageRank
+  
+   MATLAB
+  
+  /
+  
+   Octave
+  
+  implementation
+ 
+  Example of code calling the rank function defined above:
+ 
+  This example takes 13 iterations to converge.
+ 
+  The PageRank of an undirected
+  
+   graph
+  
+  G is statistically close to the degree distribution of the graph G,
+  
+
+    [26]
+   
+
+  but they are generally not identical: If R is the PageRank vector defined above, and D is the degree distribution vector
+ 
+  where
+  
+
+
+
+
+
+
+         d
+        
+
+         e
+        
+
+         g
+        
+
+         (
+        
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+         )
+        
+
+
+
+       {\displaystyle deg(p_{i})}
+      
+
+
+
+
+
+  denotes the degree of vertex
+  
+
+
+
+
+
+
+
+          p
+         
+
+
+           i
+          
+
+
+
+
+
+       {\displaystyle p_{i}}
+      
+
+
+
+
+
+  , and E is the edge-set of the graph, then, with
+  
+
+
+
+
+
+
+         Y
+        
+
+         =
+        
+
+
+
+           1
+          
+
+           N
+          
+
+
+
+
+          1
+         
+
+
+
+
+       {\displaystyle Y={1 \over N}\mathbf {1} }
+      
+
+
+
+
+
+  , by:
+  
+
+    [27]
+   
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+           
+
+            −
+            
+
+
+            d
+           
+
+
+
+            1
+           
+
+            +
+           
+
+            d
+           
+
+
+
+
+         ∥
+         
+
+
+         Y
+        
+
+         −
+         
+
+
+         D
+        
+
+
+          ∥
+          
+
+
+
+           1
+          
+
+
+
+         ≤
+         
+
+
+         ∥
+         
+
+
+         R
+        
+
+         −
+         
+
+
+         D
+        
+
+
+          ∥
+          
+
+
+
+           1
+          
+
+
+
+         ≤
+         
+
+
+         ∥
+         
+
+
+         Y
+        
+
+         −
+         
+
+
+         D
+        
+
+
+          ∥
+          
+
+
+
+           1
+          
+
+
+
+         ,
+        
+
+
+
+       {\displaystyle {1-d \over 1+d}\|Y-D\|_{1}\leq \|R-D\|_{1}\leq \|Y-D\|_{1},}
+      
+
+
+
+
+
+
+  that is, the PageRank of an undirected graph equals to the degree distribution vector if and only if the graph is regular, i.e., every vertex has the same degree.
+ 
+  There are simple and fast
+  
+   random walk
+  
+  -based
+  
+   distributed algorithms
+  
+  for computing PageRank of nodes in a network.
+  
+
+    [28]
+   
+
+  They present a simple algorithm that takes
+  
+
+
+
+
+
+
+         O
+        
+
+         (
+        
+
+         log
+        
+
+         ⁡
+         
+
+
+         n
+        
+
+
+          /
+         
+
+
+         ϵ
+         
+
+
+         )
+        
+
+
+
+       {\displaystyle O(\log n/\epsilon )}
+      
+
+
+
+
+
+  rounds with high probability on any graph (directed or undirected), where n is the network size and
+  
+
+
+
+
+
+
+         ϵ
+         
+
+
+
+
+       {\displaystyle \epsilon }
+      
+
+
+
+
+
+  is the reset probability (
+  
+
+
+
+
+
+
+         1
+        
+
+         −
+         
+
+
+         ϵ
+         
+
+
+
+
+       {\displaystyle 1-\epsilon }
+      
+
+
+
+
+
+  is also called as damping factor) used in the PageRank computation. They also present a faster algorithm that takes
+  
+
+
+
+
+
+
+         O
+        
+
+         (
+        
+
+
+
+           log
+          
+
+           ⁡
+           
+
+
+           n
+          
+
+
+
+
+          /
+         
+
+
+         ϵ
+         
+
+
+         )
+        
+
+
+
+       {\displaystyle O({\sqrt {\log n}}/\epsilon )}
+      
+
+
+
+
+
+  rounds in undirected graphs. Both of the above algorithms are scalable, as each node processes and sends only small (polylogarithmic in n, the network size) number of bits per round.
+ 
+  The
+  
+   Google Toolbar
+  
+  long had a PageRank feature which displayed a visited page's PageRank as a whole number between 0 and 10. The most popular websites displayed a PageRank of 10. The least showed a PageRank of 0. Google has not disclosed the specific method for determining a Toolbar PageRank value, which is to be considered only a rough indication of the value of a website. In March 2016 Google announced it would no longer support this feature, and the underlying API would soon cease to operate.
+  
+
+    [29]
+   
+
+
+  The
+  
+   search engine results page
+  
+  (SERP) is the actual result returned by a search engine in response to a keyword query. The SERP consists of a list of links to web pages with associated text snippets. The SERP rank of a web page refers to the placement of the corresponding link on the SERP, where higher placement means higher SERP rank. The SERP rank of a web page is a function not only of its PageRank, but of a relatively large and continuously adjusted set of factors (over 200).
+  
+
+    [30]
+   
+
+
+   Search engine optimization
+  
+  (SEO) is aimed at influencing the SERP rank for a website or a set of web pages.
+ 
+  Positioning of a webpage on Google SERPs for a keyword depends on relevance and reputation, also known as authority and popularity. PageRank is Google’s indication of its assessment of the reputation of a webpage: It is non-keyword specific. Google uses a combination of webpage and website authority to determine the overall authority of a webpage competing for a keyword.
+  
+
+    [31]
+   
+
+  The PageRank of the HomePage of a website is the best indication Google offers for website authority.
+  
+
+    [32]
+   
+
+
+  After the introduction of
+  
+   Google Places
+  
+  into the mainstream organic SERP, numerous other factors in addition to PageRank affect ranking a business in Local Business Results.
+  
+
+    [33]
+   
+
+
+  The
+  
+   Google Directory
+  
+  PageRank was an 8-unit measurement. Unlike the Google Toolbar, which shows a numeric PageRank value upon mouseover of the green bar, the Google Directory only displayed the bar, never the numeric values. Google Directory was closed on July 20, 2011.
+  
+
+    [34]
+   
+
+
+  In the past, the PageRank shown in the Toolbar was easily manipulated. Redirection from one page to another, either via a
+  
+   HTTP 302
+  
+  response or a "Refresh"
+  
+   meta tag
+  
+  , caused the source page to acquire the PageRank of the destination page. Hence, a new page with PR 0 and no incoming links could have acquired PR 10 by redirecting to the Google home page. This
+  
+   spoofing
+  
+  technique was a known vulnerability. Spoofing can generally be detected by performing a Google search for a source URL; if the URL of an entirely different site is displayed in the results, the latter URL may represent the destination of a redirection.
+ 
+  For
+  
+   search engine optimization
+  
+  purposes, some companies offer to sell high PageRank links to webmasters.
+  
+
+    [35]
+   
+
+  As links from higher-PR pages are believed to be more valuable, they tend to be more expensive. It can be an effective and viable marketing strategy to buy link advertisements on content pages of quality and relevant sites to drive traffic and increase a webmaster's link popularity. However, Google has publicly warned webmasters that if they are or were discovered to be selling links for the purpose of conferring PageRank and reputation, their links will be devalued (ignored in the calculation of other pages' PageRanks). The practice of buying and selling links is intensely debated across the Webmaster community. Google advises webmasters to use the
+  
+   nofollow
+  
+
+   HTML attribute
+  
+  value on sponsored links. According to
+  
+   Matt Cutts
+  
+  , Google is concerned about webmasters who try to
+  
+   game the system
+  
+  , and thereby reduce the quality and relevance of Google search results.
+  
+
+    [35]
+   
+
+
+  The original PageRank algorithm reflects the so-called random surfer model, meaning that the PageRank of a particular page is derived from the theoretical probability of visiting that page when clicking on links at random. A page ranking model that reflects the importance of a particular page as a function of how many actual visits it receives by real users is called the
+  
+   intentional surfer model
+  
+  .
+  
+
+    [36]
+   
+
+
+  A more intelligent surfer that probabilistically hops from page to page depending on the content of the pages and query terms the surfer that it is looking for. This model is based on a query-dependent PageRank score of a page which as the name suggests is also a function of query. When given a multiple-term query, Q={q1,q2,…}, the surfer selects a q according to some probability distribution, P(q) and uses that term to guide its behavior for a large number of steps. It then selects another term according to the distribution to determine its behavior, and so on. The resulting distribution over visited web pages is QD-PageRank.
+  
+
+    [37]
+   
+
+
+  The PageRank algorithm has major effects on society as it contains a social influence. As opposed to the scientific viewpoint of PageRank as an algorithm the
+  
+   humanities
+  
+  instead view it through a lens examining its social components. In these instances, it is dissected and reviewed not for its technological advancement in the field of search engines, but for its societal influences.
+ 
+
+
+    [38]
+   
+
+  Laura Granka discusses PageRank by describing how the pages are not simply ranked via popularity as they contain a reliability that gives them a trustworthy quality. This has led to a development of behavior that is directly linked to PageRank. PageRank is viewed as the definitive rank of products and businesses and thus, can manipulate thinking. The information that is available to individuals is what shapes thinking and ideology and PageRank is the device that displays this information. The results shown are the forum to which information is delivered to the public and these results have a societal impact as they will affect how a person thinks and acts.
+ 
+
+
+    [39]
+   
+
+  Katja Mayer views PageRank as a social network as it connects differing viewpoints and thoughts in a single place. People go to PageRank for information and are flooded with
+  
+   citations
+  
+  of other authors who also have an opinion on the topic. This creates a social aspect where everything can be discussed and collected to provoke thinking. There is a social relationship that exists between PageRank and the people who use it as it is constantly adapting and changing to the shifts in modern society. Viewing the relationship between PageRank and the individual through
+  
+   sociometry
+  
+  allows for an in-depth look at the connection that results.
+ 
+
+
+    [40]
+   
+
+  Matteo Pasquinelli reckons the basis for the belief that PageRank has a social component lies in the idea of
+  
+   attention economy
+  
+  . With attention economy, value is placed on products that receive a greater amount of human attention and the results at the top of the PageRank garner a larger amount of focus then those on subsequent pages. The outcomes with the higher PageRank will therefore enter the human consciousness to a larger extent. These ideas can influence decision-making and the actions of the viewer have a direct relation to the PageRank. They possess a higher potential to attract a user’s attention as their location increases the attention economy attached to the site. With this location they can receive more traffic and their online marketplace will have more purchases. The PageRank of these sites allow them to be trusted and they are able to parlay this trust into increased business.
+ 
+  The mathematics of PageRank are entirely general and apply to any graph or network in any domain. Thus, PageRank is now regularly used in bibliometrics, social and information network analysis, and for link prediction and recommendation. It's even used for systems analysis of road networks, as well as biology, chemistry, neuroscience, and physics.
+  
+
+    [41]
+   
+
+
+  In
+  
+   neuroscience
+  
+  , the PageRank of a
+  
+   neuron
+  
+  in a neural network has been found to correlate with its relative firing rate.
+  
+
+    [42]
+   
+
+
+  Personalized PageRank is used by
+  
+   Twitter
+  
+  to present users with other accounts they may wish to follow.
+  
+
+    [43]
+   
+
+
+
+   Swiftype
+  
+  's site search product builds a "PageRank that’s specific to individual websites" by looking at each website's signals of importance and prioritizing content based on factors such as number of links from the home page.
+  
+
+    [44]
+   
+
+
+  A version of PageRank has recently been proposed as a replacement for the traditional
+  
+   Institute for Scientific Information
+  
+  (ISI)
+  
+   impact factor
+  
+  ,
+  
+
+    [45]
+   
+
+  and implemented at
+  
+   Eigenfactor
+  
+  as well as at
+  
+   SCImago
+  
+  . Instead of merely counting total citation to a journal, the "importance" of each citation is determined in a PageRank fashion.
+ 
+  A similar new use of PageRank is to rank academic doctoral programs based on their records of placing their graduates in faculty positions. In PageRank terms, academic departments link to each other by hiring their faculty from each other (and from themselves).
+  
+
+    [46]
+   
+
+
+  PageRank has been used to rank spaces or streets to predict how many people (pedestrians or vehicles) come to the individual spaces or streets.
+  
+
+    [47]
+   
+
+
+
+    [48]
+   
+
+  In
+  
+   lexical semantics
+  
+  it has been used to perform
+  
+   Word Sense Disambiguation
+  
+  ,
+  
+
+    [49]
+   
+
+
+   Semantic similarity
+  
+  ,
+  
+
+    [50]
+   
+
+  and also to automatically rank
+  
+   WordNet
+  
+
+   synsets
+  
+  according to how strongly they possess a given semantic property, such as positivity or negativity.
+  
+
+    [51]
+   
+
+
+  A
+  
+   Web crawler
+  
+  may use PageRank as one of a number of importance metrics it uses to determine which URL to visit during a crawl of the web. One of the early working papers
+  
+
+    [52]
+   
+
+  that were used in the creation of Google is
+  
+   Efficient crawling through URL ordering
+  
+  ,
+  
+
+    [53]
+   
+
+  which discusses the use of a number of different importance metrics to determine how deeply, and how much of a site Google will crawl. PageRank is presented as one of a number of these importance metrics, though there are others listed such as the number of inbound and outbound links for a URL, and the distance from the root directory on a site to the URL.
+ 
+  The PageRank may also be used as a methodology to measure the apparent impact of a community like the
+  
+   Blogosphere
+  
+  on the overall Web itself. This approach uses therefore the PageRank to measure the distribution of attention in reflection of the
+  
+   Scale-free network
+  
+  paradigm.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  In any ecosystem, a modified version of PageRank may be used to determine species that are essential to the continuing health of the environment.
+  
+
+    [54]
+   
+
+
+  For the analysis of protein networks in biology PageRank is also a useful tool.
+  
+
+    [55]
+   
+
+
+
+    [56]
+   
+
+
+  In 2005, in a pilot study in Pakistan,
+  
+   Structural Deep Democracy, SD2
+  
+
+
+    [57]
+   
+
+
+
+    [58]
+   
+
+  was used for leadership selection in a sustainable agriculture group called Contact Youth. SD2 uses
+  
+   PageRank
+  
+  for the processing of the transitive proxy votes, with the additional constraints of mandating at least two initial proxies per voter, and all voters are proxy candidates. More complex variants can be built on top of SD2, such as adding specialist proxies and direct votes for specific issues, but SD2 as the underlying umbrella system, mandates that generalist proxies should always be used.
+ 
+  Pagerank has recently been used to quantify the scientific impact of researchers. The underlying citation and collaboration networks are used in conjunction with pagerank algorithm in order to come up with a ranking system for individual publications which propagates to individual authors. The new index known as pagerank-index (Pi) is demonstrated to be fairer compared to h-index in the context of many drawbacks exhibited by h-index.
+  
+
+    [59]
+   
+
+
+  In early 2005, Google implemented a new value, "
+  
+   nofollow
+  
+  ",
+  
+
+    [60]
+   
+
+  for the
+  
+   rel
+  
+  attribute of HTML link and anchor elements, so that website developers and
+  
+   bloggers
+  
+  can make links that Google will not consider for the purposes of PageRank—they are links that no longer constitute a "vote" in the PageRank system. The nofollow relationship was added in an attempt to help combat
+  
+   spamdexing
+  
+  .
+ 
+  As an example, people could previously create many message-board posts with links to their website to artificially inflate their PageRank. With the nofollow value, message-board administrators can modify their code to automatically insert "rel='nofollow'" to all hyperlinks in posts, thus preventing PageRank from being affected by those particular posts. This method of avoidance, however, also has various drawbacks, such as reducing the link value of legitimate comments. (See:
+  
+   Spam in blogs#nofollow
+  
+  )
+ 
+  In an effort to manually control the flow of PageRank among pages within a website, many webmasters practice what is known as PageRank Sculpting
+  
+
+    [61]
+   
+
+  —which is the act of strategically placing the nofollow attribute on certain internal links of a website in order to funnel PageRank towards those pages the webmaster deemed most important. This tactic has been used since the inception of the nofollow attribute, but may no longer be effective since Google announced that blocking PageRank transfer with nofollow does not redirect that PageRank to other links.
+  
+
+    [62]
+   
+
+
+  PageRank was once available for the verified site maintainers through the Google Webmaster Tools interface. However, on October 15, 2009, a Google employee confirmed that the company had removed PageRank from its
+  
+   Webmaster Tools
+  
+  section, saying that "We've been telling people for a long time that they shouldn't focus on PageRank so much. Many site owners seem to think it's the most important
+  
+   metric
+  
+  for them to track, which is simply not true."
+  
+
+    [63]
+   
+
+  In addition, The PageRank indicator is not available in Google's own
+  
+   Chrome
+  
+  browser.
+ 
+  The visible page rank is updated very infrequently. It was last updated in November 2013. In October 2014 Matt Cutts announced that another visible pagerank update would not be coming.
+  
+
+    [64]
+   
+
+
+  Even though "Toolbar" PageRank is less important for
+  
+   SEO
+  
+  purposes, the existence of back-links from more popular websites continues to push a webpage higher up in search rankings.
+  
+
+    [65]
+   
+
+
+  Google elaborated on the reasons for PageRank deprecation at Q&A #March and announced Links and Content as the Top Ranking Factors, RankBrain was announced as the #3 Ranking Factor in October 2015 so the Top 3 Factors are now confirmed officially by Google.
+  
+
+    [66]
+   
+
+
+  On April 15, 2016 Google has officially shut down their Google Toolbar PageRank Data to public. Google had declared their intention to remove the PageRank score from the Google toolbar several months earlier.
+  
+
+    [67]
+   
+

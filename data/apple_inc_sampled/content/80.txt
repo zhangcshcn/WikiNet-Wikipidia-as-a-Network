@@ -1,0 +1,650 @@
+
+
+
+       Wi-Fi
+      
+      (
+      
+       802.11
+      
+
+       b
+      
+      /
+      
+       g
+      
+      )
+      
+
+       4th gen:
+      
+
+
+       Wi-Fi
+      
+      (
+      
+       802.11
+      
+
+       b
+      
+      /
+      
+       g
+      
+      /
+      
+       n
+      
+      )
+      
+
+       5th gen:
+      
+
+
+       Wi-Fi
+      
+      (
+      
+       802.11
+      
+
+       a
+      
+      /
+      
+       b
+      
+      /
+      
+       g
+      
+      /
+      
+       n
+      
+      )
+      
+
+       6th gen:
+      
+
+
+       Wi-Fi
+      
+      (
+      
+       802.11
+      
+
+       a
+      
+      /
+      
+       b
+      
+      /
+      
+       g
+      
+      /
+      
+       n
+      
+      /
+      
+       ac
+      
+      )
+     
+
+       2nd gen
+      
+      ,
+      
+       3rd gen
+      
+      , and
+      
+       4th gen:
+      
+
+
+       Bluetooth 2.1 + EDR
+      
+
+
+       5th gen:
+      
+
+
+       Bluetooth 4.0
+      
+
+
+       6th gen:
+      
+
+
+       Bluetooth 4.1
+      
+
+
+        [4]
+       
+
+
+  The
+  
+   iPod Touch
+  
+  (stylized and marketed as
+  
+   iPod touch
+  
+  ) is an
+  
+   iOS
+  
+  -based all-purpose
+  
+   handheld PC
+  
+  designed and marketed by
+  
+   Apple Inc.
+  
+  with a
+  
+   user interface
+  
+  that is
+  
+   touchscreen-based
+  
+  . It can be used as a
+  
+   music and video player
+  
+  ,
+  
+   digital camera
+  
+  ,
+  
+   handheld game
+  
+  device, and
+  
+   personal digital assistant
+  
+  (PDA).
+  
+
+    [5]
+   
+
+  It connects to the Internet only through
+  
+   Wi-Fi
+  
+  base stations, does not use
+  
+   cellular network
+  
+  data, and is therefore not a
+  
+   smartphone
+  
+  , though it has a similar design to the
+  
+   iPhone
+  
+  and is often referred to as the "iPhone without a phone". Furthermore, it does not fit in Apple's iPhone accessories such as their leather cases. As of May 2013, 100 million iPod Touch units had been sold. It is also the most popular iPod model.
+  
+
+    [1]
+   
+
+
+  iPod touch models are sold by storage space and color, with all models of the same generation typically offering otherwise identical features, processors, and performance, in addition to available operating system upgrades; an exception was the
+  
+   fifth generation
+  
+  , as the low-end (16 GB
+  
+
+    [6]
+   
+
+  ) model was initially sold without a rear-facing camera.
+  
+
+    [7]
+   
+
+  The current iPod touch is the
+  
+   sixth-generation model
+  
+  , released on July 15, 2015.
+ 
+
+
+  The iPod Touch runs Apple's
+  
+   Unix-based
+  
+  iOS
+  
+   operating system
+  
+  (called 'iPhone OS' until 2010) and includes bundled software to browse the Internet, view maps, send and receive email, view media, and work with office documents such as presentations and spreadsheets. Users type on a
+  
+   virtual keyboard
+  
+  displayed on the
+  
+   screen
+  
+  . Apple operates an online
+  
+   store
+  
+  , allowing users to buy and directly download music, videos and third-party software. From launch, the iPod Touch was described by journalists as an 'iPhone without the phone',
+  
+
+    [8]
+   
+
+  and each iPod Touch model to date has been introduced with the same
+  
+   release number
+  
+  of iOS as the contemporary iPhone model.
+ 
+  Successive updates to iOS since the initial release in 2007 have released additional features.
+  
+   iPhone OS
+  
+  2.0, released on July 11, 2008, introduced the
+  
+   App Store
+  
+  , which allowed third-party applications for the first time. iPhone OS 3.0, released on June 17, 2009, added features such as cut, copy, and paste,
+  
+   data tethering
+  
+  and
+  
+   push notification
+  
+  support. iOS 4.0, released on June 21, 2010, introduced
+  
+   iBooks
+  
+  ,
+  
+   FaceTime
+  
+  , and multitasking. It dropped support for the first generation iPod Touch.
+ 
+  In June 2011, iOS 5, the fifth major release of iOS software, was announced at Apple's
+  
+   WWDC 2011
+  
+  , which added notification,
+  
+   messaging
+  
+  and reminder features.
+  
+
+    [9]
+   
+
+  Apple limited some features, most notably the voice control system
+  
+   Siri
+  
+  , to the iPhone.
+  
+
+    [10]
+   
+
+
+   iOS 6
+  
+  , which was released on September 19, 2012 to the fourth and
+  
+   fifth generation
+  
+  iPod Touch models, contains 200 new features including
+  
+   Passbook
+  
+  ,
+  
+   Facebook
+  
+  integration and
+  
+   Apple Maps
+  
+  . The fifth generation iPod Touch gained the ability to take panoramic photos, a feature shared with the
+  
+   iPhone 4S
+  
+  and
+  
+   iPhone 5
+  
+  .
+  
+
+    [11]
+   
+
+
+  On June 8, 2015, it was announced at the
+  
+   WWDC
+  
+  that the iPod Touch fifth generation would support
+  
+   iOS 9
+  
+  , along with other
+  
+   A5
+  
+  devices. This makes the iPod Touch fifth generation the only iPod Touch to support 4 major versions of iOS.
+ 
+  Recent iOS updates have been free for owners of supported iPod Touch models, but Apple received criticism for charging iPod Touch owners for versions 2.0 and 3.0, which iPhone owners received for free, and for excluding certain features from the iPod Touch software that the iPhone included.
+  
+
+    [12]
+   
+
+
+
+    [13]
+   
+
+  Apple's position was that they could add features for free to the iPhone because the revenue from it is accounted for on a subscription basis under accounting rules, rather than as a one time payment.
+  
+
+    [14]
+   
+
+  At WWDC in June 2010, as of iOS 4, Steve Jobs announced that Apple had "found a way" to make subsequent OS upgrades available free to iPod Touch owners.
+ 
+  To purchase content on the iPod Touch, the user must create an
+  
+   Apple ID
+  
+  or have an existing account. With this account one may download music and videos from the
+  
+   iTunes Store
+  
+  , apps from the
+  
+   App Store
+  
+  , or books from the
+  
+   iBookstore
+  
+  . An Apple ID account created without a credit card can be used to get free content, and gift cards can be bought to pay for apps instead of using credit cards. This is convenient for users who want to purchase an
+  
+   app
+  
+  ,
+  
+   song
+  
+  , video, or
+  
+   E-book
+  
+  , but they do not have a
+  
+   credit card
+  
+  .
+ 
+  The only official way to obtain third-party applications for the iPod Touch is Apple's
+  
+   App Store
+  
+  , which is a branch of
+  
+   iTunes Store
+  
+  . The App Store application, available in all versions of iOS from 2.0 onwards, allows users to browse and download applications from a single online repository (hosted by Apple) with the iTunes Store. To develop such software, a
+  
+   software development kit
+  
+  (SDK) was officially announced on March 6, 2008, at an Apple Town Hall meeting.
+  
+
+    [15]
+   
+
+  The
+  
+   iOS SDK
+  
+  allows making applications for the iPhone and iPod Touch after paying a fee to join the development team. The developer can then set the price for the applications they develop and will receive 70% of money earned. Apple retains 30% of the sale price with no minimum fixed fee.
+ 
+  Like all Apple's iOS devices, the iPod Touch is a tightly controlled or
+  
+   closed platform
+  
+  . Modifying or replacing the operating system violates the device warranty, communication between apps is limited and controlled, and Apple is the only authorized software vendor. Hackers have attempted to 'jailbreak' all iOS devices to enable forbidden or unsupported features, such as multitasking in iOS versions before 4.0, themes for the home screen and the use of software Apple has refused to sell such as a battery percentage indicator. Jailbreaks for the iPod Touch first surfaced a month after the first model was released in September 2007, when
+  
+   hackers
+  
+  released
+  
+   JailbreakMe
+  
+  1.0 (also called "AppSnapp") to
+  
+   jailbreak
+  
+  iPhone OS 1.1.1.
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+  This allowed users to install third-party programs on their devices before Apple permitted this.
+ 
+  As of August 2014, each version of iOS on iPod Touches can be jailbroken using tools such as
+  
+   PwnageTool
+  
+  ,
+  
+   redsn0w
+  
+  ,
+  
+   Absinthe
+  
+  , both versions of
+  
+   evasi0n
+  
+  , and Pangu.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Apple's warranty statement implies that an iPod Touch after jailbreaking or other modification made by unofficial means is not covered by Apple's warranty. Jailbreaking is a violation of the Terms and Conditions for using iOS. The jailbreaking process can normally be undone by performing a restore through iTunes.
+  
+
+    [18]
+   
+
+
+  The iPod Touch is generally similar to the
+  
+   iPhone
+  
+  . Compared to a same-generation iPhone, an iPod Touch is thinner, lighter and less expensive, while lacking some hardware and software features.
+  
+   Steve Jobs
+  
+  once referred to the iPod Touch as "training wheels for the iPhone".
+  
+
+    [19]
+   
+
+
+  All iPods lack
+  
+   Touch ID
+  
+  ,
+  
+   3D Touch
+  
+  ,
+  
+   NFC
+  
+  ,
+  
+   GPS
+  
+  , an earpiece speaker and a
+  
+   noise-cancelling microphone
+  
+  . Depending on the generation, the iPod Touch may have a smaller or inferior display and camera(s). Newer models (5th and 6th generation) lack the ambient light sensor that makes automatic brightness available. Older models lack a built in speaker, a microphone, a camera, and a flash. An iPod Touch also has a comparably shorter battery life than an iPhone does.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  No iPod Touch has a modem through which it can place phone calls or send SMS and MMS. However, 5th and 6th generation models can either piggy-back on iPhones using
+  
+   Continuity
+  
+  or use
+  
+   VOIP
+  
+  and
+  
+   online SMS services
+  
+  to provide this functionality.
+ 
+  For iPod Touch units bought before October 12, 2011 users must own a Mac or PC computer to be able to use the iPod. Users then must install iTunes and connect the iPod through a
+  
+   USB
+  
+  port. The iPod will then be set up in iTunes. New iPods bought after October 12, 2011 have iOS 5.0 preloaded, and allow activation wirelessly, without the need of a PC or Mac.
+  
+
+    [20]
+   
+
+
+  Earlier iPod Touch units must be plugged into a computer to be synced. This will charge the iPod Touch and sync the music library, videos, pictures and backup data. iOS 5 enables the user to do all this from the device and send it to the
+  
+   iCloud
+  
+  service, which supports Mac OS X Lion and later.
+ 
+  Starting with the second generation model, the iPod Touch dropped support charging from the 12 V pin of a FireWire cable.
+  
+
+    [21]
+   
+
+  Charging the iPod Touch takes about 2 hours (80 per cent capacity) for fast charge, and full charge takes about 4 hours.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  The
+  
+   iPod Touch (fifth generation)
+  
+  and
+  
+   iPhone 5
+  
+  feature a new
+  
+   dock connector
+  
+  , named "
+  
+   Lightning
+  
+  ", which replaces the Apple Dock connector on older iPhone,
+  
+   iPad
+  
+  , iPod models. The Apple Lightning connector has eight pins and all signaling is digital. This new connector is smaller than the previous one allowing a slimmer form factor. Apple Lightning cables have duplicate pins on two sides of each plug, so it can be inserted either way around. Various accessories are available to convert the Apple Lightning connector to the older Apple Dock connector or
+  
+   USB
+  
+  ,
+  
+
+    [22]
+   
+
+  although not all old accessories will work, as not all signals are available.
+  
+
+    [23]
+   
+
+
+  As of July 2015
+  
+
+    [update]
+   
+
+  , there are six types of produced iPod Touch devices.
+ 

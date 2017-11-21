@@ -1,0 +1,168 @@
+
+
+  The
+  
+   Mini DisplayPort
+  
+  (
+  
+   MiniDP
+  
+  or
+  
+   mDP
+  
+  ) is a miniaturized version of the
+  
+   DisplayPort
+  
+
+   audio-visual
+  
+  digital interface.
+ 
+  It was announced by
+  
+   Apple
+  
+  in October 2008. As of 2013, all new Apple Macintosh computers had the port, as did the
+  
+   LED Cinema Display
+  
+  .
+  
+
+    [2]
+   
+
+
+   [
+   
+
+
+      not in citation given
+     
+
+
+   ]
+  
+  However in 2016 Apple began phasing out the port and replacing it with the new
+  
+   USB Type-C
+  
+  connector. The Mini DisplayPort is also fitted to some PC motherboards, and some PC notebooks from
+  
+   Asus
+  
+  ,
+  
+   Microsoft
+  
+  ,
+  
+   MSI
+  
+  ,
+  
+   Lenovo
+  
+  ,
+  
+   Toshiba
+  
+  ,
+  
+   HP
+  
+  ,
+  
+   Dell
+  
+  , and other manufacturers.
+ 
+  Unlike its
+  
+   Mini-DVI
+  
+  and
+  
+   Micro-DVI
+  
+  predecessors, the Mini DisplayPort can drive display devices with resolutions up to 2560×1600 (
+  
+   WQXGA
+  
+  ) in its DisplayPort 1.1a implementation, and 4096×2160 (
+  
+   4K
+  
+  ) in its DisplayPort 1.2 implementation. With an adapter, the Mini DisplayPort can drive display devices with
+  
+   VGA
+  
+  ,
+  
+   DVI
+  
+  , or
+  
+   HDMI
+  
+  interfaces.
+  
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+  Apple offers a free license for the Mini DisplayPort
+  
+
+    [6]
+   
+
+  but they reserve the right to cancel the license should the licensee "commence an action for patent infringement against Apple".
+  
+
+    [7]
+   
+
+
+
+
+  Apple replaced the DVI port from the
+  
+   MacBook
+  
+  ,
+  
+   MacBook Air
+  
+  ,
+  
+   MacBook Pro
+  
+  ,
+  
+   iMac
+  
+  ,
+  
+   Mac Mini
+  
+  , and the
+  
+   Mac Pro
+  
+  with the Mini DisplayPort. Its use as the video connector for the 24-inch Cinema Display may complicate compatibility:
+ 

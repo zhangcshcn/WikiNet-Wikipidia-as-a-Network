@@ -1,0 +1,120 @@
+
+
+
+   iWeb
+  
+  was a template-based
+  
+   WYSIWYG
+  
+
+   website
+  
+  creation tool developed by
+  
+   Apple Inc.
+  
+  The first version of iWeb was announced at the
+  
+   Macworld Conference & Expo
+  
+  on January 10, 2006 as part of the
+  
+   iLife '06
+  
+  suite of digital lifestyle applications.
+  
+
+    [1]
+   
+
+  iWeb '11 was released on October 20, 2010 as part of the
+  
+   iLife
+  
+  '11 suite, though it was not updated from the previous release (version 3.0.2).
+  
+
+    [2]
+   
+
+  iWeb allowed users to create
+  
+   websites
+  
+  and
+  
+   blogs
+  
+  and customize them with their own text, photos and movies. Users could then publish their websites to
+  
+   MobileMe
+  
+  or another hosting service. In addition to its ability to publish to MobileMe, iWeb integrated with other services, including
+  
+   Facebook
+  
+  ,
+  
+   YouTube
+  
+  ,
+  
+   AdSense
+  
+  and
+  
+   Google Maps
+  
+  .
+  
+
+    [2]
+   
+
+  Apple ceased development in 2011.
+ 
+
+
+  iWeb allowed users to create and design websites and blogs without coding, and included a number of Apple-designed themes, each of which had several page templates with coordinated fonts and colors. Users could customize these pages by replacing placeholder text and by dragging and dropping their own photos and movies into the document. Templates included blog, podcast, and photo and movie gallery pages, as well as standard "Welcome" and "About Me" pages.
+ 
+  iWeb integrated with other applications in the iLife suite. The iLife Media Browser is a list of all the music, movies, and photos stored in
+  
+   iTunes
+  
+  ,
+  
+   iMovie
+  
+  , and
+  
+   iPhoto
+  
+  . Content could be dragged from the Media Browser window and placed in the open page. Local files could also be dropped directly into the page.
+ 
+  Nine interactive "widgets" were included with iWeb. Among other things, these widgets let users embed YouTube videos and Google Maps, include a countdown timer and add
+  
+   RSS
+  
+  feeds.
+ 
+  iWeb featured built-in support for publishing to
+  
+   MobileMe
+  
+  , a suite of online applications developed by Apple, and to other third-party web hosts with FTP. Once account information was entered, users simply clicked a button to publish their entire website. iWeb could then publish updates to the user's
+  
+   Facebook
+  
+  profile to notify others of changes to the website.
+ 
+  iWeb was in its third version at the time of discontinuation, and had a limited feature set and some unresolved bugs. Some limitations included:
+ 
+  In June 2011, rumors emerged that iWeb would not be developed further.
+  
+
+    [3]
+   
+
+  On June 30, 2012 Apple finally pulled the plug on MobileMe. All iWeb websites hosted on MobileMe disappeared if not hosted elsewhere. Apple provided instructions of how to move iWeb sites to another host.
+ 

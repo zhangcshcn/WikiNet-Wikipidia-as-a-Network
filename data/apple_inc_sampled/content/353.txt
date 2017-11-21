@@ -1,0 +1,2580 @@
+
+
+  The
+  
+   Xbox One
+  
+  is a
+  
+   home video game console
+  
+  developed by
+  
+   Microsoft
+  
+  . Announced in May 2013, it is the successor to the
+  
+   Xbox 360
+  
+  and the third console in the
+  
+   Xbox family
+  
+  , and was released in North America, Europe (in some countries), Australia, and Brazil in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the
+  
+   Shanghai Free-Trade Zone
+  
+  . Microsoft marketed the device as an "all-in-one entertainment system".
+  
+
+    [12]
+   
+
+  The Xbox One mainly competes against consoles such as
+  
+   Sony
+  
+  's
+  
+   PlayStation 4
+  
+  and
+  
+   Nintendo
+  
+  's
+  
+   Wii U
+  
+  as part of the
+  
+   eighth generation of video game consoles
+  
+  .
+ 
+  Moving away from its predecessor's
+  
+   PowerPC
+  
+  -based
+  
+   architecture
+  
+  , the Xbox One marks a shift back to the
+  
+   x86
+  
+  architecture used in the
+  
+   original Xbox
+  
+  ; it features an
+  
+   AMD
+  
+
+   Accelerated Processing Unit
+  
+  (APU) built around the
+  
+   x86-64
+  
+
+   instruction set
+  
+  . The console places an increased emphasis on
+  
+   cloud computing
+  
+  and the integration of entertainment applications and services, offering the ability to
+  
+   overlay
+  
+  live television programming from an existing
+  
+   set-top box
+  
+  or a digital tuner for
+  
+   digital terrestrial television
+  
+  with an enhanced
+  
+   program guide
+  
+  ,
+  
+   split-screen
+  
+  multitasking of
+  
+   applications
+  
+  , and improved
+  
+   second-screen
+  
+  support. The console optionally includes a redesigned
+  
+   Kinect
+  
+  sensor, marketed as the "Kinect 2.0", providing improved
+  
+   motion tracking
+  
+  and
+  
+   voice recognition
+  
+  for use in its
+  
+   graphical user interface
+  
+  (GUI) and games. The Xbox One offers the ability for users to
+  
+   record
+  
+  and share "clips" from gameplay or
+  
+   live-stream
+  
+  directly to
+  
+   Twitch
+  
+  ,
+  
+   Ustream
+  
+  , and other streaming platforms. The console's
+  
+   controller
+  
+  was redesigned over the Xbox 360's, with a redesigned body,
+  
+   D-pad
+  
+  and triggers capable of delivering directional
+  
+   haptic feedback
+  
+  .
+ 
+  The Xbox One received mostly positive reception for its refined controller design, multimedia features, and voice navigation. Its quieter and cooler design was praised for making the console more reliable than its predecessor on-launch, but the console was generally criticized for running games at a technically lower graphical level than the PlayStation 4. Its original user interface was panned for being nonintuitive, although changes made to it and other aspects of the console's software post-launch received positive reception. Its Kinect received praise for its improved motion-tracking accuracy, its face recognition logins, and its voice commands.
+ 
+  A redesigned model known as
+  
+   Xbox One S
+  
+  was released in August 2016; it has a streamlined design, native support for
+  
+   4K
+  
+  video playback and upscaling, and
+  
+   HDR10
+  
+
+   high-dynamic-range color
+  
+  . It was praised for its smaller size, its on-screen visual improvements, and its lack of an external power supply, but its regressions such as the lack of a native Kinect port were noted. A future hardware revision codenamed "
+  
+   Project Scorpio
+  
+  " is scheduled for late-2017; it will feature major hardware upgrades focused on enabling 4K gameplay and support for
+  
+   virtual reality
+  
+  hardware, and will be
+  
+   backward compatible
+  
+  with all existing Xbox One software and hardware.
+ 
+  Xbox One is the successor to Xbox 360, Microsoft's previous video game console, which was introduced in 2005 as part of the
+  
+   seventh generation of video game consoles
+  
+  .
+  
+
+    [13]
+   
+
+  Over the years, the 360 had received a number of small hardware revisions to reduce the unit's size and improve its reliability.
+  
+
+    [14]
+   
+
+  In 2010, Microsoft's Chris Lewis stated that the 360 was about "halfway" through its lifecycle; this was aided by the introduction of the
+  
+   Kinect
+  
+  motion sensor that year, which Lewis stated would extend the lifecycle by five years.
+  
+
+    [15]
+   
+
+
+  Initial hardware for the 360's successor, commonly referred to by the industry as the "Xbox 720",
+  
+
+    [16]
+   
+
+  was reportedly under development as early as May 2011.
+  
+
+    [17]
+   
+
+  The official developer kit was codenamed Durango,
+  
+
+    [18]
+   
+
+  and appeared to be available to developers by mid-2012.
+  
+
+    [19]
+   
+
+  Leaked documents suggested that the new console would include an improved Kinect sensor,
+  
+   cloud access
+  
+  to games and media, integration with phone and tablet devices, and technology to provide players heads-up displays on glasses worn by the player, codenamed "Fortaleza"; Microsoft did not comment on these reported features.
+  
+
+    [20]
+   
+
+  Leaked design documents also suggested that Microsoft was seeking to eliminate the ability to play used games, though Microsoft later clarified it was still reviewing the design and were "thinking about what is next and how we can push the boundaries of technology like we did with Kinect", but did not comment on the validity of the information.
+  
+
+    [21]
+   
+
+
+  The console was publicly unveiled under the name Xbox One on May 21, 2013 in a press conference designed to cover the unit's broad multimedia and social capabilities.
+  
+
+    [22]
+   
+
+
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+  A second press event for the console was held during
+  
+   E3 2013
+  
+  , focusing on its video game-oriented functionality.
+  
+
+    [25]
+   
+
+  At that time, Microsoft announced that the console would be released in 21 different markets on November 22, 2013, but this was later amended down to 13.
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+  The change, which pushed the release date for the other eight markets to 2014, was attributed to unforeseen complexity in
+  
+   localizing
+  
+  the device's voice recognition capabilities.
+  
+
+    [28]
+   
+
+  Later, in September 2014, the Xbox One was released in 26 markets, including remaining markets in Europe, the Japanese market, and Middle Eastern markets.
+  
+
+    [26]
+   
+
+
+
+    [27]
+   
+
+
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+
+    [31]
+   
+
+
+  From the first announcement to the actual launch of the product, Microsoft made some significant changes to the console. Initially the system was to be able to play a disc-based game without the disc after the initial install; however, this came with a requirement that the users would have to connect online once per day, as well as restrictions on used games. These policies were reversed in June 2013.
+  
+
+    [32]
+   
+
+
+
+    [33]
+   
+
+
+  In 2015, four members of an international hacking group pleaded guilty to gaining unauthorized access to Microsoft's computer network and obtaining sensitive information relating to Xbox One and Xbox Live.
+  
+
+    [34]
+   
+
+  At the time of the security breach, Microsoft was in the development stage for its next-generation gaming system. Between 2011 and 2013, the hackers spent hundreds of hours searching through Microsoft's network copying log-in credentials, source code, technical specifications and other data. Group members say they were driven by an immense curiosity about Microsoft's then-unreleased Xbox One console and associated software. "Using stolen access credentials", two of the hackers also committed a physical theft by entering "a secure building on Microsoft's Redmond Washington campus" and carrying away three "Durango" development kits.
+  
+
+    [35]
+   
+
+
+
+    [36]
+   
+
+
+  The original Xbox One's exterior casing consists of a two-tone "liquid black" finish; with half finished in a matte grey, and the other in a glossier black. The matte side of the top of the console consists of a large air vent. The design was intended to evoke a more entertainment-oriented and simplified look than previous iterations of the console; among other changes, the LED rings used by Xbox 360 are replaced by a glowing white Xbox logo used to communicate the system's status to the user.
+  
+
+    [37]
+   
+
+  Due to the overall ventilation design of the console, the original Xbox One is designed to only sit horizontally.
+  
+
+    [38]
+   
+
+
+  Xbox One is powered by an
+  
+   AMD
+  
+  "
+  
+   Jaguar
+  
+  "
+  
+   Accelerated Processing Unit
+  
+  (APU) with two
+  
+   quad-core
+  
+  modules totaling eight
+  
+   x86-64
+  
+  cores clocked at 1.75
+  
+   GHz
+  
+  ,
+  
+
+    [8]
+   
+
+
+
+    [39]
+   
+
+  and 8
+  
+   GB
+  
+  of
+  
+   DDR3
+  
+
+   RAM
+  
+  with a memory bandwidth of 68.3 GB/s.
+  
+
+    [8]
+   
+
+
+
+    [40]
+   
+
+  The memory subsystem also features an additional 32 MB of "embedded static" RAM, or
+  
+   ESRAM
+  
+  , with a memory bandwidth of 109 GB/s.
+  
+
+    [41]
+   
+
+  For simultaneous read and write operations, the ESRAM is capable of a theoretical memory bandwidth of 192 GB/s and that a memory bandwidth of 133 GB/s has been achieved with operations that involved
+  
+   alpha transparency
+  
+  blending.
+  
+
+    [42]
+   
+
+  The system includes a non-replaceable hard drive
+  
+
+    [43]
+   
+
+  and a
+  
+   Blu-ray Disc
+  
+  optical drive.
+  
+
+    [24]
+   
+
+
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+  138 GB of hard drive space is used by the operating system, with the remainder available for the storage of games.
+  
+
+    [46]
+   
+
+  Since the June 2014 software update, up to two USB drives can be connected to Xbox One to expand its capacity. External drives must support
+  
+   USB 3.0
+  
+  and have a capacity of at least 256 GB.
+  
+
+    [47]
+   
+
+
+  It was reported that 3 GB of RAM would be reserved for the operating system and
+  
+   utility software
+  
+  , leaving 5 GB for games.
+  
+
+    [48]
+   
+
+
+
+    [49]
+   
+
+
+
+    [50]
+   
+
+
+
+    [51]
+   
+
+  With
+  
+   DirectX
+  
+  11.2 as the console's
+  
+   API
+  
+  ,
+  
+
+    [52]
+   
+
+  the
+  
+   graphics processing unit
+  
+  (GPU) is based on an AMD
+  
+   GCN
+  
+  architecture with 12 compute units, which have a total of 768 cores,
+  
+
+    [40]
+   
+
+  running at 853
+  
+   MHz
+  
+  providing an estimated peak theoretical power of 1.31 T
+  
+   FLOPS
+  
+  .
+  
+
+    [53]
+   
+
+  For networking, Xbox One supports
+  
+   Gigabit Ethernet
+  
+  ,
+  
+   802.11n
+  
+  wireless, and
+  
+   Wi-Fi Direct
+  
+  .
+  
+
+    [54]
+   
+
+
+     "We purposefully did not target the highest-end graphics. We targeted more as a broad entertainment play and did it in an intelligent way."
+    
+  Xbox One supports
+  
+   4K resolution
+  
+  video output and
+  
+   7.1 surround sound
+  
+  .
+  
+
+    [44]
+   
+
+  Yusuf Mehdi, corporate vice president of marketing and strategy for Microsoft, has stated that there is no hardware restriction that would prevent games from running at 4K resolution.
+  
+
+    [56]
+   
+
+  Unlike the Xbox 360, the Xbox One does not support
+  
+   1080i
+  
+  and other
+  
+   interlaced
+  
+  resolutions. Xbox One supports
+  
+   HDMI
+  
+  1.4 for both input and output, and does not support
+  
+   composite
+  
+  or
+  
+   component video
+  
+  .
+  
+
+    [24]
+   
+
+
+
+    [44]
+   
+
+
+
+    [57]
+   
+
+
+  The console can monitor its internal temperature and adjust accordingly to prevent
+  
+   overheating
+  
+  ; alongside increasing fan speed, additional measures can be taken, including forcing the hardware to run in a lower power state—a feature that was not present on Xbox 360. Restricting power consumption lowers maximum performance, but the setting would be intended as a last resort to prevent permanent hardware damage.
+  
+
+    [58]
+   
+
+
+  The Xbox One's
+  
+   controller
+  
+  maintains the overall layout found in the
+  
+   Xbox 360's controller
+  
+  , but with various refinements to its form. Among its changes include a smoother form, textured analog sticks, a four-way
+  
+   directional pad
+  
+  , and redesigned triggers and shoulder buttons with a curved shape for
+  
+   ergonomics
+  
+  .
+  
+
+    [59]
+   
+
+
+
+    [60]
+   
+
+
+
+    [61]
+   
+
+
+
+    [62]
+   
+
+  "Menu" and "View" buttons have replaced the Start and Select buttons.
+  
+
+    [63]
+   
+
+  Each trigger features independent rumble motors called "Impulse Triggers", which allows developers to program directional vibration. One trigger can be made to vibrate when firing a gun, or both can work together to create feedback that indicates the direction of an incoming hit.
+  
+
+    [64]
+   
+
+  The controller also contains light emitters that allow it to be tracked and paired using the Kinect sensor, and to detect when it's not being held to automatically enter a low-power state.
+  
+
+    [60]
+   
+
+  An updated revision of the controller was released in June 2015, which includes a 3.5-millimeter headphone jack and other minor changes.
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+
+  The Xbox One controller includes a
+  
+   micro USB
+  
+  port; when attached via a micro-USB cable, the controller can operate without battery power and can charge remotely, and is supported on computers running
+  
+   Windows 7
+  
+  or later with
+  
+   drivers
+  
+  .
+  
+
+    [60]
+   
+
+
+
+    [67]
+   
+
+  The Xbox One Wireless Adapter accessory allows wireless use of Xbox One controllers on Windows computers also running Windows 7 or later.
+  
+
+    [68]
+   
+
+
+
+    [69]
+   
+
+
+  The Elite Wireless Controller, or just Elite Controller, was released in October 2015. It was described and marketed as "an elite controller for the elite gamer", containing interchangeable parts, "hair trigger locks" for the triggers that allow users to reduce the amount of distance they must be pressed to register a press, and software for remapping buttons.
+  
+
+    [70]
+   
+
+
+
+    [71]
+   
+
+
+
+    [72]
+   
+
+
+  The
+  
+   Kinect
+  
+  2.0, an updated
+  
+   natural user interface
+  
+  sensor, was redesigned and recreated to provide motion-tracking and voice commands for the Xbox One.
+  
+
+    [73]
+   
+
+
+  Kinect 2.0 features a wide-angle
+  
+   time-of-flight camera
+  
+
+
+    [74]
+   
+
+  and a
+  
+   1080p
+  
+  camera, in comparison to the
+  
+   VGA resolution
+  
+  of the Xbox 360 version, and processes 2GB of data per second to map its environment. Kinect 2.0 has an improved accuracy over its predecessor; it can track up to 6 people simultaneously, referred to as "skeletons", perform
+  
+   heart rate
+  
+  tracking, track controller gestures, and read
+  
+   QR codes
+  
+  to redeem Xbox Live gift cards. By default, voice recognition is active at all times, so the console can receive voice commands from the user, even when the console is in
+  
+   sleep mode
+  
+  . It is possible to wake the console with a command, although settings are available to change which individual Kinect functions are active.
+  
+
+    [73]
+   
+
+
+
+    [75]
+   
+
+
+
+    [76]
+   
+
+
+
+    [77]
+   
+
+
+  Prior to and after the mandate, all Xbox One consoles initially shipped with the Kinect sensor included. On June 9, 2014, cheaper Xbox One bundles were introduced, which did not include the Kinect sensor.
+  
+
+    [78]
+   
+
+  Microsoft stated the decision to offer Xbox One bundles without Kinect was to "[offer] a choice to people that would allow people to buy an Xbox One and then ramp up to Kinect when they can afford to", while also allowing games to use processing power that was previously reserved for Kinect.
+  
+
+    [79]
+   
+
+  An updated Xbox Development Kit issued in June 2014 allows developers to explicitly disable motion tracking functionality in games, allowing access to additional system resources that represent about 10% of the GPU processing power. These resources were previously reserved for Kinect skeletal tracking, regardless of whether the Kinect sensor was attached or in use.
+  
+
+    [79]
+   
+
+
+  A
+  
+   Windows
+  
+  compatible Kinect 2.0 was released on July 15, 2014.
+  
+
+    [80]
+   
+
+  Kinect 2.0 was released as a standalone and optional item in October 2014; it is bundled with a digital copy of
+  
+
+    Dance Central Spotlight
+   
+
+  .
+  
+
+    [81]
+   
+
+
+  Xbox One runs two operating systems within a
+  
+   hypervisor
+  
+  ; games run within one separate operating system, while apps and the user interface run within a stripped-down "core" variant of
+  
+   Windows 10
+  
+  ,
+  
+
+    [82]
+   
+
+  originally Windows 8 during its launch.
+  
+
+    [83]
+   
+
+  This architecture allows resources to be allocated specifically to different aspects of the console's functions, including multitasking and Kinect processing, ensuring an "absolute guarantee of performance" for games.
+  
+
+    [84]
+   
+
+
+
+    [85]
+   
+
+  Apps can be "snapped" to the side of the screen as a form of
+  
+   multitasking
+  
+  .
+  
+
+    [83]
+   
+
+  Xbox One supports
+  
+   Universal Windows Platform
+  
+  apps, which can be designed to run across Xbox One, Windows 10, and
+  
+   Windows 10 Mobile
+  
+  in synchronization with the Windows platform.
+  
+
+    [82]
+   
+
+
+
+    [86]
+   
+
+
+
+    [87]
+   
+
+
+  Xbox One's user interface is modeled on
+  
+   Metro design language
+  
+  .
+  
+
+    [88]
+   
+
+  The dashboard is divided into "Home", "Community", "OneGuide", and "Store" sections.
+  
+
+    [89]
+   
+
+  A guide sidebar is accessed by double-pressing the Xbox Guide button, providing access to common functions such as the friends list, apps, the user's party, and settings.
+  
+
+    [89]
+   
+
+  Users can go back to the dashboard while using games or apps using either the Xbox button on their controller or a voice command; up to four apps can run (either actively or in the background) at once, but only one game can run at a time.
+  
+
+    [88]
+   
+
+  Use of Kinect enables the ability to control the console via
+  
+   voice commands
+  
+  . Xbox One's voice control capabilities are similar to, albeit richer than those of Xbox 360.
+  
+
+    [90]
+   
+
+  Motion control support was also available on the dashboard with Kinect; however, this feature has been removed from the New Xbox One Experience due to low usage.
+  
+
+    [91]
+   
+
+  The voice assistant
+  
+   Cortana
+  
+  was added in 2016 to provide expanded voice command functionality with
+  
+   natural language recognition
+  
+  .
+  
+
+    [92]
+   
+
+
+  The dashboard originally used a layout similar to Windows 8's "
+  
+   Start screen
+  
+  ", with a horizontal-scrolling, tile-based interface.
+  
+
+    [83]
+   
+
+
+
+    [88]
+   
+
+
+
+    [93]
+   
+
+  This design was replaced for Xbox Preview Program members in September 2015 with the current interface, known as "the New Xbox One Experience",
+  
+
+    [91]
+   
+
+  which was publicly released as part of the November 12, 2015 system update.
+  
+
+    [94]
+   
+
+
+
+    [95]
+   
+
+
+  The Xbox One can view and play content from
+  
+   DLNA
+  
+  servers and USB storage devices using the "Media Player" app.
+  
+
+    [96]
+   
+
+  An application allows playback of video from
+  
+   Blu-ray Disc
+  
+  ,
+  
+   DVD
+  
+  and
+  
+   CD
+  
+  media.
+  
+
+    [97]
+   
+
+
+  The console provides the ability to feed live television by serving as an HDMI pass-through for an existing
+  
+   television provider's
+  
+
+   set-top box
+  
+  or an optional Digital TV Tuner accessory that allows use of
+  
+   digital terrestrial television
+  
+  .
+  
+
+    [98]
+   
+
+  The console provides its own
+  
+   electronic program guide
+  
+  known as OneGuide, augmenting the existing streaming functionality to provide show recommendations based on viewing history, integrated access to "App Channels" corresponding to online video services, and voice control via Kinect. The set-top box and television are controlled by OneGuide using an
+  
+   IR blaster
+  
+  .
+  
+
+    [83]
+   
+
+
+
+    [93]
+   
+
+
+
+    [99]
+   
+
+
+
+    [100]
+   
+
+
+  The Xbox One does not provide full
+  
+   DVR
+  
+  functionality for recording television programs: executive Yusuf Mehdi indicated that the console would "work in tandem" with existing television services, but that Microsoft would need to work with them directly to provide extended functionality, such as DVR integration.
+  
+
+    [101]
+   
+
+  The digital TV tuner accessory allows limited DVR functionality for pausing and rewinding live TV for up to 30 minutes.
+  
+
+    [102]
+   
+
+  In June 2016, Microsoft announced that their plans for full
+  
+   DVR
+  
+  functionality for the Xbox One were on hold.
+  
+
+    [103]
+   
+
+
+  The Xbox Live service has been scaled up to use 300,000 servers for Xbox One users.
+  
+
+    [104]
+   
+
+
+   Cloud storage
+  
+  is available to save music, films, games and saved content, and developers are able to use Live servers (along with the
+  
+   Microsoft Azure
+  
+
+   cloud computing
+  
+  platform) to offer dynamic in-game content and other functionality.
+  
+
+    [105]
+   
+
+  Users can have up to 1,000 friends.
+  
+
+    [106]
+   
+
+
+
+    [107]
+   
+
+
+
+    [108]
+   
+
+
+
+    [109]
+   
+
+  The Xbox Avatars were reinstated in "the New Xbox Experience" update.
+ 
+  Players can use the Upload Studio app to edit and share clips from the last five minutes of gameplay footage that is automatically recorded by the console.
+  
+
+    [110]
+   
+
+  Games can also be developed so that recording can automatically be triggered in response to notable events, such as achievements.
+  
+
+    [83]
+   
+
+  Xbox One also integrates with the live streaming platform
+  
+   Twitch
+  
+  ; users can use voice commands to immediately begin streaming footage of their current game directly to the service, and use Kinect's camera and microphone to record video and audio narration.
+  
+
+    [111]
+   
+
+  Users can feature recorded clips on their Xbox Live profile page in a "Showcase" section.
+  
+
+    [83]
+   
+
+
+  As with Xbox 360, premium online features such as multiplayer, voice communication, broadcasting and Upload Studio require an
+  
+   Xbox Live Gold
+  
+  subscription to use. Unlike Xbox 360, a user's Xbox Live Gold subscription benefits apply to all other users of their designated "home" console as well, rather than requiring a separate subscription for each user.
+  
+
+    [112]
+   
+
+  Since June 2014, applications no longer require an Xbox Live Gold membership to use. Additional subscriptions for outside services such as
+  
+   Netflix
+  
+  may still be required.
+  
+
+    [113]
+   
+
+
+
+    [114]
+   
+
+  Microsoft also extended its
+  
+   Games with Gold
+  
+  program to Xbox One, providing free Xbox 360 and Xbox One games to Xbox Live Gold subscribers on a monthly basis.
+  
+
+    [115]
+   
+
+
+
+    [116]
+   
+
+
+  The
+  
+   Xbox SmartGlass
+  
+
+   app
+  
+  provides extended functionality on Xbox One, allowing devices running
+  
+   Windows Phone
+  
+  ,
+  
+   Windows 8
+  
+  ,
+  
+   iOS
+  
+  and
+  
+   Android
+  
+  to be used as a companion device for Xbox One features, such as powering on the console, a
+  
+   remote control
+  
+  , accessing messages and the Activity Feed, purchasing content, and providing integration with certain games and content.
+  
+
+    [25]
+   
+
+
+
+    [117]
+   
+
+
+
+    [118]
+   
+
+  The SmartGlass app can also be used to stream live TV to Android and Windows devices if the console is using a USB digital TV tuner.
+  
+
+    [119]
+   
+
+
+  On
+  
+   Windows 10
+  
+  , SmartGlass is succeeded by the Xbox App, which supports the local streaming of games from Xbox One to
+  
+   personal computers
+  
+  and
+  
+   tablets
+  
+  running Windows 10.
+  
+
+    [120]
+   
+
+  An Xbox One controller must be used, but Windows-compatible headsets and microphones can be used for voice chat. Games requiring Kinect are not supported, while Game DVR and online streaming are not available while using this functionality.
+  
+
+    [121]
+   
+
+
+  Per a partnership with
+  
+   Oculus VR
+  
+  , users will also be able to stream Xbox One games to the
+  
+   Oculus Rift
+  
+  virtual reality headset by means of Xbox app for Windows 10; there are currently no immediate plans for direct integration between Xbox One and Oculus Rift.
+  
+
+    [122]
+   
+
+
+
+    [123]
+   
+
+
+
+    [124]
+   
+
+
+  Xbox One games are distributed at retail on
+  
+   Blu-ray Disc
+  
+  , and digitally as downloads through
+  
+   Xbox Games Store
+  
+  .
+  
+
+    [108]
+   
+
+
+
+    [109]
+   
+
+  All Xbox One games must be
+  
+   installed
+  
+  to the console's storage: users can begin to play portions of a game (such as opening levels) once the installation or download reaches a specific point, while the remainder of the game is downloaded or installed in the background. Updates to games and system software are also downloaded in the background and while in standby.
+  
+
+    [125]
+   
+
+  If the game is installed from physical media, the disc is still required for validation purposes.
+  
+
+    [126]
+   
+
+  If the game is installed on another console, and that console owner no longer has access to the disc, the owner has the option of unlocking the install on their hard drive by purchasing it through Xbox Live; the installed game then acts as a game installed on the hard drive.
+  
+
+    [126]
+   
+
+  An active internet connection may be required for some games, particularly those that integrate cloud computing.
+  
+
+    [126]
+   
+
+
+  Microsoft released its
+  
+   Xbox Game Preview
+  
+  program in 2015. Similar to
+  
+   Steam Early Access
+  
+  , it lets developers launch unfinished games for consumers to purchase and beta test before its official launch.
+  
+
+    [127]
+   
+
+
+     "Absolutely; you can certainly plug an Xbox 360 in the back – that was one of my first questions when I heard about the [HDMI-in] feature,"
+    
+  At its launch, the Xbox One did not have native
+  
+   backward compatibility
+  
+  with original
+  
+   Xbox
+  
+  or
+  
+   Xbox 360
+  
+  games.
+  
+
+    [129]
+   
+
+
+
+    [130]
+   
+
+  Senior project management and planning director Albert Penello explained that Microsoft was initially considering a
+  
+   cloud gaming
+  
+  platform to enable backward compatibility, but he felt it would be "problematic" due to varying internet connection qualities.
+  
+
+    [131]
+   
+
+
+
+    [132]
+   
+
+
+   Xbox Live
+  
+  director of programming
+  
+   Larry "Major Nelson" Hryb
+  
+  did state that users could theoretically use the HDMI-in port on the console to pass an Xbox 360 (or, alternatively, any other device that supports HDMI output, including competing consoles)
+  
+
+    [133]
+   
+
+  through Xbox One.
+  
+
+    [128]
+   
+
+
+
+    [134]
+   
+
+  This process does generate a small amount of unnoticeable
+  
+   display lag
+  
+  .
+  
+
+    [133]
+   
+
+
+  Xbox 360 backward compatibility uses a software
+  
+   emulator
+  
+  within the system software; 104 Xbox 360 titles were supported at the feature's public launch, with more to be added in the following months.
+  
+
+    [135]
+   
+
+  Xbox 360 games contained within
+  
+
+    Rare Replay
+   
+
+  are packaged as standalone applications using the Xbox 360 emulation.
+  
+
+    [136]
+   
+
+  Microsoft stated that publishers would only need to provide permission to the company to allow the repackaging, and it expected the number of supported games to increase significantly over time.
+  
+
+    [137]
+   
+
+
+
+    [138]
+   
+
+
+
+    [139]
+   
+
+  Microsoft, along with fourteen other third-party publishers, will offer supported games, and all
+  
+   Games with Gold
+  
+  titles on Xbox 360 since November 2015 are made compatible.
+  
+
+    [115]
+   
+
+
+
+    [116]
+   
+
+  Xbox division head
+  
+   Phil Spencer
+  
+  has also hinted the possibility of adding support for games from the original Xbox, but Microsoft is focusing on Xbox 360 compatibility first.
+  
+
+    [140]
+   
+
+
+  After the official unveiling of Xbox One in May 2013, the editorial staff of
+  
+   Game Informer
+  
+  offered both praise and criticism for the console. Matt Helgeson described the console as Microsoft's intent to "control the living room". He called Xbox One's instant switching features "impressive", and that the console was "a step in the right direction" with regards to TV entertainment, especially the prospect of avoiding the usage of non-intuitive user interfaces often found on cable
+  
+   set-top boxes
+  
+  . Jeff Cork said that Microsoft had "some great ideas" for the console, but that it failed to properly communicate them.
+  
+
+    [141]
+   
+
+
+  Microsoft initially announced a different game licensing scheme for Xbox One than what was used upon its release: all games, including those purchased at retail, would be bound to the user's Xbox Live account. Users could access their purchased games from any other Xbox One console, play games without their disc once installed, and allow users to "share" their games with up to ten designated "family" members. Users would trade games at "participating retailers", and could also transfer a game directly to any Xbox Live friend on their list for at least 30 days, but only once. To synchronize licenses, the console would be required to
+  
+   connect to the internet once every 24 hours
+  
+  ; if the console could not connect, all games would be disabled until the console was connected again.
+  
+
+    [109]
+   
+
+
+
+    [142]
+   
+
+
+
+    [143]
+   
+
+
+  Reaction to this
+  
+   digital rights management
+  
+  scheme was extremely negative. Critics felt that the changes would infringe on consumers'
+  
+   first-sale rights
+  
+  for games purchased on physical media, as games would only be
+  
+   licensed
+  
+  to users rather than sold, and the disc itself would only be used to install the game and not confer ownership of its license or permission to resell. Microsoft also stated that publishers could impose restrictions or activation fees on second-hand copies of games.
+  
+
+    [144]
+   
+
+
+
+    [145]
+   
+
+
+
+    [146]
+   
+
+
+
+    [147]
+   
+
+
+
+    [148]
+   
+
+
+
+    [149]
+   
+
+
+
+    [150]
+   
+
+  Xbox Chief Marketing and Strategy Officer Yusuf Mehdi explained that the system was built with digital distribution in mind, but that Microsoft wanted to maintain the availability of games on physical media. He also noted that Microsoft was not "giving in" to publishers' objections to used games, but rather trying to balance the needs of consumers and the industry, and that the trading and sharing abilities of the platform added a level of flexibility not seen on other online distribution platforms at the time.
+  
+
+    [151]
+   
+
+
+  Microsoft's
+  
+   E3
+  
+  press conference on June 10, 2013, was also criticized for focusing too much on games that, beyond increased graphical capabilities, provided experiences that were otherwise similar to previous-generation games—giving little incentive for buying the new console.
+  
+
+    [152]
+   
+
+
+
+    [153]
+   
+
+  After
+  
+   Sony
+  
+  's E3 press conference later that evening,
+  
+
+    GameSpot
+   
+
+  editor Tom Mcshea went on to say that Microsoft had become
+  
+   anti-consumerist
+  
+  , trying to "punish their loyal customers" with strict restrictions, and that "by saying no to the used game restrictions and always-online that Microsoft is so happily implementing on the Xbox One, Sony has elevated the
+  
+   PlayStation 4
+  
+  as the console to grab this holiday season."
+  
+
+    [154]
+   
+
+  Rafi Mohammed, author of "The Art of Pricing", felt that Microsoft priced Xbox One "too high" and that the $100 premium over its competitor could "derail" the system during the 2013 holiday season.
+  
+
+    [155]
+   
+
+
+
+    [156]
+   
+
+
+  On June 19, 2013, Microsoft announced (in response to the negative reaction) that it would reverse its changes to Xbox One's DRM and game licensing model. As with Xbox 360, users would be able to share and resell physical games without restrictions, and beyond a mandatory software update upon the console's initial setup process to enable playback of Blu-ray and DVD video,
+  
+
+    [97]
+   
+
+  the console would not require a permanent internet connection to operate. These changes required the family sharing features, along with the ability to play games without their disc after installation, to be dropped.
+  
+
+    [144]
+   
+
+
+
+    [157]
+   
+
+  Xbox One chief product officer Marc Whitten stated that the family sharing feature may return in the future, but could not be implemented on launch due to time restraints.
+  
+
+    [158]
+   
+
+
+
+    [159]
+   
+
+
+   Don Mattrick
+  
+  , the then president of Microsoft's Interactive Entertainment Business, stated that the licensing changes were in response to the negative public reaction.
+  
+
+    [160]
+   
+
+  Other analysts believed that the change was in direct response of Sony's aggressive position during its E3 press conference.
+  
+
+    [161]
+   
+
+  Mattrick, who had been a leader in Xbox One development, announced his departure from Microsoft on July 1, 2013, to become CEO of
+  
+   Zynga
+  
+  . Analysts speculated that his departure was predicated on the poor response and subsequent reversal of the plans for Xbox One.
+  
+
+    [162]
+   
+
+
+  Microsoft also backtracked on a similarly controversial requirement for the Kinect sensor to be plugged into Xbox One at all times for it to function. Privacy advocates argued that Kinect sensor data could be used for
+  
+   targeted advertising
+  
+  , and to perform unauthorized
+  
+   surveillance
+  
+  on users. In response to these claims, Microsoft reiterated that Kinect voice recognition and motion tracking can be disabled by users, that Kinect data cannot be used for advertising per its
+  
+   privacy policy
+  
+  , and that the console would not redistribute user-generated content without permission.
+  
+
+    [163]
+   
+
+
+
+    [164]
+   
+
+
+
+    [165]
+   
+
+
+
+    [166]
+   
+
+
+
+    [167]
+   
+
+
+
+    [168]
+   
+
+  In response to these pre-launch changes and a belief that Microsoft's decisions for the systems were in poor judgement, journalists and consumers jokingly gave Xbox One nicknames such as "Xbox 180", in reference to the Xbox 360 and Microsoft's decision to reverse its controversial decisions, and "Xbone", suggesting that the company was "
+  
+   throwing a bone
+  
+  " to consumers by making these changes.
+  
+
+    [169]
+   
+
+
+
+    [170]
+   
+
+
+
+    [171]
+   
+
+
+
+    [172]
+   
+
+
+  Upon its release, the Xbox One received favorable reviews from critics and reviewers. In its launch review,
+  
+
+    Polygon
+   
+
+  gave the Xbox One an 8/10. Its design was described as "inoffensive" but its larger size noted, while the console's quieter and cooler operation was praised for indicating a potentially higher reliability than Xbox 360 was on-launch. The controller was praised for its battery life and "premium" design, but some members of the site's staff felt that its shoulder buttons were stiffer than that of previous designs. The design of Xbox One's interface received mixed reviews: noting that it carried over
+  
+   Windows 8
+  
+  's
+  
+   design language
+  
+  , the interface was disfavored for hiding functions under the controller's menu button and for being awkward to use with a controller or motion gestures, seemingly encouraging users to use voice navigation instead. While praised for having more "robust" voice navigation than Xbox 360, they felt that voice navigation still had a "
+  
+   learning curve
+  
+  in understanding what works and what doesn't." Although its user following, Smart Match, and improved voice chat features were noted, Xbox Live was panned for not offering the option on-launch to add a real name to user profiles. Despite a regression in local and network multimedia functionality in comparison to Xbox 360 and how OneGuide interacted with outside set-top boxes (drawing comparisons to the operations of
+  
+   TiVo
+  
+  DVRs),
+  
+   Polygon
+  
+  felt the Xbox One's overall multimedia experience "feels like a major step forward in set-top boxes and makes the Xbox One the obvious center of any living room that has one."
+  
+
+    [173]
+   
+
+
+  Ben Gilbert of
+  
+
+    Engadget
+   
+
+  was similarly modest upon its launch, assigning the console a score of 81/100 and describing the Xbox One's design as a "1993 artist's rendering of 2013's technology". Acknowledging that its controller was a mere refinement of the "ubiquit[ous]" Xbox 360 design, he praised the controller for its improved D-pad and quieter triggers but criticized its stiff shoulder buttons. Kinect received positive reviews for its face recognition login and improved motion tracking, but that whilst "magical", "every false positive or unrecognized [voice] command had us reaching for the controller." The overall interface was also considered more intuitive and flexible than that of PlayStation 4, but its game library view was described as being a "jumbled, sadly unfilterable rows of every owned piece of software", that also knowingly listed games that require their disc to run alongside those which did not. The console was also panned for missing certain promised features on-launch, such as Upload Studio, game streaming, and certain apps/services.
+  
+
+    [174]
+   
+
+
+  Later on, critics felt that the Xbox One's functionality had matured over the year following its launch; Jeff Bakalar of
+  
+
+    CNET
+   
+
+  , assigning it a score of 8/10, acknowledged improvements to Xbox One's software since its original release, but that its user interface was still unintuitive in comparison to Xbox 360 and PlayStation 4, explaining that "navigating the interface seems to be much more problematic than it rightfully should be, and there's simply not enough transparency in the logic within it. There are oddities peppered throughout, which is the root for countless headaches and frustrations." Xbox One's in-game performance was mixed, with some titles showing slower performance over PS4, but some multi-platform games performing better on Xbox One than PS4. CNET praised the wider lineup of multimedia services and apps on Xbox One over PS4, not requiring Xbox Live Gold for online save data storage, support for high-speed
+  
+   USB 3.0
+  
+  as secondary storage, and having a "slightly better" lineup of upcoming exclusives, concluding that "While the PS4 had a clear advantage at launch, that edge is slowly evaporating as Microsoft has worked feverishly to undo most of the Xbox One's original missteps."
+  
+
+    [175]
+   
+
+
+  Nick Pino of
+  
+
+    TechRadar
+   
+
+  , giving it four stars out of five, similarly felt that the Xbox One "[felt] more like a media titan today than it did 12 months ago," citing OneGuide, Upload Studio, and Microsoft's decision to drop the Xbox Live Gold requirement for multimedia streaming apps, and that "there's still a lot of potential locked away inside the hardware of the system that developers are just beginning to figure out. So while PlayStation might have the upper hand for now when it comes to certain third-party titles, it may not always remain that way. Just how Microsoft will get it to that point, though, is still a mystery." However, he disfavored the console's dependence upon a subscription for most of its functionality, Kinect's voice recognition, and that some games do not natively run at
+  
+   1080p
+  
+  resolution, but are
+  
+   upscaled
+  
+  .
+  
+
+    [83]
+   
+
+  In an August 2016 review of the Xbox One S model,
+  
+   TechRadar
+  
+  further commended Microsoft's recent improvements to Xbox One, citing a strong lineup of first-party titles in 2015 and further improvements to the console's interface.
+  
+
+    [176]
+   
+
+
+  Alaina Yee of
+  
+   IGN
+  
+  also praised how Xbox One had evolved since its launch, assigning it with Kinect a score of 8.1/10 and acknowledging that Microsoft had "made good on its promise of listening to consumers, rolling out a steady stream of updates that have both broadened and deepened what this third Xbox console offers." Regarding the console's slightly lower level of graphics capabilities in comparison to PlayStation 4, it was noted that "while videophiles might spot instances of upscaled graphics and less detailed environments immediately, most people generally won't notice a difference between Xbox One and PlayStation 4 versions of a game (when there is one) unless they see both running side by side", and examples of "gorgeous" Xbox One games were noted, such as
+  
+
+    Sunset Overdrive
+   
+
+  and
+  
+
+    Forza Motorsport 5
+   
+
+  . The number of "hidden" options in Xbox One's user interface was equated to "hunting for treasure in a messy room"; as such, Kinect voice commands, in combination with access to common functions within the
+  
+   Xbox SmartGlass
+  
+  app, were praised for helping to provide a more streamlined user experience.
+  
+
+    [177]
+   
+
+
+  On November 22, 2013, Microsoft confirmed that it had sold one million Xbox One consoles within its first 24 hours of being available.
+  
+
+    [178]
+   
+
+  Based on approximately 102,000 shopping receipts tracked by InfoScout, 1,500 of which included a purchase of either a video game or a video game console, the Xbox One was the highest-selling console during the Black Friday sales period in the United States.
+  
+
+    [179]
+   
+
+
+  On December 11, 2013, Microsoft announced that it had sold approximately 2 million units in its first 18 days on sale.
+  
+
+    [180]
+   
+
+  On December 12, 2013, Microsoft announced it was the fastest selling console in the United States based on NPD Group figures, however the NPD report clarified, "PlayStation 4 sales included an additional week within the November data month compared to Xbox One. When looking at sales on an average per-week basis, Xbox One led PS4. Keep in mind, however, that supply typically becomes constrained in the second week after launch."
+  
+
+    [181]
+   
+
+
+
+    [182]
+   
+
+
+  On January 6, 2014, Microsoft announced that approximately 3 million consoles had been sold worldwide in 2013.
+  
+
+    [183]
+   
+
+  In their
+  
+   Q2
+  
+  2014 earnings report on January 23, 2014, Microsoft announced that 3.9 million Xbox One units had been shipped worldwide.
+  
+
+    [184]
+   
+
+  On November 12, 2014, Microsoft announced it had shipped almost 10 million units to retailers worldwide. The company also revealed that a price cut had tripled U.S. sales of the console over the previous week.
+  
+
+    [6]
+   
+
+
+
+    [185]
+   
+
+
+
+    [186]
+   
+
+  On December 11, 2014, Microsoft announced, based on NPD Group figures, that Xbox One was the best-selling console in November 2014.
+  
+
+    [187]
+   
+
+
+  The Xbox One has sold poorly in Japan, continuing the trend of Microsoft's previous consoles which have struggled against the local Sony and Nintendo. The Xbox One sold a total figure of 23,562 consoles within its launch week. By comparison, the Xbox 360 sold 62,000 consoles in Japan during its opening week in 2005.
+  
+
+    [188]
+   
+
+
+
+    [189]
+   
+
+  In the week ending June 14, 2015 the Xbox One sold just 100 consoles in Japan, by way of comparison, in the same week the Wii U sold 16,413 consoles.
+  
+
+    [190]
+   
+
+
+  However, in October 2015, Microsoft decided not to publish sales figures for the system anymore, and as a result, the 10 million figure from November 2014 is still the latest official cumulative sales number.
+  
+
+    [191]
+   
+
+  Some journalists think that its lower sales figures than rival PlayStation 4 is the reason behind the decision, to make their system not look "bad" compared to Sony's.
+  
+
+    [192]
+   
+
+
+  In January 2016 the CFO of
+  
+   Electronic Arts
+  
+  reported during a financial call that the Xbox One has sold "around 18 to 19 million" units.
+  
+
+    [193]
+   
+
+  That is half the 36 million units of the PlayStation 4 that Sony claimed at the time. However it is higher than Nintendo's
+  
+   Wii U
+  
+  which managed 12.5 million.
+  
+
+    [194]
+   
+
+
+
+    [195]
+   
+
+  Following the release of the
+  
+   Xbox One S
+  
+  , the Xbox One sales rose by 989% week-over-week in the
+  
+   United Kingdom
+  
+  .
+  
+
+    [196]
+   
+
+
+  On launch, Xbox One was available in a single retail configuration, which included the console with 500 GB hard drive, one controller, and Kinect sensor. In the United States, it retailed for
+  
+   US$
+  
+  499.
+  
+
+    [197]
+   
+
+  On June 9, 2014, Microsoft released a new Xbox One retail configuration that excludes the Kinect sensor, costing US$399. A standalone Kinect sensor for Xbox One for use with these models was released in October 2014, retailing at US$150.
+  
+
+    [81]
+   
+
+
+
+    [198]
+   
+
+  On June 16, 2015, Microsoft lowered the price of the stock model to US$349, and released a new US$399 model containing a 1
+  
+   terabyte
+  
+  hard drive and in some markets,
+  
+
+    Halo: The Master Chief Collection
+   
+
+  .
+  
+
+    [65]
+   
+
+
+
+    [66]
+   
+
+  In May 2016, Microsoft lowered the price of selected 500 GB bundles to US$299, and 1 TB bundles to US$319 as a limited time offer of unspecified length.
+  
+
+    [199]
+   
+
+
+
+    [200]
+   
+
+  On June 14, 2016, the price of 500 GB models was lowered once more to US$279 through October 2016, in anticipation of the launch of
+  
+   Xbox One S
+  
+  .
+  
+
+    [201]
+   
+
+
+  On August 31, 2015, Microsoft announced Xbox One Elite—a new SKU with a 1 TB
+  
+   solid-state hybrid drive
+  
+  and an Elite controller. It was released in November 2015 and retails for US$499.99. In the US, the Elite bundle was a timed exclusive to
+  
+   GameStop
+  
+  and
+  
+   Microsoft Store
+  
+  .
+  
+
+    [202]
+   
+
+  The Xbox One Elite bundle was dropped to $349.
+ 
+  Those who pre-ordered Xbox One for its release received a special "Day One Edition", which featured a "DAY ONE 2013" inscriptions on the controller, and a unique achievement.
+  
+
+    [197]
+   
+
+  A white "Launch Team" edition was given exclusively to Microsoft staff members, featuring the inscription "I made this, LAUNCH TEAM 2013" on the console and controller, and was bundled with
+  
+
+    Dead Rising 3
+   
+
+  ,
+  
+
+    Forza Motorsport 5
+   
+
+  ,
+  
+
+    Ryse: Son of Rome
+   
+
+  , and
+  
+
+    Zoo Tycoon
+   
+
+  .
+  
+
+    [203]
+   
+
+  A similar limited edition was gifted to
+  
+   Respawn Entertainment
+  
+  employees following the release of
+  
+
+    Titanfall
+   
+
+  , with a black, white, and orange color scheme and a similarly-styled controller inspired by the game (the controller itself would be released publicly as a tie-in).
+  
+
+    [204]
+   
+
+
+  Xbox One consoles bundled with digital copies of specific games have also been released, including
+  
+   Titanfall
+  
+  and
+  
+   Forza Motorsport 5
+  
+  .
+  
+
+    [205]
+   
+
+
+   On June 13, 2016, during its
+   
+    E3 2016
+   
+   press conference, Microsoft unveiled
+   
+    Xbox One S
+   
+   , a revision of the original Xbox One hardware with a streamlined form factor. Its new casing is white-colored, 40% smaller than the original design, and supports vertical orientation with a stand. The capacitive power and eject keys were replaced by physical buttons,
+   
+
+     [176]
+    
+
+   the side USB port and controller sync button were moved to the front of the console, and the console no longer uses an external power supply "brick". Xbox One S requires a USB adapter to attach a Kinect sensor, as it no longer includes the proprietary port used on the original model.
+   
+
+     [214]
+    
+
+   A free USB adapter was provided by Microsoft to Kinect owners who registered their ownership of Kinect and Xbox One S online, but this promotion ended in March 2017. Although Microsoft stated that it would eventually bundle the adapter with standalone Kinect units, this has yet to occur.
+   
+
+     [215]
+    
+
+
+
+     [214]
+    
+
+
+   Xbox One S supports the playback of
+   
+    4K resolution
+   
+   video from supported streaming services and
+   
+    Ultra HD Blu-ray Disc
+   
+   , and
+   
+    high dynamic range
+   
+   (HDR) color using
+   
+    HDR10
+   
+   .
+   
+
+     [214]
+    
+
+
+
+     [216]
+    
+
+
+
+     [217]
+    
+
+   Games can be
+   
+    upscaled
+   
+   to 4K resolution.
+   
+
+     [176]
+    
+
+
+    Rod Fergusson
+   
+   , head of Microsoft's
+   
+
+     Gears of War
+    
+
+   studio
+   
+    The Coalition
+   
+   , stated that Xbox One S also had upgraded CPU and GPU components, which were capable of providing more consistent performance in
+   
+
+     Gears of War 4
+    
+
+   during graphics-intensive sequences than the previous hardware.
+   
+
+     [218]
+    
+
+   While Xbox planning lead
+   
+    Albert Penello
+   
+   initially stated that the additional CPU and GPU access granted to developers for Xbox One S is to enable HDR and would have "literally no impact" on the performance of games,
+   
+
+     [219]
+    
+
+   games with dynamic resolution or uncapped frame rates can see increased performance due to higher GPU
+   
+    clock speed
+   
+   and ESRAM bandwidth.
+   
+
+     [220]
+    
+
+   Xbox One S also ships with a revision of the Xbox One controller, with textured grips and
+   
+    Bluetooth
+   
+   support.
+   
+
+     [214]
+    
+
+
+
+     [221]
+    
+
+
+   Xbox One S is available in 500 GB, 1 TB, and "special edition" 2 TB models, retailing at US$299, $349, and $399 respectively. The 2 TB model was released on August 2, 2016,
+   
+
+     [214]
+    
+
+
+
+     [222]
+    
+
+   and 1 TB and 500 GB models were released on August 23, 2016.
+   
+
+     [223]
+    
+
+
+   Nick Pino of
+   
+
+     TechRadar
+    
+
+   was mostly positive, considering the Xbox One S to be "the pinnacle of what Microsoft set out to create three years ago", but noting regressions such as the lack of Kinect port (which was interpreted as being "one last kick in the pants for all the gamers forced into buying the more expensive console bundle two short years ago"), and the lack of 4K content sources beyond Netflix,
+   
+    YouTube
+   
+   and
+   
+    Ultra HD Blu-ray Disc
+   
+   . Visual improvements were noted on games such as
+   
+
+     Fallout 4
+    
+
+   and
+   
+
+     Rise of the Tomb Raider
+    
+
+   when upscaled to 4K. Concerns were shown that the revised hardware and HDR support would lead to
+   
+    fragmentation
+   
+   of Xbox One's ecosystem, as not all users will necessarily experience a game the same way.
+   
+
+     [176]
+    
+
+
+   Dieter Bohn of
+   
+
+     The Verge
+    
+
+   praised the Xbox One S's revised design as being "svelte and good-looking", noting its smaller form factor and the lack of power brick. The Xbox One S was also praised for being the cheapest 4K-compatible Blu-ray Disc player on the market, but argued that consumers were "[not] as eager to upgrade to 4K Blu-rays as they were to DVDs back in the day. Especially when 4K streaming boxes can be purchased for much less." The lack of HDR-compatible games available on-launch was panned, as well as the Microsoft's choice of the standard over
+   
+    Dolby Vision
+   
+   (which was the only HDR standard supported by the reviewer's 4K television). Bohn concluded that the Xbox One S would appeal best to new owners or those who wish to leverage its HDR and 4K support, but recommended that existing owners hold off on purchasing the console, as Microsoft planned to release a
+   
+    more powerful version of Xbox One in 2017
+   
+   .
+   
+
+     [224]
+    
+
+
+
+     [225]
+    
+
+
+
+
+   During its E3 2016 press conference, Microsoft announced an upcoming hardware refresh of Xbox One codenamed "
+   
+    Project Scorpio
+   
+   ", which is scheduled to be released in late 2017. The console will be a high-end model with upgraded hardware that Microsoft claimed would make it the "most powerful console ever"; it will feature an eight-core APU with 320 gigabytes per second of memory bandwidth, a 3-fold increase, and 6
+   
+    teraflops
+   
+   of graphical computing performance, a 4-fold increase.
+   
+
+     [226]
+    
+
+
+
+     [227]
+    
+
+   The hardware is meant to support 4K gameplay, as well as
+   
+    virtual reality
+   
+   . Xbox division head
+   
+    Phil Spencer
+   
+   stated that Scorpio was designed as a response to the growth of 4K gaming and VR in the high-end personal computer market, and that existing Xbox One games will experience performance improvements. Spencer stated in an example that
+   
+
+     Halo 5: Guardians
+    
+
+   , which uses a scaling system that dynamically lowers the game's resolution when needed to maintain a consistent frame rate,
+   
+
+     [228]
+    
+
+   would be able to run at its native resolution with no scaling on Scorpio.
+   
+
+     [229]
+    
+
+
+   Project Scorpio will be compatible with all existing Xbox One software and accessories.
+   
+
+     [229]
+    
+
+   Though Xbox Games marketing head Aaron Greenberg stated that Scorpio will have no exclusive titles,
+   
+
+     [230]
+    
+
+   general manager of game publishing Shannon Loftis remarked in a follow-up interview that he was not sure on this point, and exclusivity would be "up to the game development community; what do they want to do."
+   
+
+     [231]
+    
+
+   In regards to virtual reality, Microsoft has yet to reveal any specific partnerships or hardware support, but Spencer stated that "you can imagine at the price point of Scorpio—which we haven't actually said, but think about consoles and where they live in terms of price point—having something at six teraflops that will get millions of people buying it is very attractive to some of the VR companies that are out there already, and we've architected it such that something will be able to plug right in and work."
+   
+
+     [229]
+    
+
+
+   Project Scorpio has been said to be a competitor to
+   
+    PlayStation 4 Pro
+   
+   , a hardware update of PlayStation 4 released in late-2016 that similarly focuses on 4K gaming and improved
+   
+    virtual reality
+   
+   performance. In October 2016, Penello stated that Scorpio's performance advantage over PS4 Pro would be "obvious", noting that the PS4 Pro's GPU only had 4.2 teraflops of graphical computing performance in comparison to Microsoft's stated 6 teraflops for Project Scorpio.
+   
+
+     [232]
+    
+
+
+
+     [233]
+    
+
+   Some journalists considered that Microsoft's messaging and positioning of Scorpio alongside the release of the Xbox One S is at odds with themselves and was "confusing".
+   
+
+     [234]
+    
+
+
+
+     [235]
+    
+
+
+   Microsoft provided details of Project Scorpio to
+   
+    Digital Foundry
+   
+   in April 2017; the unit will use eight custom x86 cores clocked at 2.3GHz, and a GPU with 40 customized units clocked at 1172MHz. It will have 12GB GDDR5 of memory with a bandwidth of 326GB/s. Project Scorpio will ship with a 1TB 2.5" hard drive and a 4K Ultra-High Def Blu-Ray optical drive. Digital Foundry estimated the CPU performance to be about 30% better than the Xbox One, and will provide improvements across all Xbox One and Xbox 360 backwards compatible games.
+   
+
+     [236]
+    
+
+
+      $349 (1TB)
+     
+      $399 (2TB w/ stand)
+     
+      32MB ESRAM
+     

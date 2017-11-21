@@ -1,0 +1,309 @@
+
+
+
+       Bluetooth 4.2
+      
+
+  The
+  
+   iPad Air 2
+  
+  is the second-generation
+  
+   iPad
+  
+  Air, or theoretically the sixth-generation of iPad
+  
+   tablet computer
+  
+  designed, developed, and marketed by
+  
+   Apple Inc.
+  
+  It was announced on October 16, 2014 alongside the
+  
+   iPad Mini 3
+  
+  , both of which were released on October 22, 2014. The iPad Air 2 is thinner and faster than its predecessor, the
+  
+   iPad Air
+  
+  , and features
+  
+   Touch ID
+  
+  with the height and screen size the same as the iPad Air.
+ 
+  Its successor, the
+  
+   iPad (7th generation)
+  
+  , was announced on March 21, 2017, and the iPad Air 2 was discontinued at the same time, along with the
+  
+   iPad Mini 2
+  
+  .
+  
+
+    [5]
+   
+
+
+
+
+  The iPad Air 2 was announced during a keynote on October 16, 2014, and the theme of the keynote was "it's been way too long".
+  
+
+    [6]
+   
+
+  The Air 2 began arriving in retail stores on October 22, 2014. The slogan for the device was
+  
+   Change Is in the Air.
+  
+  With the release of the new
+  
+   iPad Pro
+  
+  the slogan for the device was changed to
+  
+   Light. Heavyweight.
+  
+
+  The iPad Air 2 ships with the iOS 10 (formerly iOS 8, later iOS 9) operating system pre-installed and includes a version of
+  
+   Apple Pay
+  
+  with the in-store
+  
+   NFC
+  
+  functionality removed. The included Touch ID sensor allows the user to pay for items online without needing to enter the user's card details.
+ 
+  iOS 10 comes with several built-in applications, which are Camera, Photos, Messages,
+  
+   FaceTime
+  
+  , Mail, Music,
+  
+   Safari
+  
+  , Maps,
+  
+   Siri
+  
+  , Calendar,
+  
+   iTunes Store
+  
+  ,
+  
+   App Store
+  
+  , Notes, Contacts,
+  
+   iBooks
+  
+  , Home,
+  
+   Reminders
+  
+  , Clock, Videos,
+  
+   News
+  
+  ,
+  
+   Photo Booth
+  
+  and Podcasts. The
+  
+   Apple App Store
+  
+  , a digital
+  
+   application
+  
+
+   distribution
+  
+  platform for iOS, allows users to browse and download
+  
+   applications
+  
+  made by various developers from the
+  
+   iTunes Store
+  
+  . Additional apps made by Apple itself are available for free download, which are
+  
+   iMovie
+  
+  ,
+  
+   GarageBand
+  
+  ,
+  
+   iTunes U
+  
+  ,
+  
+   Find My iPhone
+  
+  ,
+  
+   Find My Friends
+  
+  , Apple Store, Trailers, Remote, and the
+  
+   iWork
+  
+  apps (
+  
+   Pages
+  
+  ,
+  
+   Keynote
+  
+  , and
+  
+   Numbers
+  
+  ).
+  
+
+    [7]
+   
+
+  Like all
+  
+   iOS
+  
+  devices, the iPad Air 2 can also sync content and other data with a Mac or PC using iTunes. Although the tablet is not designed to make phone calls over a cellular network, it can place and receive phone calls through an iPhone's cellular connection, using Apple's
+  
+   Continuity
+  
+  feature
+  
+
+    [8]
+   
+
+  (supported on
+  
+   iOS 8
+  
+  and later versions of iOS, and
+  
+   OS X Yosemite
+  
+  and later versions of
+  
+   macOS
+  
+  ), or using a
+  
+   VoIP
+  
+  application, such as
+  
+   Skype
+  
+  .
+ 
+  On June 8, 2015, it was announced at the
+  
+   WWDC
+  
+  that the iPad Air 2 would support all of
+  
+   iOS 9
+  
+  's new features when it is released in Q3 2015.
+  
+
+    [9]
+   
+
+  Air 2 users with iOS 9 will be able to use Slide Over, Picture in Picture and Split View. Slide Over allows a user to "slide" a second app in from the side of the screen in a smaller window, and have it display information alongside the initial app. Picture in Picture allows a user to watch video in a small, resizable, moveable window while remaining in another app. Split View allows a user to run two apps simultaneously in a 50/50 view.
+  
+
+    [10]
+   
+
+
+       iPad Air 2 is 6.1mm compared to the iPad Air 7.5mm design
+      
+  The iPad Air 2 inherits hardware that is similar to that which is in both the
+  
+   iPhone 6
+  
+  and
+  
+   iPhone 6 Plus
+  
+  . One major change is its processor, the
+  
+   Apple A8X
+  
+  which is the high-end 3-core variant of the
+  
+   Apple A8
+  
+  . The iPad Air 2 has 2 GB RAM (making the iPad Air 2 the first iOS device to have more than 1 GB RAM) and the PowerVR GPU has 8 cores.
+  
+
+    [11]
+   
+
+  It also uses the
+  
+   Apple M8
+  
+  motion co-processor which has a barometer and is the first generation of the iPad to inherit the fingerprint Touch ID sensor from the
+  
+   iPhone
+  
+  . In addition, compared to the iPad Air, it includes an improved 8-megapixel (3264×2448) rear-facing camera with 10
+  
+   fps
+  
+
+   burst mode
+  
+  and slow motion video at 120 fps, similar to the
+  
+   iPhone 5S
+  
+  camera capabilities. The front-facing FaceTime HD camera has also been improved with a larger ƒ/2.2 aperture, which allows 81% more light in the image.
+  
+
+    [12]
+   
+
+  Apple added a gold option to the existing silver and space gray color choices for the iPad Air 2, the previous existing colors were used on the preceding iPad Air.
+ 
+  Unlike its iPad predecessors, the mute/orientation lock switch has been removed to accommodate the reduced depth. Instead, the user must use the Control Center to access these functions.
+ 
+  It has a slightly smaller battery compared to the iPad Air but Apple claims the same 10-hour battery life as before. The iPad Air 2 is available in 32 or 128 GB storage options with no storage expansion options. Apple has released a "camera connection kit" with an
+  
+   SD card
+  
+  reader, but it can only be used to transfer photos and videos to an iPad.
+  
+
+    [13]
+   
+
+
+
+   The Verge
+  
+  called the Air 2 "the best tablet ever made," giving it a score of 9.3 out of 10 while noting that it offered only "iterative improvement" and that there were "missed opportunities" in its design.
+  
+
+    [14]
+   
+

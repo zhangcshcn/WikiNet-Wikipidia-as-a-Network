@@ -1,0 +1,286 @@
+
+
+  The
+  
+   Apple A9
+  
+  is a
+  
+   64-bit
+  
+
+   system-on-chip
+  
+  (SoC), designed by
+  
+   Apple Inc
+  
+  . Manufactured for Apple by both
+  
+   TSMC
+  
+  and
+  
+   Samsung
+  
+  , it first appeared in the
+  
+   iPhone 6S
+  
+  and 6S Plus which were introduced on September 9, 2015.
+  
+
+    [11]
+   
+
+  Apple stated that it had 70% more CPU performance and 90% more graphics performance compared to its predecessor, the
+  
+   Apple A8
+  
+  ,
+  
+
+    [11]
+   
+
+  and was one of the most powerful and energy-efficient mobile chips on the market then along with the Samsung Exynos 8890 and
+  
+   Qualcomm Snapdragon 820
+  
+  .
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+
+
+  The A9 features an Apple-designed 64-bit 1.85 GHz
+  
+
+    [1]
+   
+
+  ARMv8-A dual-core
+  
+
+    [7]
+   
+
+  CPU called
+  
+   Twister
+  
+  .
+  
+
+    [4]
+   
+
+  The A9 in the iPhone 6S has 2 GB of
+  
+   LPDDR4
+  
+  RAM included in the package.
+  
+
+    [5]
+   
+
+
+
+    [7]
+   
+
+  The A9 has a per-core
+  
+   L1 cache
+  
+  of 64
+  
+   KB
+  
+  for data and 64 KB for instructions, an
+  
+   L2 cache
+  
+  of 3
+  
+   MB
+  
+  shared by both CPU cores, and a 4 MB L3 cache that services the entire SoC and acts as a
+  
+   victim cache
+  
+  .
+  
+
+    [8]
+   
+
+
+  The A9 includes a new
+  
+   image processor
+  
+  , a feature originally introduced in the
+  
+   A5
+  
+  and last updated in the
+  
+   A7
+  
+  , with better temporal and spatial noise reduction as well as improved local tone mapping.
+  
+
+    [12]
+   
+
+  The A9 directly integrates an embedded
+  
+   M9
+  
+  motion
+  
+   coprocessor
+  
+  , a feature originally introduced with the
+  
+   A7
+  
+  as a separate chip. In addition to servicing the accelerometer, gyroscope, compass, and barometer, the M9 coprocessor can recognize
+  
+   Siri
+  
+  voice commands.
+  
+
+    [12]
+   
+
+
+  The A9 features a custom storage solution, which uses an Apple-designed
+  
+   NVMe
+  
+  -based controller that communicates over a
+  
+   PCIe
+  
+  connection.
+  
+
+    [13]
+   
+
+  The iPhone 6s' NAND design is more akin to a PC-class SSD than embedded flash memory common on mobile devices. This gives the phone a significant storage performance advantage over competitors which often use
+  
+   eMMC
+  
+  or
+  
+   UFS
+  
+  to connect to their flash memory.
+ 
+  The A9's microarchitecture is similar to the second generation Cyclone (used in A8 chip) microarchitecture. Some of the microarchitectural features are as follows:
+ 
+  About half of the performance boost over A8 comes from the 1.85 GHz freq. About a quarter comes from the better memory subsystem (3x bigger caches). The remaining quarter comes from the microarchitectural tuning and smaller technology node.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Apple A9 chips are
+  
+   fabricated
+  
+  by two companies:
+  
+   Samsung
+  
+  and
+  
+   TSMC
+  
+  . The Samsung version is called APL0898, which is manufactured on a 14 nm
+  
+   FinFET process
+  
+  and is 96 mm
+  
+   2
+  
+  large, while the TSMC version is called APL1022, which is manufactured on a 16 nm FinFET process and is 104.5 mm
+  
+   2
+  
+  large.
+ 
+  There was intended to be no significant difference in performance between the parts,
+  
+
+    [14]
+   
+
+  but in October 2015, it was alleged that iPhone 6S models with Samsung-fabricated A9 chips had slightly lower battery life than those with TSMC-fabricated versions.
+  
+
+    [15]
+   
+
+  Apple responded that "tests which run the processors with a continuous heavy
+  
+   workload
+  
+  until the battery depletes are not representative of real-world usage", and said that internal testing combined with customer data demonstrated a variance of only 2-3%.
+  
+
+    [16]
+   
+
+
+
+    [17]
+   
+
+
+  While the Twister CPU core implements the ARMv8-A instruction set architecture licensed from
+  
+   ARM Holdings
+  
+  , it is an independent CPU design and is unrelated to the much older but similarly named
+  
+   Cortex-A9
+  
+  and
+  
+   ARM9
+  
+  CPU that are designed by ARM themselves and implement the 32-bit
+  
+   ARMv7-A
+  
+  and ARMv5E versions of the architecture.
+ 
+  The processors are nearly identical visually. The packaging have the same dimensions (approx 15.0×14.5 mm) and only superficial differences, like the designation text. Inside the packaging the silicon die differs in size.
+ 
+      APL0898, the Samsung version of the A9.
+     
+      APL1022, the TSMC version of the A9.
+     

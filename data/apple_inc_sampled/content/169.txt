@@ -1,0 +1,408 @@
+
+
+
+   OpenStep
+  
+  is an
+  
+   object-oriented
+  
+
+   application programming interface
+  
+  (API) specification for a legacy
+  
+   object-oriented operating system
+  
+  , with the basic goal of offering a
+  
+   NeXTSTEP
+  
+  -like environment on a non-NeXTSTEP operating system. OpenStep was principally developed by
+  
+   NeXT
+  
+  with
+  
+   Sun Microsystems
+  
+  , to allow NeXTSTEP (like) development on Sun's operating systems, specifically
+  
+   Solaris
+  
+  . NeXT produced a version of OpenStep for their own
+  
+   Mach
+  
+  -based
+  
+   Unix
+  
+  , known as
+  
+   OPENSTEP
+  
+  (all capitalized),
+  
+
+    [1]
+   
+
+  as well as a version that ran on
+  
+   Windows NT
+  
+  . The
+  
+   software libraries
+  
+  that shipped with OPENSTEP are a superset of the original OpenStep specification, including many features from the original NeXTSTEP.
+ 
+
+
+  The OpenStep API was created as the result of a 1993 collaboration between
+  
+   NeXT
+  
+  and
+  
+   Sun Microsystems
+  
+  , allowing this cut-down version of the NeXTSTEP
+  
+   operating system
+  
+  object layers to be run on Sun's Solaris operating system (more specifically, Solaris on
+  
+   SPARC
+  
+  -based hardware). Most of the OpenStep effort was to strip away those portions of NeXTSTEP that depended on Mach or NeXT-specific hardware being present. This resulted in a smaller system that consisted primarily of
+  
+   Display PostScript
+  
+  , the
+  
+   Objective-C
+  
+  runtime and compilers, and the majority of the NeXTSTEP Objective-C libraries. Not included was the basic operating system, or the lower-level display system.
+ 
+  The first draft of the API was published by NeXT in summer 1994. Later that year they released an OpenStep compliant version of NeXTSTEP as OPENSTEP, supported on several of their platforms as well as Sun SPARC systems. The official OpenStep API, published in September 1994, was the first to split the API between Foundation and Application Kit and the first to use the "NS" prefix.
+  
+
+    [2]
+   
+
+  Early versions of NeXTSTEP used an "NX" prefix and contained only the Application Kit, relying on standard Unix
+  
+   libc
+  
+  types for low-level data structures. OPENSTEP remained NeXT's primary operating system product until they were purchased by
+  
+   Apple Computer
+  
+  in 1996. OPENSTEP was then combined with technologies from the existing
+  
+   classic Mac OS
+  
+  to produce
+  
+   Mac OS X
+  
+  .
+  
+   iPhone
+  
+  and
+  
+   iPad
+  
+  's
+  
+   iOS
+  
+  is also a descendant of OPENSTEP, but targeted at touch devices.
+ 
+  Sun originally adopted the OpenStep environment with the intent of complementing Sun's
+  
+   CORBA
+  
+  -compliant object system,
+  
+   Solaris NEO
+  
+  (formerly known as Project DOE), by providing an object-oriented user interface toolkit to complement the object-oriented CORBA plumbing. The port involved integrating the OpenStep AppKit with the Display PostScript layer of the Sun
+  
+   X11
+  
+  server, making the AppKit tolerant of multi-threaded code (as Project DOE was inherently heavily multi-threaded), implementing a Solaris daemon to simulate the behavior of Mach ports, extending the SunPro C++ compiler to support
+  
+   Objective-C
+  
+  using NeXT's ObjC runtime, writing an X11
+  
+   window manager
+  
+  to implement the NeXTSTEP look and feel as much as possible, and integrating the NeXT development tools, such as Project Manager and Interface Builder, with the SunPro compiler. In order to provide a complete end-user environment, Sun also ported the NeXTSTEP-3.3 versions of several end-user applications, including Mail.app, Preview.app, Edit.app, Workspace Manager, and the
+  
+   Dock
+  
+  .
+ 
+  The OpenStep and CORBA parts of the products were later split, and NEO was released in late 1995 without the OpenStep environment. In March 1996, Sun announced Joe, a product to integrate NEO with
+  
+   Java
+  
+  . Sun shipped a beta release of the OpenStep environment for Solaris on July 22, 1996,
+  
+
+    [3]
+   
+
+  and made it freely available for download in August 1996 for non-commercial use, and for sale in September 1996. OpenStep/Solaris was shipped only for the SPARC architecture.
+ 
+  The API OpenStep contrasts with the earlier NeXTSTEP primarily in five ways:
+ 
+  The API specification itself is composed of the two main sets of object-oriented classes: the
+  
+   GUI
+  
+  and graphics front-end known as the
+  
+   Application Kit
+  
+  , and the aforementioned Foundation Kit.
+ 
+  However, OpenStep also specified the use of Display PostScript, a versatile and powerful
+  
+   PostScript
+  
+  -based method of drawing windows and graphics on screen. NeXT, with its devotion to implementing object-oriented solutions, supplied
+  
+   pswraps
+  
+  for interfacing C code to Display PostScript.
+  
+   pswraps
+  
+  acted in an encapsulative way similar to
+  
+   Embedded SQL
+  
+  , and was somewhat object oriented. The Application Kit, Foundation, and Display PostScript comprise the three key technologies in the OpenStep specification; many of the specific calls in the API were available in NeXTSTEP as well, but many were modified or re-packaged for OpenStep.
+ 
+  The standardization on OpenStep also allowed for the creation of several new library packages that were delivered on the OPENSTEP platform. Unlike the operating system as a whole, these packages were designed to run
+  
+   stand-alone
+  
+  on practically any operating system. The idea was to use OpenStep code as a basis for network-wide applications running across different platforms, as opposed to using
+  
+   CORBA
+  
+  or some other system.
+ 
+  Primary among these packages was
+  
+   Portable Distributed Objects
+  
+  (PDO). PDO was essentially an even more "stripped down" version of OpenStep containing only the Foundation Kit technologies, combined with new libraries to provide
+  
+   remote invocation
+  
+  with very little code. Unlike OpenStep, which defined an operating system that applications would run in, under PDO the libraries were compiled into the application itself, creating a stand-alone "native" application for a particular platform. PDO was small enough to be easily portable, and versions were released for all major server vendors.
+ 
+  In the mid-1990s, NeXT staff took to writing in solutions to various CORBA magazine articles in a few lines of code, whereas the original article would fill several pages. Even though using PDO required the installation of a considerable amount of supporting code (Objective-C and the libraries), PDO applications were nevertheless considerably smaller than similar CORBA solutions, typically about one-half to one-third the size.
+ 
+  The similar
+  
+   D'OLE
+  
+  provided the same types of services, but presented the resulting objects as
+  
+   COM
+  
+  objects, with the goal of allowing programmers to create COM services running on high-powered platforms, called from
+  
+   Microsoft Windows
+  
+  applications. For instance one could develop a high-powered financial modeling application using D'OLE, and then call it directly from within
+  
+   Microsoft Excel
+  
+  . When D'OLE was first released, OLE by itself only communicated between applications running on a single machine. PDO enabled NeXT to demonstrate Excel talking to other Microsoft applications across a network before Microsoft themselves were able to implement this functionality (DCOM).
+ 
+  Another package developed on OpenStep was
+  
+   Enterprise Objects Framework
+  
+  (EOF), a tremendously powerful (for the time)
+  
+   object-relational mapping
+  
+  product. EOF became very popular in the enterprise market, notably in the financial sector where OPENSTEP caused something of a minor revolution.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  NeXT's first operating system was
+  
+   NeXTSTEP
+  
+  , a sophisticated Mach-UNIX based operating system that originally ran only on NeXT's
+  
+   Motorola 68k
+  
+  -based workstations and that was then ported to run on
+  
+   32-bit Intel x86
+  
+  -based
+  
+   "IBM-compatible" personal computers
+  
+  ,
+  
+   PA-RISC
+  
+  -based workstations from
+  
+   Hewlett-Packard
+  
+  , and
+  
+   SPARC
+  
+  -based workstations from
+  
+   Sun Microsystems
+  
+  .
+ 
+  NeXT completed an implementation of OpenStep on their existing Mach-based OS and called it
+  
+   OPENSTEP for Mach
+  
+  4.0 (July, 1996), 4.1 (December, 1996), and 4.2 (January, 1997). It was, for all intents, NeXTSTEP 4.0, and still retained flagship NeXTSTEP technologies (such as
+  
+   DPS
+  
+  , UNIX underpinnings, user interface characteristics like the
+  
+   Dock
+  
+  and
+  
+   Shelf
+  
+  , and so on), and retained the classic NeXTSTEP user interface and styles. OPENSTEP for Mach was further improved, in comparison to NeXTSTEP 3.3, with vastly improved driver support – however the environment to actually write drivers was changed with the introduction of the object-oriented DriverKit.
+ 
+  OPENSTEP for Mach supported Intel x86-based PC's, Sun's SPARC workstations, and NeXT's own 68k-based architectures, while the HP PA-RISC version was dropped. These versions continued to run on the underlying Mach-based OS used in NeXTSTEP. OPENSTEP for Mach became NeXT's primary OS from 1995 on, and was used mainly on the Intel platform. In addition to being a complete OpenStep implementation, the system was delivered with a complete set of NeXTSTEP libraries for backward compatibility. This was an easy thing to do in OpenStep due to library versioning, and OPENSTEP did not suffer in bloat because of it.
+ 
+  In addition to the OPENSTEP for Mach port for SPARC, Sun and NeXT developed an OpenStep compliant set of frameworks to run on Sun's
+  
+   Solaris
+  
+  operating system. After developing Solaris OpenStep, Sun lost interest in OpenStep and shifted its attention toward Java. As a virtual machine development environment, Java served as a direct competitor to OpenStep.
+ 
+  NeXT also delivered an implementation running on top of
+  
+   Windows NT 4.0
+  
+  called
+  
+   OPENSTEP Enterprise
+  
+  (often abbreviated OSE). This was an unintentional demonstration on the true nature of the portability of programs created under the OpenStep specification. Programs for OPENSTEP for Mach could be ported to OSE with little difficulty. This allowed their existing customer base to continue using their tools and applications, but running them on Windows, to which many of them were in the process of switching. Never a clean match from the UI perspective, probably due to OPENSTEP's routing of window graphics through the Display Postscript server—which was also ported to Windows—OSE nevertheless managed to work fairly well and extended OpenStep's commercial lifespan.
+ 
+  OPENSTEP and OSE had two revisions (and one major one that was never released) before NeXT was purchased by Apple in 1997.
+ 
+  After acquiring NeXT, Apple intended to ship
+  
+   Rhapsody
+  
+  as a reworked version of OPENSTEP for Mach for both the Mac and standard PCs. Rhapsody was OPENSTEP for Mach with a
+  
+   Copland
+  
+  appearance from
+  
+   Mac OS 8
+  
+  and support for Java and Apple's own technologies, including
+  
+   ColorSync
+  
+  and
+  
+   QuickTime
+  
+  ; it could be regarded as OPENSTEP 5. Two developer versions of Rhapsody were released, known as Developer Preview 1 and 2; these ran on a limited subset of both Intel and PowerPC hardware.
+  
+   Mac OS X Server 1.0
+  
+  was the first commercial release of this operating system, and was delivered exclusively for PowerPC Mac hardware.
+ 
+  After replacing the Display Postscript WindowServer with
+  
+   Quartz
+  
+  , and responding to developers by including better backward compatibility for classic Mac OS applications through the addition of
+  
+   Carbon
+  
+  , Apple released
+  
+   Mac OS X
+  
+  and
+  
+   Mac OS X Server
+  
+  , starting at version 10.0; Mac OS X is now named macOS.
+ 
+  macOS's primary programming environment is essentially OpenStep (with certain additions such as XML property lists and URL classes for Internet connections) with macOS ports of the development libraries and tools, now called
+  
+   Cocoa
+  
+  .
+ 
+  macOS has since become the single most popular desktop Unix-like operating system in the world, although macOS is no longer an OpenStep compliant operating system.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  GNUstep, a
+  
+   free software
+  
+  implementation of the
+  
+   NeXT
+  
+  libraries, began at the time of NeXTSTEP, predating OPENSTEP. While OPENSTEP and OSE were purchased by Apple, who effectively ended the commercial development of implementing OpenStep for other platforms, GNUstep is an ongoing open source project aiming to create a portable,
+  
+   free software
+  
+  implementation of the Cocoa/OPENSTEP libraries.
+ 
+  GNUstep also features a fully functional development environment, reimplementations of some of the newer innovations from macOS's
+  
+   Cocoa
+  
+  framework, as well as its own extensions to the API.
+ 

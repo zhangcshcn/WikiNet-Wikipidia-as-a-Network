@@ -1,0 +1,143 @@
+
+
+
+      Mac OS X Public Beta
+     
+
+
+   Mac OS X version 10.0
+  
+  ,
+  
+   code named
+  
+
+   Cheetah
+  
+  , is the first
+  
+   major release
+  
+  of
+  
+   Mac OS X (now named macOS)
+  
+  ,
+  
+   Apple’s
+  
+  desktop and server
+  
+   operating system
+  
+  . Mac OS X 10.0 was released on March 24, 2001 for a price of US$129. It was the successor of the
+  
+   Mac OS X Public Beta
+  
+  and the predecessor of
+  
+   Mac OS X 10.1
+  
+  .
+ 
+  Mac OS X 10.0 was a radical departure from the
+  
+   classic Mac OS
+  
+  and was Apple’s long-awaited answer for a next generation
+  
+   Macintosh operating system
+  
+  . It introduced a brand new code base completely separate from
+  
+   Mac OS 9
+  
+  's, as well as all previous Apple operating systems. Mac OS X introduced the new
+  
+   Darwin
+  
+
+   Unix-like
+  
+  core and a completely new system of memory management. Cheetah proved to be a rocky start to the Mac OS X line, plagued with missing features and performance issues, although it was praised for being a good start to an operating system still in its infancy, in terms of completeness and overall operating system stability. Unlike releases of Mac OS X 10.2 to 10.8, the cat-themed code name was not used in marketing the new operating system.
+ 
+
+
+  The system requirements for Mac OS X 10.0 were not well received by the Macintosh community, as at the time the amount of
+  
+   RAM
+  
+  standard with Macintosh computers was 64
+  
+   megabytes
+  
+  (MB), while the Mac OS X 10.0 requirements called for 128 MB of RAM. In addition,
+  
+   processor
+  
+  upgrade cards, which were quite popular for
+  
+   obsolete
+  
+  pre-G3
+  
+   Power Macintosh
+  
+  computers, were not supported (and never officially have been, but can be made to work through third-party utility programs). Additionally the new operating system required more hard drive space, causing longer boot times.
+ 
+  While the first Mac OS X release was an advanced operating system in terms of its technical underpinnings, and in relation to its brand new code-base, Mac OS X 10.0 was heavily criticized. There were three main reasons for criticism:
+ 
+  The heavy criticism of Mac OS X 10.0 ultimately resulted in Apple offering a free upgrade to
+  
+   Mac OS X 10.1
+  
+  .
+  
+
+    [3]
+   
+
+
+  With Mac OS X 10.0 began a short era (that ended with
+  
+   Mac OS X 10.2
+  
+  Jaguar's release) where Apple offered two types of installation CDs: 1Z and 2Z CDs. The difference in the two lay in the extent of multilingual support.
+ 
+
+   Input method editors
+  
+  of
+  
+   Simplified Chinese
+  
+  ,
+  
+   Traditional Chinese
+  
+  , and
+  
+   Korean
+  
+  were only included with the 2Z CDs. They also came with more languages (the full set of 15 languages), whereas the 1Z CDs came only with about eight languages and could not actually display simplified Chinese, traditional Chinese and/or Korean (except for the Chinese characters present in Japanese
+  
+   Kanji
+  
+  ). A variant of 2Z CDs were introduced when Mac OS X v10.0.3 was released to the
+  
+   Asian
+  
+  market (this variant could not be upgraded to version 10.0.4). The brief period of multilingual confusion ended with the release of v10.2.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Currently, all Mac OS X installer CDs and preinstallations include the full set of 15 languages and full multilingual compatibility.
+ 

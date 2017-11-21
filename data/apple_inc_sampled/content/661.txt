@@ -1,0 +1,567 @@
+
+
+
+   Darwin
+  
+  is an
+  
+   open-source
+  
+
+   Unix
+  
+
+   operating system
+  
+  released by
+  
+   Apple Inc.
+  
+  in 2000. It is composed of code developed by Apple, as well as code derived from
+  
+   NeXTSTEP
+  
+  ,
+  
+   BSD
+  
+  ,
+  
+   Mach
+  
+  , and other
+  
+   free software
+  
+  projects.
+ 
+  Darwin forms the core set of components upon which
+  
+   macOS
+  
+  (previously OS X and Mac OS X),
+  
+   iOS
+  
+  ,
+  
+   watchOS
+  
+  , and
+  
+   tvOS
+  
+  are based. It is mostly
+  
+   POSIX
+  
+  -compatible, but has never, by itself, been certified as compatible with any version of POSIX. Starting with
+  
+   Leopard
+  
+  , macOS has been certified as compatible with the
+  
+   Single UNIX Specification
+  
+  version 3 (SUSv3).
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+
+
+
+  The heritage of Darwin began with
+  
+   NeXT
+  
+  's
+  
+   NeXTSTEP
+  
+  operating system (later, since version 4.0, known as OPENSTEP), first released in 1989. After Apple bought NeXT in 1997, it announced it would base its next operating system on OPENSTEP. This was developed into
+  
+   Rhapsody
+  
+  in 1997,
+  
+   Mac OS X Server 1.0
+  
+  in 1999,
+  
+   Mac OS X Public Beta
+  
+  in 2000, and
+  
+   Mac OS X 10.0
+  
+  in 2001. In 2000, the core operating system components of Mac OS X were released as
+  
+   open-source software
+  
+  under the
+  
+   Apple Public Source License
+  
+  (APSL) as Darwin; the higher-level components, such as the
+  
+   Cocoa
+  
+  and
+  
+   Carbon
+  
+  frameworks, remained
+  
+   closed-source
+  
+  .
+ 
+  Up to Darwin 8.0.1, Apple released a binary installer (as an
+  
+   ISO image
+  
+  ) after each major Mac OS X release that allowed one to install Darwin on
+  
+   PowerPC
+  
+  and
+  
+   Intel x86
+  
+  systems as a standalone operating system. Minor updates were released as packages that were installed separately. Darwin is now only available as source code,
+  
+
+    [11]
+   
+
+  except for the
+  
+   ARM
+  
+  variant, which has not been released in any form separately from iOS. However, the older versions of Darwin are still available in binary form,
+  
+
+    [12]
+   
+
+  and a hobbyist developer
+  
+   winocm
+  
+  took the official Darwin source code and ported it to ARM.
+  
+
+    [13]
+   
+
+
+  The kernel of Darwin is
+  
+   XNU
+  
+  , a
+  
+   hybrid kernel
+  
+  that combines a heavily modified version of the
+  
+   Mach
+  
+  3.0 kernel (Apple does not use Mach as a microkernel but as part of a hybrid kernel), various elements of
+  
+   BSD
+  
+  (including the process model,
+  
+   network stack
+  
+  , and
+  
+   virtual file system
+  
+  ),
+  
+
+    [14]
+   
+
+  and an object-oriented
+  
+   device driver
+  
+
+   API
+  
+  called
+  
+   I/O Kit
+  
+  .
+  
+
+    [15]
+   
+
+  The hybrid kernel design leverages the flexibility of a microkernel
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  and the performance of a
+  
+   monolithic kernel
+  
+  .
+ 
+  Darwin currently includes support for the
+  
+   64-bit
+  
+
+   x86-64
+  
+  variant of the
+  
+   Intel x86
+  
+
+   processors
+  
+  used in
+  
+   Macs
+  
+  and the 64-bit
+  
+   ARM
+  
+  processors used in the
+  
+   iPhone 5S
+  
+  and later, the
+  
+   6th generation iPod Touch
+  
+  and later, the
+  
+   iPad Air
+  
+  and
+  
+   iPad Pro
+  
+  , and the fourth generation
+  
+   Apple TV
+  
+  , as well as the
+  
+   32-bit
+  
+  ARM processors used in the
+  
+   iPhone 5C
+  
+  and older, earlier generations of the
+  
+   iPod Touch
+  
+  , the
+  
+   iPad
+  
+  up to the fourth generation, and the second and third generation Apple TV. An open-source port of the
+  
+   XNU
+  
+  kernel exists that supports Darwin on Intel and
+  
+   AMD
+  
+  x86 platforms not officially supported by Apple, although it does not appear to have been updated since 2009.
+  
+
+    [16]
+   
+
+  An open-source port of the
+  
+   XNU
+  
+  kernel also exists for ARM platforms.
+  
+
+    [17]
+   
+
+  Older versions supported some or all of 32-bit
+  
+   PowerPC
+  
+  , 64-bit PowerPC, and 32-bit x86.
+ 
+  It supports the
+  
+   POSIX
+  
+  API by way of its
+  
+   BSD
+  
+  lineage and a large number of programs written for various other
+  
+   UNIX-like
+  
+  systems can be
+  
+   compiled
+  
+  on Darwin with no changes to the
+  
+   source code
+  
+  .
+ 
+  Darwin does not include many of the defining elements of macOS, such as the
+  
+   Carbon
+  
+  and
+  
+   Cocoa
+  
+  APIs or the
+  
+   Quartz Compositor
+  
+  and
+  
+   Aqua user interface
+  
+  , and thus cannot run Mac applications. It does, however, support a number of lesser known features of macOS, such as mDNSResponder, which is the
+  
+   multicast
+  
+
+   DNS
+  
+  responder and a core component of the
+  
+   Bonjour
+  
+  networking technology, and
+  
+   launchd
+  
+  , an advanced
+  
+   service management
+  
+
+   framework
+  
+  .
+ 
+  In July 2003, Apple released Darwin under version 2.0 of the
+  
+   Apple Public Source License
+  
+  (APSL), which the
+  
+   Free Software Foundation
+  
+  (FSF) classifies as a
+  
+   free software license
+  
+  incompatible with the
+  
+   GNU General Public License
+  
+  .
+  
+
+    [18]
+   
+
+  Previous versions were released under an earlier version of the APSL license, which did not meet the FSF definition of free software, although it did meet the requirements of the
+  
+   Open Source Definition
+  
+  .
+  
+
+    [19]
+   
+
+
+  The following is a table of major Darwin releases with their dates of release and their corresponding
+  
+   macOS
+  
+  releases.
+  
+
+    [20]
+   
+
+  Note that the corresponding macOS release may have been released on a different date; refer to the macOS pages for those dates.
+ 
+  The jump in version numbers from Darwin 1.4.1 to 5.1 with the release of Mac OS X v10.1.1 was designed to tie Darwin to the Mac OS X version and build numbering system, which in turn is inherited from NeXTSTEP. In the build numbering system of macOS, every version has a unique beginning build number, which identifies what whole version of macOS it is part of. Mac OS X v10.0 had build numbers starting with 4, 10.1 had build numbers starting with 5, and so forth (earlier build numbers represented developer releases).
+  
+
+    [28]
+   
+
+
+  The command
+  
+
+    uname
+   
+   -r
+  
+  in
+  
+   Terminal
+  
+  will show the Darwin version number, and the command
+  
+   uname -v
+  
+  will show the
+  
+   XNU
+  
+  build version string, which includes the Darwin version number.
+ 
+  Due to the free software nature of Darwin, there are many projects that aim to modify or enhance the operating system.
+ 
+  OpenDarwin was a community-led operating system based on the Darwin system. It was founded in April 2002 by
+  
+   Apple Inc.
+  
+  and
+  
+   Internet Systems Consortium
+  
+  . Its goal was to increase collaboration between Apple developers and the
+  
+   free software community
+  
+  . Apple benefited from the project because improvements to OpenDarwin would be incorporated into Darwin releases; and the free/open source community benefited from being given complete control over its own operating system, which could then be used in free software distributions such as
+  
+   GNU-Darwin
+  
+  .
+  
+
+    [29]
+   
+
+
+  On July 25, 2006, the OpenDarwin team announced that the project was shutting down, as they felt OpenDarwin had "become a mere hosting facility for Mac OS X related projects," and that the efforts to create a standalone Darwin operating system had failed. They also state: "Availability of sources, interaction with Apple representatives, difficulty building and tracking sources, and a lack of interest from the community have all contributed to this."
+  
+
+    [30]
+   
+
+  The last stable release was version 7.2.1, released on July 16, 2004.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  In 2007, the
+  
+   PureDarwin
+  
+  project was launched to continue where OpenDarwin left off. PureDarwin is currently working to produce a release based on Darwin 14.5. available based on Darwin 10.10.5.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  This release will have
+  
+   X11
+  
+  ,
+  
+   DTrace
+  
+  ,
+  
+
+    [31]
+   
+
+  PureDarwin nano is another release of PureDarwin that is intended to be a minimalistic
+  
+   CLI
+  
+  -only build with networking.
+ 

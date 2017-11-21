@@ -1,0 +1,635 @@
+
+
+
+   OS X El Capitan
+  
+
+
+
+     el-
+     
+
+
+        KAP
+       
+
+
+     -ɪ-
+     
+
+
+        TAHN
+       
+
+
+
+
+
+  ) (
+  
+   IPA
+  
+  :/ɛl kæpitɑːn/) (version 10.11) is the twelfth
+  
+   major release
+  
+  of
+  
+   OS X (now named macOS)
+  
+  ,
+  
+   Apple Inc.
+  
+  's desktop and
+  
+   server
+  
+  operating system for
+  
+   Macintosh
+  
+  computers. It is the successor to
+  
+   OS X Yosemite
+  
+  and focuses mainly on performance, stability and security.
+  
+
+    [2]
+   
+
+  Following the
+  
+   California
+  
+  landmark-based naming scheme introduced with
+  
+   OS X Mavericks
+  
+  , El Capitan was named after a
+  
+   rock formation
+  
+  in
+  
+   Yosemite National Park
+  
+  , signifying its goal to be a refined version of Yosemite. El Capitan is the final version to be released under the name OS X; its successor, Sierra, was announced as
+  
+   macOS Sierra
+  
+  .
+ 
+  The first beta of OS X El Capitan was released to developers shortly following the 2015
+  
+   WWDC
+  
+  keynote on June 8, 2015.
+  
+
+    [3]
+   
+
+  The first public beta was made available on July 9, 2015.
+  
+
+    [4]
+   
+
+  There were multiple betas released after the keynote. OS X El Capitan was released to end users on September 30, 2015, as a free upgrade through the
+  
+   Mac App Store
+  
+  .
+  
+
+    [5]
+   
+
+
+
+
+  All Macintosh computers that can run
+  
+   Mountain Lion
+  
+  ,
+  
+   Mavericks
+  
+  , or
+  
+   Yosemite
+  
+  can run El Capitan,
+  
+
+    [6]
+   
+
+  although not all of its features will work on older computers.
+  
+
+    [7]
+   
+
+  For example, Apple notes that the newly available
+  
+   Metal API
+  
+  is available on "all Macs since 2012".
+  
+
+    [8]
+   
+
+
+  These computers can run El Capitan, provided they have at least 2GB of RAM:
+  
+
+    [9]
+   
+
+
+  Of these computers, the following models were equipped with 1GB RAM as the standard option on the base model when they were shipped originally. They can only run OS X El Capitan if they have at least 2GB of RAM.
+ 
+  The following computers support features such as
+  
+   Handoff
+  
+  ,
+  
+   Instant Hotspot
+  
+  ,
+  
+   AirDrop
+  
+  between Mac computers and iOS devices, as well as the new
+  
+   Metal API
+  
+  :
+  
+
+    [11]
+   
+
+
+  The upgrade varies in size depending upon which Apple Mac computer it is being installed on, in most scenarios it will require about 6 GB of disk space.
+  
+
+    [12]
+   
+
+
+  OS X El Capitan includes features to improve the security, performance, design and usability of OS X. Compared to OS X Yosemite, Apple says that opening
+  
+   PDFs
+  
+  is four times faster, app switching and viewing messages in
+  
+   Mail
+  
+  is twice as fast and launching apps is 40% faster.
+  
+
+    [13]
+   
+
+
+
+    [14]
+   
+
+  The maximum amount of memory that could be allocated to the graphics processor has been increased from 1024 MB to 1536 MB on Macs with an
+  
+   Intel HD 4000
+  
+
+   GPU
+  
+  .
+  
+
+    [15]
+   
+
+  OS X El Capitan supports
+  
+   Metal
+  
+  , Apple's graphics API introduced in
+  
+   iOS 8
+  
+  to speed up performance in games and professional applications.
+  
+
+    [16]
+   
+
+  Apple's typeface
+  
+   San Francisco
+  
+  replaces
+  
+   Helvetica Neue
+  
+  as the system
+  
+   typeface
+  
+  .
+  
+
+    [17]
+   
+
+  OS X El Capitan also adopts
+  
+   LibreSSL
+  
+  in replacement of
+  
+   OpenSSL
+  
+  used in previous versions.
+  
+
+    [18]
+   
+
+
+  OS X El Capitan introduces support for snapping two windows side by side to create a split view pressing the green button on left upper corner of the window, similar to the snap-assist feature in
+  
+   Windows 7
+  
+  (and later) and several
+  
+   Linux
+  
+
+   desktop environments
+  
+  , such as
+  
+   GNOME
+  
+  .
+  
+
+    [19]
+   
+
+  OS X El Capitan improves
+  
+   Mission Control
+  
+  to incorporate this feature across multiple spaces. It also enables users to spot the pointer more easily by enlarging it by shaking the mouse or swiping a finger back and forth on the
+  
+   trackpad
+  
+  .
+  
+
+    [20]
+   
+
+
+  OS X El Capitan adds
+  
+   multi-touch
+  
+  gestures to applications like Mail and
+  
+   Messages
+  
+  that allow a user to delete or mark emails or conversations by swiping a finger on a multi-touch device, such as a trackpad. OS X also analyzes the contents of individual emails in Mail and uses the gathered information in other applications, such as
+  
+   Calendar
+  
+  . For example, an invitation in Mail can automatically be added as a Calendar event.
+ 
+
+   Apple Maps
+  
+  in El Capitan shows public transit information similar to Maps in
+  
+   iOS 9
+  
+  .
+  
+
+    [13]
+   
+
+  This feature was limited to a handful of cities upon launch:
+  
+   Baltimore
+  
+  ,
+  
+   Berlin
+  
+  ,
+  
+   Chicago
+  
+  ,
+  
+   London
+  
+  ,
+  
+   Los Angeles
+  
+  ,
+  
+   Mexico City
+  
+  ,
+  
+   New York City
+  
+  ,
+  
+   Paris
+  
+  ,
+  
+   Philadelphia
+  
+  ,
+  
+   San Francisco
+  
+  ,
+  
+   Shanghai
+  
+  ,
+  
+   Toronto
+  
+  and
+  
+   Washington D.C.
+  
+
+  The
+  
+   Notes
+  
+  application receives an overhaul, similar to Notes in iOS 9. Both applications have more powerful
+  
+   text-processing
+  
+  capabilities, such as
+  
+   to-do lists
+  
+  (like in the
+  
+   Reminders
+  
+  application), inline webpage previews, photos and videos, digital sketches, map locations and other documents and media types. Notes replaces traditional
+  
+   IMAP
+  
+  -based
+  
+   syncing
+  
+  with
+  
+   iCloud
+  
+  , which offers better
+  
+   end-to-end encryption
+  
+  and faster syncing.
+  
+
+    [21]
+   
+
+
+
+   Safari
+  
+  in El Capitan lets users pin tabs for frequently accessed websites to the tab bar, similar to
+  
+   Firefox
+  
+  and
+  
+   Google Chrome
+  
+  . Users are able to quickly identify and mute tabs that play audio without having to search for individual tabs. Safari supports
+  
+   AirPlay
+  
+  video streaming to an
+  
+   Apple TV
+  
+  without the need to broadcast the entire webpage.
+  
+   Safari extensions
+  
+  are now hosted and signed by Apple as part of the updated Apple Developer program and they received native support for
+  
+   content blocking
+  
+  , allowing developers to block website components (such as advertisements) without
+  
+   JavaScript
+  
+  injection.
+  
+
+    [22]
+   
+
+
+
+   Spotlight
+  
+  is improved with more contextual information such as the weather, stocks, news and sports scores. It is also able to process queries in natural language. For example, users can type "Show me pictures that I took in Yosemite National Park in July 2014" and Spotlight will use that request to bring up the corresponding info.
+  
+
+    [23]
+   
+
+  The app could now be resized and moved across the screen.
+  
+
+    [24]
+   
+
+
+
+   Photos
+  
+  introduced editing extensions which allows Photos to use editing tools from other apps.
+  
+
+    [25]
+   
+
+
+  OS X El Capitan has a new security feature called
+  
+   System Integrity Protection
+  
+  (SIP,
+  
+
+    [26]
+   
+
+  sometimes referred to as "rootless"
+  
+
+    [27]
+   
+
+
+
+    [28]
+   
+
+  ) that protects certain system
+  
+   processes
+  
+  ,
+  
+   files
+  
+  and
+  
+   folders
+  
+  from being modified or tampered with by other processes even when executed by the
+  
+   root user
+  
+  or by a user with root privileges (
+  
+   sudo
+  
+  ). Apple says that the root user can be a significant
+  
+   risk factor
+  
+  to the system's security, especially on systems with a single user account on which that user is also the administrator. System Integrity Protection is enabled by default, but can be disabled.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+  Upon release, OS X El Capitan was met with mostly positive reviews from both users and critics, with praise mostly going towards the overall functionality of the new features and improved stability. Dieter Bohn of
+  
+
+    The Verge
+   
+
+  awarded the operating system a score of 8.5 out of 10;
+  
+
+    [31]
+   
+
+  while
+  
+   Jason Snell
+  
+  of
+  
+
+    Macworld
+   
+
+  was also positive, rating it 4.5 out of 5.
+  
+
+    [32]
+   
+
+
+  After the 10.11.4 update, many users started reporting that their MacBooks were freezing, requiring a
+  
+   hard reboot
+  
+  .
+  
+
+    [33]
+   
+
+  This issue mostly affects Early 2015
+  
+   MacBook Pro
+  
+  computers, although many others have reported freezes in other models.
+  
+
+    [34]
+   
+
+  Several users created videos in
+  
+   YouTube
+  
+  which showed the freezes.
+  
+
+    [35]
+   
+
+
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+  Soon after this, Apple released the 10.11.5 update, which contained stability improvements. Apple later acknowledged these problems, recommending their users to update to the last point release.
+  
+
+    [38]
+   
+
+
+  After the December 13, 2016 release of Security Update 2016-003, users reported problems with the WindowServer process becoming unresponsive, causing the GUI to freeze and sometimes necessitating a hard reboot to fix.
+  
+
+    [39]
+   
+
+  In response, on January 17, 2017, Apple released
+  
+   Security Update 2016-003 Supplemental (10.11.6)
+  
+  to fix "a kernel issue that may cause your Mac to occasionally become unresponsive" and at the same time released an updated version of Security Update 2016-003 which includes the fix released in the supplemental.
+  
+
+    [40]
+   
+
+  Users who have not previously installed Security Update 2016-003 are advised to install the updated version to reach build 15G1217, while users who have already installed the December 13, 2016 Security Update 2016-003 only need to install the supplemental update.
+ 

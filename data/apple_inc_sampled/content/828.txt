@@ -1,0 +1,366 @@
+
+
+
+   MagSafe
+  
+  is a series of
+  
+   proprietary
+  
+
+   magnetically
+  
+  attached power connectors, originally introduced by
+  
+   Apple Inc.
+  
+  on January 10, 2006, in conjunction with the
+  
+   MacBook Pro
+  
+  at the
+  
+   Macworld Expo
+  
+  in
+  
+   San Francisco
+  
+  ,
+  
+   California
+  
+  . The connector is held in place magnetically so that if it is tugged — for example, by someone tripping over the cord — it will pull out of the socket without damaging the connector or the computer power socket, and without pulling the computer off the surface on which it is located.
+  
+
+    [1]
+   
+
+
+
+
+  The basic concept of MagSafe is copied from the magnetic power connectors that are part of many
+  
+   deep fryers
+  
+  and Japanese countertop cooking appliances since the early 2000s in order to avoid spilling their dangerously hot contents.
+  
+
+    [2]
+   
+
+
+
+    [3]
+   
+
+
+
+    [4]
+   
+
+  Apple was granted
+  
+   US Patent No. 7311526
+  
+  on MagSafe ("Magnetic connector for electronic device", issued in 2007) as MagSafe was deemed to be a sufficient improvement due to the connector being symmetrical and reversible, and the fact that magnets within a connector are arranged in opposing polarities for improved coupling strength.
+ 
+  Apple has been phasing out the MagSafe connector; the relaunched
+  
+   MacBook
+  
+  and fourth-generation MacBook Pro replaced it with
+  
+   USB-C
+  
+  ports used for charging and data sync.
+  
+
+    [5]
+   
+
+
+
+    [6]
+   
+
+  As of October 2016
+  
+
+    [update]
+   
+
+  , the
+  
+   MacBook Air
+  
+  is currently the only remaining device to use the MagSafe connector.
+ 
+  MagSafe has connector pins that are designed so the rectangular connector can be inserted in either orientation (however, the L-shaped version of the connector can only be fitted in one orientation without blocking neighboring ports, such as
+  
+   USB
+  
+  ).
+  
+   LEDs
+  
+  on both the top and bottom of the connector show
+  
+   green
+  
+  if the computer battery is fully charged and
+  
+   amber
+  
+  or
+  
+   red
+  
+  if the battery is charging. MagSafe can be found on the
+  
+   MacBook
+  
+  , MacBook Pro and
+  
+   MacBook Air
+  
+  notebook computers, as well as the
+  
+   Apple LED Cinema Display
+  
+  .
+  
+
+    [7]
+   
+
+
+  The MacBook and the 13-inch MacBook Pro use a 60 W MagSafe charger, whereas the 15- and 17-inch MacBook Pro use an 85 W MagSafe charger. The MacBook Air has a lower-powered 45 W version of the MagSafe adapter. The power brick is smaller, but the MagSafe connector is the same as on the 60 W and 85 W chargers. Apple has made it clear that an adapter with the same or higher wattage than originally provided may be used without problems.
+  
+
+    [8]
+   
+
+
+  Apple formerly offered a “MagSafe Airline Adapter” for use on certain compatible airplanes. It had a DC input (instead of AC like the original MagSafe chargers) and would power the computer, but would
+  
+   not
+  
+  charge the battery.
+  
+
+    [9]
+   
+
+
+  Some Apple desktop displays included a MagSafe connector cable which allowed charging of Apple laptops.
+ 
+  On June 11, 2012, a thinner "MagSafe 2" connector was announced at Apple's
+  
+   2012 Worldwide Developers Conference
+  
+  . It was manufactured, reportedly, simply in order to fit the (slimmer-than-previous) new MacBook Pro 15-inch with
+  
+   Retina display
+  
+  , as well as the updated line of
+  
+   MacBook Air
+  
+  . It also has a new connector shape based on the original one.
+  
+
+    [10]
+   
+
+
+  Apple sells a MagSafe-to-MagSafe 2 converter to allow use of older-style MagSafe adaptors with newer Apple laptops.
+  
+
+    [11]
+   
+
+
+  The MagSafe connector pins allow for the adapter to be inserted in either of two orientations. The first and second pins on each side of the tiny central pin have continuity with their mirror pins.
+ 
+  The rectangular metal shroud surrounding the pins has no electrical function. Rather it acts as
+  
+   shielding
+  
+  for the electrical pins and a ferrous attractor for the magnet in the laptop.
+ 
+  Although Apple does not license the MagSafe connector for use in third-party products, manufacturers have devised a workaround: their MagSafe items use the actual connector from Apple's AC adapter, grafted onto their own product. Since this uses an actual Apple product, purchased legally, manufacturers believe that no licensing agreements are needed (a principle referred to as
+  
+   first sale doctrine
+  
+  ) and the patents are not violated.
+  
+
+    [13]
+   
+
+  However, in 2010 Apple still sued one such manufacturer,
+  
+   Sanho Corporation
+  
+  for selling its very popular HyperMac battery extension products which Apple claimed violated their patents.
+  
+
+    [14]
+   
+
+  Sanho has since ceased to sell their connector cable for the HyperMac series of external batteries.
+  
+
+    [15]
+   
+
+
+  Many users have reported (as of 30 October 2011
+  
+
+    [update]
+   
+
+  ) problems with the quality of the construction of the MagSafe cords, giving the product low marks on the
+  
+   Apple Store's website
+  
+  .
+  
+
+    [16]
+   
+
+  Common complaints include plug separating from the cord, transformer shorting, and pin springs losing elasticity.
+  
+
+    [16]
+   
+
+
+  Several methods have been devised to protect the MagSafe from failure, including wrapping the cable with tape or sliding protective plastic around the cable.
+  
+
+    [17]
+   
+
+
+  In 2008, Apple posted an official response acknowledging problems with MagSafe adapters, which include incomplete circuit connection and adapter's white insulation separating from the magnetic end of the MagSafe connector.
+  
+
+    [18]
+   
+
+  Following the release of a Knowledge Base article, a
+  
+   class-action lawsuit
+  
+  was filed on May 1, 2009, in the
+  
+   US District Court for the Northern District of California
+  
+  's San Jose office, alleging that the MagSafe power adapter is prone to frayed wires and overheating, and as such represents a fire hazard.
+  
+
+    [19]
+   
+
+  Apple has since released a new connector to remedy the defects.
+  
+
+    [20]
+   
+
+
+   [
+   
+
+
+      not in citation given
+     
+
+
+   ]
+  
+
+  There had been a variety of reports of the newer MagSafe AC adapter not working with older MagSafe-powered MacBooks and MacBook Pros.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Apple released a firmware update in October 2010 that it claims resolves this issue.
+  
+
+    [21]
+   
+
+  However, the installer for the firmware update will not run on certain older MacBooks, which means that the firmware can not be updated. This, in turn, means that it is not possible to use the new MagSafe power adapter with these MacBooks. Since mid-2010, it is not possible to buy new replacement MagSafe AC adapters (either from Apple or third-party suppliers) that work with these MacBooks, forcing owners to look for used original adapters.
+ 
+  In 2011, Apple posted a support document about the strain-relief problems with the MPM-1 ("T")-style MagSafe power cables, and issued settlement offer for buyers of Apple 60 W or 85 W MagSafe MPM-1 adapter within the first three years of purchase.
+  
+
+    [22]
+   
+
+
+  Before MagSafe, Apple laptop computers (like most non-Apple laptops) used a shell and socket/pin arrangement, or
+  
+   coaxial power connector
+  
+  . The iBook series introduced a charger that resembled a mini-
+  
+   stereo plug
+  
+  with an additional metal ring. The first puck-shaped iBook chargers simply had a silver plug body, but the square white chargers introduced a color-changing illuminated ring that indicated charging status.
+ 
+  Tripping on an iBook cord or yanking the cord out at an angle could bend the spring contacts inside the connector or break the
+  
+   solder pads
+  
+  under the connector, resulting in a laptop that would fail to charge when connected to the cord, or would only charge if the inserted plug were propped up or pushed down at an angle. An especially forceful yank could flare the outer flange or even break the tip of the power plug.
+ 
+  Replacing a damaged "DC-In Board" in an early 12 inch G3 iBook typically involved an expensive 50-step disassembly of the laptop.
+  
+
+    [23]
+   
+
+
+      The first generation MagSafe Power Adapter that shipped with original
+      
+       MacBook
+      
+      and
+      
+       MacBook Pro
+      
+
+      The L-shaped MagSafe Power Adapter that ships with all late-2009 to mid-2012
+      
+       MacBook Pro
+      
+      (non-Retina) and pre-2012
+      
+       MacBook Air
+      
+      models.
+     
+      Newer L-shaped MagSafe connector, broken off its power cord
+     
+      MagSafe with both frayed wires and melted casing, as alleged in the 2009
+      
+       class action lawsuit
+      
+
+      The iBook G3 brick and puck chargers. The puck was the first model of charger with this connector.
+     
+      Example of a damaged plug due to being pulled forcefully out of the socket sideways. This strain is severe enough to damage the power socket also.
+     

@@ -1,0 +1,520 @@
+
+
+  In interface design, a
+  
+   tabbed document interface
+  
+  (
+  
+   TDI
+  
+  ) or
+  
+   Tab
+  
+  is a
+  
+   graphical control element
+  
+  that allows multiple
+  
+   documents
+  
+  or
+  
+   panels
+  
+  to be contained within a single
+  
+   window
+  
+  , using tabs as a navigational widget for switching between sets of documents. It is an interface style most commonly associated with
+  
+   web browsers
+  
+  ,
+  
+   web applications
+  
+  ,
+  
+   text editors
+  
+  , and preference panes.
+ 
+  GUI tabs are modeled after traditional card tabs inserted in paper files or card indexes (in keeping with the
+  
+   desktop metaphor
+  
+  ).
+ 
+  The name TDI implies similarity to the
+  
+   Microsoft Windows
+  
+  standards for
+  
+   multiple document interfaces
+  
+  (MDI) and
+  
+   single document interfaces
+  
+  (SDI), but TDI does not form part of the Microsoft Windows User Interface Guidelines.
+  
+
+    [1]
+   
+
+
+
+
+  The WordVision
+  
+   DOS
+  
+  word processor for the
+  
+   IBM PC
+  
+  in 1982 was perhaps the first commercially available product with a tabbed interface.
+  
+
+    PC Magazine
+   
+
+  in 1994 wrote that it "has served as a free R&D Balls for the software business—its bones picked over for a decade by programmers looking for so-called new ideas".
+  
+
+    [2]
+   
+
+  The
+  
+   NeWS
+  
+  version of UniPress's
+  
+   Gosling Emacs
+  
+  text editor was another early product, with multiple tabbed windows in 1988.
+  
+
+    [3]
+   
+
+  It was used to develop an authoring tool for the
+  
+   Ben Shneiderman
+  
+  's
+  
+   HyperTIES
+  
+  browser (the NeWS workstation version of The Interactive Encyclopedia System), in 1988.
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+  HyperTIES also supported
+  
+   pie menus
+  
+  for managing windows and browsing hypermedia documents with
+  
+   PostScript
+  
+
+   applets
+  
+  .
+  
+   Don Hopkins
+  
+  developed and released several versions of tabbed window frames for the
+  
+   NeWS
+  
+  window system as free software, which the window manager applied to all NeWS applications, and enabled users to drag the tabs around to any edge of the window.
+  
+
+    [6]
+   
+
+
+  HyperTIES was a "
+  
+   hypermedia
+  
+  " browser, a term first used by
+  
+   Ted Nelson
+  
+  in 1965. The first "web" browser came out later in 1990,
+  
+
+    [7]
+   
+
+  and the term "World Wide Web" was not invented until 1990.
+  
+
+    [8]
+   
+
+
+  In 1992
+  
+   Borland
+  
+  's
+  
+   Quattro Pro
+  
+  popularized tabs for spreadsheets;
+  
+   Microsoft Word
+  
+  in 1993 used them to simplify submenus.
+  
+
+    [2]
+   
+
+  In 1994,
+  
+   BookLink Technologies
+  
+  featured tabbed windows in its
+  
+   InternetWorks
+  
+  browser. That same year, the text editor
+  
+   UltraEdit
+  
+  also appeared with a modern multi-row tabbed interface. The tabbed interface approach was then followed by the
+  
+   Internet Explorer shell
+  
+
+   NetCaptor
+  
+  in 1997. These were followed by a number of others like
+  
+   IBrowse
+  
+  in 1999, and
+  
+   Opera
+  
+  in 2000 (with the release of version 4 - although a MDI interface was supported before then), MultiViews October 2000, which changed its name into MultiZilla on 1 April 2001 (an
+  
+   extension
+  
+  for the
+  
+   Mozilla Application Suite
+  
+
+
+    [9]
+   
+
+  ),
+  
+   Galeon
+  
+  in early 2001,
+  
+   Mozilla
+  
+  0.9.5 in October 2001, Phoenix 0.1 (now
+  
+   Mozilla Firefox
+  
+  ) in October 2002,
+  
+   Konqueror
+  
+  3.1 in January 2003, and
+  
+   Safari
+  
+  in 2003. With the release of
+  
+   Internet Explorer 7
+  
+  in 2006, all major web browsers featured a tabbed interface.
+ 
+  Users have quickly adopted the use of tabs in web browsing and web search. A study of tabbed browsing behavior in June 2009 found that users switched tabs in 57% of tab sessions, and 36% of users used new tabs to open
+  
+   search engine
+  
+  results at least once during that period.
+  
+
+    [10]
+   
+
+
+  Numerous special functions in association with browser tabs have emerged since then. One example is visual tabbed browsing in
+  
+   OmniWeb
+  
+  version 5, which displays preview images of pages in a drawer to the left or right of the main browser window. Another feature is the ability to re-order tabs and to
+  
+   bookmark
+  
+  all of the webpages opened in tab panes in a given window in a group or bookmark folder (as well as the ability to reopen all of them at the same time). Links can most often be opened in several modes, using different user interface options and commands:
+ 
+  There are minor usability issues such as whether a new tab opens in the end of the tab list or next to its "parent". For example,
+  
+   Internet Explorer
+  
+  marks tab families with different colours.
+ 
+  There is some debate about how the TDI fits in with the Microsoft Windows User Interface Guidelines. In many ways the Workbook window management model most closely resembles TDI.
+  
+
+    [11]
+   
+
+  However this is a relatively recent addition to the Windows User Interface Guidelines, and most developers still prefer to view
+  
+   SDI
+  
+  or
+  
+   MDI
+  
+  as the primary document models for MS Windows.
+ 
+  Because the tabbed document interface holds many different documents logically under one window, it keeps the primary
+  
+   operating system
+  
+  interface free of the clutter that would be created by a large number of small child windows. Another advantage is that sets of related documents can be grouped within each of several windows. Tabbed web browsers often allow users to save their browsing session and return to it later.
+ 
+  Although the tabbed document interface does allow for multiple views under one window, there are problems with this interface. One such problem is dealing with many tabs at once. When a window is tabbed to a certain number that exceeds the available area of the monitor, the tabs clutter up (this is the same problem as with SDI but moved to another place in the user interface).
+ 
+  Multi-row tabs are a second issue that will appear in menu dialogs in some programs. Some prefer to have many tabs open, and some programs help making these compact yet identifiable,
+  
+
+    [12]
+   
+
+  while normally dealing with multiple rows of tabs in one window is seen to have two disadvantages:
+ 
+  Finding a specific tab in a 3 or 4 level tabular interface can be difficult for some people. Part of the issue with this difficulty lies in the lack of any sorting scheme. Without such tabs can be strewn about without any sense of order, thus looking for a tab provides no meaningful understanding of a position to a tab relative to other tabs. Additionally, the clutter created by multiple tabs can create a dialog that is unusually small, with the tabs above it dominating the window.
+ 
+  Thus, although tabbed windows are adequate in environments where there is a minimal necessity for tabs (around ten tabs or less), this scheme does not
+  
+   scale
+  
+  , and alternate methods may be required to address this issue.
+ 
+  Among the methods for addressing the problems of the scalability of many tabs:
+ 
+  Large numbers of tabbed windows scale better with the tabs along the left or right edges of the window, instead of the top or bottom edges. That is because tab labels are usually much wider than they are tall, and because it is now common to use displays which are considerably wider than needed for displaying documents and web pages. The
+  
+   NeWS
+  
+  version of the
+  
+   UniPress Emacs
+  
+  text editor placed tabs along the right window edge, and laid windows out in a vertical column, so each tab was initially visible, and the user could use them to raise and lower the windows, drag them around in the column, or pull them out to anywhere on the screen.
+ 
+  Better yet, tabbed window interfaces can give the user the freedom to position the tabs along any edge, so all four edges are available to organize different groups of tabs as the user or application sees fit. The PSIBER visual PostScript programming environment for NeWS had tabbed views that you could stick onto the stack (represented as a "spike"), and you could move the tabs to any edge.
+  
+
+    [6]
+   
+
+  The NeWS pie menu and tab window manager enabled users to position the tabs anywhere along any edge, and the tabs popped up pie menus with window management functions, to uncover and bury windows, etc.
+ 
+  For people used to SDI, MDI can be confusing as windows can be hidden behind other windows.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+  Some MDI applications lack a
+  
+   taskbar
+  
+  or menu to allow quick access to all windows, so for these applications in some cases a window can only be found by closing or moving all others. Practically, however, most MDI environments provide for much richer window-switching functionality than SDI-oriented environments. On the other hand, since in TDI applications most tabs are visible and directly accessible, it is much harder for windows to get "lost". Some MDI applications such as Opera and
+  
+   Eudora
+  
+  also have this advantage, by having tabs to access the windows.
+ 
+  TDI windows must always be maximized inside their parent window, and as a result two tabs cannot be visible at the same time. This makes comparing of documents or easy copy-and-pasting between two documents more difficult. Full MDI interfaces allow for tiling or cascading of child windows, and do not suffer from these limitations.
+ 
+  One example of an application that allows either TDI or MDI browsing is
+  
+   Opera
+  
+  . Using TDI by default, this application also supports full MDI and can also run as an SDI application.
+  
+
+    [17]
+   
+
+
+  In order to mitigate these problems, some integrated development environments, such as recent versions of
+  
+   XEmacs
+  
+  and
+  
+   Microsoft
+  
+  's
+  
+   Visual Studio
+  
+  , provide a
+  
+   hybrid interface
+  
+  which allows splitting the parent window into multiple MDI-like "panes," each with their own separate TDI tab set.
+  
+   Tiling window managers
+  
+  such as
+  
+   Ion
+  
+  do the same for the entire
+  
+   desktop
+  
+  . This provides many of the advantages of both MDI and TDI, although it can still be difficult for users to get used to. The
+  
+   Konqueror
+  
+  browser by
+  
+   KDE
+  
+  (available on Unix and Unix work-alikes, such as Linux, and Windows) supports multiple documents within one tab by splitting documents. In a Konqueror tab, documents can be split horizontally or vertically, and each split document can be re-split.
+ 
+  Another strategy for dealing with the limitation that only one tabbed document would ordinarily be visible at one time is to allow a tab to be dragged outside the parent window and converted to a separate window (which can itself have multiple tabs). This is supported in the
+  
+   Google Chrome
+  
+  ,
+  
+   Mozilla Firefox 3.5
+  
+  , and
+  
+   Internet Explorer 9
+  
+  web browsers, for example.
+ 
+  The following
+  
+   window managers
+  
+  provide a tabbed document interface:
+ 
+  Office Tab
+  
+
+    [21]
+   
+
+  enables tabbed document interface (TDI) of Microsoft Office applications.
+ 
+
+   Adobe Systems
+  
+  holds
+  
+   patents
+  
+  in the United States and Europe on certain uses of GUI tabs,
+  
+
+    [22]
+   
+
+  which are widely held to be
+  
+   trivial patents
+  
+  . There was
+  
+   prior art
+  
+  , in both GUI and
+  
+   text user interfaces
+  
+  (TUI).
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
+
+  Adobe used these patents to sue
+  
+   Macromedia
+  
+  Inc. for employing tabs in its
+  
+   Macromedia Flash
+  
+  product. Adobe won the case and $2.8 million in damages. However, Macromedia initiated a
+  
+   countersuit
+  
+  which ended in a $4.9 million ruling against Adobe. The suits were settled on undisclosed terms.
+  
+
+    [23]
+   
+
+  In 2005, Adobe ended further dispute between the two companies when it bought Macromedia for roughly $3.4 billion.
+ 
+  On April 18, 2007, the intellectual property agency IP Innovation LLC and its parent Technology Licensing Corporation filed a lawsuit against
+  
+   Apple Inc.
+  
+  regarding its infringement upon a US Patent originally filed by
+  
+   Xerox
+  
+  researchers in 1987.
+  
+
+    [24]
+   
+
+
+
+    [25]
+   
+

@@ -1,0 +1,1877 @@
+
+
+
+   Silicon
+  
+  is a
+  
+   chemical element
+  
+  with symbol
+  
+   Si
+  
+  and
+  
+   atomic number
+  
+  14. A hard and brittle crystalline solid with a blue-gray metallic luster, it is a
+  
+   tetravalent
+  
+
+   metalloid
+  
+  . It is a member of
+  
+   group 14
+  
+  in the periodic table, along with
+  
+   carbon
+  
+  above it and germanium,
+  
+   tin
+  
+  ,
+  
+   lead
+  
+  , and
+  
+   flerovium
+  
+  below. It is not very reactive, although more reactive than germanium, and has great chemical affinity for oxygen; it was first purified and characterized in 1823 by
+  
+   Jöns Jakob Berzelius
+  
+  .
+ 
+  Silicon is the eighth most
+  
+   common element
+  
+  in the universe by mass, but very rarely occurs as the pure element in the Earth's crust. It is most widely distributed in
+  
+   dusts
+  
+  ,
+  
+   sands
+  
+  ,
+  
+   planetoids
+  
+  , and
+  
+   planets
+  
+  as various forms of
+  
+   silicon dioxide
+  
+  (silica) or
+  
+   silicates
+  
+  . Over 90% of the Earth's crust is composed of
+  
+   silicate minerals
+  
+  , making silicon the
+  
+   second most abundant element
+  
+  in the Earth's crust (about 28% by mass) after
+  
+   oxygen
+  
+  .
+  
+
+    [9]
+   
+
+
+  Most silicon is used commercially without being separated, and often with little processing of the natural minerals. Such use includes industrial construction with
+  
+   clays
+  
+  ,
+  
+   silica sand
+  
+  , and
+  
+   stone
+  
+  . Silicate is used in
+  
+   Portland cement
+  
+  for
+  
+   mortar
+  
+  and
+  
+   stucco
+  
+  , and mixed with silica sand and
+  
+   gravel
+  
+  to make
+  
+   concrete
+  
+  for walkways, foundations, and roads. Silicates are used in whiteware
+  
+   ceramics
+  
+  such as
+  
+   porcelain
+  
+  , and in traditional
+  
+   quartz
+  
+  -based
+  
+   soda-lime glass
+  
+  and many other specialty
+  
+   glasses
+  
+  . Silicon compounds such as
+  
+   silicon carbide
+  
+  are used as abrasives and components of high-strength ceramics.
+ 
+  Elemental silicon also has a large impact on the modern world economy. Most free silicon is used in the
+  
+   steel
+  
+  refining,
+  
+   aluminium
+  
+  -casting, and fine chemical industries (often to make
+  
+   fumed silica
+  
+  ). Even more visibly, the relatively small portion of very highly purified silicon used in semiconductor electronics (< 10%) is essential to
+  
+   integrated circuits
+  
+  — most computers, cell phones, and modern technology depend on it. Silicon is the basis of the widely used synthetic polymers called
+  
+   silicones
+  
+  .
+ 
+  Silicon is an essential element in biology, although only tiny traces are required by animals.
+  
+
+    [10]
+   
+
+  However, various
+  
+   sea sponges
+  
+  and microorganisms, such as
+  
+   diatoms
+  
+  and
+  
+   radiolaria
+  
+  , secrete skeletal structures made of silica. Silica is deposited in many plant tissues, such as in the bark and wood of
+  
+
+    Chrysobalanaceae
+   
+
+  and the silica cells and silicified
+  
+   trichomes
+  
+  of
+  
+
+    Cannabis sativa
+   
+
+  ,
+  
+   horsetails
+  
+  and many
+  
+   grasses
+  
+  .
+  
+
+    [11]
+   
+
+
+
+
+  Silicon is a solid at
+  
+   room temperature
+  
+  , with a melting point of 1,414 °C (2,577 °F) and a boiling point of 3,265 °C (5,909 °F). Like water, it has a greater
+  
+   density
+  
+  in a
+  
+   liquid state
+  
+  than in a
+  
+   solid state
+  
+  and it expands when it freezes, unlike most other substances. With a relatively high
+  
+   thermal conductivity
+  
+  of 149 W·m
+  
+   −1
+  
+  ·K
+  
+   −1
+  
+  , silicon conducts heat well.
+ 
+  In its
+  
+   crystalline
+  
+  form, pure silicon has a gray color and a
+  
+   metallic
+  
+  luster. Like
+  
+   germanium
+  
+  , silicon is rather strong,
+  
+   [
+   
+
+
+      vague
+     
+
+
+   ]
+  
+  very brittle, and prone to chipping. Silicon, like carbon and germanium, crystallizes in a
+  
+   diamond cubic
+  
+
+   crystal structure
+  
+  with a lattice spacing of 0.5430710 nm (5.430710
+  
+   Å
+  
+  ).
+  
+
+    [12]
+   
+
+
+  The outer
+  
+   electron orbital
+  
+  of silicon, like that of carbon, has four valence electrons. The 1
+  
+   s
+  
+  , 2
+  
+   s
+  
+  , 2
+  
+   p
+  
+  and 3
+  
+   s
+  
+  subshells are completely filled while the 3
+  
+   p
+  
+  subshell contains two electrons out of a possible six.
+ 
+  Silicon is a
+  
+   semiconductor
+  
+  . It has a negative temperature coefficient of
+  
+   resistance
+  
+  , since the number of free charge carriers increases with temperature. The electrical resistance of
+  
+   single crystal
+  
+  silicon significantly changes under the application of mechanical stress due to the
+  
+   piezoresistive effect
+  
+  .
+  
+
+    [13]
+   
+
+  Heavily boron-doped silicon is a
+  
+   type II superconductor
+  
+  with a transition temperature T
+  
+   c
+  
+  of 0.4 K.
+  
+
+    [14]
+   
+
+
+  Silicon is a
+  
+   metalloid
+  
+  , readily donating or sharing its four outer electrons, and it typically forms four bonds. Like carbon, its four bonding electrons enable it to combine with many other elements or compounds to form a wide range of compounds. Unlike carbon, it can accept additional electrons and form five or six bonds in a sometimes more
+  
+   labile
+  
+
+   silicate
+  
+  form. Tetra-valent silicon is relatively
+  
+   inert
+  
+  ; it reacts with
+  
+   halogens
+  
+  and dilute
+  
+   alkalis
+  
+  , but most acids (except some hyper-reactive combinations of
+  
+   nitric acid
+  
+  and
+  
+   hydrofluoric acid
+  
+  ) have no effect on it.
+ 
+  Naturally occurring silicon is composed of three stable
+  
+   isotopes
+  
+  ,
+  
+   28
+  
+  Si (92.23%),
+  
+   29
+  
+  Si (4.67%), and
+  
+   30
+  
+  Si (3.10%), with
+  
+   28
+  
+  Si being the most abundant.
+  
+
+    [15]
+   
+
+  Out of these, only
+  
+   29
+  
+  Si is of use in
+  
+   NMR
+  
+  and
+  
+   EPR spectroscopy
+  
+  ,
+  
+
+    [16]
+   
+
+  as it is the only one with a nuclear spin (
+  
+   I
+  
+  =
+  
+
+    1
+   
+
+    /
+   
+
+    2
+   
+
+  ).
+  
+
+    [17]
+   
+
+
+  Twenty
+  
+   radioisotopes
+  
+  have been characterized, with the most stable being
+  
+   32
+  
+  Si with a
+  
+   half-life
+  
+  of 170 years, and
+  
+   31
+  
+  Si with a half-life of 157.3 minutes.
+  
+
+    [15]
+   
+
+  All of the remaining
+  
+   radioactive
+  
+  isotopes have half-lives that are less than seven seconds, and the majority of these have half-lives that are less than one tenth of a second.
+  
+
+    [15]
+   
+
+  Silicon does not have any known
+  
+   nuclear isomers
+  
+  .
+  
+
+    [15]
+   
+
+
+   32
+  
+  Si undergoes low-energy
+  
+   beta decay
+  
+  to
+  
+
+    32
+   
+   P
+  
+  and then stable
+  
+   32
+  
+
+   S
+  
+  .
+  
+   31
+  
+  Si may be produced by the
+  
+   neutron activation
+  
+  of natural silicon and is thus useful for quantitative analysis.
+  
+
+    [17]
+   
+
+
+  The isotopes of silicon range in
+  
+   mass number
+  
+  from 22 to 44.
+  
+
+    [15]
+   
+
+  The most common
+  
+   decay mode
+  
+  of the isotopes with mass numbers lower than the three stable isotopes is
+  
+   inverse beta decay
+  
+  , primarily forming aluminium isotopes (13 protons) as
+  
+   decay products
+  
+  .
+  
+
+    [15]
+   
+
+  The most common decay mode for the heavier unstable isotopes is beta decay, primarily forming phosphorus isotopes (15 protons) as decay products.
+  
+
+    [15]
+   
+
+
+  In 1787
+  
+   Antoine Lavoisier
+  
+  suspected that silica may be an oxide of a fundamental
+  
+   chemical element
+  
+  .
+  
+
+    [18]
+   
+
+  After an attempt to isolate silicon in 1808,
+  
+   Sir Humphry Davy
+  
+  proposed the name "silicium" for silicon, from the Latin
+  
+   silex
+  
+  ,
+  
+   silicis
+  
+  for flint, and adding the "-ium" ending because he believed it was a metal.
+  
+
+    [19]
+   
+
+  In 1811,
+  
+   Gay-Lussac
+  
+  and
+  
+   Thénard
+  
+  are thought to have prepared impure
+  
+   amorphous silicon
+  
+  , through the heating of recently isolated
+  
+   potassium
+  
+  metal with
+  
+   silicon tetrafluoride
+  
+  , but they did not purify and characterize the product, nor identify it as a new element.
+  
+
+    [20]
+   
+
+  Silicon was given its present name in 1817 by Scottish chemist
+  
+   Thomas Thomson
+  
+  . He retained part of Davy's name but added "-on" because he believed that silicon was a
+  
+   nonmetal
+  
+  similar to
+  
+   boron
+  
+  and
+  
+   carbon
+  
+  .
+  
+
+    [21]
+   
+
+  In 1823,
+  
+   Berzelius
+  
+  prepared amorphous silicon using approximately the same method as Gay-Lussac (potassium metal and potassium fluorosilicate), but purifying the product to a brown powder by repeatedly washing it.
+  
+
+    [22]
+   
+
+  As a result, he is usually given credit for the element's discovery.
+  
+
+    [23]
+   
+
+
+
+    [24]
+   
+
+
+  Silicon in its more common crystalline form was not prepared until 31 years later, by
+  
+   Deville
+  
+  .
+  
+
+    [25]
+   
+
+
+
+    [26]
+   
+
+  By
+  
+   electrolyzing
+  
+  a mixture of
+  
+   sodium chloride
+  
+  and
+  
+   aluminium chloride
+  
+  containing approximately 10% silicon, he was able to obtain a slightly impure
+  
+   allotrope
+  
+  of silicon in 1854.
+  
+
+    [27]
+   
+
+  Later, more cost-effective methods have been developed to isolate several
+  
+   allotrope
+  
+  forms, the most recent being
+  
+   silicene
+  
+  .
+ 
+  Because silicon is an important element in high-technology semiconductor devices, many places in the world bear its name. For example,
+  
+   Santa Clara Valley
+  
+  in
+  
+   California
+  
+  acquired the nickname
+  
+   Silicon Valley
+  
+  since the element is the base material used in the semiconductor industry located there. Other locations have been nicknamed for similar reasons, including
+  
+   Silicon Forest
+  
+  in
+  
+   Oregon
+  
+  ,
+  
+   Silicon Hills
+  
+  in
+  
+   Austin, Texas
+  
+  ,
+  
+   Silicon Slopes
+  
+  in
+  
+   Salt Lake City, Utah
+  
+  ,
+  
+   Silicon Saxony
+  
+  in
+  
+   Germany
+  
+  ,
+  
+   Silicon Valley
+  
+  in
+  
+   India
+  
+  ,
+  
+   Silicon Border
+  
+  in
+  
+   Mexicali, Mexico
+  
+  ,
+  
+   Silicon Fen
+  
+  in
+  
+   Cambridge, England
+  
+  ,
+  
+   Silicon Roundabout
+  
+  in
+  
+   London
+  
+  ,
+  
+   Silicon Glen
+  
+  in
+  
+   Scotland
+  
+  , and
+  
+   Silicon Gorge
+  
+  in
+  
+   Bristol, England
+  
+  .
+ 
+  Measured by mass, silicon makes up 27.7% of the
+  
+   Earth's crust
+  
+  and is the second most abundant element in the crust, with only oxygen having a greater abundance.
+  
+
+    [28]
+   
+
+  Silicon is usually found in the form of complex
+  
+   silicate minerals
+  
+  , and less often as
+  
+   silicon dioxide
+  
+  (
+  
+   silica
+  
+  , a major component of common sand). Pure silicon crystals are very rarely found in nature, but notable exceptions are crystals as large as to 0.3 mm across found during sampling gasses from
+  
+   Kudriavy
+  
+  volcano on the Kamchatka Peninsula.
+  
+
+    [29]
+   
+
+
+
+    [30]
+   
+
+
+  The
+  
+   silicate minerals
+  
+  —various minerals containing silicon, oxygen and reactive metals—account for 90% of the mass of the Earth's crust. In the high temperatures prevalent in the formation of the inner solar system, silicon and oxygen readily combine, forming
+  
+   network solids
+  
+  of silicon and oxygen in compounds of low volatility. Since oxygen and silicon were the most common
+  
+   metals
+  
+  (using the astrochemical definition as anything other than hydrogen or helium) in the debris from
+  
+   supernova
+  
+  dust which formed the
+  
+   protoplanetary disk
+  
+  in the
+  
+   formation and evolution of the Solar System
+  
+  , they formed many complex silicates which accreted into larger rocky
+  
+   planetesimals
+  
+  that formed the
+  
+   terrestrial planets
+  
+  . Here, the reduced silicate mineral matrix entrapped the metals reactive enough to be oxidized (aluminium, calcium, sodium, potassium and magnesium). After loss of volatile gases, as well as carbon and sulfur by reaction with hydrogen, this silicate mixture of elements formed most of the Earth's crust.
+ 
+  These silicates were of relatively lower density than iron, nickel, and other metals non-reactive to oxygen, and a residuum of uncombined metallic iron and nickel sank to the planet's core, leaving a thick
+  
+   mantle
+  
+  of mostly of magnesium and iron silicates between core and crust. These are thought to be mostly
+  
+   silicate perovskites
+  
+  , followed in abundance by the magnesium/iron oxide
+  
+   ferropericlase
+  
+  .
+  
+
+    [31]
+   
+
+
+  Examples of silicate minerals in the crust include those in the
+  
+   pyroxene
+  
+  ,
+  
+   amphibole
+  
+  ,
+  
+   mica
+  
+  , and
+  
+   feldspar
+  
+  groups. These minerals occur in clay and various types of
+  
+   rock
+  
+  such as
+  
+   granite
+  
+  and
+  
+   sandstone
+  
+  . In the crust, very pure
+  
+   silica
+  
+  occurs in different crystalline forms of
+  
+   quartz
+  
+  and
+  
+   opal
+  
+  . The crystals have the empirical formula of silicon dioxide, but do not consist of discrete silicon dioxide molecules in the manner of solid carbon dioxide. Rather, silica is structurally a network solid consisting of silicon and oxygen in three-dimensional crystals, like diamond. Less pure silica forms the natural glass
+  
+   obsidian
+  
+  .
+  
+   Biogenic silica
+  
+  occurs in the structure of diatoms,
+  
+   radiolaria
+  
+  and
+  
+   siliceous sponges
+  
+  .
+ 
+  Silicon is also a principal component of many
+  
+   meteorites
+  
+  , and of
+  
+   tektites
+  
+  , a mineral of possibly lunar origin, or (if Earth-derived) which has been subjected to unusual temperatures and pressures, possibly from meteorite strike.
+ 
+
+   Ferrosilicon
+  
+  , an iron-silicon alloy that contains varying ratios of elemental silicon and iron, accounts for about 80% of the world's production of elemental silicon, with China, the leading supplier of elemental silicon, providing 4.6 million
+  
+   tonnes
+  
+  (or 2/3 of the world output) of silicon, most of which is in the form of ferrosilicon. It is followed by Russia (610,000 t), Norway (330,000 t), Brazil (240,000 t) and the United States (170,000 t).
+  
+
+    [32]
+   
+
+  Ferrosilicon is primarily used by the iron and steel industry (see below) with primary use as alloying addition in iron or steel and for de-oxidation of steel in integrated steel plants.
+ 
+  Aluminium-silicon alloys (called
+  
+   silumin
+  
+  alloys) are heavily used in the aluminium alloy casting industry, where silicon is the single most important additive to aluminium to improve its casting properties. Since cast aluminium is widely used in the automobile industry, this use of silicon is thus the single largest industrial use (about 55% of the total) of "metallurgical grade" pure silicon (as this purified silicon is added to pure aluminium, whereas ferrosilicon is never purified before being added to steel).
+  
+
+    [33]
+   
+
+
+  Elemental silicon alloyed with significant quantities of other elements, usually up to 5%, is often referred to loosely as
+  
+   silicon metal
+  
+  . It makes up about 20% of the world total elemental silicon production, with less than 1 to 2% of total elemental silicon (5–10% of metallurgical grade silicon) ever purified to higher grades for use in electronics. Metallurgical grade silicon is commercially prepared by the reaction of high-purity
+  
+   silica
+  
+  with wood, charcoal, and coal in an
+  
+   electric arc furnace
+  
+  using carbon
+  
+   electrodes
+  
+  . At temperatures over 1,900
+  
+   °C
+  
+  (3,450
+  
+   °F
+  
+  ), the carbon in the aforementioned materials and the silicon undergo the
+  
+   chemical reaction
+  
+  :
+ 
+  Liquid silicon collects in the bottom of the furnace, which is then drained and cooled. The silicon produced in this manner is called
+  
+   metallurgical grade silicon
+  
+  and is at least 98% pure. Using this method,
+  
+   silicon carbide
+  
+  (SiC) may also form from an excess of carbon in one or both of the following ways:
+ 
+  However, provided the concentration of SiO
+  
+   2
+  
+  is kept high, the silicon carbide can be eliminated by the chemical reaction:
+ 
+  As noted above, metallurgical grade silicon "metal" has its primary use in the aluminium casting industry to make aluminium-silicon alloy parts. The remainder (about 45%) is used by the
+  
+   chemical industry
+  
+  , where it is primarily employed to make
+  
+   fumed silica
+  
+  , with the rest used in production of other fine chemicals such as
+  
+   silanes
+  
+  and some types of
+  
+   silicones
+  
+  .
+  
+
+    [34]
+   
+
+
+  As of September 2008,
+  
+   metallurgical
+  
+  grade silicon costs about
+  
+   US$
+  
+  1.45 per pound ($3.20/kg),
+  
+
+    [35]
+   
+
+  up from $0.77 per pound ($1.70/kg) in 2005.
+  
+
+    [36]
+   
+
+
+  Today's purification processes involve the conversion of silicon into volatile liquids, such as
+  
+   trichlorosilane
+  
+  (HSiCl
+  
+   3
+  
+  ) and
+  
+   silicon tetrachloride
+  
+  (SiCl
+  
+   4
+  
+  ) or into the gaseous
+  
+   silane
+  
+  (SiH
+  
+   4
+  
+  ). These compounds are then separated by a
+  
+   distillation
+  
+  and transformed into high-purity silicon, either by a
+  
+   redox
+  
+  reaction or by
+  
+   thermal decomposition
+  
+  .
+  
+   Vapor phase epitaxy
+  
+  of reducing silicon tetrachloride with hydrogen at approximately 1250 °C was done:
+ 
+  In the late 1950s, the American chemical company
+  
+   DuPont
+  
+  patented a method for the production of 99.99% pure silicon, using the metal
+  
+   zinc
+  
+  as a
+  
+   reductant
+  
+  to transform redistilled silicon tetrachloride into high-purity silicon by a vapor phase reaction at 900 °C. This technique, however, was plagued with practical problems, as the byproduct zinc chloride (ZnCl
+  
+   2
+  
+  ) solidified and clogged lines, and was eventually abandoned in favor of more sophisticated processes.
+  
+
+    [38]
+   
+
+
+  The best known technique is the so-called
+  
+   Siemens process
+  
+  . This technique does not require a reductant such as zinc, as it grows high-purity silicon
+  
+   crystallites
+  
+  directly on the surface of (pre-existing) pure silicon seed rods by a
+  
+   chemical decomposition
+  
+  that takes place when the gaseous trichlorosilane is blown over the rod's surface at 1150 °C. A common name for this type of technique is
+  
+   chemical vapor deposition
+  
+  (CVD) and produces high-purity
+  
+   polycrystalline silicon
+  
+  , also known as polysilicon. While the conventional Siemens process produces
+  
+   electronic grade
+  
+  polysilicon at typically 9N–11N purities, that is, it contains impurity levels of less than one
+  
+   part per billion
+  
+  (ppb), the modified Siemens process is a dedicated process-route for the production of silicon with purities of 6N (99.9999%) and less energy demand.
+  
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+
+
+    [41]
+   
+
+
+  A more recent alternative for the production of polysilicon is the
+  
+   fluidized bed reactor
+  
+  (FBR) manufacturing technology. Compared to the traditional Siemens process, FBR features a number of advantages that lead to cheaper polysilicon demanded by the
+  
+   fast-growing
+  
+  photovoltaic industry. Contrary to Siemens' batch process, FBR runs continuously, wasting fewer resources and requires less setup and downtime. It uses about 10 percent of the electricity consumed by a conventional rod reactor in the established Siemens process, as it does not waste energy by placing heated gas and silicon in contact with cold surfaces. In the FBR, silane (SiH
+  
+   4
+  
+  ) is injected into the reactor from below and forms a fluidized bed together with the silicon seed particles that are fed from above. The gaseous silane then decomposes and deposits silicon on the seed particles. When the particles have grown to larger granules, they eventually sink to the bottom of the reactor where they are continuously withdrawn from the process.
+ 
+  The FBR manufacturing technology outputs polysilicon at 6N to 9N, a purity still higher than the 5N to 6N of
+  
+   upgraded metallurgical silicon
+  
+  (UMG-Si), a third technology used by the photovoltaic industry, that dispenses altogether with chemical purification, using metallurgical techniques instead. Currently most silicon for the photovoltaic market is produced by the Siemens process and only about 10 percent by the FBR technology, while UMG-Si accounts for about 2 percent. By 2020, however, IHS Technology predicts that market shares for FBR technology and UMG-Si will grow to 16.7 and 5.4 percent, respectively.
+  
+
+    [42]
+   
+
+
+  The company
+  
+   REC
+  
+  is one of the leading producers of silane and polysilicon using FBR technology. The three-step chemical reaction involves (last step occurs inside the FB-reactor):
+  
+   (1.)
+  
+  3 SiCl
+  
+   4
+  
+  + Si + 2 H
+  
+   2
+  
+  → 4 HSiCl
+  
+   3
+  
+  , followed by
+  
+   (2.)
+  
+  4 HSiCl
+  
+   3
+  
+  → 3 SiCl
+  
+   4
+  
+  + SiH
+  
+   4
+  
+  , and
+  
+   (3.)
+  
+  SiH
+  
+   4
+  
+  → Si + 2 H
+  
+   2
+  
+  .
+  
+
+    [43]
+   
+
+  Other precursors such as
+  
+   tribromosilane
+  
+  had been used by other companies as well.
+ 
+  The use of silicon in
+  
+   semiconductor
+  
+  devices demands a much greater purity than afforded by metallurgical grade silicon. Very pure silicon (>99.9%) can be extracted directly from solid silica or other silicon compounds by molten salt electrolysis.
+  
+
+    [44]
+   
+
+
+
+    [45]
+   
+
+  This method, known as early as 1854
+  
+
+    [46]
+   
+
+  (see also
+  
+   FFC Cambridge process
+  
+  ), has the potential to directly produce 6N silicon without any
+  
+   carbon dioxide
+  
+  emission at much lower energy consumption.
+ 
+  6N silicon cannot be used for
+  
+   microelectronics
+  
+  . To properly control the quantum mechanical properties, the purity of the silicon must be very high. Bulk silicon wafers used at the beginning of the integrated circuit making process must first be refined to a purity of 99.9999999% often referred to as "9N" for "9 nines", a process which requires repeated applications of refining technology.
+ 
+  The majority of silicon crystals grown for device production are produced by the
+  
+   Czochralski process
+  
+  , (Cz-Si) It was the cheapest method available. However, single crystals grown by the Czochralski process contain impurities because the
+  
+   crucible
+  
+  containing the melt often dissolves. Historically, a number of methods have been used to produce ultra-high-purity silicon.
+ 
+  Early silicon purification techniques were based on the fact that if silicon is melted and re-solidified, the last parts of the mass to solidify contain most of the impurities. The earliest method of silicon purification, first described in 1919 and used on a limited basis to make
+  
+   radar
+  
+  components during
+  
+   World War II
+  
+  , involved crushing metallurgical grade silicon and then partially dissolving the silicon powder in an acid. When crushed, the silicon cracked so that the weaker impurity-rich regions were on the outside of the resulting grains of silicon. As a result, the impurity-rich silicon was the first to be dissolved when treated with acid, leaving behind a more pure product.
+ 
+  In
+  
+   zone melting
+  
+  , also called zone refining, the first silicon purification method to be widely used industrially, rods of metallurgical grade silicon are heated to melt at one end. Then, the heater is slowly moved down the length of the rod, keeping a small length of the rod molten as the silicon cools and re-solidifies behind it. Since most impurities tend to remain in the molten region rather than re-solidify, when the process is complete, most of the impurities in the rod will have been moved into the end that was the last to be melted. This end is then cut off and discarded, and the process repeated if a still higher purity is desired.
+  
+
+    [47]
+   
+
+
+  People can be exposed to silicon in the workplace by breathing it in, swallowing it, skin contact, and eye contact. The
+  
+   Occupational Safety and Health Administration
+  
+  (OSHA) has set the legal limit (
+  
+   Permissible exposure limit
+  
+  ) for silicon exposure in the workplace as 15 mg/m
+  
+   3
+  
+  total exposure and 5 mg/m
+  
+   3
+  
+  respiratory exposure over an 8-hour workday. The
+  
+   National Institute for Occupational Safety and Health
+  
+  (NIOSH) has set a
+  
+   Recommended exposure limit
+  
+  (REL) of 10 mg/m
+  
+   3
+  
+  total exposure and 5 mg/m
+  
+   3
+  
+  respiratory exposure over an 8-hour workday.
+  
+
+    [48]
+   
+
+
+
+   Building materials.
+  
+  Most silicon is used industrially without being separated into the element, and indeed often with comparatively little processing from natural occurrence. Over 90% of the Earth's crust is composed of
+  
+   silicate minerals
+  
+  , which are compounds of silicon and oxygen, often with metallic ions when negatively charged silicate anions require cations to balance the charge. Many of these have direct commercial uses, such as clays,
+  
+   silica
+  
+  sand and most kinds of building stone. Thus, the vast majority of uses for silicon are as structural compounds, either as the silicate minerals or silica (crude silicon dioxide). Silicates are used in making
+  
+   Portland cement
+  
+  (made mostly of calcium silicates) which is used in
+  
+   building mortar
+  
+  and modern
+  
+   stucco
+  
+  , but more importantly, combined with silica sand, and gravel (usually containing silicate minerals like granite), to make the
+  
+   concrete
+  
+  that is the basis of most of the very largest industrial building projects of the modern world.
+  
+
+    [64]
+   
+
+
+
+   Ceramics and glass.
+  
+  Silica is used to make
+  
+   fire brick
+  
+  , a type of ceramic. Silicate minerals are also in whiteware
+  
+   ceramics
+  
+  , an important class of products usually containing various types of fired
+  
+   clay
+  
+  minerals (natural aluminium phyllosilicates). An example is
+  
+   porcelain
+  
+  which is based on the silicate mineral
+  
+   kaolinite
+  
+  . Traditional
+  
+   glass
+  
+  (silica-based
+  
+   soda-lime glass
+  
+  ) also functions in many of the same ways, and is also used for windows and containers. In addition, specialty silica based
+  
+   glass fibers
+  
+  are used for
+  
+   optical fiber
+  
+  , as well as to produce
+  
+   fiberglass
+  
+  for structural support and
+  
+   glass wool
+  
+  for thermal insulation.
+ 
+
+   Artificial silicon compounds.
+  
+  Very occasional elemental silicon is found in nature, and also naturally-occurring compounds of silicon and carbon (
+  
+   silicon carbide
+  
+  ) or nitrogen (
+  
+   silicon nitride
+  
+  ) are found in stardust samples or meteorites in
+  
+   presolar grains
+  
+  , but the oxidizing conditions of the inner planets of the solar system make planetary silicon compounds found there mostly silicates and silica. Free silicon, or compounds of silicon in which the element is covalently attached to hydrogen, boron, or elements other than oxygen, are mostly artificially produced. They are described below.
+ 
+  Silicon compounds of more modern origin function as high-technology abrasives and new high-strength ceramics based upon
+  
+   silicon carbide
+  
+  . Silicon is a component of some
+  
+   superalloys
+  
+  .
+ 
+  Alternating silicon-oxygen chains with hydrogen attached to the remaining silicon bonds form the ubiquitous silicon-based polymeric materials known as
+  
+   silicones
+  
+  . These compounds containing silicon-oxygen and occasionally silicon-carbon bonds have the capability to act as bonding intermediates between glass and organic compounds, and to form polymers with useful properties such as impermeability to water, flexibility and resistance to chemical attack. Silicones are often used in
+  
+   waterproofing
+  
+  treatments,
+  
+   molding
+  
+  compounds, mold-
+  
+   release agents
+  
+  , mechanical seals, high temperature
+  
+   greases
+  
+  and waxes, and
+  
+   caulking
+  
+  compounds. Silicone is also sometimes used in
+  
+   breast implants
+  
+  , contact lenses,
+  
+   explosives
+  
+  and
+  
+   pyrotechnics
+  
+  .
+  
+
+    [65]
+   
+
+
+   Silly Putty
+  
+  was originally made by adding
+  
+   boric acid
+  
+  to
+  
+   silicone oil
+  
+  .
+  
+
+    [66]
+   
+
+
+  Elemental silicon is added to molten
+  
+   cast iron
+  
+  as
+  
+   ferrosilicon
+  
+  or silicocalcium alloys to improve performance in casting thin sections and to prevent the formation of
+  
+   cementite
+  
+  where exposed to outside air. The presence of elemental silicon in molten iron acts as a sink for oxygen, so that the steel carbon content, which must be kept within narrow limits for each type of steel, can be more closely controlled. Ferrosilicon production and use is a monitor of the steel industry, and although this form of elemental silicon is grossly impure, it accounts for 80% of the world's use of free silicon. Silicon is an important constituent of
+  
+   electrical steel
+  
+  , modifying its
+  
+   resistivity
+  
+  and
+  
+   ferromagnetic
+  
+  properties.
+ 
+  The properties of silicon can be used to modify alloys with metals other than iron. "Metallurgical grade" silicon is silicon of 95–99% purity. About 55% of the world consumption of metallurgical purity silicon goes for production of aluminium-silicon alloys (
+  
+   silumin
+  
+  alloys) for aluminium part
+  
+   casts
+  
+  , mainly for use in the
+  
+   automotive industry
+  
+  . Silicon's importance in aluminium casting is that a significantly high amount (12%) of silicon in aluminium forms a
+  
+   eutectic mixture
+  
+  which solidifies with very little thermal contraction. This greatly reduces tearing and cracks formed from stress as casting alloys cool to solidity. Silicon also significantly improves the hardness and thus wear-resistance of aluminium.
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+  Most elemental silicon produced remains as a ferrosilicon alloy, and only about 20% is refined to metallurgical grade purity (a total of 1.3–1.5 million metric tons/year). An estimated 15% of the world production of metallurgical grade silicon is further refined to semiconductor purity.
+  
+
+    [34]
+   
+
+  However, the economic importance of this small very high-purity fraction (especially the ~ 5% which is processed to monocrystalline silicon for integrated circuits) is disproportionately large.
+ 
+  Pure
+  
+   monocrystalline silicon
+  
+  is used to produce
+  
+   silicon wafers
+  
+  used in the
+  
+   semiconductor industry
+  
+  , in electronics, and in some high-cost and high-efficiency
+  
+   photovoltaic
+  
+  applications. Pure silicon is an
+  
+   intrinsic semiconductor
+  
+  , which means that unlike metals, it conducts
+  
+   electron holes
+  
+  and electrons released from atoms by heat; silicon's
+  
+   electrical conductivity
+  
+  increases with higher temperatures. Pure silicon has too low a conductivity (i.e., too high a
+  
+   resistivity
+  
+  ) to be used as a circuit element in electronics. In practice, pure silicon is
+  
+   doped
+  
+  with small concentrations of certain other elements, which greatly increase its conductivity and adjust its electrical response by controlling the number and charge (
+  
+   positive
+  
+  or
+  
+   negative
+  
+  ) of activated carriers. Such control is necessary for
+  
+   transistors
+  
+  ,
+  
+   solar cells
+  
+  ,
+  
+   semiconductor detectors
+  
+  , and other
+  
+   semiconductor devices
+  
+  used in the computer industry and other technical applications. In
+  
+   silicon photonics
+  
+  , silicon can be used as a continuous wave
+  
+   Raman laser
+  
+  medium to produce coherent light, though it is ineffective as an everyday light source.
+ 
+  In common
+  
+   integrated circuits
+  
+  , a wafer of monocrystalline silicon serves as a mechanical support for the circuits, which are created by doping and insulated from each other by thin layers of
+  
+   silicon oxide
+  
+  , an insulator that is easily produced by exposing the element to oxygen under the proper conditions. Silicon has become the most popular material for both high power semiconductors and integrated circuits because it can withstand the highest temperatures and greatest electrical activity without suffering
+  
+   avalanche breakdown
+  
+  (an
+  
+   electron avalanche
+  
+  is created when heat produces free electrons and holes, which in turn pass more current, which produces more heat). In addition, the insulating oxide of silicon is not soluble in water, which gives it an advantage over
+  
+   germanium
+  
+  (an element with similar properties which can also be used in semiconductor devices) in certain fabrication techniques.
+  
+
+    [67]
+   
+
+
+  Monocrystalline silicon is expensive to produce, and is usually justified only in production of integrated circuits, where tiny crystal imperfections can interfere with tiny circuit paths. For other uses, other types of pure silicon may be employed. These include
+  
+   hydrogenated amorphous silicon
+  
+  and upgraded metallurgical-grade silicon (UMG-Si) used in the production of low-cost,
+  
+   large-area electronics
+  
+  in applications such as
+  
+   liquid crystal displays
+  
+  and of large-area, low-cost, thin-film
+  
+   solar cells
+  
+  . Such semiconductor grades of silicon are either slightly less pure or polycrystalline rather than monocrystalline, and are produced in comparable quatities as the monocrystalline silicon: 75,000 to 150,000 metric tons per year. The market for the lesser grade is growing more quickly than for monocrystalline silicon. By 2013, polycrystalline silicon production, used mostly in solar cells, was projected to reach 200,000 metric tons per year, while monocrystalline semiconductor grade silicon was expected to remain less than 50,000 tons/year.
+  
+
+    [34]
+   
+
+
+  Since 2000, silicon has found a new use in mechanical watch movements. Several manufacturers of mechanical watch movements have incorporated silicon parts, mainly in the escapements and balance wheel regions. Silicon hair-springs are becoming more common as are silicon escapement wheels and forks. Silicon has several desirable properties when used in these contexts; It is thermally stable, shock resistant, and requires little to no lubrication. Ulysse Nardin pioneered these applications, with Omega, Breguet, Patek, Rolex, Cartier, and Damasko following.
+  
+
+    [68]
+   
+
+  Most of these parts for watch movements are manufactured by
+  
+   deep reactive-ion etching
+  
+  (DRIE).
+  
+
+    [69]
+   
+
+
+  Although silicon is readily available in the form of
+  
+   silicates
+  
+  , very few organisms use it directly.
+  
+   Diatoms
+  
+  ,
+  
+   radiolaria
+  
+  and
+  
+   siliceous sponges
+  
+  use
+  
+   biogenic silica
+  
+  as a structural material for skeletons. In more advanced plants, the silica
+  
+   phytoliths
+  
+  (opal phytoliths) are rigid microscopic bodies occurring in the cell; some plants, for example
+  
+   rice
+  
+  , need silicon for their growth.
+  
+
+    [70]
+   
+
+
+
+    [71]
+   
+
+
+
+    [72]
+   
+
+  There is some evidence that silicon is important to nail, hair, bone and skin health,
+  
+
+    [73]
+   
+
+  for example in studies that show that premenopausal women with higher dietary silicon intake have higher
+  
+   bone density
+  
+  , and that silicon supplementation can increase bone volume and density in patients with
+  
+   osteoporosis
+  
+  .
+  
+
+    [74]
+   
+
+  Silicon is needed for synthesis of
+  
+   elastin
+  
+  and
+  
+   collagen
+  
+  , of which the
+  
+   aorta
+  
+  contains the greatest quantity in the human body.
+  
+
+    [75]
+   
+
+
+  Silicon is currently under consideration for elevation to the status of a "plant beneficial substance by the Association of American Plant Food Control Officials (AAPFCO)."
+  
+
+    [76]
+   
+
+
+
+    [77]
+   
+
+  Silicon has been shown in university and field studies to improve plant cell wall strength and structural integrity,
+  
+
+    [78]
+   
+
+  improve drought and frost resistance, decrease lodging potential, and boost the plant's natural pest and disease fighting systems.
+  
+
+    [79]
+   
+
+  Silicon has also been shown to improve plant vigor and physiology by improving root mass and density, and increasing above ground plant biomass and crop yields.
+  
+
+    [78]
+   
+

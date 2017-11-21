@@ -1,0 +1,611 @@
+
+
+  The first-generation
+  
+   iPad Mini
+  
+  (stylized and marketed as
+  
+   iPad mini
+  
+  ) is a
+  
+   mini tablet computer
+  
+  designed, developed, and marketed by
+  
+   Apple Inc.
+  
+  It was announced on October 23, 2012, as the fifth major product in the
+  
+   iPad
+  
+  line and the first of the
+  
+   iPad Mini
+  
+  line, which features a reduced screen size of 7.9 inches, in contrast to the standard 9.7 inches. It features similar internal specifications to the
+  
+   iPad 2
+  
+  , including its display resolution.
+ 
+  The first generation iPad Mini received positive reviews, with reviewers praising the device's size, design, and availability of applications, while criticizing its use of a proprietary power connector, its lack of expandable storage, and the lack of Retina display.
+ 
+
+
+  On October 16, 2012, Apple announced a media event scheduled for October 23 at the
+  
+   California Theatre
+  
+  in
+  
+   San Jose
+  
+  ,
+  
+   California
+  
+  .
+  
+
+    [4]
+   
+
+
+
+    [5]
+   
+
+  The company did not predisclose the subject of the event, but it was widely expected to be the iPad Mini. On the day of the event, Apple CEO
+  
+   Tim Cook
+  
+  introduced a new version of
+  
+   MacBook family
+  
+  and new generations of the
+  
+   MacBook Pro
+  
+  ,
+  
+   Mac Mini
+  
+  , and the
+  
+   iMac
+  
+  before the
+  
+   fourth-generation iPad
+  
+  and the iPad Mini. It was released on November 2, 2012, in nearly all of Apple's markets.
+  
+
+    [6]
+   
+
+
+
+    [7]
+   
+
+
+
+    [8]
+   
+
+
+
+    [9]
+   
+
+
+
+    [10]
+   
+
+  The 32 GB and 64 GB models were discontinued with the release of its successor, the
+  
+   iPad Mini 2
+  
+  , on October 22, 2013. After almost 3 years on June 19, 2015, the remaining 16 GB model was discontinued as well.
+  
+
+    [11]
+   
+
+
+      The California Theatre, where the iPad Mini was announced on October 23, 2012
+     
+      Size comparison between iPad Mini and iPad 3rd/4th generation.
+     
+  The iPad Mini shipped with iOS 6.0.
+  
+
+    [12]
+   
+
+  It can act as a
+  
+   hotspot
+  
+  with some carriers, sharing its Internet connection over Wi-Fi, Bluetooth, or USB,
+  
+
+    [13]
+   
+
+  and also access the
+  
+   App Store
+  
+  , a digital
+  
+   application
+  
+
+   distribution
+  
+  platform for iOS that is developed and maintained by Apple. The service allows users to browse and download
+  
+   applications
+  
+  from the
+  
+   iTunes Store
+  
+  that were developed with
+  
+   Xcode
+  
+  and the
+  
+   iOS SDK
+  
+  and were published through Apple. From the App Store,
+  
+   GarageBand
+  
+  ,
+  
+   iMovie
+  
+  ,
+  
+   iPhoto
+  
+  , and the
+  
+   iWork
+  
+  apps (
+  
+   Pages
+  
+  ,
+  
+   Keynote
+  
+  , and
+  
+   Numbers
+  
+  ) are available.
+  
+
+    [14]
+   
+
+  The latest version is currently iOS 9.3.5. In iOS 7.1 there are many hidden features such as swiping your finger down from the top of the iPad to bring down notifications, weather and the calendar. Another hidden feature to iOS 7.1 is swiping your finger up from the bottom for the iPad to bring up airplane mode, WiFi, Bluetooth, do not disturb and lock rotation, also music, camera and volume.
+ 
+  The iPad Mini comes with several pre-installed applications, including
+  
+   Siri
+  
+  ,
+  
+   Safari
+  
+  , Mail, Photos, Video, Music, iTunes, App Store, Maps, Notes, Calendar,
+  
+   Game Center
+  
+  , Photo Booth, and Contacts.
+  
+
+    [15]
+   
+
+  Like all
+  
+   iOS
+  
+  devices, the iPad can sync content and other data with a Mac or PC using iTunes, although iOS 5 and later can be managed and backed up with
+  
+   iCloud
+  
+  . Although the tablet is not designed to make telephone calls over a cellular network, users can use a headset or the built-in speaker and microphone and place phone calls over Wi-Fi or cellular using a
+  
+   VoIP
+  
+  application, such as
+  
+   Skype
+  
+  .
+  
+
+    [16]
+   
+
+  The device has
+  
+   dictation
+  
+  , using the same voice recognition technology as the
+  
+   iPhone 4S
+  
+  . The user speaks and the iPad types what they say on the screen provided that the iPad is connected to a Wi-Fi or cellular network.
+  
+
+    [13]
+   
+
+
+  The device has an optional
+  
+   iBooks
+  
+  application, which displays books and other
+  
+   ePub
+  
+  -format content downloaded from the
+  
+   iBookstore
+  
+  .
+  
+
+    [17]
+   
+
+  Several major book publishers including
+  
+   Penguin Books
+  
+  ,
+  
+   HarperCollins
+  
+  ,
+  
+   Simon & Schuster
+  
+  and
+  
+   Macmillan
+  
+  have committed to publishing books for the device.
+  
+
+    [18]
+   
+
+  Despite being a direct competitor to both the
+  
+   Amazon Kindle
+  
+  and
+  
+   Barnes & Noble Nook
+  
+  ,
+  
+
+    [19]
+   
+
+  both
+  
+   Amazon.com
+  
+  and
+  
+   Barnes & Noble
+  
+  offer e-reader apps for the iPad.
+  
+
+    [20]
+   
+
+
+
+    [21]
+   
+
+
+  On September 17, 2014,
+  
+   iOS 8
+  
+  was released to the first generation iPad Mini and all Apple Devices.
+  
+
+    [22]
+   
+
+  However, some newer features of the software are not supported due to relatively aged hardware that was shared on the iPad 2.
+ 
+  On September 16, 2015, the iPad Mini received the iOS 9 update. But it doesn't have the new multitasking features featured on the other iPads.
+ 
+  On June 13, 2016, Apple announced the
+  
+   iOS 10
+  
+  update - with some major updates to the mobile operating system. However, the iPad Mini did not receive this update (along with other devices using the A5 processor including the
+  
+   iPhone 4S
+  
+  ,
+  
+   iPad 2
+  
+  ,
+  
+   iPad (3rd generation)
+  
+  , and
+  
+   iPod Touch (5th generation)
+  
+
+
+    [23]
+   
+
+  ) due to hardware limitations.
+ 
+  While Apple stopping the latest iOS updates for the iPad Mini was expected by many in the industry, it has however lead to some criticism, as the device was on sale until June 2015 and by June 2016, no further versions of the operating system beyond iOS 9 will be made available to the tablet.
+  
+
+    [24]
+   
+
+
+  There are four buttons and one switch on the iPad Mini, including a "home" button near the display that returns the user to the home screen, and three aluminum buttons on the right side and top:
+  
+   wake/sleep
+  
+  and
+  
+   volume up
+  
+  and
+  
+   volume down
+  
+  , plus a software-controlled switch whose function varies with software updates.
+  
+
+    [8]
+   
+
+  The tablet is manufactured either with or without the capability to communicate over a
+  
+   cellular network
+  
+  . All models can connect to a
+  
+   wireless LAN
+  
+  via Wi-Fi. The iPad Mini is available with 16, 32, 64 GB of internal
+  
+   flash memory
+  
+  , with no expansion option. Apple sells a "camera connection kit" with an
+  
+   SD card
+  
+  reader, but it can only be used to transfer photos and videos.
+ 
+  The iPad Mini features partially the same hardware as the
+  
+   iPad 2
+  
+  . Both screens have resolutions of 1024 x 768, but the iPad Mini has a smaller screen and thus higher pixel density than iPad 2 (163 PPI vs 132 PPI).
+  
+
+    [8]
+   
+
+  Unlike the iPad 2, it has 5 MP and 1.2 MP cameras and the
+  
+   Lightning connector
+  
+  . The system-on-chip is
+  
+   A5
+  
+  , which is the same one found in the later revision of the iPad 2 (32 nm). The audio processor is the same found in iPhone 5 and iPad 4th generation, which allows the iPad Mini to have Siri and voice dictation unlike the iPad 2. The
+  
+   graphics processor
+  
+  (GPU) of the iPad Mini is the same one found in the iPad 2 (
+  
+   PowerVR
+  
+
+   SGX
+  
+  543MP2).
+  
+
+    [25]
+   
+
+  The iPad Mini was initially featured with slate and silver colors, however on the release of the Mini 2 the slate color was changed to space gray; the silver color remained.
+  
+
+    [26]
+   
+
+
+  The
+  
+   Smart Cover
+  
+  , introduced with the iPad 2, is a screen protector that magnetically attaches to the face of the iPad. A smaller version is now available for iPad Mini. The cover has three folds, which allow it to convert into a stand, held together by magnets.
+  
+
+    [27]
+   
+
+  Smart Covers have a
+  
+   microfiber
+  
+  bottom that cleans the front of the iPad, and wakes up the unit when the cover is removed. It comes in six colors of
+  
+   polyurethane
+  
+  .
+  
+
+    [28]
+   
+
+
+
+    [29]
+   
+
+
+  Apple offers other accessories, including a Bluetooth keyboard, several types of earbuds or headphones and many adapters for the
+  
+   Lightning connector
+  
+  .
+  
+
+    [30]
+   
+
+
+   AppleCare
+  
+  and free engraving are also available for the iPad Mini.
+  
+
+    [31]
+   
+
+
+
+    [32]
+   
+
+
+  Reviews of the first generation iPad Mini have been positive,
+  
+
+    [33]
+   
+
+
+
+    [34]
+   
+
+
+
+    [35]
+   
+
+
+
+    [36]
+   
+
+
+
+    [37]
+   
+
+
+
+    [38]
+   
+
+  with reviewers praising the device's size, design, and availability of applications, while criticizing its use of a proprietary power connector and its lack of expandable storage and Retina display.
+  
+
+    [39]
+   
+
+
+
+    [40]
+   
+
+
+
+    [41]
+   
+
+  The device competes with tablets such as the
+  
+   Amazon Kindle Fire HD
+  
+  ,
+  
+   Google Nexus 7
+  
+  , and
+  
+   Barnes & Noble Nook HD
+  
+  .
+  
+
+    [39]
+   
+
+
+
+    [42]
+   
+
+
+   Joshua Topolsky
+  
+  of
+  
+
+    The Verge
+   
+
+  praised the industrial design of the iPad Mini, however panned its lack of Retina display and price.
+  
+
+    [43]
+   
+
+
+  The original iPad Mini was criticized for its use of a proprietary power connector, its lack of expandable storage, and the lack of Retina display.
+  
+   [
+   
+
+
+      citation needed
+     
+
+
+   ]
+  
