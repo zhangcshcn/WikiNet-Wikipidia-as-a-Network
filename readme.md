@@ -2,6 +2,9 @@ Chen Zhang (cz1389) & Guang Yang (gy552)
 
 ## WikiNet: Wikipedia as a Network  
 
+### Disclaimer
+This is originally response to the term project of [Spring 2017 CSCI-GA.2580-001 Web Search Engines](https://cs.nyu.edu/courses/spring17/CSCI-GA.2580-001/) at New York University taught by [Professor Ernest Davis](http://cs.nyu.edu/cs/faculty/davise). If you want to use this software for **academic purposes, aka assignments**, please refer to the [**ACADEMIC INTEGRITY**](https://cs.nyu.edu/home/master/current_policy.html).
+
 ### Requirements  
 
 - python 2.7  
